@@ -36,8 +36,20 @@ entries:
       url: /mydoc_cn_terraform_pattern_modules.html
       output: web
 
-    - title: Specifications & Definitions
-      url: /mydoc_about.html
+  - title: Concepts
+    output: web, pdf
+    folderitems:
+
+    - title: What Why How
+      url: /mydoc_cn_concepts_what_why_how.html
+      output: web, pdf
+
+  - title: Specifications & Definitions
+    output: web, pdf
+    folderitems:
+    
+    - title: Team Definitions RACI
+      url: /mydoc_cn_specs_teamdef_raci.html
       output: web, pdf
 
     - title: Help & Support
@@ -58,14 +70,6 @@ entries:
 
     - title: Resources
       url: /mydoc_support.html
-      output: web, pdf
-
-  - title: Concepts
-    output: web, pdf
-    folderitems:
-
-    - title: What Why How
-      url: /mydoc_cn_concepts_what_why_how.html
       output: web, pdf
 
   - title: Release Notes
