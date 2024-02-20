@@ -30,9 +30,9 @@ Integrates child resources
 Integrates extension resources
 WAM improves code quality and provides a unified customer experience.
 
-{% include note.html content="AVM is owned, developed & supported by Microsoft, you may raise a GitHub issue on this repository or the module’s repository directly to get support or log feature requests.
+{% include note.html content="WAM is owned, developed & supported by CloudNation, you may raise a GitHub issue on this repository or the module’s repository directly to get support or log feature requests.
 
-You can also log a support ticket and these will be redirected to the AVM team and the module owner(s).
+You can also log a support ticket and these will be redirected to the WAM team and the module owner(s).
 
 See Module Support for more information." %}
 
@@ -48,9 +48,5 @@ Review the Shared Specification
 Review the FAQ
 
 Learn how to contribute to WAM
-
-## Other instructions
-
-The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
 
 {% include links.html %}
