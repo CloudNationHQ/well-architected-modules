@@ -28,23 +28,13 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Module Indexes
-      url: /mydoc_introduction.html
-      output: web, pdf
+    - title: Reource Modules
+      url: /mydoc_cn_terraform_resource_modules.html
+      output: web
 
-      subfolders:
-      - title: Terraform
-        url: /mydoc_cn_terraform.html
-        output: web
-        subfolderitems:
-
-        - title: Reource Modules
-          url: /mydoc_cn_terraform_modules.html
-          output: web
-
-        - title: Pattern Modules
-          url: /tag_formatting.html
-          output: web
+    - title: Pattern Modules
+      url: /mydoc_cn_terraform_pattern_modules.html
+      output: web
 
     - title: Concepts
       url: /mydoc_supported_features.html
