@@ -1,5 +1,5 @@
 ---
-title: What, Why, How
+title: What Why How
 sidebar: mydoc_sidebar
 permalink: mydoc_cn_concepts_what_why_how.html
 folder: mydoc
