@@ -9,8 +9,15 @@ folder: mydoc
 
 The following table shows the number of all available, orphaned and planned Terraform Resource Modules.
 
-Available 🟢	Orphaned 👀	Migrate From TFVM 🚀	New Module 🆕	SUM
-18	0	1	44	63
+```
+| Available 🟢 | Orphaned 👀 | Migrate From TFVM 🚀 | New Module 🆕 | SUM
+|-------|--------|---------|---------|---------|
+| 18 | 0 | 1 | 44 | 63 |
+
+```
+
+				
+				
 
 
 {% include links.html %}

@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Reource Modules
+    - title: Resource Modules
       url: /mydoc_cn_terraform_resource_modules.html
       output: web
 
