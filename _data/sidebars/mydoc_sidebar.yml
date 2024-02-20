@@ -36,16 +36,6 @@ entries:
       url: /mydoc_cn_terraform_pattern_modules.html
       output: web
 
-    - title: Concepts
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-      subfolderitems:
-
-        - title: What, Why, How
-          url: /tag_formatting.html
-          output: web
-
     - title: Specifications & Definitions
       url: /mydoc_about.html
       output: web, pdf
@@ -68,6 +58,14 @@ entries:
 
     - title: Resources
       url: /mydoc_support.html
+      output: web, pdf
+
+- title: Concepts
+    output: web, pdf
+    folderitems:
+
+    - title: What, Why, How
+      url: /mydoc_release_notes_60.html
       output: web, pdf
 
   - title: Release Notes
