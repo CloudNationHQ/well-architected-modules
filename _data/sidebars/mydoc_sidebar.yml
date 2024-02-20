@@ -19,28 +19,44 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Navigation
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Home
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Module Indexes
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: Concepts
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Specifications & Definitions
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: Support
+    - title: Help & Support
+      url: /mydoc_support.html
+      output: web, pdf
+
+    - title: Contributing
+      url: /mydoc_support.html
+      output: web, pdf
+
+    - title: FAQ
+      url: /mydoc_support.html
+      output: web, pdf
+
+    - title: Glossary
+      url: /mydoc_support.html
+      output: web, pdf
+
+    - title: Resources
       url: /mydoc_support.html
       output: web, pdf
 
