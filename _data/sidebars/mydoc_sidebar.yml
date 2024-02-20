@@ -34,11 +34,12 @@ entries:
 
       subfolders:
       - title: Terraform
+        url: /mydoc_cn_terraform.html
         output: web
         subfolderitems:
 
         - title: Reource Modules
-          url: /tag_formatting.html
+          url: /mydoc_cn_terraform_modules.html
           output: web
 
         - title: Pattern Modules
