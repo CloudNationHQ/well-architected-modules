@@ -64,7 +64,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: What, Why, How
+    - title: What Why How
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
