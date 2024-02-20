@@ -60,7 +60,7 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-- title: Concepts
+  - title: Concepts
     output: web, pdf
     folderitems:
 
