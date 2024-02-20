@@ -51,6 +51,18 @@ entries:
     - title: Team Definitions RACI
       url: /mydoc_cn_specs_teamdef_raci.html
       output: web, pdf
+    
+    - title: Module Classifications
+      url: /mydoc_cn_specs_module_classifications.html
+      output: web, pdf
+
+    - title: Module Lifecycle
+      url: /mydoc_cn_specs_module_lifecycle.html
+      output: web, pdf
+
+    - title: Module Specification
+      url: /mydoc_cn_specs_module_specifications.html
+      output: web, pdf
 
     - title: Help & Support
       url: /mydoc_support.html
