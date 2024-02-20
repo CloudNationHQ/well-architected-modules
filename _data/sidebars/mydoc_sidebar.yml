@@ -65,7 +65,7 @@ entries:
     folderitems:
 
     - title: What Why How
-      url: /mydoc_release_notes_60.html
+      url: /mydoc_cn_concepts_what_why_how.html
       output: web, pdf
 
   - title: Release Notes
