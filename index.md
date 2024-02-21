@@ -1,7 +1,7 @@
 ---
 title: "CloudNation Well Architected Modules"
 keywords: well architected modules terraform 
-tags: [wam]
+tags: [publishing, single_sourcing, content_types, wam]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: This website describe the strategy and progress of the terraform module development for Microsoft Azure.
