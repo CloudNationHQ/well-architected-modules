@@ -1,6 +1,6 @@
 destination: _site/
-url: "http://127.0.0.1:4010"
-baseurl: "/mydoc-pdf"
+url: "https://cloudnationhq.github.io/terraform-azure-wam-website/"
+baseurl: "/pdf/mydoc-pdf"
 port: 4010
 product: mydoc
 print_title: Jekyll theme for documentation — mydoc product
