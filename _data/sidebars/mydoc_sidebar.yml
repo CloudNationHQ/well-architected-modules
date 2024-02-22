@@ -81,7 +81,7 @@ entries:
       output: web, pdf
 
     - title: Resources
-      url: /mydoc_support.html
+      url: /mydoc_cn_resources_module_resources.html
       output: web, pdf
 
   - title: Release Notes
