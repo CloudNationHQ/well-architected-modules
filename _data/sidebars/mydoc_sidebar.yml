@@ -65,19 +65,19 @@ entries:
       output: web, pdf
 
     - title: Help & Support
-      url: /mydoc_support.html
+      url: /mydoc_cn_support_module_support.html
       output: web, pdf
 
     - title: Contributing
-      url: /mydoc_support.html
+      url: /mydoc_cn_contributing_module_contributing.html
       output: web, pdf
 
     - title: FAQ
-      url: /mydoc_support.html
+      url: /mydoc_cn_faq_module_faq.html
       output: web, pdf
 
     - title: Glossary
-      url: /mydoc_support.html
+      url: /mydoc_cn_glossary_module_glossary.html
       output: web, pdf
 
     - title: Resources
