@@ -16,7 +16,7 @@ And where appropriate aligned across public Cloud platforms (e.g. Azure, AWS, et
 
 Our mission is to deliver a comprehensive Well Architected Modules library in multiple IaC repositories, following the principles of the well-architected framework, serving as the trusted Microsoft source of truth. Supported by Microsoft, WAM will accelerate deployment time for Azure resources and architectural patterns, empowering every person and organization on the planet on their IaC journey.
 
-## Definition of "Verified" Summary
+## Definition of "Well Architected" Summary
 
 The modules are supported by CloudNation, across it's many internal organizations, as described in Module Support
 Modules are aligned to clear specifications that enforces consistency between all WAM modules. See the 'Specifications & Definitions' section in the menu
@@ -25,7 +25,7 @@ Modules will align to WAF recommendations. See 'What does WAM mean by "WAF Align
 Modules will provide clear documentation alongside examples to promote self-service consumption
 Modules will be tested to ensure they comply with the specifications for WAM and their examples deploy as intended
 
-## Why Azure Verified Modules?
+## Why Well Architected Modules?
 
 This effort to create Well Architected Modules, with a strategy and definition, is required based on the sheer number of existing attempts from all areas across CloudNation to try and address this same area for our customers and partners. Across CloudNation there are many initiatives, projects and repositories that host and provide IaC modules in several languages. Each of these come with differing code styling and standards, consumption methods and approaches, testing frameworks, target personas, contribution guidelines, module definitions and most importantly support statements from their owners and maintainers.
 
@@ -35,7 +35,7 @@ Performing this effort now to create a shared single aligned strategy and defini
 
 We have seen over the past FY that this topic alone is important and is one that has led to confusion and frustration to customers who are consuming modules developed by individuals. CloudNation build on an community to create more Well Architected Modules
 
-## How will we create, support and enforce Azure Verified Modules?
+## How will we create, support and enforce Well Architected Modules?
 Well Architected Modules will achieve this, and its mission statement, by implementing and enforcing the following; driven by the WAM Core Team:
 
 Publishing WAM modules to their respective public registries for consumption
