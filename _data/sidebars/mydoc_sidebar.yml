@@ -64,7 +64,7 @@ entries:
       url: /mydoc_cn_specs_module_specifications.html
       output: web, pdf
 
-    - title: Help or Support
+    - title: Help & Support
       url: /mydoc_cn_support_module_support.html
       output: web, pdf
 
