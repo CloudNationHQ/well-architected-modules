@@ -35,4 +35,19 @@ Agree upon action/resolution/closure
 Implement agreed upon action/resolution/closure
 
 Please note for module specific issues, these should be logged in the module’s source repository
+
+## Terraform Contribution Guide
+
+Before submitting a new module proposal for Terraform, please review the FAQ section on “CARML/TFWAM to WAM Evolution Details”
+
+While this page describes and summarizes important aspects of contributing to WAM, it only references some of the shared and language specific requirements.
+
+Therefore, this contribution guide MUST be used in conjunction with the Shared Specification and the Terraform specific specifications. ALL WAM modules (Resource and Pattern modules) MUST meet the respective requirements described in these specifications!
+
+This section lists WAM’s Terraform-specific contribution guidance.
+
+Prerequisites
+Composition
+Terraform contribution flow
+
 {% include links.html %}
