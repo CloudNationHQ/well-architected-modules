@@ -9,7 +9,6 @@ folder: mydoc
 
 The following table shows the number of all available Terraform Resource Modules.
 
-```html
 <table>
 <colgroup>
 <col width="30%" />
@@ -33,7 +32,7 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 </tbody>
 </table>
-```
+
 
 
 {% include links.html %}
