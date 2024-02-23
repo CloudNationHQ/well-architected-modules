@@ -71,7 +71,7 @@ The following table shows the number of all available Terraform Resource Modules
 </td>
 </tr>
 <tr>
-<td markdown="span">CloudNationHQ / vmms</td>
+<td markdown="span">CloudNationHQ / vmss</td>
 <td markdown="span">Terraform module which creates virtual machine scale set resources used by workloads and accelerators. The link to [Github repo vmss](https://github.com/CloudNationHQ/terraform-azure-vmss).
 </td>
 </tr>
