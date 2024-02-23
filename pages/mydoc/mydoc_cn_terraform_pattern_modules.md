@@ -5,19 +5,8 @@ permalink: mydoc_cn_terraform_pattern_modules.html
 folder: mydoc
 ---
 
-## Module catalog
+## Pattern Modules
 
-The following table shows the number of all available, orphaned and planned Terraform Resource Modules.
-
-```
-| Available 🟢 | Orphaned 👀 | Migrate From TFVM 🚀 | New Module 🆕 | SUM
-|-------|--------|---------|---------|---------|
-| 18 | 0 | 1 | 44 | 63 |
-
-```
-
-				
-				
-
+Under contruction 
 
 {% include links.html %}
