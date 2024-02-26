@@ -88,6 +88,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Release notes v1.7.0
+      url: /mydoc_cn_release_notes_170_vm.html
+      output: web, pdf
+
     - title: Release notes v2.2.1
       url: /mydoc_cn_release_notes_221_vnet.html
       output: web, pdf
