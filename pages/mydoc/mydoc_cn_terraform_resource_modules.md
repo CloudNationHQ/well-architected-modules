@@ -86,7 +86,7 @@ The following table shows the number of all available Terraform Resource Modules
 </td>
 </tr>
 <tr>
-<td markdown="span">CloudNationHQ / vwam</td>
+<td markdown="span">CloudNationHQ / vwan</td>
 <td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators. The link to [Github repo vwan](https://github.com/CloudNationHQ/terraform-azure-vwan).
 </td>
 </tr>
