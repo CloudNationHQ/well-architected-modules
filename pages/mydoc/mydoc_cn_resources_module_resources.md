@@ -9,7 +9,8 @@ folder: mydoc
 This page references additional resources available for Well Architected Modules (WAM).
 
 ## Terraform Registry
-https://registry.terraform.io/search/modules?q=cloudnationHQ 
+
+[Terraform registry CloudNationHQ](https://registry.terraform.io/search/modules?q=cloudnationHQ)
 
 ## Presentations
 <<cloudnation deck>>
