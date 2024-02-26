@@ -9,9 +9,9 @@ folder: mydoc
 
 still in progress
 
-## Request/Propose a New AVM Resource or Pattern Module
+## Request/Propose a New WAM Resource or Pattern Module
 
-## Orphaned AVM Modules
+## Orphaned WAM Modules
 
 It is critical to the consumers experience that modules continue to be maintained. In the case where a module owner cannot continue in their role or do not respond to issues as per the defined timescale in the Module Support page , the following process will apply:
 
