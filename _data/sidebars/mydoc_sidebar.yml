@@ -100,7 +100,7 @@ entries:
       url: /mydoc_cn_release_notes_vwan.html
       output: web, pdf
 
-    - title: Terraform Azure Virtual Storage Account
+    - title: Terraform Azure Storage Account
       url: /mydoc_cn_release_notes_sa.html
       output: web, pdf
 
@@ -119,6 +119,10 @@ entries:
 
         - title: Well Architected Modules
           url: /tag_wam.html
+          output: web
+        
+        - title: Releases March 1 2024
+          url: /tag_2024march01.html
           output: web
 
         
