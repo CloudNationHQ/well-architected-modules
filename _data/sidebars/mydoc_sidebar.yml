@@ -95,6 +95,14 @@ entries:
     - title: Release notes v2.2.1
       url: /mydoc_cn_release_notes_221_vnet.html
       output: web, pdf
+    
+    - title: Terraform Azure Virtual WAN
+      url: /mydoc_cn_release_notes_vwan.html
+      output: web, pdf
+
+    - title: Terraform Azure Virtual Storage Account
+      url: /mydoc_cn_release_notes_sa.html
+      output: web, pdf
 
   - title: Tag archives
     output: web
