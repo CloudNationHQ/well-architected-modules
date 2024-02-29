@@ -12,6 +12,9 @@ folder: mydoc
 ## Terraform Azure Storage Account Module
 
 ### Release v0.8.1 Bug Fixes
-fix typos queue properties (#34) (2434e70)
+Fix typos queue properties (#34) (2434e70)
+
+### ### Release v0.8.0 Feature
+Improved alignment for several properties and added some missing ones (#32)
 
 {% include links.html %}
