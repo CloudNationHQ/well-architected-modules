@@ -14,7 +14,7 @@ folder: mydoc
 ### Release v0.8.1 Bug Fixes
 Fix typos queue properties (#34) (2434e70)
 
-### ### Release v0.8.0 Feature
+### Release v0.8.0 Feature
 Improved alignment for several properties and added some missing ones (#32)
 
 {% include links.html %}
