@@ -88,20 +88,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Terraform Virtual Machine
-      url: /mydoc_cn_release_notes_vm.html
-      output: web, pdf
-
-    - title: Terraform Virtual Network
-      url: /mydoc_cn_release_notes_vnet.html
-      output: web, pdf
-    
-    - title: Terraform Virtual WAN
-      url: /mydoc_cn_release_notes_vwan.html
-      output: web, pdf
-
-    - title: Terraform Storage Account
-      url: /mydoc_cn_release_notes_sa.html
+    - title: Release March 1 2024
+      url: /mydoc_cn_release_notes_20240301.html
       output: web, pdf
 
   - title: Tag archives
@@ -121,8 +109,8 @@ entries:
           url: /tag_wam.html
           output: web
         
-        - title: Releases March 1 2024
-          url: /tag_2024march01.html
+        - title: Releases Modules
+          url: /tag_releases.html
           output: web
 
         
