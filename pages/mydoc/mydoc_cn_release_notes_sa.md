@@ -1,6 +1,6 @@
 ---
 title: Terraform Azure Storage Account
-tags: [first-march-2024]
+tags: [2024march01]
 keywords: release notes, announcements, what's new, new features
 last_updated: Feb 28, 2024
 summary: "Releases of the Terraform Azure Storage Account module"
