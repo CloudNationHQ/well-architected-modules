@@ -88,19 +88,19 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Release notes v1.7.0
-      url: /mydoc_cn_release_notes_170_vm.html
+    - title: Terraform Virtual Machine
+      url: /mydoc_cn_release_notes_vm.html
       output: web, pdf
 
-    - title: Release notes v2.2.1
-      url: /mydoc_cn_release_notes_221_vnet.html
+    - title: Terraform Virtual Network
+      url: /mydoc_cn_release_notes_vnet.html
       output: web, pdf
     
-    - title: Terraform Azure Virtual WAN
+    - title: Terraform Virtual WAN
       url: /mydoc_cn_release_notes_vwan.html
       output: web, pdf
 
-    - title: Terraform Azure Storage Account
+    - title: Terraform Storage Account
       url: /mydoc_cn_release_notes_sa.html
       output: web, pdf
 
