@@ -88,9 +88,15 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Release March 8 2024
+      url: /mydoc_cn_release_notes_20240302.html
+      output: web, pdf
+
     - title: Release March 1 2024
       url: /mydoc_cn_release_notes_20240301.html
       output: web, pdf
+
+    
 
   - title: Tag archives
     output: web
