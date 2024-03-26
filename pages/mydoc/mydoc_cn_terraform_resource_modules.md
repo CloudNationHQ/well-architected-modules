@@ -100,6 +100,21 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">Terraform module which creates postgresql resources used by workloads and accelerators. The link to [Github repo psql](https://github.com/CloudNationHQ/terraform-azure-psql).
 </td>
 </tr>
+<tr>
+<td markdown="span">CloudNationHQ / pe</td>
+<td markdown="span">Terraform module which creates private endpoint resources used by workloads and accelerators. The link to [Github repo pe](https://github.com/CloudNationHQ/terraform-azure-pe).
+</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / pdns</td>
+<td markdown="span">Terraform module which create private dns zone resources used by workloads and accelerators. The link to [Github repo pdns](https://github.com/CloudNationHQ/terraform-azure-pdns).
+</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / rbac</td>
+<td markdown="span">Terraform module which create rbac resources used by workloads and accelerators.. The link to [Github repo rbac](https://github.com/CloudNationHQ/terraform-azure-rbac).
+</td>
+</tr>
 </tbody>
 </table>
 
