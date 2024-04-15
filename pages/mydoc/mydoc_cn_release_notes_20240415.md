@@ -5,7 +5,7 @@ keywords: release notes, announcements, what's new, new features
 last_updated: Apr 15, 2024
 summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_release_notes_202404015.html
+permalink: mydoc_cn_release_notes_20240415.html
 folder: mydoc
 ---
 
