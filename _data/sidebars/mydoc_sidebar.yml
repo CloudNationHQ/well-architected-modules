@@ -87,6 +87,10 @@ entries:
   - title: Release Notes
     output: web, pdf
     folderitems:
+    - title: Release April 22 2024
+      url: /mydoc_cn_release_notes_20240422.html
+      output: web, pdf
+
     - title: Release April 15 2024
       url: /mydoc_cn_release_notes_20240415.html
       output: web, pdf
