@@ -115,6 +115,11 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">Terraform module which create rbac resources used by workloads and accelerators.. The link to [Github repo rbac](https://github.com/CloudNationHQ/terraform-azure-rbac).
 </td>
 </tr>
+<tr>
+<td markdown="span">CloudNationHQ / vgw</td>
+<td markdown="span">Terraform module which create virtual network gateway resources used by workloads and accelerators.. The link to [Github repo vgw](https://github.com/CloudNationHQ/terraform-azure-vgw).
+</td>
+</tr>
 </tbody>
 </table>
 
