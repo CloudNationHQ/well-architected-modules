@@ -20,5 +20,7 @@ topnav_dropdowns:
           url: /p2_landing_page.html
         - title: SelfHosted Runner Accelerator
           url: /p3_landing_page.html
+        - title: Azure Kubernetes Service Accelerator
+          url: /p4_landing_page.html
 
 # Copyright 2021 Google LLC
