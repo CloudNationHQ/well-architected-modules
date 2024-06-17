@@ -16,5 +16,9 @@ topnav_dropdowns:
       folderitems:
         - title: Azure Landing Zone Accelerator
           url: /p1_landing_page.html
+        - title: Azure Data Landing Zone Accelerator
+          url: /p2_landing_page.html
+        - title: SelfHosted Runner Accelerator
+          url: /p3_landing_page.html
 
 # Copyright 2021 Google LLC
