@@ -22,8 +22,28 @@ The following table shows the number of all available Terraform Resource Modules
 </thead>
 <tbody>
 <tr>
+<td markdown="span">CloudNationHQ / aa</td>
+<td markdown="span">Terraform module which creates automation account resources used by workloads and accelerators. The link to [Github repo aa](https://github.com/CloudNationHQ/terraform-azure-aa).</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / app</td>
+<td markdown="span">Terraform module which creates app service resources used by workloads and accelerators. The link to [Github repo app](https://github.com/CloudNationHQ/terraform-azure-app).</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / ca</td>
+<td markdown="span">Terraform module which creates container app resources used by workloads and accelerators. The link to [Github repo ca](https://github.com/CloudNationHQ/terraform-azure-ca).</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / dnspr</td>
+<td markdown="span">Terraform module which creates dns private resolver resources used by workloads and accelerators. The link to [Github repo dnspr](https://github.com/CloudNationHQ/terraform-azure-dnspr).</td>
+</tr>
+<tr>
 <td markdown="span">CloudNationHQ / naming</td>
 <td markdown="span">Terraform module that streamlines the naming process for azure resources. The link to [Github repo naming](https://github.com/CloudNationHQ/terraform-azure-naming).</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / network watcher</td>
+<td markdown="span">Terraform module that streamlines the network process for azure resources. The link to [Github repo network watcher](https://github.com/CloudNationHQ/terraform-azure-nw).</td>
 </tr>
 <tr>
 <td markdown="span">CloudNationHQ / rg</td>
@@ -86,13 +106,13 @@ The following table shows the number of all available Terraform Resource Modules
 </td>
 </tr>
 <tr>
-<td markdown="span">CloudNationHQ / vwan</td>
-<td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators. The link to [Github repo vwan](https://github.com/CloudNationHQ/terraform-azure-vwan).
+<td markdown="span">CloudNationHQ / evh</td>
+<td markdown="span">Terraform module which creates eventhub resources used by workloads and accelerators. The link to [Github repo evh](https://github.com/CloudNationHQ/terraform-azure-evh).
 </td>
 </tr>
 <tr>
-<td markdown="span">CloudNationHQ / evh</td>
-<td markdown="span">Terraform module which creates eventhub resources used by workloads and accelerators. The link to [Github repo evh](https://github.com/CloudNationHQ/terraform-azure-evh).
+<td markdown="span">CloudNationHQ / func</td>
+<td markdown="span">Terraform module which creates function app resources used by workloads and accelerators. The link to [Github repo func](https://github.com/CloudNationHQ/terraform-azure-func).
 </td>
 </tr>
 <tr>
@@ -116,8 +136,23 @@ The following table shows the number of all available Terraform Resource Modules
 </td>
 </tr>
 <tr>
+<td markdown="span">CloudNationHQ / rsv</td>
+<td markdown="span">Terraform module which create recovery services vault resources used by workloads and accelerators. The link to [Github repo rsv](https://github.com/CloudNationHQ/terraform-azure-rsv).
+</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / syn</td>
+<td markdown="span">Terraform module which create synapse workspace resources used by workloads and accelerators. The link to [Github repo syn](https://github.com/CloudNationHQ/terraform-azure-syn).
+</td>
+</tr>
+<tr>
 <td markdown="span">CloudNationHQ / vgw</td>
-<td markdown="span">Terraform module which create virtual network gateway resources used by workloads and accelerators.. The link to [Github repo vgw](https://github.com/CloudNationHQ/terraform-azure-vgw).
+<td markdown="span">Terraform module which create virtual network gateway resources used by workloads and accelerators. The link to [Github repo vgw](https://github.com/CloudNationHQ/terraform-azure-vgw).
+</td>
+</tr>
+<tr>
+<td markdown="span">CloudNationHQ / vwan</td>
+<td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators. The link to [Github repo vwan](https://github.com/CloudNationHQ/terraform-azure-vwan).
 </td>
 </tr>
 </tbody>
