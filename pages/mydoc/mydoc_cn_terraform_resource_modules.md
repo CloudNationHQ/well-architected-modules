@@ -7,7 +7,7 @@ folder: mydoc
 
 ## Module catalog
 
-The following table shows the number of all available Terraform Resource Modules.
+The following table shows the number of all available Terraform Resource Modules. 
 
 <table>
 <colgroup>
