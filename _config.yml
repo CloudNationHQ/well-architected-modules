@@ -3,13 +3,13 @@ repository: CloudNationHQ/terraform-azure-wam-website
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Well Architected Modules
+topnav_title: WAM
 # this appears on the top navigation bar next to the home button
 
-site_title: CloudNation Well Architected Modules
+site_title: CloudNation - Well Architected Modules
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2025 CloudNation
+company_name: Copyright CloudNation
 # this appears in the footer
 
 github_editme_path: CloudNationHQ/terraform-azure-wam-website/blob/main/
