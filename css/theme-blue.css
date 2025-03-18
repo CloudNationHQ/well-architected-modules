@@ -44,6 +44,10 @@ a[data-toggle="tooltip"] {
     cursor: default;
 }
 
+.navbar-header {
+    max-width: 300px;
+}
+
 .navbar-inverse {
     background-color: #222;
     border-color: #015CAE;
