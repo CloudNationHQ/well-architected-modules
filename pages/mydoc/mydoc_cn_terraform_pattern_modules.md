@@ -1,13 +1,13 @@
 ---
 title: Terraform Pattern Modules
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_terraform_pattern_modules.html
+permalink: terraform_pattern_modules.html
 folder: mydoc
 ---
 
 ## Pattern catalog
 
-The following table shows the number of all available Terraform Resource Modules.
+The following table shows the number of all available Terraform Pattern Modules.
 
 <table>
 <colgroup>

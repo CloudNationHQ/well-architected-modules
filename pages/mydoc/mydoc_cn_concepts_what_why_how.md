@@ -1,7 +1,7 @@
 ---
 title: What Why How
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_concepts_what_why_how.html
+permalink: concepts_what_why_how.html
 folder: mydoc
 ---
 
@@ -33,7 +33,7 @@ However, none of these existing attempts have ever made it all the way through t
 
 Performing this effort now to create a shared single aligned strategy and definition for IaC modules from CloudNation, will allow us to accelerate existing and future projects, such as Application Landing Zone Accelerators (LZAs), as well as providing the building blocks via a library of modules, in the language of the consumers choice, that is consistent, trusted and supported by CloudNation. This all leads to consumers being able to accelerate faster, no matter what stage of their IaC journey they are on.
 
-We have seen over the past FY that this topic alone is important and is one that has led to confusion and frustration to customers who are consuming modules developed by individuals. CloudNation build on an community to create more Well Architected Modules
+We have seen over the past FY that this topic alone is important and is one that has led to confusion and frustration to customers who are consuming modules developed by individuals. CloudNation build on an community to create more Well Architected Modules.
 
 ## How will we create, support and enforce Well Architected Modules?
 Well Architected Modules will achieve this, and its mission statement, by implementing and enforcing the following; driven by the WAM Core Team:

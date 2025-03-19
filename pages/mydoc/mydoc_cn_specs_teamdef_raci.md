@@ -1,7 +1,7 @@
 ---
 title: Team Definitions RACI
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_specs_teamdef_raci.html
+permalink: specs_teamdef_raci.html
 folder: mydoc
 ---
 

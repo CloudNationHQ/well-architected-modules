@@ -1,7 +1,7 @@
 ---
 title: Module Specifications
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_specs_module_specifications.html
+permalink: specs_module_specifications.html
 folder: mydoc
 ---
 

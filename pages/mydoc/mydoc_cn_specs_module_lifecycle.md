@@ -1,7 +1,7 @@
 ---
 title: Module Lifecycle
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_specs_module_lifecycle.html
+permalink: specs_module_lifecycle.html
 folder: mydoc
 ---
 
