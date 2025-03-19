@@ -1,7 +1,7 @@
 ---
 title: Contributing
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_contributing_module_contributing.html
+permalink: contributing_module_contributing.html
 folder: mydoc
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Module Classifications
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_specs_module_classifications.html
+permalink: specs_module_classifications.html
 folder: mydoc
 ---
 

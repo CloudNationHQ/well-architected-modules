@@ -1,7 +1,7 @@
 ---
 title: Terraform Resource Modules
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_terraform_resource_modules.html
+permalink: terraform_resource_modules.html
 folder: mydoc
 ---
 
