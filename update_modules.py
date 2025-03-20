@@ -39,7 +39,7 @@ modules = sorted(modules, key=lambda x: x["name"])
 header_content = """---
 title: Terraform Resource Modules
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_terraform_resource_modules.html
+permalink: terraform_resource_modules.html
 folder: mydoc
 ---
 
@@ -89,7 +89,7 @@ markdown_table += """
 
 # Add the total number of modules at the end
 total_modules = len(modules)
-markdown_table += f"\n\n**Total Modules:** {total_modules}\n"
+markdown_table += f"\n\n<span class='total-modules'>**Total Modules:** {total_modules}\n</span>"
 
 # Combine the header and the table
 final_markdown = header_content + markdown_table

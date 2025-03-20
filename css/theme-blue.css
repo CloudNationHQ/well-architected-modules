@@ -6,6 +6,14 @@ div.container {
     visibility: hidden
 }
 
+.githubEditButton {
+    display: none;
+}
+
+.total-modules {
+    margin-left: 40%;
+}
+
 .summary {
     color: #808080;
     border-left: 5px solid #ED1951;

@@ -28,7 +28,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / aa</td>
 <td markdown="span">Terraform module which creates automation related resources used by workloads and accelerators..</td> 
-<td markdown="span">2.5.0</td>
+<td markdown="span">2.6.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-aa" target="_blank">Github repo aa</a></td>
 </tr>
 
@@ -56,7 +56,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / alerts</td>
 <td markdown="span">Terraform module which creates azure alert resources used by workloads and accelerators..</td> 
-<td markdown="span">1.1.0</td>
+<td markdown="span">1.2.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-alerts" target="_blank">Github repo alerts</a></td>
 </tr>
 
@@ -126,7 +126,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / costs</td>
 <td markdown="span">Terraform module which creates cost management resources used by workloads and accelerators..</td> 
-<td markdown="span">1.2.1</td>
+<td markdown="span">1.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-costs" target="_blank">Github repo costs</a></td>
 </tr>
 
@@ -182,7 +182,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / func</td>
 <td markdown="span">Terraform module which creates function app resources used by workloads and accelerators..</td> 
-<td markdown="span">1.5.0</td>
+<td markdown="span">1.6.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-func" target="_blank">Github repo func</a></td>
 </tr>
 
@@ -217,7 +217,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / lb</td>
 <td markdown="span">Terraform module which creates load balancer resources used by workloads and accelerators..</td> 
-<td markdown="span">1.3.0</td>
+<td markdown="span">1.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-lb" target="_blank">Github repo lb</a></td>
 </tr>
 
@@ -238,7 +238,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / naming</td>
 <td markdown="span">Terraform module that streamlines the naming process for azure resources.</td> 
-<td markdown="span">0.23.1</td>
+<td markdown="span">0.24.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-naming" target="_blank">Github repo naming</a></td>
 </tr>
 
@@ -266,7 +266,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / pip</td>
 <td markdown="span">Terraform module which creates public ip resources used by workloads and accelerators..</td> 
-<td markdown="span">2.5.0</td>
+<td markdown="span">2.6.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-pip" target="_blank">Github repo pip</a></td>
 </tr>
 
@@ -343,7 +343,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">CloudNationHQ / sub</td>
 <td markdown="span">Terraform module which creates subscription resource(s).</td> 
-<td markdown="span">1.0.0</td>
+<td markdown="span">2.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-sub" target="_blank">Github repo sub</a></td>
 </tr>
 
@@ -400,4 +400,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-**Total Modules:** 53
+<span class='total-modules'>**Total Modules:** 53
+</span>
