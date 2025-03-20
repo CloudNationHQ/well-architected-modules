@@ -69,13 +69,15 @@ markdown_table = """
 
 for module in modules:
     name = module["name"]
+    provider = module["provider"]
     description = module["description"]
     version = module["version"]  # Latest version
     source = module["source"]  # GitHub repo link
 
     markdown_table += f"""
 <tr>
-<td markdown="span">CloudNationHQ / {name}</td>
+<td markdown="span">{name}</td>
+<td markdown="span">{provider}</td>
 <td markdown="span">{description}.</td> 
 <td markdown="span">{version}</td>
 <td markdown="span"><a href="{source}" target="_blank">Github repo {name}</a></td>
