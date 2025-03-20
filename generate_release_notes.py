@@ -194,8 +194,14 @@ def update_sidebar(sidebar_entries):
             if release_entry not in quarter_subfolder["subfolderitems"]:
                 quarter_subfolder["subfolderitems"].append(release_entry)
 
-    # Sort the quarters and releases in descending order
-    release_notes_section["subfolders"].sort(key=lambda x: x["title"], reverse=True)
+     # Sort the quarters and releases in descending order by year and ascending order by quarter
+    release_notes_section["subfolders"].sort(
+        key=lambda x: (int(x["title"].split(" ")[1]), int(x["title"].split(" ")[0][1:])),
+        reverse=True  # Ascending order for quarters
+    )
+    release_notes_section["subfolders"].sort(
+        key=lambda x: int(x["title"].split(" ")[1]), reverse=True  # Descending order for years
+    )
     for subfolder in release_notes_section["subfolders"]:
         subfolder["subfolderitems"].sort(key=lambda x: x["title"], reverse=True)
 

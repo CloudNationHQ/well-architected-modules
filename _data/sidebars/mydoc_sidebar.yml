@@ -72,6 +72,111 @@ entries:
             url: /tag_releases.html
             output: web
             subfolders:
+              - title: Q1 2025
+                output: web, pdf
+                subfolderitems:
+                  - title: Release 2025-03-20
+                    url: /release_notes_20250320.html
+                    output: web, pdf
+                  - title: Release 2025-03-19
+                    url: /release_notes_20250319.html
+                    output: web, pdf
+                  - title: Release 2025-03-18
+                    url: /release_notes_20250318.html
+                    output: web, pdf
+                  - title: Release 2025-03-14
+                    url: /release_notes_20250314.html
+                    output: web, pdf
+                  - title: Release 2025-03-13
+                    url: /release_notes_20250313.html
+                    output: web, pdf
+                  - title: Release 2025-03-12
+                    url: /release_notes_20250312.html
+                    output: web, pdf
+                  - title: Release 2025-03-11
+                    url: /release_notes_20250311.html
+                    output: web, pdf
+                  - title: Release 2025-03-10
+                    url: /release_notes_20250310.html
+                    output: web, pdf
+                  - title: Release 2025-03-07
+                    url: /release_notes_20250307.html
+                    output: web, pdf
+                  - title: Release 2025-03-06
+                    url: /release_notes_20250306.html
+                    output: web, pdf
+                  - title: Release 2025-03-05
+                    url: /release_notes_20250305.html
+                    output: web, pdf
+                  - title: Release 2025-02-28
+                    url: /release_notes_20250228.html
+                    output: web, pdf
+                  - title: Release 2025-02-25
+                    url: /release_notes_20250225.html
+                    output: web, pdf
+                  - title: Release 2025-02-24
+                    url: /release_notes_20250224.html
+                    output: web, pdf
+                  - title: Release 2025-02-21
+                    url: /release_notes_20250221.html
+                    output: web, pdf
+                  - title: Release 2025-02-18
+                    url: /release_notes_20250218.html
+                    output: web, pdf
+                  - title: Release 2025-02-13
+                    url: /release_notes_20250213.html
+                    output: web, pdf
+                  - title: Release 2025-02-12
+                    url: /release_notes_20250212.html
+                    output: web, pdf
+                  - title: Release 2025-02-10
+                    url: /release_notes_20250210.html
+                    output: web, pdf
+                  - title: Release 2025-02-06
+                    url: /release_notes_20250206.html
+                    output: web, pdf
+                  - title: Release 2025-02-05
+                    url: /release_notes_20250205.html
+                    output: web, pdf
+                  - title: Release 2025-01-30
+                    url: /release_notes_20250130.html
+                    output: web, pdf
+                  - title: Release 2025-01-29
+                    url: /release_notes_20250129.html
+                    output: web, pdf
+                  - title: Release 2025-01-28
+                    url: /release_notes_20250128.html
+                    output: web, pdf
+                  - title: Release 2025-01-27
+                    url: /release_notes_20250127.html
+                    output: web, pdf
+                  - title: Release 2025-01-24
+                    url: /release_notes_20250124.html
+                    output: web, pdf
+                  - title: Release 2025-01-21
+                    url: /release_notes_20250121.html
+                    output: web, pdf
+                  - title: Release 2025-01-20
+                    url: /release_notes_20250120.html
+                    output: web, pdf
+                  - title: Release 2025-01-17
+                    url: /release_notes_20250117.html
+                    output: web, pdf
+                  - title: Release 2025-01-16
+                    url: /release_notes_20250116.html
+                    output: web, pdf
+                  - title: Release 2025-01-15
+                    url: /release_notes_20250115.html
+                    output: web, pdf
+                  - title: Release 2025-01-09
+                    url: /release_notes_20250109.html
+                    output: web, pdf
+                  - title: Release 2025-01-08
+                    url: /release_notes_20250108.html
+                    output: web, pdf
+                  - title: Release 2025-01-06
+                    url: /release_notes_20250106.html
+                    output: web, pdf
               - title: Q4 2024
                 output: web, pdf
                 subfolderitems:
@@ -200,63 +305,6 @@ entries:
                     output: web, pdf
                   - title: Release 2024-10-01
                     url: /release_notes_20241001.html
-                    output: web, pdf
-              - title: Q4 2023
-                output: web, pdf
-                subfolderitems:
-                  - title: Release 2023-12-22
-                    url: /release_notes_20231222.html
-                    output: web, pdf
-                  - title: Release 2023-12-20
-                    url: /release_notes_20231220.html
-                    output: web, pdf
-                  - title: Release 2023-12-19
-                    url: /release_notes_20231219.html
-                    output: web, pdf
-                  - title: Release 2023-12-18
-                    url: /release_notes_20231218.html
-                    output: web, pdf
-                  - title: Release 2023-12-15
-                    url: /release_notes_20231215.html
-                    output: web, pdf
-                  - title: Release 2023-12-09
-                    url: /release_notes_20231209.html
-                    output: web, pdf
-                  - title: Release 2023-12-06
-                    url: /release_notes_20231206.html
-                    output: web, pdf
-                  - title: Release 2023-12-04
-                    url: /release_notes_20231204.html
-                    output: web, pdf
-                  - title: Release 2023-12-01
-                    url: /release_notes_20231201.html
-                    output: web, pdf
-                  - title: Release 2023-11-26
-                    url: /release_notes_20231126.html
-                    output: web, pdf
-                  - title: Release 2023-11-24
-                    url: /release_notes_20231124.html
-                    output: web, pdf
-                  - title: Release 2023-11-23
-                    url: /release_notes_20231123.html
-                    output: web, pdf
-                  - title: Release 2023-11-14
-                    url: /release_notes_20231114.html
-                    output: web, pdf
-                  - title: Release 2023-11-06
-                    url: /release_notes_20231106.html
-                    output: web, pdf
-                  - title: Release 2023-11-04
-                    url: /release_notes_20231104.html
-                    output: web, pdf
-                  - title: Release 2023-11-03
-                    url: /release_notes_20231103.html
-                    output: web, pdf
-                  - title: Release 2023-11-02
-                    url: /release_notes_20231102.html
-                    output: web, pdf
-                  - title: Release 2023-11-01
-                    url: /release_notes_20231101.html
                     output: web, pdf
               - title: Q3 2024
                 output: web, pdf
@@ -462,111 +510,6 @@ entries:
                   - title: Release 2024-04-03
                     url: /release_notes_20240403.html
                     output: web, pdf
-              - title: Q1 2025
-                output: web, pdf
-                subfolderitems:
-                  - title: Release 2025-03-20
-                    url: /release_notes_20250320.html
-                    output: web, pdf
-                  - title: Release 2025-03-19
-                    url: /release_notes_20250319.html
-                    output: web, pdf
-                  - title: Release 2025-03-18
-                    url: /release_notes_20250318.html
-                    output: web, pdf
-                  - title: Release 2025-03-14
-                    url: /release_notes_20250314.html
-                    output: web, pdf
-                  - title: Release 2025-03-13
-                    url: /release_notes_20250313.html
-                    output: web, pdf
-                  - title: Release 2025-03-12
-                    url: /release_notes_20250312.html
-                    output: web, pdf
-                  - title: Release 2025-03-11
-                    url: /release_notes_20250311.html
-                    output: web, pdf
-                  - title: Release 2025-03-10
-                    url: /release_notes_20250310.html
-                    output: web, pdf
-                  - title: Release 2025-03-07
-                    url: /release_notes_20250307.html
-                    output: web, pdf
-                  - title: Release 2025-03-06
-                    url: /release_notes_20250306.html
-                    output: web, pdf
-                  - title: Release 2025-03-05
-                    url: /release_notes_20250305.html
-                    output: web, pdf
-                  - title: Release 2025-02-28
-                    url: /release_notes_20250228.html
-                    output: web, pdf
-                  - title: Release 2025-02-25
-                    url: /release_notes_20250225.html
-                    output: web, pdf
-                  - title: Release 2025-02-24
-                    url: /release_notes_20250224.html
-                    output: web, pdf
-                  - title: Release 2025-02-21
-                    url: /release_notes_20250221.html
-                    output: web, pdf
-                  - title: Release 2025-02-18
-                    url: /release_notes_20250218.html
-                    output: web, pdf
-                  - title: Release 2025-02-13
-                    url: /release_notes_20250213.html
-                    output: web, pdf
-                  - title: Release 2025-02-12
-                    url: /release_notes_20250212.html
-                    output: web, pdf
-                  - title: Release 2025-02-10
-                    url: /release_notes_20250210.html
-                    output: web, pdf
-                  - title: Release 2025-02-06
-                    url: /release_notes_20250206.html
-                    output: web, pdf
-                  - title: Release 2025-02-05
-                    url: /release_notes_20250205.html
-                    output: web, pdf
-                  - title: Release 2025-01-30
-                    url: /release_notes_20250130.html
-                    output: web, pdf
-                  - title: Release 2025-01-29
-                    url: /release_notes_20250129.html
-                    output: web, pdf
-                  - title: Release 2025-01-28
-                    url: /release_notes_20250128.html
-                    output: web, pdf
-                  - title: Release 2025-01-27
-                    url: /release_notes_20250127.html
-                    output: web, pdf
-                  - title: Release 2025-01-24
-                    url: /release_notes_20250124.html
-                    output: web, pdf
-                  - title: Release 2025-01-21
-                    url: /release_notes_20250121.html
-                    output: web, pdf
-                  - title: Release 2025-01-20
-                    url: /release_notes_20250120.html
-                    output: web, pdf
-                  - title: Release 2025-01-17
-                    url: /release_notes_20250117.html
-                    output: web, pdf
-                  - title: Release 2025-01-16
-                    url: /release_notes_20250116.html
-                    output: web, pdf
-                  - title: Release 2025-01-15
-                    url: /release_notes_20250115.html
-                    output: web, pdf
-                  - title: Release 2025-01-09
-                    url: /release_notes_20250109.html
-                    output: web, pdf
-                  - title: Release 2025-01-08
-                    url: /release_notes_20250108.html
-                    output: web, pdf
-                  - title: Release 2025-01-06
-                    url: /release_notes_20250106.html
-                    output: web, pdf
               - title: Q1 2024
                 output: web, pdf
                 subfolderitems:
@@ -665,4 +608,61 @@ entries:
                     output: web, pdf
                   - title: Release 2024-01-18
                     url: /release_notes_20240118.html
+                    output: web, pdf
+              - title: Q4 2023
+                output: web, pdf
+                subfolderitems:
+                  - title: Release 2023-12-22
+                    url: /release_notes_20231222.html
+                    output: web, pdf
+                  - title: Release 2023-12-20
+                    url: /release_notes_20231220.html
+                    output: web, pdf
+                  - title: Release 2023-12-19
+                    url: /release_notes_20231219.html
+                    output: web, pdf
+                  - title: Release 2023-12-18
+                    url: /release_notes_20231218.html
+                    output: web, pdf
+                  - title: Release 2023-12-15
+                    url: /release_notes_20231215.html
+                    output: web, pdf
+                  - title: Release 2023-12-09
+                    url: /release_notes_20231209.html
+                    output: web, pdf
+                  - title: Release 2023-12-06
+                    url: /release_notes_20231206.html
+                    output: web, pdf
+                  - title: Release 2023-12-04
+                    url: /release_notes_20231204.html
+                    output: web, pdf
+                  - title: Release 2023-12-01
+                    url: /release_notes_20231201.html
+                    output: web, pdf
+                  - title: Release 2023-11-26
+                    url: /release_notes_20231126.html
+                    output: web, pdf
+                  - title: Release 2023-11-24
+                    url: /release_notes_20231124.html
+                    output: web, pdf
+                  - title: Release 2023-11-23
+                    url: /release_notes_20231123.html
+                    output: web, pdf
+                  - title: Release 2023-11-14
+                    url: /release_notes_20231114.html
+                    output: web, pdf
+                  - title: Release 2023-11-06
+                    url: /release_notes_20231106.html
+                    output: web, pdf
+                  - title: Release 2023-11-04
+                    url: /release_notes_20231104.html
+                    output: web, pdf
+                  - title: Release 2023-11-03
+                    url: /release_notes_20231103.html
+                    output: web, pdf
+                  - title: Release 2023-11-02
+                    url: /release_notes_20231102.html
+                    output: web, pdf
+                  - title: Release 2023-11-01
+                    url: /release_notes_20231101.html
                     output: web, pdf
