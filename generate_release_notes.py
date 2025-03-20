@@ -94,7 +94,7 @@ title: {title}
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
 last_updated: {last_updated}
-summary: "Releases of the Terraform Well Architected Modules"
+summary: "Releases of the Terraform Well Architected Modules {release_date}"
 sidebar: mydoc_sidebar
 permalink: {permalink}
 folder: release_notes
