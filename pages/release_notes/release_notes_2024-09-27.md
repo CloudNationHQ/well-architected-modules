@@ -3,7 +3,7 @@ title: Releases for 2024-09-27
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
 last_updated: Mar 20, 2025
-summary: "Releases of the Terraform Well Architected Modules"
+summary: "Releases of the Terraform Well Architected Modules 2024-09-27"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240927.html
 folder: release_notes

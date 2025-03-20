@@ -1,6 +1,7 @@
 import requests
 import os
-import yaml
+# import yaml
+from ruamel.yaml import YAML
 import time
 from datetime import datetime
 from collections import defaultdict
@@ -124,37 +125,84 @@ folder: release_notes
     # Update the sidebar YAML file
     update_sidebar(sidebar_entries)
 
-# Function to update the sidebar YAML file
+# # Function to update the sidebar YAML file
 def update_sidebar(sidebar_entries):
+    yaml = YAML()
+    yaml.preserve_quotes = True  # Preserve quotes in the YAML file
+
     # Load the existing sidebar YAML file
     with open(SIDEBAR_FILE, "r") as file:
-        sidebar_data = yaml.safe_load(file)
+        sidebar_data = yaml.load(file)
+    print(sidebar_data)
 
-    # Find or create the "Release Notes" section
-    release_notes_section = next(
-        (entry for entry in sidebar_data["entries"] if entry["title"] == "Release Notes"), None
-    )
+     # Initialize the YAML structure if the file is empty
+    if sidebar_data is None:
+        sidebar_data = {"entries": []}
+
+    # Ensure the "entries" key exists
+    if "entries" not in sidebar_data:
+        sidebar_data["entries"] = []
+
+    # Locate the "Release Notes" section within entries.folders.folderitems
+    release_notes_section = None
+    for entry in sidebar_data["entries"]:
+        if "folders" in entry:
+            for folder in entry["folders"]:
+                if "folderitems" in folder:
+                    for folderitem in folder["folderitems"]:
+                        if folderitem.get("title") == "Tag releases overview" and "subfolders" in folderitem:
+                            release_notes_section = folderitem
+                            break
+                if release_notes_section:
+                    break
+        if release_notes_section:
+            break
+        
     if not release_notes_section:
-        release_notes_section = {"title": "Release Notes", "output": "web, pdf", "folderitems": []}
-        sidebar_data["entries"].append(release_notes_section)
+        raise Exception("Release Notes section not found in the sidebar YAML file.")
 
-    # Clear the existing "Release Notes" folderitems
-    release_notes_section["folderitems"] = []
+    # Ensure the "subfolders" key exists in the Release Notes section
+    if "subfolders" not in release_notes_section:
+        release_notes_section["subfolders"] = []
+    if release_notes_section["subfolders"] is None:
+        release_notes_section["subfolders"] = []
 
-    # Add monthly overview pages and individual releases
-    for month, releases in sidebar_entries.items():
-        # Create a month entry
-        month_entry = {"title": month, "output": "web, pdf", "folderitems": []}
+    # Group new entries by quarter
+    for release_date, releases in sidebar_entries.items():
+        # Parse the release date
+        release_date_obj = datetime.strptime(release_date, "%B %Y")
+        year = release_date_obj.year
+        quarter = (release_date_obj.month - 1) // 3 + 1
+        quarter_title = f"Q{quarter} {year}"
 
-        # Add individual releases to the month's folderitems
-        month_entry["folderitems"].extend(releases)
+        # Find or create the quarter subfolder
+        quarter_subfolder = next(
+            (subfolder for subfolder in release_notes_section["subfolders"] if subfolder["title"] == quarter_title),
+            None
+        )
+        if not quarter_subfolder:
+            quarter_subfolder = {"title": quarter_title, "output": "web, pdf", "subfolderitems": []}
+            release_notes_section["subfolders"].append(quarter_subfolder)
 
-        # Append the month entry to the "Release Notes" section
-        release_notes_section["folderitems"].append(month_entry)
+        # Add the release entries to the quarter subfolder
+        for release in releases:
+            release_entry = {
+                "title": f"Release {release_date}",
+                "url": f"{release['url']}",
+                "output": "web, pdf"
+            }
+            # Avoid duplicate entries
+            if release_entry not in quarter_subfolder["subfolderitems"]:
+                quarter_subfolder["subfolderitems"].append(release_entry)
+
+    # Sort the quarters and releases in descending order
+    release_notes_section["subfolders"].sort(key=lambda x: x["title"], reverse=True)
+    for subfolder in release_notes_section["subfolders"]:
+        subfolder["subfolderitems"].sort(key=lambda x: x["title"], reverse=True)
 
     # Save the updated sidebar YAML file
     with open(SIDEBAR_FILE, "w") as file:
-        yaml.dump(sidebar_data, file, default_flow_style=False)
+        yaml.dump(sidebar_data, file)
 
     print(f"Sidebar updated with release notes.")
 

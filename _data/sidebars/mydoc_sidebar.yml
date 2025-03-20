@@ -15,7 +15,6 @@ entries:
             url: /tocpage.html
             output: pdf
             type: frontmatter
-
       - title: Navigation
         output: web, pdf
         folderitems:
@@ -29,14 +28,12 @@ entries:
           - title: Pattern Modules
             url: terraform_pattern_modules.html
             output: web
-
       - title: Concepts
         output: web, pdf
         folderitems:
           - title: What Why How
             url: concepts_what_why_how.html
             output: web, pdf
-
       - title: Specifications & Definitions
         output: web, pdf
         folderitems:
@@ -67,7 +64,6 @@ entries:
           - title: Resources
             url: resources_module_resources.html
             output: web, pdf
-
       - title: Release Notes
         url: /tag_releases.html
         output: web, pdf
@@ -76,393 +72,597 @@ entries:
             url: /tag_releases.html
             output: web
             subfolders:
-              - title: Q1 2025
-                output: web
-                subfolderitems:
-                  - title: Release 2025-01-20
-                    url: /release_notes_20250120.html
-                    output: web, pdf
-                  - title: Release 2025-01-30
-                    url: /release_notes_20250130.html
-                    output: web, pdf
-                  - title: Release 2025-01-15
-                    url: /release_notes_20250115.html
-                    output: web, pdf
-                  - title: Release 2025-01-09
-                    url: /release_notes_20250109.html
-                    output: web, pdf
-                  - title: Release 2025-01-27
-                    url: /release_notes_20250127.html
-                    output: web, pdf
-                  - title: Release 2025-01-17
-                    url: /release_notes_20250117.html
-                    output: web, pdf
-                  - title: Release 2025-01-16
-                    url: /release_notes_20250116.html
-                    output: web, pdf
-                  - title: Release 2025-01-24
-                    url: /release_notes_20250124.html
-                    output: web, pdf
-                  - title: Release 2025-01-21
-                    url: /release_notes_20250121.html
-                    output: web, pdf
-                  - title: Release 2025-01-28
-                    url: /release_notes_20250128.html
-                    output: web, pdf
-                  - title: Release 2025-01-06
-                    url: /release_notes_20250106.html
-                    output: web, pdf
-                  - title: Release 2025-01-08
-                    url: /release_notes_20250108.html
-                    output: web, pdf
-                  - title: Release 2025-01-29
-                    url: /release_notes_20250129.html
-                    output: web, pdf
-                  - title: Release 2025-02-25
-                    url: /release_notes_20250225.html
-                    output: web, pdf
-                  - title: Release 2025-02-12
-                    url: /release_notes_20250212.html
-                    output: web, pdf
-                  - title: Release 2025-02-10
-                    url: /release_notes_20250210.html
-                    output: web, pdf
-                  - title: Release 2025-02-06
-                    url: /release_notes_20250206.html
-                    output: web, pdf
-                  - title: Release 2025-02-05
-                    url: /release_notes_20250205.html
-                    output: web, pdf
-                  - title: Release 2025-02-21
-                    url: /release_notes_20250221.html
-                    output: web, pdf
-                  - title: Release 2025-02-24
-                    url: /release_notes_20250224.html
-                    output: web, pdf
-                  - title: Release 2025-02-28
-                    url: /release_notes_20250228.html
-                    output: web, pdf
-                  - title: Release 2025-02-18
-                    url: /release_notes_20250218.html
-                    output: web, pdf
-                  - title: Release 2025-02-13
-                    url: /release_notes_20250213.html
-                    output: web, pdf
-                  - title: Release 2025-03-13
-                    url: /release_notes_20250313.html
-                    output: web, pdf
-                  - title: Release 2025-03-10
-                    url: /release_notes_20250310.html
-                    output: web, pdf
-                  - title: Release 2025-03-19
-                    url: /release_notes_20250319.html
-                    output: web, pdf
-                  - title: Release 2025-03-18
-                    url: /release_notes_20250318.html
-                    output: web, pdf
-                  - title: Release 2025-03-12
-                    url: /release_notes_20250312.html
-                    output: web, pdf
-                  - title: Release 2025-03-06
-                    url: /release_notes_20250306.html
-                    output: web, pdf
-                  - title: Release 2025-03-05
-                    url: /release_notes_20250305.html
-                    output: web, pdf
-                  - title: Release 2025-03-11
-                    url: /release_notes_20250311.html
-                    output: web, pdf
-                  - title: Release 2025-03-14
-                    url: /release_notes_20250314.html
-                    output: web, pdf
-                  - title: Release 2025-03-20
-                    url: /release_notes_20250320.html
-                    output: web, pdf
-                  - title: Release 2025-03-07
-                    url: /release_notes_20250307.html
-                    output: web, pdf
               - title: Q4 2024
                 output: web, pdf
                 subfolderitems:
-                  - output: web, pdf
-                    title: Release 2024-11-13
-                    url: /release_notes_20241113.html
-                  - output: web, pdf
-                    title: Release 2024-11-11
-                    url: /release_notes_20241111.html
-                  - output: web, pdf
-                    title: Release 2024-11-29
-                    url: /release_notes_20241129.html
-                  - output: web, pdf
-                    title: Release 2024-11-25
-                    url: /release_notes_20241125.html
-                  - output: web, pdf
-                    title: Release 2024-11-20
-                    url: /release_notes_20241120.html
-                  - output: web, pdf
-                    title: Release 2024-11-26
-                    url: /release_notes_20241126.html
-                  - output: web, pdf
-                    title: Release 2024-11-21
-                    url: /release_notes_20241121.html
-                  - output: web, pdf
-                    title: Release 2024-11-18
-                    url: /release_notes_20241118.html
-                  - output: web, pdf
-                    title: Release 2024-11-14
-                    url: /release_notes_20241114.html
-                  - output: web, pdf
-                    title: Release 2024-11-12
-                    url: /release_notes_20241112.html
-                  - output: web, pdf
-                    title: Release 2024-11-19
-                    url: /release_notes_20241119.html
-                  - output: web, pdf
-                    title: Release 2024-11-22
-                    url: /release_notes_20241122.html
-                  - output: web, pdf
-                    title: Release 2024-11-07
-                    url: /release_notes_20241107.html
-                  - output: web, pdf
-                    title: Release 2024-11-04
-                    url: /release_notes_20241104.html
-                  - output: web, pdf
-                    title: Release 2024-11-28
-                    url: /release_notes_20241128.html
-                  - output: web, pdf
-                    title: Release 2024-10-11
+                  - title: Release October 2024
                     url: /release_notes_20241011.html
-                  - output: web, pdf
-                    title: Release 2024-10-31
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241031.html
-                  - output: web, pdf
-                    title: Release 2024-10-28
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241028.html
-                  - output: web, pdf
-                    title: Release 2024-10-25
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241025.html
-                  - output: web, pdf
-                    title: Release 2024-10-10
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241010.html
-                  - output: web, pdf
-                    title: Release 2024-10-02
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241002.html
-                  - output: web, pdf
-                    title: Release 2024-10-30
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241030.html
-                  - output: web, pdf
-                    title: Release 2024-10-29
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241029.html
-                  - output: web, pdf
-                    title: Release 2024-10-22
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241022.html
-                  - output: web, pdf
-                    title: Release 2024-10-01
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241001.html
-                  - output: web, pdf
-                    title: Release 2024-10-04
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241004.html
-                  - output: web, pdf
-                    title: Release 2024-10-18
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241018.html
-                  - output: web, pdf
-                    title: Release 2024-10-16
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241016.html
-                  - output: web, pdf
-                    title: Release 2024-10-09
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241009.html
-                  - output: web, pdf
-                    title: Release 2024-10-07
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241007.html
-                  - output: web, pdf
-                    title: Release 2024-10-24
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241024.html
-                  - output: web, pdf
-                    title: Release 2024-10-23
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241023.html
-                  - output: web, pdf
-                    title: Release 2024-10-15
+                    output: web, pdf
+                  - title: Release October 2024
                     url: /release_notes_20241015.html
-                  - output: web, pdf
-                    title: Release 2024-12-17
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241113.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241111.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241129.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241125.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241120.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241126.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241121.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241118.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241114.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241112.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241119.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241122.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241107.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241104.html
+                    output: web, pdf
+                  - title: Release November 2024
+                    url: /release_notes_20241128.html
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241217.html
-                  - output: web, pdf
-                    title: Release 2024-12-06
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241206.html
-                  - output: web, pdf
-                    title: Release 2024-12-03
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241203.html
-                  - output: web, pdf
-                    title: Release 2024-12-12
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241212.html
-                  - output: web, pdf
-                    title: Release 2024-12-04
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241204.html
-                  - output: web, pdf
-                    title: Release 2024-12-09
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241209.html
-                  - output: web, pdf
-                    title: Release 2024-12-10
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241210.html
-                  - output: web, pdf
-                    title: Release 2024-12-16
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241216.html
-                  - output: web, pdf
-                    title: Release 2024-12-11
+                    output: web, pdf
+                  - title: Release December 2024
                     url: /release_notes_20241211.html
+                    output: web, pdf
+              - title: Q4 2023
+                output: web, pdf
+                subfolderitems:
+                  - title: Release November 2023
+                    url: /release_notes_20231103.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231102.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231101.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231123.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231104.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231106.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231114.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231126.html
+                    output: web, pdf
+                  - title: Release November 2023
+                    url: /release_notes_20231124.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231219.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231206.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231222.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231220.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231204.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231201.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231209.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231218.html
+                    output: web, pdf
+                  - title: Release December 2023
+                    url: /release_notes_20231215.html
+                    output: web, pdf
               - title: Q3 2024
                 output: web, pdf
                 subfolderitems:
-                  - output: web, pdf
-                    title: Release 2024-09-25
+                  - title: Release September 2024
                     url: /release_notes_20240925.html
-                  - output: web, pdf
-                    title: Release 2024-09-26
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240926.html
-                  - output: web, pdf
-                    title: Release 2024-09-24
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240924.html
-                  - output: web, pdf
-                    title: Release 2024-09-04
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240904.html
-                  - output: web, pdf
-                    title: Release 2024-09-27
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240927.html
-                  - output: web, pdf
-                    title: Release 2024-09-19
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240919.html
-                  - output: web, pdf
-                    title: Release 2024-09-12
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240912.html
-                  - output: web, pdf
-                    title: Release 2024-09-18
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240918.html
-                  - output: web, pdf
-                    title: Release 2024-09-16
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240916.html
-                  - output: web, pdf
-                    title: Release 2024-09-02
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240902.html
-                  - output: web, pdf
-                    title: Release 2024-09-23
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240923.html
-                  - output: web, pdf
-                    title: Release 2024-09-20
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240920.html
-                  - output: web, pdf
-                    title: Release 2024-09-06
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240906.html
-                  - output: web, pdf
-                    title: Release 2024-09-11
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240911.html
-                  - output: web, pdf
-                    title: Release 2024-09-05
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240905.html
-                  - output: web, pdf
-                    title: Release 2024-09-09
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240909.html
-                  - output: web, pdf
-                    title: Release 2024-09-17
+                    output: web, pdf
+                  - title: Release September 2024
                     url: /release_notes_20240917.html
-                  - output: web, pdf
-                    title: Release 2024-08-28
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240731.html
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240702.html
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240703.html
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240729.html
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240704.html
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240711.html
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240710.html
+                    output: web, pdf
+                  - title: Release July 2024
+                    url: /release_notes_20240701.html
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240828.html
-                  - output: web, pdf
-                    title: Release 2024-08-20
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240820.html
-                  - output: web, pdf
-                    title: Release 2024-08-14
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240814.html
-                  - output: web, pdf
-                    title: Release 2024-08-13
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240813.html
-                  - output: web, pdf
-                    title: Release 2024-08-01
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240801.html
-                  - output: web, pdf
-                    title: Release 2024-08-15
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240815.html
-                  - output: web, pdf
-                    title: Release 2024-08-02
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240802.html
-                  - output: web, pdf
-                    title: Release 2024-08-07
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240807.html
-                  - output: web, pdf
-                    title: Release 2024-08-06
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240806.html
-                  - output: web, pdf
-                    title: Release 2024-08-22
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240822.html
-                  - output: web, pdf
-                    title: Release 2024-08-16
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240816.html
-                  - output: web, pdf
-                    title: Release 2024-08-27
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240827.html
-                  - output: web, pdf
-                    title: Release 2024-08-12
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240812.html
-                  - output: web, pdf
-                    title: Release 2024-08-29
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240829.html
-                  - output: web, pdf
-                    title: Release 2024-08-08
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240808.html
-                  - output: web, pdf
-                    title: Release 2024-08-05
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240805.html
-                  - output: web, pdf
-                    title: Release 2024-08-19
+                    output: web, pdf
+                  - title: Release August 2024
                     url: /release_notes_20240819.html
+                    output: web, pdf
               - title: Q2 2024
                 output: web, pdf
                 subfolderitems:
-                  - output: web, pdf
-                    title: Release 2024-07-31
-                    url: /release_notes_20240731.html
-                  - output: web, pdf
-                    title: Release 2024-07-02
-                    url: /release_notes_20240702.html
-                  - output: web, pdf
-                    title: Release 2024-07-03
-                    url: /release_notes_20240703.html
-                  - output: web, pdf
-                    title: Release 2024-07-29
-                    url: /release_notes_20240729.html
-                  - output: web, pdf
-                    title: Release 2024-07-04
-                    url: /release_notes_20240704.html
-                  - output: web, pdf
-                    title: Release 2024-07-11
-                    url: /release_notes_20240711.html
-                  - output: web, pdf
-                    title: Release 2024-07-10
-                    url: /release_notes_20240710.html
-                  - output: web, pdf
-                    title: Release 2024-07-01
-                    url: /release_notes_20240701.html
-                  - output: web, pdf
-                    title: Release 2024-06-07
+                  - title: Release May 2024
+                    url: /release_notes_20240529.html
+                    output: web, pdf
+                  - title: Release May 2024
+                    url: /release_notes_20240527.html
+                    output: web, pdf
+                  - title: Release May 2024
+                    url: /release_notes_20240503.html
+                    output: web, pdf
+                  - title: Release May 2024
+                    url: /release_notes_20240516.html
+                    output: web, pdf
+                  - title: Release May 2024
+                    url: /release_notes_20240531.html
+                    output: web, pdf
+                  - title: Release May 2024
+                    url: /release_notes_20240513.html
+                    output: web, pdf
+                  - title: Release May 2024
+                    url: /release_notes_20240515.html
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240607.html
-                  - output: web, pdf
-                    title: Release 2024-06-28
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240628.html
-                  - output: web, pdf
-                    title: Release 2024-06-08
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240608.html
-                  - output: web, pdf
-                    title: Release 2024-06-06
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240606.html
-                  - output: web, pdf
-                    title: Release 2024-06-21
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240621.html
-                  - output: web, pdf
-                    title: Release 2024-06-14
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240614.html
-                  - output: web, pdf
-                    title: Release 2024-06-04
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240604.html
-                  - output: web, pdf
-                    title: Release 2024-06-27
+                    output: web, pdf
+                  - title: Release June 2024
                     url: /release_notes_20240627.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240422.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240412.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240408.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240417.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240410.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240429.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240403.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240416.html
+                    output: web, pdf
+                  - title: Release April 2024
+                    url: /release_notes_20240409.html
+                    output: web, pdf
+              - title: Q1 2025
+                output: web, pdf
+                subfolderitems:
+                  - title: Release March 2025
+                    url: /release_notes_20250313.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250310.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250319.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250318.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250312.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250306.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250305.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250311.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250314.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250320.html
+                    output: web, pdf
+                  - title: Release March 2025
+                    url: /release_notes_20250307.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250120.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250130.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250115.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250109.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250127.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250117.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250116.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250124.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250121.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250128.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250106.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250108.html
+                    output: web, pdf
+                  - title: Release January 2025
+                    url: /release_notes_20250129.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250225.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250212.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250210.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250206.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250205.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250221.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250224.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250228.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250218.html
+                    output: web, pdf
+                  - title: Release February 2025
+                    url: /release_notes_20250213.html
+                    output: web, pdf
+              - title: Q1 2024
+                output: web, pdf
+                subfolderitems:
+                  - title: Release March 2024
+                    url: /release_notes_20240312.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240319.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240315.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240314.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240322.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240321.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240308.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240326.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240313.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240307.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240306.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240301.html
+                    output: web, pdf
+                  - title: Release March 2024
+                    url: /release_notes_20240311.html
+                    output: web, pdf
+                  - title: Release January 2024
+                    url: /release_notes_20240119.html
+                    output: web, pdf
+                  - title: Release January 2024
+                    url: /release_notes_20240126.html
+                    output: web, pdf
+                  - title: Release January 2024
+                    url: /release_notes_20240123.html
+                    output: web, pdf
+                  - title: Release January 2024
+                    url: /release_notes_20240118.html
+                    output: web, pdf
+                  - title: Release January 2024
+                    url: /release_notes_20240125.html
+                    output: web, pdf
+                  - title: Release January 2024
+                    url: /release_notes_20240131.html
+                    output: web, pdf
+                  - title: Release January 2024
+                    url: /release_notes_20240130.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240221.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240227.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240216.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240214.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240213.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240205.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240228.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240210.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240206.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240202.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240223.html
+                    output: web, pdf
+                  - title: Release February 2024
+                    url: /release_notes_20240219.html
+                    output: web, pdf
