@@ -138,18 +138,19 @@ def update_sidebar(sidebar_entries):
         release_notes_section = {"title": "Release Notes", "output": "web, pdf", "folderitems": []}
         sidebar_data["entries"].append(release_notes_section)
 
+    # Clear the existing "Release Notes" folderitems
+    release_notes_section["folderitems"] = []
+
     # Add monthly overview pages and individual releases
     for month, releases in sidebar_entries.items():
-        # Check if the month already exists in the sidebar
-        month_entry = next(
-            (item for item in release_notes_section["folderitems"] if item["title"] == month), None
-        )
-        if not month_entry:
-            month_entry = {"title": month, "output": "web, pdf", "folderitems": []}
-            release_notes_section["folderitems"].append(month_entry)
+        # Create a month entry
+        month_entry = {"title": month, "output": "web, pdf", "folderitems": []}
 
         # Add individual releases to the month's folderitems
         month_entry["folderitems"].extend(releases)
+
+        # Append the month entry to the "Release Notes" section
+        release_notes_section["folderitems"].append(month_entry)
 
     # Save the updated sidebar YAML file
     with open(SIDEBAR_FILE, "w") as file:
