@@ -129,7 +129,7 @@ folder: release_notes
 def update_sidebar(sidebar_entries):
     yaml = YAML()
     yaml.preserve_quotes = True  # Preserve quotes in the YAML file
-
+    yaml.indent(mapping=2, sequence=4, offset=2)
     # Load the existing sidebar YAML file
     with open(SIDEBAR_FILE, "r") as file:
         sidebar_data = yaml.load(file)
@@ -183,11 +183,10 @@ def update_sidebar(sidebar_entries):
         if not quarter_subfolder:
             quarter_subfolder = {"title": quarter_title, "output": "web, pdf", "subfolderitems": []}
             release_notes_section["subfolders"].append(quarter_subfolder)
-
         # Add the release entries to the quarter subfolder
         for release in releases:
             release_entry = {
-                "title": f"Release {release_date}",
+                "title": f"{release['title']}",
                 "url": f"{release['url']}",
                 "output": "web, pdf"
             }
