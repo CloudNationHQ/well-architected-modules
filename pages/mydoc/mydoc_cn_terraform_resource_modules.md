@@ -18,6 +18,7 @@ The following table shows the number of all available Terraform Resource Modules
 <thead>
 <tr class="header">
 <th>Module name</th>
+<th>Provider</th>
 <th>Description</th>
 <th>Latest version</th>
 <th>Link</th>
