@@ -1,3 +1,14 @@
+---
+title: Releases for 2023-12-09
+tags: [releases]
+keywords: release notes, announcements, what's new, new features
+last_updated: Mar 20, 2025
+summary: "Releases of the Terraform Well Architected Modules"
+sidebar: mydoc_sidebar
+permalink: release_notes_20231209.html
+folder: release_notes
+---
+
 # Release Notes for 2023-12-09
 
 ## azure-bastion

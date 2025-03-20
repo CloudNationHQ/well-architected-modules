@@ -9,15 +9,24 @@ API_URL = "https://registry.terraform.io/v1/modules?namespace=CloudNationHQ"
 # Directory to store the release notes
 RELEASE_NOTES_DIR = "pages/release_notes"
 
+# GitHub Personal Access Token (replace with your token or load from environment variables)
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "your_personal_access_token_here")
+
+# Headers for GitHub API requests
+HEADERS = {
+    "User-Agent": "request",
+    "Authorization": f"Bearer {GITHUB_TOKEN}",
+    "X-GitHub-Api-Version": "2022-11-28"
+}
+
 # Function to fetch all modules with pagination
 def fetch_all_modules(api_url):
     modules = []
     offset = 0
     limit = 15  # Default limit per page
-    headers = {"User-Agent": "request"}  # Add User-Agent header
 
     while True:
-        response = requests.get(f"{api_url}&offset={offset}&limit={limit}", headers=headers)
+        response = requests.get(f"{api_url}&offset={offset}&limit={limit}", headers=HEADERS)
         if response.status_code != 200:
             raise Exception(f"Failed to fetch data from Terraform Registry: {response.status_code}")
 
@@ -37,8 +46,7 @@ def fetch_all_modules(api_url):
 def fetch_releases(module_name, provider_name):
     print(f"Fetching releases for {provider_name}-{module_name}...")
     url = f"https://api.github.com/repos/CloudNationHQ/terraform-{provider_name}-{module_name}/releases"
-    headers = {"User-Agent": "request"}  # Add User-Agent header
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=HEADERS)
     if response.status_code != 200:
         raise Exception(f"Failed to fetch releases for {provider_name}-{module_name}: {response.status_code}")
     return response.json()
@@ -52,13 +60,31 @@ def generate_combined_release_notes(releases_by_date):
     for release_date, releases in releases_by_date.items():
         file_path = os.path.join(RELEASE_NOTES_DIR, f"release_notes_{release_date}.md")
 
-        # Check if the file already exists
-        if os.path.exists(file_path):
-            print(f"Release notes for {release_date} already exist. Skipping...")
-            continue
+        # # Check if the file already exists
+        # if os.path.exists(file_path):
+        #     print(f"Release notes for {release_date} already exist. Skipping...")
+        #     continue
+
+        # Generate dynamic metadata
+        title = f"Releases for {release_date}"
+        permalink = f"release_notes_{release_date.replace('-', '')}.html"
+        last_updated = datetime.now().strftime("%b %d, %Y")
 
         # Write the combined release notes to the file
         with open(file_path, "w") as file:
+            # Add the header content
+            file.write(f"""---
+title: {title}
+tags: [releases]
+keywords: release notes, announcements, what's new, new features
+last_updated: {last_updated}
+summary: "Releases of the Terraform Well Architected Modules"
+sidebar: mydoc_sidebar
+permalink: {permalink}
+folder: release_notes
+---
+
+""")
             file.write(f"# Release Notes for {release_date}\n\n")
             for release in releases:
                 module_name = release["module_name"]

@@ -1,3 +1,14 @@
+---
+title: Releases for 2025-01-27
+tags: [releases]
+keywords: release notes, announcements, what's new, new features
+last_updated: Mar 20, 2025
+summary: "Releases of the Terraform Well Architected Modules"
+sidebar: mydoc_sidebar
+permalink: release_notes_20250127.html
+folder: release_notes
+---
+
 # Release Notes for 2025-01-27
 
 ## azure-sa

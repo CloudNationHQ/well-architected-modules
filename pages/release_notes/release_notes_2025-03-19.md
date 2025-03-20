@@ -1,3 +1,14 @@
+---
+title: Releases for 2025-03-19
+tags: [releases]
+keywords: release notes, announcements, what's new, new features
+last_updated: Mar 20, 2025
+summary: "Releases of the Terraform Well Architected Modules"
+sidebar: mydoc_sidebar
+permalink: release_notes_20250319.html
+folder: release_notes
+---
+
 # Release Notes for 2025-03-19
 
 ## azure-naming
@@ -23,6 +34,19 @@
 ### Features
 
 * format documentation to include type definitions ([#42](https://github.com/CloudNationHQ/terraform-azure-func/issues/42)) ([b09582e](https://github.com/CloudNationHQ/terraform-azure-func/commit/b09582e2f8ba10b38b15e82c4c8ef5007355da47))
+
+---
+
+## azure-alerts
+### v1.2.0 (v1.2.0)
+**Published at:** 2025-03-19T18:03:38Z
+
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-alerts/compare/v1.1.0...v1.2.0) (2025-03-19)
+
+
+### Features
+
+* add enabled option for monitor alert processing rule action groups ([#13](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/13)) ([adb83cd](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/adb83cdda9cdfa358bdb49a188813e8c39110949))
 
 ---
 
