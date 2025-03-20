@@ -53,9 +53,11 @@ The following table shows the number of all available Terraform Resource Modules
 markdown_table = """
 <table>
 <colgroup>
-<col width="20%" />
+<col width="15%" />
+<col width="15%" />
+<col width="45%" />
 <col width="10%" />
-<col width="70%" />
+<col width="15%" />
 </colgroup>
 <thead>
 <tr class="header">
