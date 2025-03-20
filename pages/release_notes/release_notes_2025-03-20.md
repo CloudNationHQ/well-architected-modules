@@ -11,6 +11,33 @@ folder: release_notes
 
 # Release Notes for 2025-03-20
 
+## azure-aa
+### v2.6.0 (v2.6.0)
+**Published at:** 2025-03-20T08:40:00Z
+
+## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.5.0...v2.6.0) (2025-03-20)
+
+
+### Features
+
+* add missing functionality runbooks ([#43](https://github.com/CloudNationHQ/terraform-azure-aa/issues/43)) ([73a2524](https://github.com/CloudNationHQ/terraform-azure-aa/commit/73a2524a02dc52bec0d0e4a5c5879095305a3cb3))
+* **deps:** bump golang.org/x/net from 0.33.0 to 0.36.0 in /tests ([#42](https://github.com/CloudNationHQ/terraform-azure-aa/issues/42)) ([24b738b](https://github.com/CloudNationHQ/terraform-azure-aa/commit/24b738bcdac14bca9cf1b607dae2165a31bd21ba))
+
+---
+
+## azure-costs
+### v1.4.0 (v1.4.0)
+**Published at:** 2025-03-20T08:39:00Z
+
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-costs/compare/v1.3.0...v1.4.0) (2025-03-20)
+
+
+### Features
+
+* add missing functionalty anomaly alerts and budgets ([#15](https://github.com/CloudNationHQ/terraform-azure-costs/issues/15)) ([6ffa8a4](https://github.com/CloudNationHQ/terraform-azure-costs/commit/6ffa8a47364927acddb0bbc937d87e143174dbed))
+
+---
+
 ## azure-sub
 ### v2.0.0 (v2.0.0)
 **Published at:** 2025-03-20T07:28:06Z
