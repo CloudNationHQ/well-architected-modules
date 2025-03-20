@@ -3,7 +3,7 @@ title: Releases for 2023-11-23
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
 last_updated: Mar 20, 2025
-summary: "Releases of the Terraform Well Architected Modules"
+summary: "Releases of the Terraform Well Architected Modules 2023-11-23"
 sidebar: mydoc_sidebar
 permalink: release_notes_20231123.html
 folder: release_notes
