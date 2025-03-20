@@ -59,10 +59,10 @@ entries:
             url: faq_module_faq.html
             output: web, pdf
           - title: Glossary
-            url: glossary_module_glossary.html
+            url: module_terminology.html
             output: web, pdf
           - title: Resources
-            url: resources_module_resources.html
+            url: module_resources.html
             output: web, pdf
       - title: Release Notes
         url: /tag_releases.html

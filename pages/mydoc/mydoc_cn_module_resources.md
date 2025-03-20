@@ -1,7 +1,7 @@
 ---
 title: Resources
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_resources_module_resources.html
+permalink: module_resources.html
 folder: mydoc
 ---
 

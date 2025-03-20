@@ -1,7 +1,7 @@
 ---
-title: Glossary
+title: Terminology
 sidebar: mydoc_sidebar
-permalink: mydoc_cn_glossary_module_glossary.html
+permalink: module_terminology.html
 folder: mydoc
 ---
 
@@ -25,6 +25,10 @@ This page holds a table of all the terms, abbreviations, and acronyms that are u
 <td markdown="span">Well Architected Modules</td>
 </tr>
 <tr>
+<td markdown="span">TF</td>
+<td markdown="span">Terraform</td>
+</tr>
+<tr>
 <td markdown="span">IaC</td>
 <td markdown="span">Infrastructure-as-code
 </td>
@@ -37,6 +41,18 @@ This page holds a table of all the terms, abbreviations, and acronyms that are u
 <tr>
 <td markdown="span">TFWAM</td>
 <td markdown="span">Terraform Well Architect Modules
+</td>
+<tr>
+<td markdown="span">Az</td>
+<td markdown="span">Azure
+</td>
+<tr>
+<td markdown="span">WAF</td>
+<td markdown="span">Well Architected Framework
+</td>
+<tr>
+<td markdown="span">CAF ES</td>
+<td markdown="span">Cloud Adoption Framework Enterprise Scale
 </td>
 </tr>
 </tbody>
