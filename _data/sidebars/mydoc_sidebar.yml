@@ -24,17 +24,17 @@ entries:
             output: web, pdf
             type: homepage
           - title: Resource Modules
-            url: /mydoc_cn_terraform_resource_modules.html
+            url: terraform_resource_modules.html
             output: web
           - title: Pattern Modules
-            url: /mydoc_cn_terraform_pattern_modules.html
+            url: terraform_pattern_modules.html
             output: web
 
       - title: Concepts
         output: web, pdf
         folderitems:
           - title: What Why How
-            url: /mydoc_cn_concepts_what_why_how.html
+            url: concepts_what_why_how.html
             output: web, pdf
 
       - title: Specifications & Definitions
@@ -42,34 +42,34 @@ entries:
         folderitems:
           - title: Team Definitions RACI
             output: web, pdf
-            url: /mydoc_cn_specs_teamdef_raci.html
+            url: specs_teamdef_raci.html
           - title: Module Classifications
-            url: /mydoc_cn_specs_module_classifications.html
+            url: specs_module_classifications.html
             output: web, pdf
           - title: Module Lifecycle
-            url: /mydoc_cn_specs_module_lifecycle.html
+            url: specs_module_lifecycle.html
             output: web, pdf
           - title: Module Specification
-            url: /mydoc_cn_specs_module_specifications.html
+            url: specs_module_specifications.html
             output: web, pdf
           - title: Help & Support
-            url: /mydoc_cn_support_module_support.html
+            url: support_module_support.html
             output: web, pdf
           - title: Contributing
-            url: /mydoc_cn_contributing_module_contributing.html
+            url: contributing_module_contributing.html
             output: web, pdf
           - title: FAQ
-            url: /mydoc_cn_faq_module_faq.html
+            url: faq_module_faq.html
             output: web, pdf
           - title: Glossary
-            url: /mydoc_cn_glossary_module_glossary.html
+            url: glossary_module_glossary.html
             output: web, pdf
           - title: Resources
-            url: /mydoc_cn_resources_module_resources.html
+            url: resources_module_resources.html
             output: web, pdf
 
       - title: Release Notes
-        :url: /tag_releases.html
+        url: /tag_releases.html
         output: web, pdf
         folderitems:
           subfolders:
