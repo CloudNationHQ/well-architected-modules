@@ -17,19 +17,26 @@ h4 {
     color: #808080;
 }
 
+.nav>li>a {
+    border-radius: 25px
+}
+
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
     background-color: #248ec2;
     color: white;
+    border-radius: 25px
 }
 
 .nav>li.active>a {
     background-color: #1fb6ff;
+    border-radius: 25px
 }
 
 .nav>li>a:hover {
     background-color: #248ec2;
+    border-radius: 25px
 }
 
 div.navbar-collapse .dropdown-menu>li>a:hover {
@@ -40,6 +47,7 @@ div.navbar-collapse .dropdown-menu>li>a:hover {
     background-color: #FAFAFA !important;
     color: #248EC2;
     font-weight: bold;
+    border-radius: 25px
 }
 
 a[data-toggle="tooltip"] {
