@@ -59,6 +59,7 @@ markdown_table = """
 <thead>
 <tr class="header">
 <th>Module name</th>
+<th>Provider</th>
 <th>Description</th>
 <th>Latest version</th>
 <th>Link</th>
