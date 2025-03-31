@@ -15,7 +15,7 @@ entries:
             url: /tocpage.html
             output: pdf
             type: frontmatter
-      - title: Navigation
+      - title: WAM Concept
         output: web, pdf
         folderitems:
           - title: Home
@@ -28,18 +28,12 @@ entries:
           - title: Pattern Modules
             url: terraform_pattern_modules.html
             output: web
-      - title: Concepts
+      - title: Design Considerations
         output: web, pdf
         folderitems:
           - title: Introduction WAM
             url: introduction_well_architected_modules.html
             output: web, pdf
-      - title: Specifications & Definitions
-        output: web, pdf
-        folderitems:
-          - title: Team Definitions RACI
-            output: web, pdf
-            url: specs_teamdef_raci.html
           - title: Module Classifications
             url: specs_module_classifications.html
             output: web, pdf
@@ -49,6 +43,12 @@ entries:
           - title: Module Specification
             url: specs_module_specifications.html
             output: web, pdf
+      - title: Support & Contribution
+        output: web, pdf
+        folderitems:
+          - title: Team Definitions RACI
+            output: web, pdf
+            url: specs_teamdef_raci.html
           - title: Help & Support
             url: support_module_support.html
             output: web, pdf
