@@ -97,4 +97,5 @@ The WAM Core Team will drive the creation, support, and enforcement of Well Arch
 <br> Alternatively, you can log a support ticket, which will be redirected to the WAM team and the module owner(s).
 <br> Refer to the Module Support section [here](module_support.html) for more details." %}
 
+
 {% include links.html %}
