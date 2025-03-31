@@ -15,7 +15,29 @@ WAM serves as a unified code base and toolkit for Customers, Partners, and Cloud
 
 By codifying Microsoft’s Well-Architected Framework (WAF) and incorporating best practices, WAM accelerates the development and delivery of cloud-native or migrated applications and their supporting infrastructure.
 
-## Modules
+## What are Well Architected Modules?
+
+Well Architected Modules (WAM) represent CloudNation's unified approach to defining and delivering high-quality Infrastructure as Code (IaC) modules. Our goal is to establish a single, consistent standard for creating, consuming, and maintaining IaC modules that align with best practices and the well-architected framework.
+
+![WAM Modules](./images/wam-picture.png)
+
+### Key Objectives:
+- Define how modules should be constructed and built.
+- Enforce consistency and testing wherever possible.
+- Simplify module consumption for users.
+- Deliver reliable resources and configurations for consumers.
+- Align modules across public cloud platforms (e.g., Azure, Databricks).
+
+Our mission is to provide a comprehensive library of Well Architected Modules across multiple IaC repositories. These modules, supported by CloudNation, will accelerate Azure resource deployment and architectural patterns, empowering organizations worldwide on their IaC journey.
+
+### Key Features:
+- Flexible, generalized, and multi-purpose
+- Integrates child and extension resources
+- Enhances code quality and ensures a unified user experience
+
+WAM simplifies the development process, enabling teams to deliver robust solutions efficiently.
+
+## Module types
 
 CloudNation distinguishes two types of modules: **Resource Modules** and **Pattern Modules**.
 
@@ -38,36 +60,6 @@ These modules are designed to deploy Azure resources, their extensions, and reus
 They act as composable building blocks that encapsulate groups of resources dedicated to specific tasks.
 
 When talking about Well-Architected-Modules or modules we refer to the resource modules from here onwards. 
-
-
-### Key Features:
-- Flexible, generalized, and multi-purpose
-- Integrates child and extension resources
-- Enhances code quality and ensures a unified user experience
-
-WAM simplifies the development process, enabling teams to deliver robust solutions efficiently.
-
-{% include note.html content="WAM is owned, developed, and supported by CloudNation. For support or feature requests, you can raise a GitHub issue on this repository or the module’s repository directly.
-
-<br> Alternatively, you can log a support ticket, which will be redirected to the WAM team and the module owner(s).
-
-Refer to the Module Support section [here](module_support.html) for more details." %}
-
-
-## What are Well Architected Modules?
-
-Well Architected Modules (WAM) represent CloudNation's unified approach to defining and delivering high-quality Infrastructure as Code (IaC) modules. Our goal is to establish a single, consistent standard for creating, consuming, and maintaining IaC modules that align with best practices and the well-architected framework.
-
-![WAM Modules](../../images/wam-picture.png)
-
-### Key Objectives:
-- Define how modules should be constructed and built.
-- Enforce consistency and testing wherever possible.
-- Simplify module consumption for users.
-- Deliver reliable resources and configurations for consumers.
-- Align modules across public cloud platforms (e.g., Azure, Databricks).
-
-Our mission is to provide a comprehensive library of Well Architected Modules across multiple IaC repositories. These modules, supported by Microsoft, will accelerate Azure resource deployment and architectural patterns, empowering organizations worldwide on their IaC journey.
 
 ## Summary of "Well Architected" Principles
 
@@ -99,5 +91,11 @@ The WAM Core Team will drive the creation, support, and enforcement of Well Arch
 - Enforcing compliance with WAM specifications through unit, integration, and end-to-end deployment tests.
 - Offering long-term support for WAM modules, regardless of ownership status.
 - Backing all efforts with the WAM Core Team of CloudNation.
+
+{% include note.html content="WAM is owned, developed, and supported by CloudNation. For support or feature requests, you can raise a GitHub issue on this repository or the module’s repository directly.
+
+<br> Alternatively, you can log a support ticket, which will be redirected to the WAM team and the module owner(s).
+<br> Refer to the Module Support section [here](module_support.html) for more details." %}
+
 
 {% include links.html %}
