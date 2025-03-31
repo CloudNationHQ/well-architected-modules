@@ -1,52 +1,41 @@
 ---
-title: "CloudNation Well Architected Modules"
-keywords: well architected modules terraform 
-tags: [publishing, single_sourcing, content_types, wam]
+title: "CloudNation Well-Architected Modules"
+keywords: well-architected modules, terraform, azure
+tags: [terraform, azure, wam, cloudnation]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: This website describe the strategy and progress of the terraform module development for Microsoft Azure.
+summary: This website outlines the strategy and progress of Terraform module development for Azure by CloudNation.
 ---
 
 ## Value Proposition
 
-Well Architected Modules (WAM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like.
+Well-Architected Modules (WAM) is an initiative to establish and standardize best practices for Infrastructure-as-Code (IaC) modules. These modules adhere to defined standards, ensuring quality and consistency across Terraform implementations. Once aligned, they are classified as WAMs and made available through their respective registries.
 
-Modules will then align to these standards, across Terraform and will then be classified as WAMs and available from their respective language specific registries.
+WAM serves as a unified code base and toolkit for Customers, Partners, and CloudNation. It is a community-driven effort, fostering collaboration both within and outside CloudNation.
 
-WAM is a common code base, a toolkit for our Customers, our Partners, and CloudNation. It’s a community driven aspiration, inside and outside of CloudNation.
-
-Well Architected Modules enable and accelerate consistent solution development and delivery of cloud-native or migrated applications and their supporting infrastructure by codifying Microsoft guidance (WAF), with best practice configurations.
+By codifying Microsoft’s Well-Architected Framework (WAF) and incorporating best practices, WAM accelerates the development and delivery of cloud-native or migrated applications and their supporting infrastructure.
 
 ## Modules
 
-Well Architected Modules provides two types of modules: Resource and Pattern modules.
+WAM provides two types of modules: **Resource Modules** and **Pattern Modules**.
 
-WAM modules are used to deploy Azure resources and their extensions, as well as reusable architectural patterns consistently.
+These modules are designed to deploy Azure resources, their extensions, and reusable architectural patterns consistently. They act as composable building blocks that encapsulate groups of resources dedicated to specific tasks.
 
-Modules are composable building blocks that encapsulate groups of resources dedicated to one task.
+### Key Features:
+- Flexible, generalized, and multi-purpose
+- Integrates child and extension resources
+- Enhances code quality and ensures a unified user experience
 
-Flexible, generalized, multi-purpose
-Integrates child resources
-Integrates extension resources
-WAM improves code quality and provides a unified customer experience.
+WAM simplifies the development process, enabling teams to deliver robust solutions efficiently.
 
-{% include note.html content="WAM is owned, developed & supported by CloudNation, you may raise a GitHub issue on this repository or the module’s repository directly to get support or log feature requests.
+{% include note.html content="WAM is owned, developed, and supported by CloudNation. For support or feature requests, you can raise a GitHub issue on this repository or the module’s repository directly.
 
-You can also log a support ticket and these will be redirected to the WAM team and the module owner(s).
+Alternatively, you can log a support ticket, which will be redirected to the WAM team and the module owner(s).
 
-See Module Support for more information." %}
+Refer to the Module Support section here for more details." %}
 
-## Next Steps
+## Introduction 
 
-
-Review What, Why, How
-
-Review the Module Classification Definitions
-
-Review the Shared Specification
-
-Review the FAQ
-
-Learn how to contribute to WAM
+Check here for more information on the Well Architected Modules of CloudNation.
 
 {% include links.html %}

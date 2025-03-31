@@ -31,8 +31,8 @@ entries:
       - title: Concepts
         output: web, pdf
         folderitems:
-          - title: What Why How
-            url: concepts_what_why_how.html
+          - title: Introduction WAM
+            url: introduction_well_architected_modules.html
             output: web, pdf
       - title: Specifications & Definitions
         output: web, pdf
