@@ -12,6 +12,14 @@ div.container {
     border-collapse: collapse;
 }
 
+@media (max-width: 768px) {
+
+    .table-responsive table th:nth-child(3),
+    .table-responsive table td:nth-child(3) {
+        display: none;
+    }
+}
+
 .fa-home:before {
     visibility: hidden
 }
