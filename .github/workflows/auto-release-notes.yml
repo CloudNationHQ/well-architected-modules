@@ -1,0 +1,62 @@
+name: Auto Release Notes and Module Update
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Every 4 hours
+  workflow_dispatch:
+
+jobs:
+  update-release-notes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main # Change to your desired branch
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run generate_release_notes.py
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: python generate_release_notes.py
+
+      - name: Run update_modules.py
+        run: python update_modules.py
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.md
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create PR if changes
+        if: steps.git-check.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Automated update of release notes and modules"
+          branch: auto/update-release-notes
+          base: main
+          title: "Automated update of release notes and modules"
+          body: "This PR was created automatically by the workflow."
+          delete-branch: true
+          merge-method: squash
+          merge: true
+
+      - name: No updates found
+        if: steps.git-check.outputs.changed == 'false'
+        run: echo "No updates found."
