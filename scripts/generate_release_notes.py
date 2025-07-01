@@ -9,8 +9,6 @@ from collections import defaultdict
 API_URL = "https://registry.terraform.io/v1/modules?namespace=CloudNationHQ"
 
 # Directory to store the release notes
-
-
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 RELEASE_NOTES_DIR = os.path.join(SCRIPT_DIR, '..', 'pages', 'release_notes')
 
