@@ -2,7 +2,7 @@
 title: Releases for 2024-06-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Mar 20, 2025
+last_updated: Jul 01, 2025
 summary: "Releases of the Terraform Well Architected Modules 2024-06-07"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240607.html
@@ -25,69 +25,6 @@ folder: release_notes
 * **deps:** bump github.com/hashicorp/go-getter in /tests ([#37](https://github.com/CloudNationHQ/terraform-azure-law/issues/37)) ([6dfbc92](https://github.com/CloudNationHQ/terraform-azure-law/commit/6dfbc928c353d253a9d123eea35de0518cb4f38a))
 * **deps:** bump github.com/stretchr/testify in /tests ([#32](https://github.com/CloudNationHQ/terraform-azure-law/issues/32)) ([1974298](https://github.com/CloudNationHQ/terraform-azure-law/commit/19742982e6401207caafa88d0ede9c15237dfd11))
 * **deps:** bump google.golang.org/protobuf in /tests ([#33](https://github.com/CloudNationHQ/terraform-azure-law/issues/33)) ([0a8ff7d](https://github.com/CloudNationHQ/terraform-azure-law/commit/0a8ff7d71f7958627a021aa385895d4de7d58beb))
-
----
-
-## azure-vnet
-### v2.5.0 (v2.5.0)
-**Published at:** 2024-06-07T15:15:51Z
-
-## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v2.4.1...v2.5.0) (2024-06-07)
-
-
-### Features
-
-* create pull request template ([#60](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/60)) ([ccd2146](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/ccd214627cc73f5ad153826c9dc9f01f55a28c2b))
-* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#55](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/55)) ([028b357](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/028b357b88125370388e379b7a4796ad2472d377))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#59](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/59)) ([c0b1a88](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/c0b1a881c526287a7dcb96405f62cf7e441ad3eb))
-* **deps:** bump github.com/hashicorp/go-getter in /tests ([#57](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/57)) ([929717b](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/929717b1c9750c752ef4e6cdad5de41403048b6e))
-* **deps:** bump golang.org/x/net from 0.19.0 to 0.23.0 in /tests ([#56](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/56)) ([9bd9abc](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/9bd9abc4981b21a1d7faa532d5226f0e565ad88f))
-* **deps:** bump google.golang.org/protobuf in /tests ([#53](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/53)) ([da2a415](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/da2a415ad6a1d46983f6eda25c067b7ecd6835be))
-
----
-
-## azure-sa
-### v0.18.0 (v0.18.0)
-**Published at:** 2024-06-07T14:51:38Z
-
-## [0.18.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.17.0...v0.18.0) (2024-06-07)
-
-
-### Features
-
-* add pull request template ([#70](https://github.com/CloudNationHQ/terraform-azure-sa/issues/70)) ([8a590ba](https://github.com/CloudNationHQ/terraform-azure-sa/commit/8a590bae822ddf753fa350ed58a88be9d8d9c6fd))
-
----
-
-## azure-sa
-### v0.17.0 (v0.17.0)
-**Published at:** 2024-06-07T11:15:57Z
-
-## [0.17.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.16.1...v0.17.0) (2024-06-07)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#63](https://github.com/CloudNationHQ/terraform-azure-sa/issues/63)) ([f7734f4](https://github.com/CloudNationHQ/terraform-azure-sa/commit/f7734f4de49c7ea0543f9e77bbc8f04a61e1fb31))
-* **deps:** bump github.com/hashicorp/go-getter in /tests ([#61](https://github.com/CloudNationHQ/terraform-azure-sa/issues/61)) ([4de5cc4](https://github.com/CloudNationHQ/terraform-azure-sa/commit/4de5cc46be51fd285840cc52cfc760c7d0d162fa))
-
-
-### Bug Fixes
-
-* ensure container access type is fully optional ([#68](https://github.com/CloudNationHQ/terraform-azure-sa/issues/68)) ([17c18dd](https://github.com/CloudNationHQ/terraform-azure-sa/commit/17c18dd2e6e421b7ffd9b30554f2212cfbd1c32b))
-
----
-
-## azure-sa
-### v0.16.1 (v0.16.1)
-**Published at:** 2024-06-07T08:11:29Z
-
-## [0.16.1](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.16.0...v0.16.1) (2024-06-07)
-
-
-### Bug Fixes
-
-* fix handling of optional cors rules for blob, shares and queues ([#65](https://github.com/CloudNationHQ/terraform-azure-sa/issues/65)) ([163033b](https://github.com/CloudNationHQ/terraform-azure-sa/commit/163033be9ec28b813855b89e3c0f50866da6a677))
 
 ---
 

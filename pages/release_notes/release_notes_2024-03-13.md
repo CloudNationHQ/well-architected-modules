@@ -2,7 +2,7 @@
 title: Releases for 2024-03-13
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Mar 20, 2025
+last_updated: Jul 01, 2025
 summary: "Releases of the Terraform Well Architected Modules 2024-03-13"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240313.html
@@ -10,24 +10,6 @@ folder: release_notes
 ---
 
 # Release Notes for 2024-03-13
-
-## azure-vm
-### v1.9.0 (v1.9.0)
-**Published at:** 2024-03-13T10:48:23Z
-
-## [1.9.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v1.8.0...v1.9.0) (2024-03-13)
-
-
-### Features
-
-* **deps:** bump github.com/stretchr/testify in /tests ([#87](https://github.com/CloudNationHQ/terraform-azure-vm/issues/87)) ([9216ff9](https://github.com/CloudNationHQ/terraform-azure-vm/commit/9216ff9a788c956deba155a830de4f58001b7184))
-
-
-### Bug Fixes
-
-* change key of instance output ([#88](https://github.com/CloudNationHQ/terraform-azure-vm/issues/88)) ([08763d5](https://github.com/CloudNationHQ/terraform-azure-vm/commit/08763d5df4d1dfbdb050571e2d8f3ca71b2df1dc))
-
----
 
 ## azure-pdns
 ### v0.1.0 (v0.1.0)

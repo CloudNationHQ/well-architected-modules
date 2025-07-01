@@ -2,7 +2,7 @@
 title: Releases for 2024-03-19
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Mar 20, 2025
+last_updated: Jul 01, 2025
 summary: "Releases of the Terraform Well Architected Modules 2024-03-19"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240319.html
@@ -10,19 +10,6 @@ folder: release_notes
 ---
 
 # Release Notes for 2024-03-19
-
-## azure-sa
-### v0.14.0 (v0.14.0)
-**Published at:** 2024-03-19T13:53:52Z
-
-## [0.14.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.13.0...v0.14.0) (2024-03-19)
-
-
-### Features
-
-* refactored extended tests for modularity and readability and added container verifications ([#52](https://github.com/CloudNationHQ/terraform-azure-sa/issues/52)) ([5c9a15e](https://github.com/CloudNationHQ/terraform-azure-sa/commit/5c9a15ebb2baae1bff2d248deb0887f4f6a5c986))
-
----
 
 ## azure-bastion
 ### v0.6.0 (v0.6.0)
