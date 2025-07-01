@@ -2,7 +2,7 @@
 title: Releases for 2024-07-03
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Mar 20, 2025
+last_updated: Jul 01, 2025
 summary: "Releases of the Terraform Well Architected Modules 2024-07-03"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240703.html
@@ -10,19 +10,6 @@ folder: release_notes
 ---
 
 # Release Notes for 2024-07-03
-
-## azure-vnet
-### v2.7.0 (v2.7.0)
-**Published at:** 2024-07-03T12:43:38Z
-
-## [2.7.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v2.6.0...v2.7.0) (2024-07-03)
-
-
-### Features
-
-* update terraform random module version to 3.6 ([#69](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/69)) ([88694d6](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/88694d68184a31af4f6e99506a34ea850dba5eb8))
-
----
 
 ## azure-acr
 ### v1.5.0 (v1.5.0)

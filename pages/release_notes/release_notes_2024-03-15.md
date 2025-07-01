@@ -2,7 +2,7 @@
 title: Releases for 2024-03-15
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Mar 20, 2025
+last_updated: Jul 01, 2025
 summary: "Releases of the Terraform Well Architected Modules 2024-03-15"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240315.html
@@ -10,20 +10,6 @@ folder: release_notes
 ---
 
 # Release Notes for 2024-03-15
-
-## azure-sa
-### v0.13.0 (v0.13.0)
-**Published at:** 2024-03-15T14:32:14Z
-
-## [0.13.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.12.0...v0.13.0) (2024-03-15)
-
-
-### Features
-
-* small correction in documentation private endpoint usage ([#51](https://github.com/CloudNationHQ/terraform-azure-sa/issues/51)) ([ccf48a9](https://github.com/CloudNationHQ/terraform-azure-sa/commit/ccf48a91f0b79135d20bd4f59472c20de0db2b71))
-* update documentation ([#49](https://github.com/CloudNationHQ/terraform-azure-sa/issues/49)) ([6edf53b](https://github.com/CloudNationHQ/terraform-azure-sa/commit/6edf53b6c42e4755e784bde829b072a8edd49c6e))
-
----
 
 ## azure-acr
 ### v0.5.0 (v0.5.0)

@@ -2,7 +2,7 @@
 title: Releases for 2025-03-20
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Mar 20, 2025
+last_updated: Jul 01, 2025
 summary: "Releases of the Terraform Well Architected Modules 2025-03-20"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250320.html
@@ -22,6 +22,21 @@ folder: release_notes
 
 * add missing functionality runbooks ([#43](https://github.com/CloudNationHQ/terraform-azure-aa/issues/43)) ([73a2524](https://github.com/CloudNationHQ/terraform-azure-aa/commit/73a2524a02dc52bec0d0e4a5c5879095305a3cb3))
 * **deps:** bump golang.org/x/net from 0.33.0 to 0.36.0 in /tests ([#42](https://github.com/CloudNationHQ/terraform-azure-aa/issues/42)) ([24b738b](https://github.com/CloudNationHQ/terraform-azure-aa/commit/24b738bcdac14bca9cf1b607dae2165a31bd21ba))
+
+---
+
+## azure-pip
+### v2.6.0 (v2.6.0)
+**Published at:** 2025-03-20T14:27:18Z
+
+## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v2.5.0...v2.6.0) (2025-03-20)
+
+
+### Features
+
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#31](https://github.com/CloudNationHQ/terraform-azure-pip/issues/31)) ([78690c5](https://github.com/CloudNationHQ/terraform-azure-pip/commit/78690c5c563c3f2863652acc41154dd800bdc1c8))
+* **deps:** bump golang.org/x/net from 0.33.0 to 0.36.0 in /tests ([#32](https://github.com/CloudNationHQ/terraform-azure-pip/issues/32)) ([3b4b081](https://github.com/CloudNationHQ/terraform-azure-pip/commit/3b4b081debbc35db6f857ac9ff18df966e8e26aa))
+* format documentation to include type definitions ([#33](https://github.com/CloudNationHQ/terraform-azure-pip/issues/33)) ([aac976e](https://github.com/CloudNationHQ/terraform-azure-pip/commit/aac976eb94c600be1c5c4f0b11015e961049237d))
 
 ---
 
