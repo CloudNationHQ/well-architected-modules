@@ -12,7 +12,7 @@ API_URL = "https://registry.terraform.io/v1/modules?namespace=CloudNationHQ"
 RELEASE_NOTES_DIR = "pages/release_notes"
 
 # GitHub Personal Access Token (replace with your token or load from environment variables)
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "your_personal_access_token_here")
+GITHUB_TOKEN = os.getenv("PAT_TOKEN")
 
 # Headers for GitHub API requests
 HEADERS = {
