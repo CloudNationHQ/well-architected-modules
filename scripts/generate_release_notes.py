@@ -1,8 +1,7 @@
 import requests
 import os
-# import yaml
-from ruamel.yaml import YAML
 import time
+from ruamel.yaml import YAML
 from datetime import datetime
 from collections import defaultdict
 
