@@ -133,7 +133,6 @@ def update_sidebar(sidebar_entries):
     # Load the existing sidebar YAML file
     with open(SIDEBAR_FILE, "r") as file:
         sidebar_data = yaml.load(file)
-    print(sidebar_data)
 
      # Initialize the YAML structure if the file is empty
     if sidebar_data is None:
