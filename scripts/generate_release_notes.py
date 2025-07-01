@@ -22,7 +22,7 @@ HEADERS = {
 }
 
 # Path to the sidebar YAML file
-SIDEBAR_FILE = "/_data/sidebars/mydoc_sidebar.yml"
+SIDEBAR_FILE = "_data/sidebars/mydoc_sidebar.yml"
 
 # Function to fetch all modules with pagination
 def fetch_all_modules(api_url):
