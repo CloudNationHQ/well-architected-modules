@@ -1,7 +1,10 @@
 import requests
+import os
 
 # Filepath to the Markdown file
-MARKDOWN_FILE = "../pages/mydoc/mydoc_cn_terraform_resource_modules.md"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+MARKDOWN_FILE = os.path.join(SCRIPT_DIR, '..', 'pages', 'mydoc', 'mydoc_cn_terraform_resource_modules.md')
+
 
 # Terraform Registry API base URL for the namespace
 API_URL = "https://registry.terraform.io/v1/modules?namespace=CloudNationHQ"

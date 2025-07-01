@@ -9,7 +9,11 @@ from collections import defaultdict
 API_URL = "https://registry.terraform.io/v1/modules?namespace=CloudNationHQ"
 
 # Directory to store the release notes
-RELEASE_NOTES_DIR = "../pages/release_notes"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+RELEASE_NOTES_DIR = os.path.join(SCRIPT_DIR, '..', 'pages', 'release_notes')
+
+# Path to the sidebar YAML file
+SIDEBAR_FILE = os.path.join(SCRIPT_DIR, '..', '_data', 'sidebars', 'mydoc_sidebar.yml')
 
 # GitHub Personal Access Token (replace with your token or load from environment variables)
 GITHUB_TOKEN = os.getenv("PAT_TOKEN")
@@ -20,9 +24,6 @@ HEADERS = {
     "Authorization": f"Bearer {GITHUB_TOKEN}",
     "X-GitHub-Api-Version": "2022-11-28"
 }
-
-# Path to the sidebar YAML file
-SIDEBAR_FILE = "_data/sidebars/mydoc_sidebar.yml"
 
 # Function to fetch all modules with pagination
 def fetch_all_modules(api_url):
