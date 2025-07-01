@@ -56,8 +56,6 @@ jobs:
           title: "Automated update of release notes and modules"
           body: "This PR was created automatically by the workflow."
           delete-branch: true
-          merge-method: squash
-          merge: true
 
       - name: No updates found
         if: steps.git-check.outputs.changed == 'false'
