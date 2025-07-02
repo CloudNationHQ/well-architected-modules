@@ -2,7 +2,7 @@
 title: Releases for 2025-03-21
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 01, 2025
+last_updated: Jul 02, 2025
 summary: "Releases of the Terraform Well Architected Modules 2025-03-21"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250321.html
