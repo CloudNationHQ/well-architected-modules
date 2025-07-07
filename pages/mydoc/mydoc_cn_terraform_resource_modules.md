@@ -81,7 +81,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">apim</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates api manager resources used by workloads and accelerators..</td> 
-<td markdown="span">2.3.0</td>
+<td markdown="span">2.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-apim" target="_blank">Github repo apim</a></td>
 </tr>
 
@@ -241,7 +241,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">fwp</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates firewall policy resources used by workloads and accelerators..</td> 
-<td markdown="span">3.0.0</td>
+<td markdown="span">3.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-fwp" target="_blank">Github repo fwp</a></td>
 </tr>
 
@@ -425,7 +425,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">sub</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates subscription resource(s).</td> 
-<td markdown="span">2.3.1</td>
+<td markdown="span">3.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-sub" target="_blank">Github repo sub</a></td>
 </tr>
 
