@@ -318,6 +318,15 @@ entries:
                   - title: Release 2025-04-03
                     url: /release_notes_20250403.html
                     output: web, pdf
+              - title: Q3 2025
+                output: web, pdf
+                subfolderitems:
+                  - title: Release 2025-07-07
+                    url: /release_notes_20250707.html
+                    output: web, pdf
+                  - title: Release 2025-07-04
+                    url: /release_notes_20250704.html
+                    output: web, pdf
               - title: Q1 2024
                 output: web, pdf
                 subfolderitems:
