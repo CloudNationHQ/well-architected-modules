@@ -22,33 +22,59 @@ entries:
             url: /index.html
             output: web, pdf
             type: homepage
-          - title: Resource Modules
-            url: terraform_resource_modules.html
-            output: web
-          - title: Pattern Modules
-            url: terraform_pattern_modules.html
-            output: web
+          - title: Module Types
+            url: terraform_module_types.html
+            output: web, pdf
+            subfolders:
+              - title: Resource Modules
+                output: web
+                subfolderitems:
+                  - title: Resource Modules Overview
+                    url: terraform_resource_modules.html
+                    output: web, pdf
+              - title: Pattern Modules
+                output: web
+                subfolderitems:
+                  - title: Pattern Modules Overview
+                    url: terraform_pattern_modules.html
+                    output: web, pdf
+          # - title: Module Lifecycle
+          #   url: specs_module_lifecycle.html
+          #   output: web, pdf
+          # - title: Module Specification
+          #   url: specs_module_specifications.html
+          #   output: web, pdf
       - title: Design Considerations
         output: web, pdf
         folderitems:
-          - title: Introduction WAM
-            url: introduction_well_architected_modules.html
+          - title: Design Considerations for WAM
+            url: design_considerations_well_architected_modules.html
             output: web, pdf
-          - title: Module Classifications
-            url: specs_module_classifications.html
-            output: web, pdf
-          - title: Module Lifecycle
-            url: specs_module_lifecycle.html
-            output: web, pdf
-          - title: Module Specification
-            url: specs_module_specifications.html
-            output: web, pdf
+            subfolders:
+              - title: Design Guidelines
+                output: web
+                subfolderitems:
+                  - title: Design Guidelines 1
+                    url: terraform_module_guideline_1.html
+                    output: web, pdf
+                  - title: Design Guidelines 2
+                    url: terraform_module_guideline_2.html
+                    output: web, pdf
+                  - title: Design Guidelines 3
+                    url: terraform_module_guideline_3.html
+                    output: web, pdf
+                  - title: Design Guidelines 4
+                    url: terraform_module_guideline_4.html
+                    output: web, pdf
+                  - title: Design Guidelines 5
+                    url: terraform_module_guideline_5.html
+                    output: web, pdf
       - title: Support & Contribution
         output: web, pdf
         folderitems:
-          - title: Team Definitions RACI
-            output: web, pdf
-            url: specs_teamdef_raci.html
+          # - title: Team Definitions RACI
+          #   output: web, pdf
+          #   url: specs_teamdef_raci.html
           - title: Help & Support
             url: support_module_support.html
             output: web, pdf
@@ -57,12 +83,6 @@ entries:
             output: web, pdf
           - title: FAQ
             url: faq_module_faq.html
-            output: web, pdf
-          - title: Glossary
-            url: module_terminology.html
-            output: web, pdf
-          - title: Resources
-            url: module_resources.html
             output: web, pdf
       - title: Release Notes
         url: /tag_releases.html
