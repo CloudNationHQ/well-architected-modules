@@ -321,6 +321,9 @@ entries:
               - title: Q3 2025
                 output: web, pdf
                 subfolderitems:
+                  - title: Release 2025-07-08
+                    url: /release_notes_20250708.html
+                    output: web, pdf
                   - title: Release 2025-07-07
                     url: /release_notes_20250707.html
                     output: web, pdf

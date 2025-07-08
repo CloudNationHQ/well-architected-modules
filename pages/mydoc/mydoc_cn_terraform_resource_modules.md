@@ -257,7 +257,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">law</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates log analytic resources used by workloads and accelerators..</td> 
-<td markdown="span">3.1.0</td>
+<td markdown="span">3.2.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-law" target="_blank">Github repo law</a></td>
 </tr>
 
@@ -425,7 +425,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">sub</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates subscription resource(s).</td> 
-<td markdown="span">3.0.0</td>
+<td markdown="span">3.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-sub" target="_blank">Github repo sub</a></td>
 </tr>
 
