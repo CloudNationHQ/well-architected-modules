@@ -6,20 +6,22 @@ topnav:
       - title: GitHub
         external_url: https://github.com/CloudNationHQ/well-architected-modules
       - title: News
-        url: /news
+        external_url: https://www.cloudnation.nl/inspiratie
 
 #Topnav dropdowns
 topnav_dropdowns:
   - title: Topnav dropdowns
     folders:
-      - title: CloudNation Accelerators
+      - title: CloudNation Accelerators (WIP)
         folderitems:
           - title: Azure Landing Zone Accelerator
             url: /p1_landing_page.html
-          - title: Azure Data Landing Zone Accelerator
+          - title: Azure AI Landing Zone Accelerator
             url: /p2_landing_page.html
-          - title: SelfHosted Runner Accelerator
+          - title: Azure Data Landing Zone Accelerator
             url: /p3_landing_page.html
-          - title: Azure Kubernetes Service Accelerator
+          - title: SelfHosted Runner Accelerator
             url: /p4_landing_page.html
+          - title: Azure Kubernetes Service Accelerator
+            url: /p5_landing_page.html
 # Copyright 2021 Google LLC

@@ -28,7 +28,7 @@ Well Architected Modules (WAM) represent CloudNation's unified approach to defin
 - Deliver reliable resources and configurations for consumers.
 - Align modules across public cloud platforms (e.g., Azure, Databricks).
 
-Our mission is to provide a comprehensive library of Well Architected Modules across multiple IaC repositories. These modules, supported by CloudNation, will accelerate Azure resource deployment and architectural patterns, empowering organizations worldwide on their IaC journey.
+Our mission is to provide a comprehensive library of Well Architected Modules across multiple IaC (Terraform) repositories. These modules, supported by CloudNation, will accelerate Azure resource deployment and architectural patterns, empowering organizations worldwide on their IaC journey.
 
 ### Key Features:
 - Flexible, generalized, and multi-purpose
@@ -43,31 +43,36 @@ CloudNation distinguishes two types of modules: **Resource Modules** and **Patte
 
 ### Resource Modules 
 ***Purpose:*** Designed to deploy Azure resources and their extensions consistently.
+
 ***Characteristics:***
 Include resources that share the same lifecycle.
 Combine parent resources with their child resources (e.g., Key Vault with secrets, keys, certificates; Storage Account with containers, blobs, files).
 Create a logical structure by combining resources that are interdependent.
+
 ***Availability:*** Publicly available and open source, allowing for community collaboration and use.
 
 ### Pattern Modules
 ***Purpose:*** Serve as extended solutions and combinations of Resource Modules.
+
 ***Characteristics:***
 Primarily utilize Resource Modules but can also include other types of resources such as Docker files, null resources, PowerShell scripts, etc.
 Often contain business logic and are considered intellectual property.
+
 ***Availability:*** Private, as they may contain proprietary business logic and are considered part of the organization's intellectual property.
 
 These modules are designed to deploy Azure resources, their extensions, and reusable architectural patterns consistently. 
 They act as composable building blocks that encapsulate groups of resources dedicated to specific tasks.
 
-When talking about Well-Architected-Modules or modules we refer to the resource modules from here onwards. 
+When talking about Well-Architected-Modules or modules we refer to the **resource modules** from here onwards. 
 
 ## Summary of "Well Architected" Principles
 
-- Modules are supported by CloudNation and its internal organizations [See here](module_support.html).
+- Modules are supported by CloudNation and its internal organization [See here](module_support.html).
 - Modules adhere to clear specifications ensuring consistency across all WAM modules (see "Specifications & Definitions").
-- Modules are kept up-to-date with product/service roadmaps by their owners and contributors.
-- Modules align with Well-Architected Framework (WAF) recommendations (see "What does WAM mean by 'WAF Aligned'?").
-- Modules include clear documentation and examples to promote self-service consumption.
+- Modules are kept up-to-date by the CloudNation core WAM team (owners) and community contributors.
+- Modules usually align with Well-Architected Framework (WAF) recommendations unless documented otherwise (e.g. cost saving purposes) [See here](faq.html).
+- Modules provide comprehensive documentation (such as README files) and clearly defined input variables, output values, and their types for ease of use.
+- Modules contain practical tested examples to ensure users can easily consume and use them out of the box.
 - Modules are rigorously tested to ensure compliance with WAM specifications and proper functionality.
 
 ## Why Do We Need Well Architected Modules?

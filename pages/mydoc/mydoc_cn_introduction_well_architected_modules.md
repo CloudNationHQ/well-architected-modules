@@ -1,6 +1,6 @@
 ---
-title: Introduction to Well Architected Modules
+title: Design Considerations for Well Architected Modules
 sidebar: mydoc_sidebar
-permalink: introduction_well_architected_modules.html
+permalink: design_considerations_well_architected_modules.html
 folder: mydoc
 ---
