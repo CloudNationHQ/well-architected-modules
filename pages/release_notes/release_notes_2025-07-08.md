@@ -24,3 +24,21 @@ folder: release_notes
 
 ---
 
+## azure-kv
+### v4.2.0 (v4.2.0)
+**Published at:** 2025-07-08T11:54:26Z
+
+## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v4.1.0...v4.2.0) (2025-07-08)
+
+
+### Features
+
+* **deps:** bump github.com/cloudnationhq/az-cn-go-validor in /tests ([#109](https://github.com/CloudNationHQ/terraform-azure-kv/issues/109)) ([4f7f314](https://github.com/CloudNationHQ/terraform-azure-kv/commit/4f7f3147c2cb176d9886f80829b7307925f69694))
+
+
+### Bug Fixes
+
+* lifetime_action made really optional and to simple object instead of map object ([#111](https://github.com/CloudNationHQ/terraform-azure-kv/issues/111)) ([e3d22bf](https://github.com/CloudNationHQ/terraform-azure-kv/commit/e3d22bfde1ebc80697cc187347c06fb4033c0901))
+
+---
+
