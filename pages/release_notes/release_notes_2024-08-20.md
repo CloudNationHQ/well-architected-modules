@@ -2,7 +2,7 @@
 title: Releases for 2024-08-20
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 08, 2025
+last_updated: Jul 09, 2025
 summary: "Releases of the Terraform Well Architected Modules 2024-08-20"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240820.html
