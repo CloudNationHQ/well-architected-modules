@@ -81,7 +81,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">apim</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates api manager resources used by workloads and accelerators..</td> 
-<td markdown="span">2.4.0</td>
+<td markdown="span">2.4.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-apim" target="_blank">Github repo apim</a></td>
 </tr>
 
@@ -97,7 +97,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">appcfg</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure app configuration resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.0</td>
+<td markdown="span">2.1.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-appcfg" target="_blank">Github repo appcfg</a></td>
 </tr>
 
@@ -302,6 +302,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">network</td>
+<td markdown="span">infoblox</td>
+<td markdown="span">Terraform module which createsinfoblox network resources used by workloads and accelerators..</td> 
+<td markdown="span">1.0.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-infoblox-network" target="_blank">Github repo network</a></td>
+</tr>
+
+<tr>
 <td markdown="span">ng</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates nat gateway resources used by workloads and accelerators..</td> 
@@ -497,5 +505,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 58
+<span class='total-modules'>**Total Modules:** 59
 </span>
