@@ -78,6 +78,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">allocation</td>
+<td markdown="span">infoblox</td>
+<td markdown="span">.</td> 
+<td markdown="span">1.2.1</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-infoblox-allocation" target="_blank">Github repo allocation</a></td>
+</tr>
+
+<tr>
 <td markdown="span">apim</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates api manager resources used by workloads and accelerators..</td> 
@@ -302,14 +310,6 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
-<td markdown="span">network</td>
-<td markdown="span">infoblox</td>
-<td markdown="span">Terraform module which createsinfoblox network resources used by workloads and accelerators..</td> 
-<td markdown="span">1.0.0</td>
-<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-infoblox-network" target="_blank">Github repo network</a></td>
-</tr>
-
-<tr>
 <td markdown="span">ng</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates nat gateway resources used by workloads and accelerators..</td> 
@@ -481,7 +481,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vnet</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual network resources used by workloads and accelerators..</td> 
-<td markdown="span">9.2.2</td>
+<td markdown="span">9.2.3</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnet" target="_blank">Github repo vnet</a></td>
 </tr>
 
@@ -489,7 +489,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vwan</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators..</td> 
-<td markdown="span">5.0.1</td>
+<td markdown="span">5.0.2</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vwan" target="_blank">Github repo vwan</a></td>
 </tr>
 
