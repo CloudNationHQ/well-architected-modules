@@ -329,7 +329,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">pdns</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which create private dns zone resources used by workloads and accelerators..</td> 
-<td markdown="span">3.5.0</td>
+<td markdown="span">3.6.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-pdns" target="_blank">Github repo pdns</a></td>
 </tr>
 
