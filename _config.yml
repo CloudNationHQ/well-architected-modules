@@ -70,6 +70,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      toc: false
       comments: true
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
