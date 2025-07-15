@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-04
+title: Release Notes for 2025-06-04
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-04"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250604.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-04
-
-## azure-vwan
-### v5.0.0 (v5.0.0)
-**Published at:** 2025-06-04T13:23:06Z
-
-## [5.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v4.5.0...v5.0.0) (2025-06-04)
+## Module: azure-vwan
+## [5.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v5.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -38,4 +32,6 @@ folder: release_notes
 For detailed reference look in the examples
 
 ---
+
+**Published at:** 2025-06-04T13:23:06Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-07-07
+title: Release Notes for 2025-07-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-07-07"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250707.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-07-07
-
-## azure-fwp
-### v3.1.0 (v3.1.0)
-**Published at:** 2025-07-07T08:40:38Z
-
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-fwp/compare/v3.0.0...v3.1.0) (2025-07-07)
+## Module: azure-fwp
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v3.1.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-apim
-### v2.4.0 (v2.4.0)
-**Published at:** 2025-07-07T08:50:28Z
+**Published at:** 2025-07-07T08:40:38Z
 
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-apim/compare/v2.3.0...v2.4.0) (2025-07-07)
+## Module: azure-apim
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.4.0)
 
 
 ### Features
@@ -38,11 +31,10 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v3.1.0 (v3.1.0)
-**Published at:** 2025-07-07T13:45:44Z
+**Published at:** 2025-07-07T08:50:28Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v3.0.0...v3.1.0) (2025-07-07)
+## Module: azure-sub
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v3.1.0)
 
 
 ### Features
@@ -55,4 +47,6 @@ folder: release_notes
 * fix subscription output to include existing ones ([#30](https://github.com/CloudNationHQ/terraform-azure-sub/issues/30)) ([0d8d26a](https://github.com/CloudNationHQ/terraform-azure-sub/commit/0d8d26ab5199d140d69bd452fa1c644df1e6eb56))
 
 ---
+
+**Published at:** 2025-07-07T13:45:44Z
 

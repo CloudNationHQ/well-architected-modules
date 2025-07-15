@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-06-14
+title: Release Notes for 2024-06-14
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-06-14"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240614.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-06-14
-
-## azure-evh
-### v0.3.1 (v0.3.1)
-**Published at:** 2024-06-14T11:08:15Z
-
-## [0.3.1](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v0.3.0...v0.3.1) (2024-06-14)
+## Module: azure-evh
+## [0.3.1](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v0.3.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-06-14T08:26:00Z
+**Published at:** 2024-06-14T11:08:15Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v0.2.0...v0.3.0) (2024-06-14)
+## Module: azure-evh
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v0.3.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-vgw
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-06-14T13:32:48Z
+**Published at:** 2024-06-14T08:26:00Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-vgw/compare/v0.5.0...v0.6.0) (2024-06-14)
+## Module: azure-vgw
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v0.6.0)
 
 
 ### Features
@@ -49,4 +41,6 @@ folder: release_notes
 * changed default value dpd timeout seconds on network gateway connections ([#20](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/20)) ([3509ce8](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/3509ce8ec0deb429bd0b2014728efcc247047515))
 
 ---
+
+**Published at:** 2024-06-14T13:32:48Z
 

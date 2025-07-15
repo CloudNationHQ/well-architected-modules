@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-13
+title: Release Notes for 2025-03-13
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-13"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250313.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-13
-
-## azure-vnet
-### v8.5.0 (v8.5.0)
-**Published at:** 2025-03-13T08:16:10Z
-
-## [8.5.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.4.1...v8.5.0) (2025-03-13)
+## Module: azure-vnet
+## [8.5.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.5.0)
 
 
 ### Features
@@ -25,16 +19,17 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v1.0.0 (v1.0.0)
-**Published at:** 2025-03-13T15:44:11Z
+**Published at:** 2025-03-13T08:16:10Z
 
+## Module: azure-sub
 ## 1.0.0 (2025-03-13)
 
 
 ### Features
 
-* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-sub/issues/1)) ([a0e4bc2](https://github.com/CloudNationHQ/terraform-azure-sub/commit/a0e4bc21cc39ad6adaa074f02cc6c35c473a9a5f))
+* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v1.0.0)) ([a0e4bc2](https://github.com/CloudNationHQ/terraform-azure-sub/commit/a0e4bc21cc39ad6adaa074f02cc6c35c473a9a5f))
 
 ---
+
+**Published at:** 2025-03-13T15:44:11Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-31
+title: Release Notes for 2024-10-31
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-31"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241031.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-31
-
-## azure-vnet
-### v7.0.2 (v7.0.2)
-**Published at:** 2024-10-31T14:02:36Z
-
-## [7.0.2](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v7.0.1...v7.0.2) (2024-10-31)
+## Module: azure-vnet
+## [7.0.2](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v7.0.2)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.20.0 (v0.20.0)
-**Published at:** 2024-10-31T13:43:35Z
+**Published at:** 2024-10-31T14:02:36Z
 
-## [0.20.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.19.1...v0.20.0) (2024-10-31)
+## Module: azure-naming
+## [0.20.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.20.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v3.2.0 (v3.2.0)
-**Published at:** 2024-10-31T11:37:27Z
+**Published at:** 2024-10-31T13:43:35Z
 
-## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v3.1.0...v3.2.0) (2024-10-31)
+## Module: azure-vwan
+## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.2.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-pdns
-### v3.1.0 (v3.1.0)
-**Published at:** 2024-10-31T08:25:36Z
+**Published at:** 2024-10-31T11:37:27Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v3.0.0...v3.1.0) (2024-10-31)
+## Module: azure-pdns
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v3.1.0)
 
 
 ### Features
@@ -63,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-ca
-### v2.1.1 (v2.1.1)
-**Published at:** 2024-10-31T11:08:22Z
+**Published at:** 2024-10-31T08:25:36Z
 
-## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v2.1.0...v2.1.1) (2024-10-31)
+## Module: azure-ca
+## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.1.1)
 
 
 ### Bug Fixes
@@ -75,4 +65,6 @@ folder: release_notes
 * removed domain certificate unused uai ([#42](https://github.com/CloudNationHQ/terraform-azure-ca/issues/42)) ([4184dcf](https://github.com/CloudNationHQ/terraform-azure-ca/commit/4184dcfef4d651200926adaf9bbdc2b9028cbc67))
 
 ---
+
+**Published at:** 2024-10-31T11:08:22Z
 

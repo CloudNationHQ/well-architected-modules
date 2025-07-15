@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-08
+title: Release Notes for 2025-06-08
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-08"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250608.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-08
-
-## azure-redis
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-06-08T15:01:33Z
-
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-redis/compare/v2.3.0...v3.0.0) (2025-06-06)
+## Module: azure-redis
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -34,4 +28,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-06-08T15:01:33Z
 

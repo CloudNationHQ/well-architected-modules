@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-29
+title: Release Notes for 2024-08-29
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-29"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240829.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-29
-
-## azure-sql
-### v0.10.0 (v0.10.0)
-**Published at:** 2024-08-29T07:52:23Z
-
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.9.0...v0.10.0) (2024-08-29)
+## Module: azure-sql
+## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.10.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v0.12.0 (v0.12.0)
-**Published at:** 2024-08-29T07:47:38Z
+**Published at:** 2024-08-29T07:52:23Z
 
-## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v0.11.0...v0.12.0) (2024-08-29)
+## Module: azure-vwan
+## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.12.0)
 
 
 ### Features
@@ -38,11 +31,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v0.11.0 (v0.11.0)
-**Published at:** 2024-08-29T06:48:52Z
+**Published at:** 2024-08-29T07:47:38Z
 
-## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v0.10.0...v0.11.0) (2024-08-29)
+## Module: azure-vwan
+## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.11.0)
 
 
 ### Features
@@ -52,11 +44,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-08-29T07:53:44Z
+**Published at:** 2024-08-29T06:48:52Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v1.0.0...v1.1.0) (2024-08-29)
+## Module: azure-psql
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v1.1.0)
 
 
 ### Features
@@ -66,11 +57,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-29T10:23:54Z
+**Published at:** 2024-08-29T07:53:44Z
 
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v0.6.0...v1.0.0) (2024-08-29)
+## Module: azure-evh
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -90,11 +80,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-08-29T07:55:42Z
+**Published at:** 2024-08-29T10:23:54Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v0.5.0...v0.6.0) (2024-08-29)
+## Module: azure-evh
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v0.6.0)
 
 
 ### Features
@@ -103,11 +92,10 @@ folder: release_notes
 
 ---
 
-## azure-pdns
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-08-29T07:55:16Z
+**Published at:** 2024-08-29T07:55:42Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v0.5.0...v0.6.0) (2024-08-29)
+## Module: azure-pdns
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v0.6.0)
 
 
 ### Features
@@ -116,11 +104,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-08-29T07:54:45Z
+**Published at:** 2024-08-29T07:55:16Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v0.2.0...v0.3.0) (2024-08-29)
+## Module: azure-aa
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.3.0)
 
 
 ### Features
@@ -129,11 +116,10 @@ folder: release_notes
 
 ---
 
-## azure-nw
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-08-29T07:54:13Z
+**Published at:** 2024-08-29T07:54:45Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-nw/compare/v0.1.0...v0.2.0) (2024-08-29)
+## Module: azure-nw
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v0.2.0)
 
 
 ### Features
@@ -142,11 +128,10 @@ folder: release_notes
 
 ---
 
-## azure-syn
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-08-29T10:25:41Z
+**Published at:** 2024-08-29T07:54:13Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-syn/compare/v0.5.0...v0.6.0) (2024-08-29)
+## Module: azure-syn
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.6.0)
 
 
 ### Features
@@ -160,4 +145,6 @@ folder: release_notes
 * Sanitize go testing ([#20](https://github.com/CloudNationHQ/terraform-azure-syn/issues/20)) ([66016e1](https://github.com/CloudNationHQ/terraform-azure-syn/commit/66016e117a31ac38d8e798ca247ec693baf863eb))
 
 ---
+
+**Published at:** 2024-08-29T10:25:41Z
 

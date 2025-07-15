@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-05-15
+title: Release Notes for 2024-05-15
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-05-15"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240515.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-05-15
-
-## azure-func
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-05-15T14:37:09Z
-
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v0.1.0...v0.2.0) (2024-05-15)
+## Module: azure-func
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v0.2.0)
 
 
 ### Features
@@ -26,16 +20,17 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v0.1.0 (v0.1.0)
-**Published at:** 2024-05-15T14:16:17Z
+**Published at:** 2024-05-15T14:37:09Z
 
+## Module: azure-func
 ## 0.1.0 (2024-05-15)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-func/issues/2)) ([9ee6b32](https://github.com/CloudNationHQ/terraform-azure-func/commit/9ee6b32b5f622b00e7be3dd29de5688a2124048a))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v0.1.0)) ([9ee6b32](https://github.com/CloudNationHQ/terraform-azure-func/commit/9ee6b32b5f622b00e7be3dd29de5688a2124048a))
 
 ---
+
+**Published at:** 2024-05-15T14:16:17Z
 

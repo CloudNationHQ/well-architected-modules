@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-15
+title: Release Notes for 2024-08-15
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-15"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240815.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-15
-
-## azure-sa
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-08-15T08:44:00Z
-
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v1.0.0...v1.1.0) (2024-08-15)
+## Module: azure-sa
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v1.1.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-15T08:14:52Z
+**Published at:** 2024-08-15T08:44:00Z
 
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.14.0...v1.0.0) (2024-08-15)
+## Module: azure-kv
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -52,11 +45,10 @@ folder: release_notes
 
 ---
 
-## azure-plan
-### v1.1.1 (v1.1.1)
-**Published at:** 2024-08-15T05:57:27Z
+**Published at:** 2024-08-15T08:14:52Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-plan/compare/v1.1.0...v1.1.1) (2024-08-15)
+## Module: azure-plan
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -65,15 +57,16 @@ folder: release_notes
 
 ---
 
-## azure-plan
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-08-15T05:43:29Z
+**Published at:** 2024-08-15T05:57:27Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-plan/compare/v1.0.0...v1.1.0) (2024-08-15)
+## Module: azure-plan
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v1.1.0)
 
 ### Bug Fixes
 
 * fixed resource group and location conditions ([437f345](https://github.com/CloudNationHQ/terraform-azure-plan/commit/437f3451412d3073678d33e1108c751619ebf126))
 
 ---
+
+**Published at:** 2024-08-15T05:43:29Z
 

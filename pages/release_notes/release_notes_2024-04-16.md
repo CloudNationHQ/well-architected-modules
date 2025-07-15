@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-04-16
+title: Release Notes for 2024-04-16
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-04-16"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240416.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-04-16
-
-## azure-aks
-### v0.8.0 (v0.8.0)
-**Published at:** 2024-04-16T10:05:03Z
-
-## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.7.0...v0.8.0) (2024-04-16)
+## Module: azure-aks
+## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.8.0)
 
 
 ### Features
@@ -28,4 +22,6 @@ folder: release_notes
 * improve allignment local account property ([#54](https://github.com/CloudNationHQ/terraform-azure-aks/issues/54)) ([90a9fca](https://github.com/CloudNationHQ/terraform-azure-aks/commit/90a9fca45566187c1704002d878a9ada8c7830a7))
 
 ---
+
+**Published at:** 2024-04-16T10:05:03Z
 

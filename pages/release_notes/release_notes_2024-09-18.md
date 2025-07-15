@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-18
+title: Release Notes for 2024-09-18
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-18"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240918.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-18
-
-## azure-rg
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-09-18T07:47:58Z
-
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v1.0.0...v1.1.0) (2024-09-18)
+## Module: azure-rg
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v1.1.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-09-18T08:01:31Z
+**Published at:** 2024-09-18T07:47:58Z
 
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v0.12.0...v1.0.0) (2024-09-18)
+## Module: azure-vwan
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -60,11 +53,10 @@ folder: release_notes
 
 ---
 
-## azure-fw
-### v1.0.3 (v1.0.3)
-**Published at:** 2024-09-18T13:14:05Z
+**Published at:** 2024-09-18T08:01:31Z
 
-## [1.0.3](https://github.com/CloudNationHQ/terraform-azure-fw/compare/v1.0.2...v1.0.3) (2024-09-18)
+## Module: azure-fw
+## [1.0.3](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v1.0.3)
 
 
 ### Bug Fixes
@@ -72,4 +64,6 @@ folder: release_notes
 * add public ip addresses output ([#10](https://github.com/CloudNationHQ/terraform-azure-fw/issues/10)) ([741fdc9](https://github.com/CloudNationHQ/terraform-azure-fw/commit/741fdc923c06c0ff2324eded82740e8a9dfc6f93))
 
 ---
+
+**Published at:** 2024-09-18T13:14:05Z
 

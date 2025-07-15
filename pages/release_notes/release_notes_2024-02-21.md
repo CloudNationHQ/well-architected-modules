@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-02-21
+title: Release Notes for 2024-02-21
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-02-21"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240221.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-02-21
-
-## azure-law
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-02-21T13:58:17Z
-
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.5.0...v0.6.0) (2024-02-21)
+## Module: azure-law
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.6.0)
 
 
 ### Features
@@ -27,4 +21,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#24](https://github.com/CloudNationHQ/terraform-azure-law/issues/24)) ([157760c](https://github.com/CloudNationHQ/terraform-azure-law/commit/157760cb5ae312a92c30f4c6dee96da379b2fba9))
 
 ---
+
+**Published at:** 2024-02-21T13:58:17Z
 

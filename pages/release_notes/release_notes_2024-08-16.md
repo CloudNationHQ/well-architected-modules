@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-16
+title: Release Notes for 2024-08-16
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-16"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240816.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-16
-
-## azure-naming
-### v0.13.0 (v0.13.0)
-**Published at:** 2024-08-16T14:22:42Z
-
-## [0.13.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.12.0...v0.13.0) (2024-08-16)
+## Module: azure-naming
+## [0.13.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.13.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.12.0 (v0.12.0)
-**Published at:** 2024-08-16T13:09:37Z
+**Published at:** 2024-08-16T14:22:42Z
 
-## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.11.1...v0.12.0) (2024-08-16)
+## Module: azure-naming
+## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.12.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v1.1.1 (v1.1.1)
-**Published at:** 2024-08-16T07:14:55Z
+**Published at:** 2024-08-16T13:09:37Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-app/compare/v1.1.0...v1.1.1) (2024-08-16)
+## Module: azure-app
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-08-16T06:53:11Z
+**Published at:** 2024-08-16T07:14:55Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v1.0.0...v1.1.0) (2024-08-16)
+## Module: azure-app
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.1.0)
 
 
 ### Features
@@ -65,16 +56,17 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-16T06:29:53Z
+**Published at:** 2024-08-16T06:53:11Z
 
+## Module: azure-app
 ## 1.0.0 (2024-08-16)
 
 
 ### Features
 
-* add initial resources ([235eed3](https://github.com/CloudNationHQ/terraform-azure-app/commit/235eed3e072b3fb10c253f322f31b5394dedf8b8))
+* add initial resources ([235eed3](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.0.0))
 
 ---
+
+**Published at:** 2024-08-16T06:29:53Z
 

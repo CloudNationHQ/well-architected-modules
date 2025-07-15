@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-05-27
+title: Release Notes for 2024-05-27
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-05-27"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240527.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-05-27
-
-## azure-acr
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-05-27T12:42:16Z
-
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v0.6.0...v1.0.0) (2024-05-27)
+## Module: azure-acr
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -31,11 +25,10 @@ folder: release_notes
 
 ---
 
-## azure-vgw
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-05-27T13:28:31Z
+**Published at:** 2024-05-27T12:42:16Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-vgw/compare/v0.2.0...v0.3.0) (2024-05-27)
+## Module: azure-vgw
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v0.3.0)
 
 
 ### Features
@@ -45,4 +38,6 @@ folder: release_notes
 * **deps:** bump github.com/hashicorp/go-getter in /tests ([#7](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/7)) ([025f424](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/025f424b687d82bb01076ff5f7bc68d4ecd534c4))
 
 ---
+
+**Published at:** 2024-05-27T13:28:31Z
 

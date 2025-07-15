@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-12
+title: Release Notes for 2025-06-12
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-12"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250612.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-12
-
-## azure-vnet
-### v9.2.2 (v9.2.2)
-**Published at:** 2025-06-12T06:58:42Z
-
-## [9.2.2](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v9.2.1...v9.2.2) (2025-06-12)
+## Module: azure-vnet
+## [9.2.2](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.2.2)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v9.2.1 (v9.2.1)
-**Published at:** 2025-06-12T06:19:07Z
+**Published at:** 2025-06-12T06:58:42Z
 
-## [9.2.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v9.2.0...v9.2.1) (2025-06-12)
+## Module: azure-vnet
+## [9.2.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.2.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v9.2.0 (v9.2.0)
-**Published at:** 2025-06-12T05:00:07Z
+**Published at:** 2025-06-12T06:19:07Z
 
-## [9.2.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v9.1.1...v9.2.0) (2025-06-12)
+## Module: azure-vnet
+## [9.2.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.2.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v2.2.0 (v2.2.0)
-**Published at:** 2025-06-12T14:47:06Z
+**Published at:** 2025-06-12T05:00:07Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v2.1.0...v2.2.0) (2025-06-12)
+## Module: azure-sub
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.2.0)
 
 
 ### Features
@@ -63,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v2.1.0 (v2.1.0)
-**Published at:** 2025-06-12T12:17:05Z
+**Published at:** 2025-06-12T14:47:06Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v2.0.1...v2.1.0) (2025-06-12)
+## Module: azure-sub
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.1.0)
 
 
 ### Features
@@ -75,4 +65,6 @@ folder: release_notes
 * replace deployment test code with module consumption and fix tags property idempotence ([#15](https://github.com/CloudNationHQ/terraform-azure-sub/issues/15)) ([77529f5](https://github.com/CloudNationHQ/terraform-azure-sub/commit/77529f59405de6f5e5ca352a62d84f7a62cd5e04))
 
 ---
+
+**Published at:** 2025-06-12T12:17:05Z
 

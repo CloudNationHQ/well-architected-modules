@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-20
+title: Release Notes for 2024-09-20
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-20"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240920.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-20
-
-## azure-aa
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-09-20T11:38:16Z
-
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v0.4.0...v1.0.0) (2024-09-20)
+## Module: azure-aa
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -38,4 +32,6 @@ folder: release_notes
   - account -> config
 
 ---
+
+**Published at:** 2024-09-20T11:38:16Z
 

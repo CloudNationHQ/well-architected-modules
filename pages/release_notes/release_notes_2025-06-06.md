@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-06
+title: Release Notes for 2025-06-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250606.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-06
-
-## azure-vwan
-### v5.0.1 (v5.0.1)
-**Published at:** 2025-06-06T14:28:59Z
-
-## [5.0.1](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v5.0.0...v5.0.1) (2025-06-06)
+## Module: azure-vwan
+## [5.0.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v5.0.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-mag
-### v3.1.0 (v3.1.0)
-**Published at:** 2025-06-06T14:06:59Z
+**Published at:** 2025-06-06T14:28:59Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-mag/compare/v3.0.0...v3.1.0) (2025-06-06)
+## Module: azure-mag
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v3.1.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-mag
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-06-06T14:04:38Z
+**Published at:** 2025-06-06T14:06:59Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-mag/compare/v2.4.0...v3.0.0) (2025-06-06)
+## Module: azure-mag
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -60,11 +52,10 @@ folder: release_notes
 
 ---
 
-## azure-fdfwp
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-06-06T07:02:33Z
+**Published at:** 2025-06-06T14:04:38Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/compare/v1.3.0...v2.0.0) (2025-06-05)
+## Module: azure-fdfwp
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -82,4 +73,6 @@ folder: release_notes
 - The data structure is changed for the properties sku_name, enabled, mode, redirect_url, custom_block_response_status_code, custom_block_response_body and request_body_check_enabled for the frontdoor firewall policy resource
 
 ---
+
+**Published at:** 2025-06-06T07:02:33Z
 

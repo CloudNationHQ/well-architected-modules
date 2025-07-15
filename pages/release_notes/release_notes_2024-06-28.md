@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-06-28
+title: Release Notes for 2024-06-28
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-06-28"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240628.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-06-28
-
-## azure-sa
-### v0.19.0 (v0.19.0)
-**Published at:** 2024-06-28T13:34:45Z
-
-## [0.19.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.18.0...v0.19.0) (2024-06-28)
+## Module: azure-sa
+## [0.19.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v0.19.0)
 
 
 ### Features
@@ -26,4 +20,6 @@ folder: release_notes
 * enhance dynamic conditions for blob, queue, and share blocks ([#77](https://github.com/CloudNationHQ/terraform-azure-sa/issues/77)) ([b7182f8](https://github.com/CloudNationHQ/terraform-azure-sa/commit/b7182f8039d965fc81b7b8825c6482da558bcdbd))
 
 ---
+
+**Published at:** 2024-06-28T13:34:45Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-15
+title: Release Notes for 2025-01-15
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-15"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250115.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-15
-
-## azure-vnet
-### v8.4.0 (v8.4.0)
-**Published at:** 2025-01-15T08:44:06Z
-
-## [8.4.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.3.0...v8.4.0) (2025-01-15)
+## Module: azure-vnet
+## [8.4.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.4.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v2.5.0 (v2.5.0)
-**Published at:** 2025-01-15T13:05:25Z
+**Published at:** 2025-01-15T08:44:06Z
 
-## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.4.1...v2.5.0) (2025-01-15)
+## Module: azure-aa
+## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.5.0)
 
 
 ### Features
@@ -41,11 +34,10 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-01-15T14:38:50Z
+**Published at:** 2025-01-15T13:05:25Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-lb/compare/v1.2.1...v1.3.0) (2025-01-15)
+## Module: azure-lb
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.3.0)
 
 
 ### Features
@@ -57,11 +49,10 @@ folder: release_notes
 
 ---
 
-## azure-fd
-### v1.4.0 (v1.4.0)
-**Published at:** 2025-01-15T09:06:41Z
+**Published at:** 2025-01-15T14:38:50Z
 
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-fd/compare/v1.3.0...v1.4.0) (2025-01-15)
+## Module: azure-fd
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-fd/releases/tag/v1.4.0)
 
 
 ### Features
@@ -70,4 +61,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#16](https://github.com/CloudNationHQ/terraform-azure-fd/issues/16)) ([fb7d989](https://github.com/CloudNationHQ/terraform-azure-fd/commit/fb7d9897bc732ed5949fd67721065cc61b203db5))
 
 ---
+
+**Published at:** 2025-01-15T09:06:41Z
 

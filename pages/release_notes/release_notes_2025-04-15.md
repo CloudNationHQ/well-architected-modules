@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-15
+title: Release Notes for 2025-04-15
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-15"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250415.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-15
-
-## azure-sb
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-04-15T10:23:32Z
-
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-sb/compare/v1.2.0...v1.3.0) (2025-04-15)
+## Module: azure-sb
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-sb/releases/tag/v1.3.0)
 
 
 ### Features
@@ -27,11 +21,10 @@ folder: release_notes
 
 ---
 
-## azure-cog
-### v1.1.1 (v1.1.1)
-**Published at:** 2025-04-15T10:26:20Z
+**Published at:** 2025-04-15T10:23:32Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-cog/compare/v1.1.0...v1.1.1) (2025-04-15)
+## Module: azure-cog
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -40,11 +33,10 @@ folder: release_notes
 
 ---
 
-## azure-cog
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-04-15T09:55:37Z
+**Published at:** 2025-04-15T10:26:20Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-cognitive/compare/v1.0.1...v1.1.0) (2025-04-15)
+## Module: azure-cog
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.1.0)
 
 
 ### Features
@@ -53,16 +45,17 @@ folder: release_notes
 
 ---
 
-## azure-ais
-### v1.0.0 (v1.0.0)
-**Published at:** 2025-04-15T16:33:26Z
+**Published at:** 2025-04-15T09:55:37Z
 
+## Module: azure-ais
 ## 1.0.0 (2025-04-15)
 
 
 ### Features
 
-* add initial resources  ([#1](https://github.com/CloudNationHQ/terraform-azure-ais/issues/1)) ([aa656fd](https://github.com/CloudNationHQ/terraform-azure-ais/commit/aa656fdb7fad883f5f629a6f410a458e46e73c82))
+* add initial resources  ([#1](https://github.com/CloudNationHQ/terraform-azure-ais/releases/tag/v1.0.0)) ([aa656fd](https://github.com/CloudNationHQ/terraform-azure-ais/commit/aa656fdb7fad883f5f629a6f410a458e46e73c82))
 
 ---
+
+**Published at:** 2025-04-15T16:33:26Z
 

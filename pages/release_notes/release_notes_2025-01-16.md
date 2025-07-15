@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-16
+title: Release Notes for 2025-01-16
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-16"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250116.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-16
-
-## azure-sa
-### v3.2.0 (v3.2.0)
-**Published at:** 2025-01-16T14:15:26Z
-
-## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.1.0...v3.2.0) (2025-01-16)
+## Module: azure-sa
+## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.2.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sa
-### v3.1.0 (v3.1.0)
-**Published at:** 2025-01-16T12:03:23Z
+**Published at:** 2025-01-16T14:15:26Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.0.2...v3.1.0) (2025-01-16)
+## Module: azure-sa
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.1.0)
 
 
 ### Features
@@ -39,4 +32,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#132](https://github.com/CloudNationHQ/terraform-azure-sa/issues/132)) ([0f728f4](https://github.com/CloudNationHQ/terraform-azure-sa/commit/0f728f48be308fedef10788e00003bb2a53e4ebe))
 
 ---
+
+**Published at:** 2025-01-16T12:03:23Z
 

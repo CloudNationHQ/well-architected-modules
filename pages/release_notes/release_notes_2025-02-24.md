@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-02-24
+title: Release Notes for 2025-02-24
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-02-24"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250224.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-02-24
-
-## azure-fw
-### v2.4.0 (v2.4.0)
-**Published at:** 2025-02-24T15:14:00Z
-
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-fw/compare/v2.3.0...v2.4.0) (2025-02-24)
+## Module: azure-fw
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.4.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-agw
-### v1.4.1 (v1.4.1)
-**Published at:** 2025-02-24T13:42:47Z
+**Published at:** 2025-02-24T15:14:00Z
 
-## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-agw/compare/v1.4.0...v1.4.1) (2025-02-24)
+## Module: azure-agw
+## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.4.1)
 
 
 ### Bug Fixes
@@ -41,4 +34,6 @@ folder: release_notes
 * fix hierarchy backend pools ([#36](https://github.com/CloudNationHQ/terraform-azure-agw/issues/36)) ([064c4d8](https://github.com/CloudNationHQ/terraform-azure-agw/commit/064c4d820e3b5f3c3486d330676c2b6994722bdf))
 
 ---
+
+**Published at:** 2025-02-24T13:42:47Z
 

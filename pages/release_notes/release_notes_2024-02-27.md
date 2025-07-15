@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-02-27
+title: Release Notes for 2024-02-27
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-02-27"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240227.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-02-27
-
-## azure-kv
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-02-27T08:35:34Z
-
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.5.0...v0.6.0) (2024-02-27)
+## Module: azure-kv
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.6.0)
 
 
 ### Features
@@ -27,4 +21,6 @@ folder: release_notes
 * improved alignment for several vault properties and added some missing ones ([#23](https://github.com/CloudNationHQ/terraform-azure-kv/issues/23)) ([ba6efee](https://github.com/CloudNationHQ/terraform-azure-kv/commit/ba6efee760f538d17b20715a0fae0f0db8f9134a))
 
 ---
+
+**Published at:** 2024-02-27T08:35:34Z
 

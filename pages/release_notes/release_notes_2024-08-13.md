@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-13
+title: Release Notes for 2024-08-13
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-13"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240813.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-13
-
-## azure-law
-### v0.12.0 (v0.12.0)
-**Published at:** 2024-08-13T14:00:08Z
-
-## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.11.0...v0.12.0) (2024-08-13)
+## Module: azure-law
+## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.12.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v0.14.0 (v0.14.0)
-**Published at:** 2024-08-13T16:21:13Z
+**Published at:** 2024-08-13T14:00:08Z
 
-## [0.14.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.13.0...v0.14.0) (2024-08-13)
+## Module: azure-kv
+## [0.14.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.14.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v0.13.0 (v0.13.0)
-**Published at:** 2024-08-13T12:57:33Z
+**Published at:** 2024-08-13T16:21:13Z
 
-## [0.13.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.12.0...v0.13.0) (2024-08-13)
+## Module: azure-kv
+## [0.13.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.13.0)
 
 
 ### Features
@@ -51,11 +43,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v0.10.0 (v0.10.0)
-**Published at:** 2024-08-13T14:56:29Z
+**Published at:** 2024-08-13T12:57:33Z
 
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.9.0...v0.10.0) (2024-08-13)
+## Module: azure-bastion
+## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.10.0)
 
 
 ### Features
@@ -65,11 +56,10 @@ folder: release_notes
 
 ---
 
-## azure-syn
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-08-13T11:16:19Z
+**Published at:** 2024-08-13T14:56:29Z
 
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-syn/compare/v0.4.0...v0.5.0) (2024-08-13)
+## Module: azure-syn
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.5.0)
 
 
 ### Features
@@ -78,11 +68,10 @@ folder: release_notes
 
 ---
 
-## azure-syn
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-08-13T11:02:27Z
+**Published at:** 2024-08-13T11:16:19Z
 
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-syn/compare/v0.3.0...v0.4.0) (2024-08-13)
+## Module: azure-syn
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.4.0)
 
 
 ### Features
@@ -91,11 +80,10 @@ folder: release_notes
 
 ---
 
-## azure-syn
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-08-13T10:07:22Z
+**Published at:** 2024-08-13T11:02:27Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-syn/compare/v0.2.0...v0.3.0) (2024-08-13)
+## Module: azure-syn
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.3.0)
 
 
 ### Features
@@ -105,11 +93,10 @@ folder: release_notes
 
 ---
 
-## azure-syn
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-08-13T07:15:42Z
+**Published at:** 2024-08-13T10:07:22Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-syn/compare/v0.1.0...v0.2.0) (2024-08-13)
+## Module: azure-syn
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.2.0)
 
 
 ### Features
@@ -117,4 +104,6 @@ folder: release_notes
 * update release config and documentation ([#8](https://github.com/CloudNationHQ/terraform-azure-syn/issues/8)) ([e637c90](https://github.com/CloudNationHQ/terraform-azure-syn/commit/e637c900046fa9a9b45937c50103f142680409be))
 
 ---
+
+**Published at:** 2024-08-13T07:15:42Z
 

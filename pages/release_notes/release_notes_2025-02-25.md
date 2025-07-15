@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-02-25
+title: Release Notes for 2025-02-25
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-02-25"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250225.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-02-25
-
-## azure-acr
-### v4.2.0 (v4.2.0)
-**Published at:** 2025-02-25T11:52:26Z
-
-## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v4.1.0...v4.2.0) (2025-02-25)
+## Module: azure-acr
+## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v4.2.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-rbac
-### v2.3.0 (v2.3.0)
-**Published at:** 2025-02-25T15:39:24Z
+**Published at:** 2025-02-25T11:52:26Z
 
-## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-rbac/compare/v2.2.0...v2.3.0) (2025-02-25)
+## Module: azure-rbac
+## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v2.3.0)
 
 
 ### Features
@@ -42,4 +35,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#44](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/44)) ([ffbd6da](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/ffbd6daf9acd8d1ce931983940560455ec6a7690))
 
 ---
+
+**Published at:** 2025-02-25T15:39:24Z
 

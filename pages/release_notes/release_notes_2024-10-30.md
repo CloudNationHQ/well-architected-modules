@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-30
+title: Release Notes for 2024-10-30
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-30"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241030.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-30
-
-## azure-naming
-### v0.19.1 (v0.19.1)
-**Published at:** 2024-10-30T10:47:02Z
-
-## [0.19.1](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.19.0...v0.19.1) (2024-10-30)
+## Module: azure-naming
+## [0.19.1](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.19.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-10-30T17:16:34Z
+**Published at:** 2024-10-30T10:47:02Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v2.1.0...v3.0.0) (2024-10-30)
+## Module: azure-psql
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -61,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-pdns
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-10-30T09:07:32Z
+**Published at:** 2024-10-30T17:16:34Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v2.1.0...v3.0.0) (2024-10-30)
+## Module: azure-pdns
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -86,11 +78,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v1.1.3 (v1.1.3)
-**Published at:** 2024-10-30T14:15:34Z
+**Published at:** 2024-10-30T09:07:32Z
 
-## [1.1.3](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.1.2...v1.1.3) (2024-10-30)
+## Module: azure-pe
+## [1.1.3](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.3)
 
 
 ### Bug Fixes
@@ -99,11 +90,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v1.1.2 (v1.1.2)
-**Published at:** 2024-10-30T14:01:52Z
+**Published at:** 2024-10-30T14:15:34Z
 
-## [1.1.2](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.1.1...v1.1.2) (2024-10-30)
+## Module: azure-pe
+## [1.1.2](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.2)
 
 
 ### Bug Fixes
@@ -112,11 +102,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v1.1.1 (v1.1.1)
-**Published at:** 2024-10-30T12:41:12Z
+**Published at:** 2024-10-30T14:01:52Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.1.0...v1.1.1) (2024-10-30)
+## Module: azure-pe
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -124,4 +113,6 @@ folder: release_notes
 * fixed manual connection property in private service connection ([#17](https://github.com/CloudNationHQ/terraform-azure-pe/issues/17)) ([41dc14e](https://github.com/CloudNationHQ/terraform-azure-pe/commit/41dc14eb63dbdad72a5448ad7c8086baff630341))
 
 ---
+
+**Published at:** 2024-10-30T12:41:12Z
 

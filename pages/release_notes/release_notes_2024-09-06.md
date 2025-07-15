@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-06
+title: Release Notes for 2024-09-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240906.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-06
-
-## azure-dnspr
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-09-06T08:54:26Z
-
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/compare/v1.0.1...v1.1.0) (2024-09-06)
+## Module: azure-dnspr
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v1.1.0)
 
 
 ### Features
@@ -28,4 +22,6 @@ folder: release_notes
 * made outbound endpoint fully optional and simplified tests ([#7](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/7)) ([4801879](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/4801879ecf3915da473975c05c33a715864f9fe8))
 
 ---
+
+**Published at:** 2024-09-06T08:54:26Z
 

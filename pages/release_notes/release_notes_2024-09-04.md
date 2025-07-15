@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-04
+title: Release Notes for 2024-09-04
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-04"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240904.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-04
-
-## azure-acr
-### v2.0.0 (v2.0.0)
-**Published at:** 2024-09-04T08:43:11Z
-
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v1.7.0...v2.0.0) (2024-09-04)
+## Module: azure-acr
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -46,11 +40,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v1.2.0 (v1.2.0)
-**Published at:** 2024-09-04T19:28:02Z
+**Published at:** 2024-09-04T08:43:11Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v1.1.1...v1.2.0) (2024-09-04)
+## Module: azure-evh
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v1.2.0)
 
 
 ### Features
@@ -59,11 +52,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v1.1.1 (v1.1.1)
-**Published at:** 2024-09-04T13:04:20Z
+**Published at:** 2024-09-04T19:28:02Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v1.1.0...v1.1.1) (2024-09-04)
+## Module: azure-evh
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -71,4 +63,6 @@ folder: release_notes
 * added zone_redundant  property for event hub namespace ([#40](https://github.com/CloudNationHQ/terraform-azure-evh/issues/40)) ([7f57ca9](https://github.com/CloudNationHQ/terraform-azure-evh/commit/7f57ca956e6517cfe211f8af1cf4149d38a1858b))
 
 ---
+
+**Published at:** 2024-09-04T13:04:20Z
 

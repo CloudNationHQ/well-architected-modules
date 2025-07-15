@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-07
+title: Release Notes for 2025-04-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-07"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250407.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-07
-
-## azure-rg
-### v2.4.0 (v2.4.0)
-**Published at:** 2025-04-07T17:39:45Z
-
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v2.3.0...v2.4.0) (2025-04-07)
+## Module: azure-rg
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.4.0)
 
 
 ### Features
@@ -26,11 +20,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v3.1.0 (v3.1.0)
-**Published at:** 2025-04-07T17:39:09Z
+**Published at:** 2025-04-07T17:39:45Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v3.0.0...v3.1.0) (2025-04-07)
+## Module: azure-app
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v3.1.0)
 
 
 ### Features
@@ -44,4 +37,6 @@ folder: release_notes
 * slot references and type definitions and added additional properties ([#34](https://github.com/CloudNationHQ/terraform-azure-app/issues/34)) ([ca83a90](https://github.com/CloudNationHQ/terraform-azure-app/commit/ca83a90a2022f027cd0f226a5d6036feb1f8de18))
 
 ---
+
+**Published at:** 2025-04-07T17:39:09Z
 

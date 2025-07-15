@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-05
+title: Release Notes for 2024-08-05
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-05"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240805.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-05
-
-## azure-ca
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-08-05T12:52:21Z
-
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v0.3.0...v0.4.0) (2024-08-05)
+## Module: azure-ca
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v0.4.0)
 
 
 ### Features
@@ -30,11 +24,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-08-05T12:05:28Z
+**Published at:** 2024-08-05T12:52:21Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v0.1.1...v0.2.0) (2024-08-05)
+## Module: azure-aa
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.2.0)
 
 
 ### Features
@@ -43,4 +36,6 @@ folder: release_notes
 * dynamic type inference for automation variables ([#8](https://github.com/CloudNationHQ/terraform-azure-aa/issues/8)) ([e23cbd8](https://github.com/CloudNationHQ/terraform-azure-aa/commit/e23cbd8cc24ff44e27b28ab22845eb6e740d8e34))
 
 ---
+
+**Published at:** 2024-08-05T12:05:28Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-08
+title: Release Notes for 2024-08-08
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-08"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240808.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-08
-
-## azure-ca
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-08T12:21:03Z
-
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v0.4.0...v1.0.0) (2024-08-08)
+## Module: azure-ca
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -40,11 +34,10 @@ folder: release_notes
 
 ---
 
-## azure-mysql
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-08-08T13:33:54Z
+**Published at:** 2024-08-08T12:21:03Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v0.1.0...v0.2.0) (2024-08-08)
+## Module: azure-mysql
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v0.2.0)
 
 
 ### Features
@@ -53,16 +46,17 @@ folder: release_notes
 
 ---
 
-## azure-mysql
-### v0.1.0 (v0.1.0)
-**Published at:** 2024-08-08T11:45:37Z
+**Published at:** 2024-08-08T13:33:54Z
 
+## Module: azure-mysql
 ## 0.1.0 (2024-08-08)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/2)) ([b0ffbb8](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/b0ffbb81f101d8e9a8c2dce0ba6cd16060a147e8))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v0.1.0)) ([b0ffbb8](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/b0ffbb81f101d8e9a8c2dce0ba6cd16060a147e8))
 
 ---
+
+**Published at:** 2024-08-08T11:45:37Z
 

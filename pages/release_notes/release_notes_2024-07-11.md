@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-07-11
+title: Release Notes for 2024-07-11
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-07-11"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240711.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-07-11
-
-## azure-naming
-### v0.8.0 (v0.8.0)
-**Published at:** 2024-07-11T12:22:07Z
-
-## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.7.1...v0.8.0) (2024-07-11)
+## Module: azure-naming
+## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.8.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v0.1.1 (v0.1.1)
-**Published at:** 2024-07-11T09:14:14Z
+**Published at:** 2024-07-11T12:22:07Z
 
-## [0.1.1](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v0.1.0...v0.1.1) (2024-07-11)
+## Module: azure-aa
+## [0.1.1](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.1.1)
 
 
 ### Bug Fixes
@@ -37,16 +30,17 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v0.1.0 (v0.1.0)
-**Published at:** 2024-07-11T07:11:02Z
+**Published at:** 2024-07-11T09:14:14Z
 
+## Module: azure-aa
 ## 0.1.0 (2024-07-11)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-aa/issues/2)) ([8d1851c](https://github.com/CloudNationHQ/terraform-azure-aa/commit/8d1851cc497f2d31cad5c31eaf71ee4e072f46c9))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.1.0)) ([8d1851c](https://github.com/CloudNationHQ/terraform-azure-aa/commit/8d1851cc497f2d31cad5c31eaf71ee4e072f46c9))
 
 ---
+
+**Published at:** 2024-07-11T07:11:02Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-26
+title: Release Notes for 2025-03-26
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-26"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250326.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-26
-
-## azure-sa
-### v3.5.0 (v3.5.0)
-**Published at:** 2025-03-26T15:50:46Z
-
-## [3.5.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.4.0...v3.5.0) (2025-03-26)
+## Module: azure-sa
+## [3.5.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.5.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v1.7.0 (v1.7.0)
-**Published at:** 2025-03-26T13:21:05Z
+**Published at:** 2025-03-26T15:50:46Z
 
-## [1.7.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v1.6.0...v1.7.0) (2025-03-26)
+## Module: azure-func
+## [1.7.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.7.0)
 
 
 ### Features
@@ -41,4 +34,6 @@ folder: release_notes
 * add tags hidden link properties to lifecycle ignore for function apps and corrected the default usage ([#44](https://github.com/CloudNationHQ/terraform-azure-func/issues/44)) ([f5d5e4d](https://github.com/CloudNationHQ/terraform-azure-func/commit/f5d5e4d2fd17b49ae0b91a6da2b43f017938956d))
 
 ---
+
+**Published at:** 2025-03-26T13:21:05Z
 

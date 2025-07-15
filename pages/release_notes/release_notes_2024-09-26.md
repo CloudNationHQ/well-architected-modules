@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-26
+title: Release Notes for 2024-09-26
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-26"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240926.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-26
-
-## azure-vnet
-### v4.0.1 (v4.0.1)
-**Published at:** 2024-09-26T07:11:24Z
-
-## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v4.0.0...v4.0.1) (2024-09-26)
+## Module: azure-vnet
+## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v4.0.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-acr
-### v3.0.1 (v3.0.1)
-**Published at:** 2024-09-26T07:04:30Z
+**Published at:** 2024-09-26T07:11:24Z
 
-## [3.0.1](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v3.0.0...v3.0.1) (2024-09-26)
+## Module: azure-acr
+## [3.0.1](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.0.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-09-26T14:25:57Z
+**Published at:** 2024-09-26T07:04:30Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v2.1.0...v3.0.0) (2024-09-26)
+## Module: azure-aks
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -59,11 +51,10 @@ folder: release_notes
 
 ---
 
-## azure-ca
-### v2.0.2 (v2.0.2)
-**Published at:** 2024-09-26T09:12:35Z
+**Published at:** 2024-09-26T14:25:57Z
 
-## [2.0.2](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v2.0.1...v2.0.2) (2024-09-26)
+## Module: azure-ca
+## [2.0.2](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.0.2)
 
 
 ### Bug Fixes
@@ -71,4 +62,6 @@ folder: release_notes
 * add dependson on container app jobs regarding acr pull role assignments ([#37](https://github.com/CloudNationHQ/terraform-azure-ca/issues/37)) ([aa38462](https://github.com/CloudNationHQ/terraform-azure-ca/commit/aa3846259b4e40d98c6e58be5331f77cc17f64ec))
 
 ---
+
+**Published at:** 2024-09-26T09:12:35Z
 

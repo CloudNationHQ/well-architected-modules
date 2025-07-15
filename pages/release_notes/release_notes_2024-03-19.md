@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-03-19
+title: Release Notes for 2024-03-19
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-03-19"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240319.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-03-19
-
-## azure-bastion
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-03-19T10:42:31Z
-
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.5.0...v0.6.0) (2024-03-19)
+## Module: azure-bastion
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.6.0)
 
 
 ### Features
@@ -26,4 +20,6 @@ folder: release_notes
 * **deps:** bump google.golang.org/protobuf in /tests ([#19](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/19)) ([54e331c](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/54e331c74cbc269c39782108cbade62693dfe68b))
 
 ---
+
+**Published at:** 2024-03-19T10:42:31Z
 

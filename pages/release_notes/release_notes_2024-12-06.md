@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-12-06
+title: Release Notes for 2024-12-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-12-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241206.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-12-06
-
-## azure-vnet
-### v8.1.2 (v8.1.2)
-**Published at:** 2024-12-06T17:16:56Z
-
-## [8.1.2](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.1.1...v8.1.2) (2024-12-06)
+## Module: azure-vnet
+## [8.1.2](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.1.2)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v3.0.1 (v3.0.1)
-**Published at:** 2024-12-06T09:52:13Z
+**Published at:** 2024-12-06T17:16:56Z
 
-## [3.0.1](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v3.0.0...v3.0.1) (2024-12-06)
+## Module: azure-kv
+## [3.0.1](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v3.0.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v3.1.0 (v3.1.0)
-**Published at:** 2024-12-06T11:06:30Z
+**Published at:** 2024-12-06T09:52:13Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v3.0.0...v3.1.0) (2024-12-06)
+## Module: azure-cosmosdb
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.1.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v1.3.0 (v1.3.0)
-**Published at:** 2024-12-06T09:02:55Z
+**Published at:** 2024-12-06T11:06:30Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.2.0...v1.3.0) (2024-12-06)
+## Module: azure-pe
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.3.0)
 
 
 ### Features
@@ -63,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-rsv
-### v1.4.1 (v1.4.1)
-**Published at:** 2024-12-06T10:23:51Z
+**Published at:** 2024-12-06T09:02:55Z
 
-## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-rsv/compare/v1.4.0...v1.4.1) (2024-12-06)
+## Module: azure-rsv
+## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.4.1)
 
 
 ### Bug Fixes
@@ -76,11 +66,10 @@ folder: release_notes
 
 ---
 
-## azure-rsv
-### v1.4.0 (v1.4.0)
-**Published at:** 2024-12-06T09:52:43Z
+**Published at:** 2024-12-06T10:23:51Z
 
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-rsv/compare/v1.3.0...v1.4.0) (2024-12-06)
+## Module: azure-rsv
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.4.0)
 
 
 ### Features
@@ -88,4 +77,6 @@ folder: release_notes
 * add type definitions all usages ([#34](https://github.com/CloudNationHQ/terraform-azure-rsv/issues/34)) ([007158c](https://github.com/CloudNationHQ/terraform-azure-rsv/commit/007158ce39c410bf00ce7c0419e14d571cea14f3))
 
 ---
+
+**Published at:** 2024-12-06T09:52:43Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-18
+title: Release Notes for 2025-03-18
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-18"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250318.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-18
-
-## azure-naming
-### v0.24.0 (v0.24.0)
-**Published at:** 2025-03-18T15:05:22Z
-
-## [0.24.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.23.1...v0.24.0) (2025-03-18)
+## Module: azure-naming
+## [0.24.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.24.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v1.2.0 (v1.2.0)
-**Published at:** 2025-03-18T15:04:51Z
+**Published at:** 2025-03-18T15:05:22Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v1.1.0...v1.2.0) (2025-03-18)
+## Module: azure-sub
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v1.2.0)
 
 
 ### Features
@@ -38,11 +31,10 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-03-18T13:54:52Z
+**Published at:** 2025-03-18T15:04:51Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v1.0.0...v1.1.0) (2025-03-18)
+## Module: azure-sub
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v1.1.0)
 
 
 ### Features
@@ -52,4 +44,6 @@ folder: release_notes
 * switch to document style to include type definitions in the documentation ([#6](https://github.com/CloudNationHQ/terraform-azure-sub/issues/6)) ([676d5af](https://github.com/CloudNationHQ/terraform-azure-sub/commit/676d5afaa3e4e98dbdfb691e76ab31888d4c232a))
 
 ---
+
+**Published at:** 2025-03-18T13:54:52Z
 

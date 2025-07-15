@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-22
+title: Release Notes for 2024-08-22
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-22"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240822.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-22
-
-## azure-acr
-### v1.6.0 (v1.6.0)
-**Published at:** 2024-08-22T08:15:59Z
-
-## [1.6.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v1.5.0...v1.6.0) (2024-08-22)
+## Module: azure-acr
+## [1.6.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.6.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-22T14:43:17Z
+**Published at:** 2024-08-22T08:15:59Z
 
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.12.0...v1.0.0) (2024-08-22)
+## Module: azure-aks
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -72,11 +65,10 @@ folder: release_notes
 
 ---
 
-## azure-rbac
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-08-22T15:12:32Z
+**Published at:** 2024-08-22T14:43:17Z
 
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-rbac/compare/v0.4.0...v0.5.0) (2024-08-22)
+## Module: azure-rbac
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.5.0)
 
 
 ### Features
@@ -85,11 +77,10 @@ folder: release_notes
 
 ---
 
-## azure-rbac
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-08-22T15:04:14Z
+**Published at:** 2024-08-22T15:12:32Z
 
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-rbac/compare/v0.3.0...v0.4.0) (2024-08-22)
+## Module: azure-rbac
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.4.0)
 
 
 ### Features
@@ -98,4 +89,6 @@ folder: release_notes
 * update contribution docs ([#18](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/18)) ([afe9fe9](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/afe9fe9fbefbfd98119528d9fb6df2afab273cb4))
 
 ---
+
+**Published at:** 2024-08-22T15:04:14Z
 

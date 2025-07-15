@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-05-31
+title: Release Notes for 2024-05-31
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-05-31"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240531.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-05-31
-
-## azure-sql
-### v0.7.0 (v0.7.0)
-**Published at:** 2024-05-31T09:55:10Z
-
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.6.0...v0.7.0) (2024-05-31)
+## Module: azure-sql
+## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.7.0)
 
 
 ### Features
@@ -26,4 +20,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.17.0 to 0.23.0 in /tests ([#28](https://github.com/CloudNationHQ/terraform-azure-sql/issues/28)) ([b84505d](https://github.com/CloudNationHQ/terraform-azure-sql/commit/b84505de05b9955f200fc22b2c172825f2e4a963))
 
 ---
+
+**Published at:** 2024-05-31T09:55:10Z
 

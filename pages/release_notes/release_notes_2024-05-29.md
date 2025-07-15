@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-05-29
+title: Release Notes for 2024-05-29
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-05-29"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240529.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-05-29
-
-## azure-acr
-### v1.2.0 (v1.2.0)
-**Published at:** 2024-05-29T10:08:55Z
-
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v1.1.0...v1.2.0) (2024-05-29)
+## Module: azure-acr
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.2.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-acr
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-05-29T07:12:37Z
+**Published at:** 2024-05-29T10:08:55Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v1.0.0...v1.1.0) (2024-05-29)
+## Module: azure-acr
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.1.0)
 
 
 ### Features
@@ -37,4 +30,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#35](https://github.com/CloudNationHQ/terraform-azure-acr/issues/35)) ([f12c8f1](https://github.com/CloudNationHQ/terraform-azure-acr/commit/f12c8f1a533e8da4ff8a146568f4c2070d49830c))
 
 ---
+
+**Published at:** 2024-05-29T07:12:37Z
 

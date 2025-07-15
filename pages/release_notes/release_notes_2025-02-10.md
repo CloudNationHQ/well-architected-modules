@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-02-10
+title: Release Notes for 2025-02-10
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-02-10"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250210.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-02-10
-
-## azure-vm
-### v4.5.1 (v4.5.1)
-**Published at:** 2025-02-10T14:35:24Z
-
-## [4.5.1](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.5.0...v4.5.1) (2025-02-10)
+## Module: azure-vm
+## [4.5.1](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.5.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v4.5.0 (v4.5.0)
-**Published at:** 2025-02-10T11:09:19Z
+**Published at:** 2025-02-10T14:35:24Z
 
-## [4.5.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.4.3...v4.5.0) (2025-02-10)
+## Module: azure-vm
+## [4.5.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.5.0)
 
 
 ### Features
@@ -41,4 +34,6 @@ folder: release_notes
 * change defaults protected settings extensions ([#177](https://github.com/CloudNationHQ/terraform-azure-vm/issues/177)) ([dace1f2](https://github.com/CloudNationHQ/terraform-azure-vm/commit/dace1f29ab1203a241c813d5008ea1fa17abe092))
 
 ---
+
+**Published at:** 2025-02-10T11:09:19Z
 

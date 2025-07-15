@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-04
+title: Release Notes for 2025-04-04
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-04"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250404.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-04
-
-## azure-app
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-04-04T12:51:24Z
-
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v2.4.0...v3.0.0) (2025-04-04)
+## Module: azure-app
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -34,11 +28,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-04-04T09:11:14Z
+**Published at:** 2025-04-04T12:51:24Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v2.7.0...v3.0.0) (2025-04-04)
+## Module: azure-pip
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -57,11 +50,10 @@ folder: release_notes
 
 ---
 
-## azure-ng
-### v1.1.1 (v1.1.1)
-**Published at:** 2025-04-04T10:09:29Z
+**Published at:** 2025-04-04T09:11:14Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-ng/compare/v1.1.0...v1.1.1) (2025-04-04)
+## Module: azure-ng
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -70,11 +62,10 @@ folder: release_notes
 
 ---
 
-## azure-ng
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-04-04T09:50:15Z
+**Published at:** 2025-04-04T10:09:29Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-ng/compare/v1.0.0...v1.1.0) (2025-04-04)
+## Module: azure-ng
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.1.0)
 
 
 ### Features
@@ -83,16 +74,17 @@ folder: release_notes
 
 ---
 
-## azure-ng
-### v1.0.0 (v1.0.0)
-**Published at:** 2025-04-04T09:46:57Z
+**Published at:** 2025-04-04T09:50:15Z
 
+## Module: azure-ng
 ## 1.0.0 (2025-04-04)
 
 
 ### Features
 
-* add initial files ([#1](https://github.com/CloudNationHQ/terraform-azure-ng/issues/1)) ([9c4f06b](https://github.com/CloudNationHQ/terraform-azure-ng/commit/9c4f06b895fbd0e002d862cc6f27ed5f29c0641e))
+* add initial files ([#1](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.0.0)) ([9c4f06b](https://github.com/CloudNationHQ/terraform-azure-ng/commit/9c4f06b895fbd0e002d862cc6f27ed5f29c0641e))
 
 ---
+
+**Published at:** 2025-04-04T09:46:57Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-01-31
+title: Release Notes for 2024-01-31
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-01-31"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240131.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-01-31
-
-## azure-aks
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-01-31T16:09:10Z
-
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.3.0...v0.4.0) (2024-01-29)
+## Module: azure-aks
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.4.0)
 
 
 ### Features
@@ -27,4 +21,6 @@ folder: release_notes
 * improving autoscaler block iteration to exist only once ([#27](https://github.com/CloudNationHQ/terraform-azure-aks/issues/27)) ([5495709](https://github.com/CloudNationHQ/terraform-azure-aks/commit/54957097e5bf18f91e3bf1c196612e407cebd1c2))
 
 ---
+
+**Published at:** 2024-01-31T16:09:10Z
 

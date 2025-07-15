@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-27
+title: Release Notes for 2025-03-27
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-27"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250327.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-27
-
-## azure-sa
-### v3.5.1 (v3.5.1)
-**Published at:** 2025-03-27T15:43:18Z
-
-## [3.5.1](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.5.0...v3.5.1) (2025-03-27)
+## Module: azure-sa
+## [3.5.1](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.5.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v5.2.0 (v5.2.0)
-**Published at:** 2025-03-27T13:29:19Z
+**Published at:** 2025-03-27T15:43:18Z
 
-## [5.2.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v5.1.0...v5.2.0) (2025-03-27)
+## Module: azure-vm
+## [5.2.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v5.2.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-uai
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-03-27T17:24:50Z
+**Published at:** 2025-03-27T13:29:19Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-uai/compare/v1.0.0...v1.1.0) (2025-03-27)
+## Module: azure-uai
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-uai/releases/tag/v1.1.0)
 
 
 ### Features
@@ -50,4 +42,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.34.0 to 0.36.0 in /tests ([#5](https://github.com/CloudNationHQ/terraform-azure-uai/issues/5)) ([ad1c8d4](https://github.com/CloudNationHQ/terraform-azure-uai/commit/ad1c8d49223514b1a68e4399897d72620b5945ab))
 
 ---
+
+**Published at:** 2025-03-27T17:24:50Z
 

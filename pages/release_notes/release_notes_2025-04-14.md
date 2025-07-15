@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-14
+title: Release Notes for 2025-04-14
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-14"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250414.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-14
-
-## azure-sa
-### v3.7.1 (v3.7.1)
-**Published at:** 2025-04-14T10:49:45Z
-
-## [3.7.1](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.7.0...v3.7.1) (2025-04-14)
+## Module: azure-sa
+## [3.7.1](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.7.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-rg
-### v2.5.1 (v2.5.1)
-**Published at:** 2025-04-14T10:51:09Z
+**Published at:** 2025-04-14T10:49:45Z
 
-## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v2.5.0...v2.5.1) (2025-04-14)
+## Module: azure-rg
+## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.5.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v4.2.0 (v4.2.0)
-**Published at:** 2025-04-14T10:14:06Z
+**Published at:** 2025-04-14T10:51:09Z
 
-## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v4.1.0...v4.2.0) (2025-04-14)
+## Module: azure-vwan
+## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.2.0)
 
 
 ### Features
@@ -51,11 +43,10 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v1.8.1 (v1.8.1)
-**Published at:** 2025-04-14T10:51:29Z
+**Published at:** 2025-04-14T10:14:06Z
 
-## [1.8.1](https://github.com/CloudNationHQ/terraform-azure-func/compare/v1.8.0...v1.8.1) (2025-04-14)
+## Module: azure-func
+## [1.8.1](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.8.1)
 
 
 ### Bug Fixes
@@ -64,11 +55,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v3.1.1 (v3.1.1)
-**Published at:** 2025-04-14T10:52:25Z
+**Published at:** 2025-04-14T10:51:29Z
 
-## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-app/compare/v3.1.0...v3.1.1) (2025-04-14)
+## Module: azure-app
+## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v3.1.1)
 
 
 ### Bug Fixes
@@ -77,11 +67,10 @@ folder: release_notes
 
 ---
 
-## azure-fw
-### v2.5.2 (v2.5.2)
-**Published at:** 2025-04-14T10:50:01Z
+**Published at:** 2025-04-14T10:52:25Z
 
-## [2.5.2](https://github.com/CloudNationHQ/terraform-azure-fw/compare/v2.5.1...v2.5.2) (2025-04-14)
+## Module: azure-fw
+## [2.5.2](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.5.2)
 
 
 ### Bug Fixes
@@ -90,11 +79,10 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v1.4.1 (v1.4.1)
-**Published at:** 2025-04-14T10:50:46Z
+**Published at:** 2025-04-14T10:50:01Z
 
-## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-lb/compare/v1.4.0...v1.4.1) (2025-04-14)
+## Module: azure-lb
+## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.4.1)
 
 
 ### Bug Fixes
@@ -103,11 +91,10 @@ folder: release_notes
 
 ---
 
-## azure-costs
-### v1.4.1 (v1.4.1)
-**Published at:** 2025-04-14T10:51:46Z
+**Published at:** 2025-04-14T10:50:46Z
 
-## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-costs/compare/v1.4.0...v1.4.1) (2025-04-14)
+## Module: azure-costs
+## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.4.1)
 
 
 ### Bug Fixes
@@ -116,11 +103,10 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v2.0.1 (v2.0.1)
-**Published at:** 2025-04-14T10:51:58Z
+**Published at:** 2025-04-14T10:51:46Z
 
-## [2.0.1](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v2.0.0...v2.0.1) (2025-04-14)
+## Module: azure-sub
+## [2.0.1](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.0.1)
 
 
 ### Bug Fixes
@@ -129,11 +115,10 @@ folder: release_notes
 
 ---
 
-## azure-uai
-### v1.1.1 (v1.1.1)
-**Published at:** 2025-04-14T10:53:14Z
+**Published at:** 2025-04-14T10:51:58Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-uai/compare/v1.1.0...v1.1.1) (2025-04-14)
+## Module: azure-uai
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-uai/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -142,11 +127,10 @@ folder: release_notes
 
 ---
 
-## azure-ng
-### v1.1.2 (v1.1.2)
-**Published at:** 2025-04-14T10:50:21Z
+**Published at:** 2025-04-14T10:53:14Z
 
-## [1.1.2](https://github.com/CloudNationHQ/terraform-azure-ng/compare/v1.1.1...v1.1.2) (2025-04-14)
+## Module: azure-ng
+## [1.1.2](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.1.2)
 
 
 ### Bug Fixes
@@ -155,11 +139,10 @@ folder: release_notes
 
 ---
 
-## azure-cog
-### v1.0.1 (v1.0.1)
-**Published at:** 2025-04-14T11:09:09Z
+**Published at:** 2025-04-14T10:50:21Z
 
-## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-cognitive/compare/v1.0.0...v1.0.1) (2025-04-14)
+## Module: azure-cog
+## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.0.1)
 
 
 ### Bug Fixes
@@ -168,16 +151,17 @@ folder: release_notes
 
 ---
 
-## azure-cog
-### v1.0.0 (v1.0.0)
-**Published at:** 2025-04-14T10:59:03Z
+**Published at:** 2025-04-14T11:09:09Z
 
+## Module: azure-cog
 ## 1.0.0 (2025-04-14)
 
 
 ### Features
 
-* add initial resources  ([#1](https://github.com/CloudNationHQ/terraform-azure-cognitive/issues/1)) ([9f5bf23](https://github.com/CloudNationHQ/terraform-azure-cognitive/commit/9f5bf2393e71ea68b146f450d77dc9503f482331))
+* add initial resources  ([#1](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.0.0)) ([9f5bf23](https://github.com/CloudNationHQ/terraform-azure-cognitive/commit/9f5bf2393e71ea68b146f450d77dc9503f482331))
 
 ---
+
+**Published at:** 2025-04-14T10:59:03Z
 

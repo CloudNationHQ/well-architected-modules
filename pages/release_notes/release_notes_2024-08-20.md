@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-20
+title: Release Notes for 2024-08-20
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-20"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240820.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-20
-
-## azure-law
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-08-20T06:27:18Z
-
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v1.0.0...v1.1.0) (2024-08-20)
+## Module: azure-law
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v1.1.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sa
-### v1.1.1 (v1.1.1)
-**Published at:** 2024-08-20T06:16:19Z
+**Published at:** 2024-08-20T06:27:18Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v1.1.0...v1.1.1) (2024-08-20)
+## Module: azure-sa
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v0.12.0 (v0.12.0)
-**Published at:** 2024-08-20T12:58:55Z
+**Published at:** 2024-08-20T06:16:19Z
 
-## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.11.0...v0.12.0) (2024-08-20)
+## Module: azure-aks
+## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.12.0)
 
 
 ### Features
@@ -50,4 +42,6 @@ folder: release_notes
 * update contribution docs ([#80](https://github.com/CloudNationHQ/terraform-azure-aks/issues/80)) ([22734ee](https://github.com/CloudNationHQ/terraform-azure-aks/commit/22734ee710b1dcb7f985fb7fba031620c7b50247))
 
 ---
+
+**Published at:** 2024-08-20T12:58:55Z
 

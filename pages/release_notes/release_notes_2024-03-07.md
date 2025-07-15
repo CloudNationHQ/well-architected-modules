@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-03-07
+title: Release Notes for 2024-03-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-03-07"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240307.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-03-07
-
-## azure-cosmosdb
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-03-07T15:09:33Z
-
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v0.4.0...v0.5.0) (2024-03-07)
+## Module: azure-cosmosdb
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.5.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v0.7.0 (v0.7.0)
-**Published at:** 2024-03-07T14:07:24Z
+**Published at:** 2024-03-07T15:09:33Z
 
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.6.0...v0.7.0) (2024-03-07)
+## Module: azure-aks
+## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.7.0)
 
 
 ### Features
@@ -42,4 +35,6 @@ folder: release_notes
 * optimized dynamic identity blocks ([#44](https://github.com/CloudNationHQ/terraform-azure-aks/issues/44)) ([d4eeaaa](https://github.com/CloudNationHQ/terraform-azure-aks/commit/d4eeaaadcd857b70b42cb37338e1101133463108))
 
 ---
+
+**Published at:** 2024-03-07T14:07:24Z
 

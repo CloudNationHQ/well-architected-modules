@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-29
+title: Release Notes for 2024-10-29
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-29"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241029.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-29
-
-## azure-naming
-### v0.19.0 (v0.19.0)
-**Published at:** 2024-10-29T11:31:52Z
-
-## [0.19.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.18.1...v0.19.0) (2024-10-29)
+## Module: azure-naming
+## [0.19.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.19.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v2.3.0 (v2.3.0)
-**Published at:** 2024-10-29T16:52:35Z
+**Published at:** 2024-10-29T11:31:52Z
 
-## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.2.0...v2.3.0) (2024-10-29)
+## Module: azure-aa
+## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.3.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v2.2.0 (v2.2.0)
-**Published at:** 2024-10-29T14:43:38Z
+**Published at:** 2024-10-29T16:52:35Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.1.0...v2.2.0) (2024-10-29)
+## Module: azure-aa
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.2.0)
 
 
 ### Features
@@ -49,4 +41,6 @@ folder: release_notes
 * add webhook support for runbooks ([#25](https://github.com/CloudNationHQ/terraform-azure-aa/issues/25)) ([f09b7cf](https://github.com/CloudNationHQ/terraform-azure-aa/commit/f09b7cffe5138e60befe2d94e057d4592d42a2ef))
 
 ---
+
+**Published at:** 2024-10-29T14:43:38Z
 

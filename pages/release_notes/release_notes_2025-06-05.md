@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-05
+title: Release Notes for 2025-06-05
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-05"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250605.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-05
-
-## azure-mysql
-### v3.1.1 (v3.1.1)
-**Published at:** 2025-06-05T15:07:50Z
-
-## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v3.1.0...v3.1.1) (2025-06-05)
+## Module: azure-mysql
+## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v3.1.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-fwp
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-06-05T12:13:27Z
+**Published at:** 2025-06-05T15:07:50Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fwp/compare/v2.3.0...v3.0.0) (2025-06-05)
+## Module: azure-fwp
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -49,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-wafwp
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-06-05T12:20:47Z
+**Published at:** 2025-06-05T12:13:27Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/compare/v1.3.0...v2.0.0) (2025-06-05)
+## Module: azure-wafwp
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -71,4 +63,6 @@ folder: release_notes
 - The rule set version default is changed. It should be set in the config now, since we support different types
 
 ---
+
+**Published at:** 2025-06-05T12:20:47Z
 

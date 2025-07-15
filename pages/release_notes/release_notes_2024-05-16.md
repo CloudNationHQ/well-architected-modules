@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-05-16
+title: Release Notes for 2024-05-16
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-05-16"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240516.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-05-16
-
-## azure-cosmosdb
-### v0.7.0 (v0.7.0)
-**Published at:** 2024-05-16T09:36:47Z
-
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v0.6.0...v0.7.0) (2024-05-16)
+## Module: azure-cosmosdb
+## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.7.0)
 
 
 ### Features
@@ -27,11 +21,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v0.7.0 (v0.7.0)
-**Published at:** 2024-05-16T13:45:15Z
+**Published at:** 2024-05-16T09:36:47Z
 
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.6.0...v0.7.0) (2024-05-16)
+## Module: azure-bastion
+## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.7.0)
 
 
 ### Features
@@ -43,4 +36,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.19.0 to 0.23.0 in /tests ([#26](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/26)) ([ef61beb](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/ef61beb60e57f6b75796c09b7eace2ada8e5842c))
 
 ---
+
+**Published at:** 2024-05-16T13:45:15Z
 

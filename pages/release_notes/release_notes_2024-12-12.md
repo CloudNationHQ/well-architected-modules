@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-12-12
+title: Release Notes for 2024-12-12
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-12-12"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241212.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-12-12
-
-## azure-acr
-### v4.0.0 (v4.0.0)
-**Published at:** 2024-12-12T08:40:07Z
-
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v3.2.2...v4.0.0) (2024-12-12)
+## Module: azure-acr
+## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v4.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -31,4 +25,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 4.0"`
 
 ---
+
+**Published at:** 2024-12-12T08:40:07Z
 

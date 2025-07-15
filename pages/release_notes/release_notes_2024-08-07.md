@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-07
+title: Release Notes for 2024-08-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-07"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240807.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-07
-
-## azure-sa
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-07T08:20:49Z
-
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.23.1...v1.0.0) (2024-08-07)
+## Module: azure-sa
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -39,11 +33,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-08-07T12:41:41Z
+**Published at:** 2024-08-07T08:20:49Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v2.4.0...v3.0.0) (2024-08-07)
+## Module: azure-vm
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -72,11 +65,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-07T14:14:46Z
+**Published at:** 2024-08-07T12:41:41Z
 
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v0.7.0...v1.0.0) (2024-08-07)
+## Module: azure-psql
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -97,11 +89,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v0.7.0 (v0.7.0)
-**Published at:** 2024-08-07T13:57:44Z
+**Published at:** 2024-08-07T14:14:46Z
 
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v0.6.0...v0.7.0) (2024-07-04)
+## Module: azure-psql
+## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.7.0)
 
 
 ### Features
@@ -110,18 +101,19 @@ folder: release_notes
 
 ---
 
-## azure-syn
-### v0.1.0 (v0.1.0)
-**Published at:** 2024-08-07T13:46:04Z
+**Published at:** 2024-08-07T13:57:44Z
 
+## Module: azure-syn
 ## 0.1.0 (2024-08-07)
 
 
 ### Features
 
-* create initial resources ([be76cae](https://github.com/CloudNationHQ/terraform-azure-syn/commit/be76cae00a3330797a199fce07b17efd007f8e9f))
+* create initial resources ([be76cae](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.1.0))
 * **deps:** Bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#6](https://github.com/CloudNationHQ/terraform-azure-syn/issues/6)) ([ced4840](https://github.com/CloudNationHQ/terraform-azure-syn/commit/ced4840f0dd119a2b3f1709eccbb844dfde2038b))
 * **deps:** Bump github.com/gruntwork-io/terratest in /tests ([#7](https://github.com/CloudNationHQ/terraform-azure-syn/issues/7)) ([9a7da9d](https://github.com/CloudNationHQ/terraform-azure-syn/commit/9a7da9d00b1118daac4fee5f90761e8311b713ed))
 
 ---
+
+**Published at:** 2024-08-07T13:46:04Z
 

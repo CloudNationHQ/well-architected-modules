@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-07-04
+title: Release Notes for 2025-07-04
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-07-04"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250704.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-07-04
-
-## azure-sub
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-07-04T12:54:11Z
-
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v2.3.1...v3.0.0) (2025-07-04)
+## Module: azure-sub
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -32,4 +26,6 @@ folder: release_notes
   - The keys on some resources changed, which will cause recreates.
 
 ---
+
+**Published at:** 2025-07-04T12:54:11Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-07-14
+title: Release Notes for 2025-07-14
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-07-14"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250714.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-07-14
-
-## azure-pdns
-### v3.6.0 (v3.6.0)
-**Published at:** 2025-07-14T12:20:49Z
-
-## [3.6.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v3.5.0...v3.6.0) (2025-07-14)
+## Module: azure-pdns
+## [3.6.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v3.6.0)
 
 
 ### Features
@@ -25,4 +19,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net in /tests in the go_modules group ([#60](https://github.com/CloudNationHQ/terraform-azure-pdns/issues/60)) ([22aa2b9](https://github.com/CloudNationHQ/terraform-azure-pdns/commit/22aa2b9ea9b5e6f387ea8d9d82938910cd5d8453))
 
 ---
+
+**Published at:** 2025-07-14T12:20:49Z
 

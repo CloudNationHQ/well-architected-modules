@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-14
+title: Release Notes for 2024-08-14
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-14"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240814.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-14
-
-## azure-law
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-14T06:35:42Z
-
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.12.0...v1.0.0) (2024-08-14)
+## Module: azure-law
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -39,11 +33,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-14T12:38:52Z
+**Published at:** 2024-08-14T06:35:42Z
 
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v0.11.0...v1.0.0) (2024-08-14)
+## Module: azure-cosmosdb
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -70,11 +63,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v0.11.0 (v0.11.0)
-**Published at:** 2024-08-14T09:23:22Z
+**Published at:** 2024-08-14T12:38:52Z
 
-## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v0.10.0...v0.11.0) (2024-08-14)
+## Module: azure-cosmosdb
+## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.11.0)
 
 
 ### Features
@@ -83,11 +75,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v0.10.0 (v0.10.0)
-**Published at:** 2024-08-14T07:21:09Z
+**Published at:** 2024-08-14T09:23:22Z
 
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v0.9.0...v0.10.0) (2024-08-14)
+## Module: azure-cosmosdb
+## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.10.0)
 
 
 ### Features
@@ -98,11 +89,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-14T08:27:46Z
+**Published at:** 2024-08-14T07:21:09Z
 
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.11.0...v1.0.0) (2024-08-14)
+## Module: azure-bastion
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -125,11 +115,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v0.11.0 (v0.11.0)
-**Published at:** 2024-08-14T07:44:24Z
+**Published at:** 2024-08-14T08:27:46Z
 
-## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.10.0...v0.11.0) (2024-08-14)
+## Module: azure-bastion
+## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.11.0)
 
 
 ### Features
@@ -138,11 +127,10 @@ folder: release_notes
 
 ---
 
-## azure-mysql
-### v0.2.1 (v0.2.1)
-**Published at:** 2024-08-14T14:43:55Z
+**Published at:** 2024-08-14T07:44:24Z
 
-## [0.2.1](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v0.2.0...v0.2.1) (2024-08-14)
+## Module: azure-mysql
+## [0.2.1](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v0.2.1)
 
 
 ### Bug Fixes
@@ -151,16 +139,17 @@ folder: release_notes
 
 ---
 
-## azure-plan
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-08-14T15:22:50Z
+**Published at:** 2024-08-14T14:43:55Z
 
+## Module: azure-plan
 ## 1.0.0 (2024-08-14)
 
 
 ### Features
 
-* add initial resources ([8811c68](https://github.com/CloudNationHQ/terraform-azure-plan/commit/8811c6845c919f449cee98c61434bfef884c381a))
+* add initial resources ([8811c68](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v1.0.0))
 
 ---
+
+**Published at:** 2024-08-14T15:22:50Z
 

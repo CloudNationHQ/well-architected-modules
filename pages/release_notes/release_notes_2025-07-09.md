@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-07-09
+title: Release Notes for 2025-07-09
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-07-09"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250709.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-07-09
-
-## azure-vnet
-### v9.2.3 (v9.2.3)
-**Published at:** 2025-07-09T15:30:37Z
-
-## [9.2.3](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v9.2.2...v9.2.3) (2025-07-09)
+## Module: azure-vnet
+## [9.2.3](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.2.3)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## infoblox-allocation
-### v1.2.1 (v1.2.1)
-**Published at:** 2025-07-09T14:51:42Z
+**Published at:** 2025-07-09T15:30:37Z
 
-## [1.2.1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/compare/v1.2.0...v1.2.1) (2025-07-09)
+## Module: infoblox-allocation
+## [1.2.1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.2.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## infoblox-allocation
-### v1.2.0 (v1.2.0)
-**Published at:** 2025-07-09T14:45:08Z
+**Published at:** 2025-07-09T14:51:42Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-infoblox-allocation/compare/v1.1.2...v1.2.0) (2025-07-09)
+## Module: infoblox-allocation
+## [1.2.0](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.2.0)
 
 ### Bug Fixes
 
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## infoblox-allocation
-### v1.1.1 (v1.1.1)
-**Published at:** 2025-07-09T14:36:21Z
+**Published at:** 2025-07-09T14:45:08Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/compare/v1.1.0...v1.1.1) (2025-07-09)
+## Module: infoblox-allocation
+## [1.1.1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -63,11 +54,10 @@ folder: release_notes
 
 ---
 
-## infoblox-allocation
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-07-09T14:21:07Z
+**Published at:** 2025-07-09T14:36:21Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-infoblox-allocation/compare/v1.0.0...v1.1.0) (2025-07-09)
+## Module: infoblox-allocation
+## [1.1.0](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.1.0)
 
 
 ### Features
@@ -76,16 +66,17 @@ folder: release_notes
 
 ---
 
-## infoblox-allocation
-### v1.0.0 (v1.0.0)
-**Published at:** 2025-07-09T14:18:37Z
+**Published at:** 2025-07-09T14:21:07Z
 
+## Module: infoblox-allocation
 ## 1.0.0 (2025-07-09)
 
 
 ### Features
 
-* add initial files ([#1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/issues/1)) ([bd8e978](https://github.com/CloudNationHQ/terraform-infoblox-allocation/commit/bd8e978c401f79bfad13d4432e6722d2c9dda8a5))
+* add initial files ([#1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.0.0)) ([bd8e978](https://github.com/CloudNationHQ/terraform-infoblox-allocation/commit/bd8e978c401f79bfad13d4432e6722d2c9dda8a5))
 
 ---
+
+**Published at:** 2025-07-09T14:18:37Z
 
