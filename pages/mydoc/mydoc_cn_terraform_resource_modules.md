@@ -80,7 +80,7 @@ The following table shows the number of all available Terraform Resource Modules
 <tr>
 <td markdown="span">allocation</td>
 <td markdown="span">infoblox</td>
-<td markdown="span">.</td> 
+<td markdown="span">Terraform module which allocates infoblox networks used by workloads and accelerators..</td> 
 <td markdown="span">1.2.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-infoblox-allocation" target="_blank">Github repo allocation</a></td>
 </tr>
