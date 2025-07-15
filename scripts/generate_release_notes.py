@@ -1,6 +1,7 @@
 import requests
 import os
 import time
+import re
 from ruamel.yaml import YAML
 from datetime import datetime
 from collections import defaultdict
@@ -83,7 +84,7 @@ def generate_combined_release_notes(releases_by_date):
         file_path = os.path.join(RELEASE_NOTES_DIR, f"release_notes_{release_date}.md")
 
         # Generate dynamic metadata
-        title = f"Releases for {release_date}"
+        title = f"Release Notes for {release_date}"
         permalink = f"release_notes_{release_date.replace('-', '')}.html"
         last_updated = datetime.now().strftime("%b %d, %Y")
 
@@ -94,23 +95,20 @@ def generate_combined_release_notes(releases_by_date):
 title: {title}
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: {last_updated}
-summary: "Releases of the Terraform Well Architected Modules {release_date}"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: {permalink}
 folder: release_notes
 ---
 
 """)
-            file.write(f"# Release Notes for {release_date}\n\n")
             for release in releases:
                 module_name = release["module_name"]
                 provider_name = release["provider_name"]
-                file.write(f"## {provider_name}-{module_name}\n")
-                file.write(f"### {release['name']} ({release['tag_name']})\n")
-                file.write(f"**Published at:** {release['published_at']}\n\n")
+                file.write(f"## Module: {provider_name}-{module_name}\n")
                 file.write(f"{release['body']}\n\n")
                 file.write("---\n\n")
+                file.write(f"**Published at:** {release['published_at']}\n\n")
 
         print(f"Combined release notes generated: {file_path}")
 
@@ -228,13 +226,22 @@ def main():
         if releases:
             for release in releases:
                 release_date = release["published_at"].split("T")[0]  # Get the date part of the timestamp
+                body = release["body"]
+
+                # Replace the first compare link with the html_url and remove the date
+                if "html_url" in release:
+                    # Pattern: [version](compare_link) (date)
+                    pattern = r"(\[.*?\])\((https://github\.com[^\)]+)\)(?: \(\d{4}-\d{2}-\d{2}\))?"
+                    replacement = r"\1(" + release["html_url"] + r")"
+                    body = re.sub(pattern, replacement, body, count=1)
+                    
                 releases_by_date[release_date].append({
                     "module_name": module_name,
                     "provider_name": provider_name,
                     "name": release["name"],
                     "tag_name": release["tag_name"],
                     "published_at": release["published_at"],
-                    "body": release["body"]
+                    "body": body
                 })
 
     # Generate combined release notes
