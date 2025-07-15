@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-30T10:47:02Z
-
 ## Module: azure-psql
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v3.0.0)
 
@@ -54,8 +52,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-30T17:16:34Z
-
 ## Module: azure-pdns
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v3.0.0)
 
@@ -78,8 +74,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-30T09:07:32Z
-
 ## Module: azure-pe
 ## [1.1.3](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.3)
 
@@ -89,8 +83,6 @@ folder: release_notes
 * fix locals to include request message ([#21](https://github.com/CloudNationHQ/terraform-azure-pe/issues/21)) ([d1e252e](https://github.com/CloudNationHQ/terraform-azure-pe/commit/d1e252ef8ce0d2e52e97f43e4e9bb139c2ca6752))
 
 ---
-
-**Published at:** 2024-10-30T14:15:34Z
 
 ## Module: azure-pe
 ## [1.1.2](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.2)
@@ -102,8 +94,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-30T14:01:52Z
-
 ## Module: azure-pe
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.1)
 
@@ -113,6 +103,4 @@ folder: release_notes
 * fixed manual connection property in private service connection ([#17](https://github.com/CloudNationHQ/terraform-azure-pe/issues/17)) ([41dc14e](https://github.com/CloudNationHQ/terraform-azure-pe/commit/41dc14eb63dbdad72a5448ad7c8086baff630341))
 
 ---
-
-**Published at:** 2024-10-30T12:41:12Z
 

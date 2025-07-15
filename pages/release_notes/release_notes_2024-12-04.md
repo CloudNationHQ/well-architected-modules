@@ -26,8 +26,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-12-04T12:41:40Z
-
 ## Module: azure-vm
 ## [4.3.1](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.3.1)
 
@@ -37,8 +35,6 @@ folder: release_notes
 * replace conditional check to contains key instead of lookup for sensitive values ([#158](https://github.com/CloudNationHQ/terraform-azure-vm/issues/158)) ([e27ce60](https://github.com/CloudNationHQ/terraform-azure-vm/commit/e27ce60ccfbcee952bfff78d965ccc05658499fc))
 
 ---
-
-**Published at:** 2024-12-04T11:42:11Z
 
 ## Module: azure-ca
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v3.0.0)
@@ -53,6 +49,4 @@ folder: release_notes
 * support multiple authentication blocks in jobs ([#47](https://github.com/CloudNationHQ/terraform-azure-ca/issues/47)) ([ac57e78](https://github.com/CloudNationHQ/terraform-azure-ca/commit/ac57e78538e9ae63f40e76a4f44123c39509b702))
 
 ---
-
-**Published at:** 2024-12-04T10:28:56Z
 

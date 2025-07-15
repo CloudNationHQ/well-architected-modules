@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:29:08Z
-
 ## Module: azure-vnet
 ## [6.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v6.1.0)
 
@@ -31,8 +29,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#88](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/88)) ([89aeb8a](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/89aeb8ab7e2c9894c6f20848fecf24e0198e9f7f))
 
 ---
-
-**Published at:** 2024-10-11T10:12:26Z
 
 ## Module: azure-sa
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v2.1.0)
@@ -45,8 +41,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T12:22:09Z
-
 ## Module: azure-acr
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.1.0)
 
@@ -57,8 +51,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#67](https://github.com/CloudNationHQ/terraform-azure-acr/issues/67)) ([bd69966](https://github.com/CloudNationHQ/terraform-azure-acr/commit/bd6996642446559de35d85cf705740d7ceb43e15))
 
 ---
-
-**Published at:** 2024-10-11T09:03:10Z
 
 ## Module: azure-rg
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.1.0)
@@ -71,8 +63,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:02:51Z
-
 ## Module: azure-kv
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.1.0)
 
@@ -84,8 +74,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:02:10Z
-
 ## Module: azure-vmss
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v1.1.0)
 
@@ -95,8 +83,6 @@ folder: release_notes
 * auto generated docs and refine makefile ([#43](https://github.com/CloudNationHQ/terraform-azure-vmss/issues/43)) ([b3bd4eb](https://github.com/CloudNationHQ/terraform-azure-vmss/commit/b3bd4eb1745fc8313c46a23bad78f26237e5ab38))
 
 ---
-
-**Published at:** 2024-10-11T12:02:46Z
 
 ## Module: azure-vm
 ## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.1.0)
@@ -109,8 +95,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:03:02Z
-
 ## Module: azure-cosmosdb
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.1.0)
 
@@ -122,8 +106,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T11:22:32Z
-
 ## Module: azure-bastion
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.2.0)
 
@@ -133,8 +115,6 @@ folder: release_notes
 * enable session recording support ([#57](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/57)) ([2a142cc](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/2a142cc79ef596f87d4eb9bcf9f93101cc01bbce))
 
 ---
-
-**Published at:** 2024-10-11T13:20:58Z
 
 ## Module: azure-bastion
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.1.0)
@@ -147,8 +127,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T10:25:24Z
-
 ## Module: azure-aks
 ## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.3.0)
 
@@ -159,8 +137,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#103](https://github.com/CloudNationHQ/terraform-azure-aks/issues/103)) ([ea32885](https://github.com/CloudNationHQ/terraform-azure-aks/commit/ea32885a80428094efbf128cfa62249519ca2823))
 
 ---
-
-**Published at:** 2024-10-11T09:03:19Z
 
 ## Module: azure-vwan
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v2.1.0)
@@ -173,8 +149,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T10:16:41Z
-
 ## Module: azure-psql
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v2.1.0)
 
@@ -185,8 +159,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#36](https://github.com/CloudNationHQ/terraform-azure-psql/issues/36)) ([f93b84d](https://github.com/CloudNationHQ/terraform-azure-psql/commit/f93b84d23484ca087a6bcdc67925fe7c9b7cbbeb))
 
 ---
-
-**Published at:** 2024-10-11T09:59:02Z
 
 ## Module: azure-evh
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v2.1.0)
@@ -199,8 +171,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:03:58Z
-
 ## Module: azure-pdns
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v2.1.0)
 
@@ -211,8 +181,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#33](https://github.com/CloudNationHQ/terraform-azure-pdns/issues/33)) ([3120375](https://github.com/CloudNationHQ/terraform-azure-pdns/commit/3120375bd7a6227efbcc925a567c2d1336b1a0f8))
 
 ---
-
-**Published at:** 2024-10-11T09:48:27Z
 
 ## Module: azure-rbac
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v1.1.0)
@@ -225,8 +193,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T10:04:11Z
-
 ## Module: azure-pe
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.0)
 
@@ -237,8 +203,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#14](https://github.com/CloudNationHQ/terraform-azure-pe/issues/14)) ([ac1a563](https://github.com/CloudNationHQ/terraform-azure-pe/commit/ac1a56389c0011b56c1dcd5b8e401047bd7899bb))
 
 ---
-
-**Published at:** 2024-10-11T09:02:39Z
 
 ## Module: azure-rsv
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.1.0)
@@ -251,8 +215,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T12:08:14Z
-
 ## Module: azure-vgw
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v1.1.0)
 
@@ -263,8 +225,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#37](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/37)) ([16b091a](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/16b091aceac7e22c66f3c8f5f4cee387b22febf2))
 
 ---
-
-**Published at:** 2024-10-11T09:35:58Z
 
 ## Module: azure-ca
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.1.0)
@@ -277,8 +237,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:01:56Z
-
 ## Module: azure-func
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.1.0)
 
@@ -289,8 +247,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#22](https://github.com/CloudNationHQ/terraform-azure-func/issues/22)) ([d5d0ba2](https://github.com/CloudNationHQ/terraform-azure-func/commit/d5d0ba225c828358d7a7dd83d5aaf2857076328b))
 
 ---
-
-**Published at:** 2024-10-11T09:47:23Z
 
 ## Module: azure-aa
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.1.0)
@@ -303,8 +259,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:01:47Z
-
 ## Module: azure-nw
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v1.1.0)
 
@@ -315,8 +269,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#10](https://github.com/CloudNationHQ/terraform-azure-nw/issues/10)) ([793fe58](https://github.com/CloudNationHQ/terraform-azure-nw/commit/793fe583d909b5ab73b68a9e10fe71be35ba6a39))
 
 ---
-
-**Published at:** 2024-10-11T09:02:25Z
 
 ## Module: azure-syn
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v1.1.0)
@@ -329,8 +281,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T12:21:50Z
-
 ## Module: azure-plan
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v2.1.0)
 
@@ -342,8 +292,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:58:15Z
-
 ## Module: azure-app
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.1.0)
 
@@ -353,8 +301,6 @@ folder: release_notes
 * auto generated docs and refine makefile ([#15](https://github.com/CloudNationHQ/terraform-azure-app/issues/15)) ([89acc4f](https://github.com/CloudNationHQ/terraform-azure-app/commit/89acc4f8e4834c2a503d781ca266419ab775f729))
 
 ---
-
-**Published at:** 2024-10-11T09:03:26Z
 
 ## Module: azure-dnspr
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.1.0)
@@ -367,8 +313,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:01:41Z
-
 ## Module: azure-dcr
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dcr/releases/tag/v2.1.0)
 
@@ -379,8 +323,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#8](https://github.com/CloudNationHQ/terraform-azure-dcr/issues/8)) ([8d86ab7](https://github.com/CloudNationHQ/terraform-azure-dcr/commit/8d86ab773d488da39a6146375dbb345da267abc5))
 
 ---
-
-**Published at:** 2024-10-11T09:03:44Z
 
 ## Module: azure-redis
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v2.1.0)
@@ -393,8 +335,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T10:19:55Z
-
 ## Module: azure-dbw
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dbw/releases/tag/v2.1.0)
 
@@ -405,8 +345,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#5](https://github.com/CloudNationHQ/terraform-azure-dbw/issues/5)) ([ff8e5e6](https://github.com/CloudNationHQ/terraform-azure-dbw/commit/ff8e5e6d0c1ed763e041c2ec1cfce221d48325b1))
 
 ---
-
-**Published at:** 2024-10-11T09:03:35Z
 
 ## Module: azure-pip
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.1.0)
@@ -419,8 +357,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:32:37Z
-
 ## Module: azure-fw
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.1.0)
 
@@ -431,8 +367,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#14](https://github.com/CloudNationHQ/terraform-azure-fw/issues/14)) ([ff7a7bc](https://github.com/CloudNationHQ/terraform-azure-fw/commit/ff7a7bc151cd12b49fb3358fad5d3a7b9ee5b041))
 
 ---
-
-**Published at:** 2024-10-11T09:02:01Z
 
 ## Module: azure-appi
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.1.0)
@@ -445,8 +379,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:38:44Z
-
 ## Module: azure-fwp
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v2.1.0)
 
@@ -457,8 +389,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#6](https://github.com/CloudNationHQ/terraform-azure-fwp/issues/6)) ([eaa683d](https://github.com/CloudNationHQ/terraform-azure-fwp/commit/eaa683d08b8526b5f5386cd16b72f42d4d54fc28))
 
 ---
-
-**Published at:** 2024-10-11T09:01:32Z
 
 ## Module: azure-mag
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.1.0)
@@ -471,8 +401,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:29:57Z
-
 ## Module: azure-apim
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.1.0)
 
@@ -483,8 +411,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-11T09:37:11Z
-
 ## Module: azure-lb
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.1.0)
 
@@ -494,6 +420,4 @@ folder: release_notes
 * auto generated docs and refine makefile ([#4](https://github.com/CloudNationHQ/terraform-azure-lb/issues/4)) ([39ccc79](https://github.com/CloudNationHQ/terraform-azure-lb/commit/39ccc793e6e24f8344ed08f91bef60c843e5c3c8))
 
 ---
-
-**Published at:** 2024-10-11T09:02:18Z
 

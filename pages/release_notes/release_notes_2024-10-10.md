@@ -29,8 +29,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-10T10:44:12Z
-
 ## Module: azure-vnet
 ## [5.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v5.0.1)
 
@@ -40,6 +38,4 @@ folder: release_notes
 * fix vnet dependency order for proper destruction ([#90](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/90)) ([e07d0df](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/e07d0df24e573ec6971bc5d1aeefa54c1973aab6))
 
 ---
-
-**Published at:** 2024-10-10T08:27:43Z
 

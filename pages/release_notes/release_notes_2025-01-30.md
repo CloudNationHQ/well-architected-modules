@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-30T07:58:19Z
-
 ## Module: azure-sa
 ## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.3.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-30T12:04:27Z
-
 ## Module: azure-pe
 ## [1.4.4](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.4)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * make subresource names property optional ([#40](https://github.com/CloudNationHQ/terraform-azure-pe/issues/40)) ([dd63dac](https://github.com/CloudNationHQ/terraform-azure-pe/commit/dd63dacb688a3fbebe3b209d1ed81bc50e9e3833))
 
 ---
-
-**Published at:** 2025-01-30T07:58:04Z
 

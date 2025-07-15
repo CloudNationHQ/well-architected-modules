@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-05T15:00:13Z
-
 ## Module: azure-vm
 ## [4.4.1](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.4.1)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-05T14:40:30Z
-
 ## Module: azure-pip
 ## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.5.0)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * add ip_tags support ([#29](https://github.com/CloudNationHQ/terraform-azure-pip/issues/29)) ([928771a](https://github.com/CloudNationHQ/terraform-azure-pip/commit/928771ace285840cc6d472d31c6454c822ac6849))
 
 ---
-
-**Published at:** 2025-02-05T12:26:31Z
 

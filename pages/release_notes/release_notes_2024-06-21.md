@@ -20,8 +20,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-06-21T14:20:46Z
-
 ## Module: azure-vgw
 ## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v0.6.1)
 
@@ -31,6 +29,4 @@ folder: release_notes
 * fixed conditionally include ip_configuration_id for dynamic nat rules only ([#24](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/24)) ([35add3b](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/35add3b05eac4b4bd16fbe8fb4e6b3aa6a4694c8))
 
 ---
-
-**Published at:** 2024-06-21T06:43:57Z
 

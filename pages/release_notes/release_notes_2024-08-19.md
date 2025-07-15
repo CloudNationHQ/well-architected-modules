@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-19T08:59:51Z
-
 ## Module: azure-dnspr
 ## 1.0.0 (2024-08-19)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v1.0.0)) ([054061a](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/054061a57eb0b873f2b3d9c6957a804cc1a3aa44))
 
 ---
-
-**Published at:** 2024-08-19T08:52:32Z
 
 ## Module: azure-dcr
 ## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-dcr/releases/tag/v1.0.1)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-19T13:55:45Z
-
 ## Module: azure-dcr
 ## 1.0.0 (2024-08-19)
 
@@ -53,6 +47,4 @@ folder: release_notes
 * add initial data collection rule resources ([#1](https://github.com/CloudNationHQ/terraform-azure-dcr/releases/tag/v1.0.0)) ([ae7c419](https://github.com/CloudNationHQ/terraform-azure-dcr/commit/ae7c419376a1cc643e64560a261bc4602328d2d1))
 
 ---
-
-**Published at:** 2024-08-19T12:55:41Z
 

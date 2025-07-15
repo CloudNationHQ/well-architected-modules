@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-11T09:57:58Z
-
 ## Module: azure-pip
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v1.1.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-11T14:21:27Z
-
 ## Module: azure-pip
 ## 1.0.0 (2024-09-11)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v1.0.0)) ([1ac5480](https://github.com/CloudNationHQ/terraform-azure-pip/commit/1ac54803dca498627b3106cf4d518f15fb9ac03d))
 
 ---
-
-**Published at:** 2024-09-11T09:55:31Z
 

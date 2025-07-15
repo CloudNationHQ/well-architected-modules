@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-23T14:25:07Z
-
 ## Module: azure-fdfwp
 ## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.0.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * handle optional security policy object correctly ([#4](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/4)) ([8aaca99](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/8aaca9931395f3ee246979c403e60344074c6137))
 
 ---
-
-**Published at:** 2024-10-23T07:27:44Z
 
 ## Module: azure-fd
 ## 1.0.0 (2024-10-23)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-23T13:26:28Z
-
 ## Module: azure-costs
 ## 1.0.0 (2024-10-23)
 
@@ -53,6 +47,4 @@ folder: release_notes
 * add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.0.0)) ([031ef32](https://github.com/CloudNationHQ/terraform-azure-costs/commit/031ef3238d42ccb57ed29ebad285af4557d66e6a))
 
 ---
-
-**Published at:** 2024-10-23T15:04:59Z
 

@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-24T13:06:34Z
-
 ## Module: azure-vm
 ## [6.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v6.0.0)
 
@@ -43,6 +41,4 @@ folder: release_notes
 - The structure changed abit when ssh keys or passwords are generated within the module itself as shown in the examples.
 
 ---
-
-**Published at:** 2025-04-24T12:55:15Z
 

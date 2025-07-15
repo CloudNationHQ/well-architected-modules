@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-06T16:30:51Z
-
 ## Module: azure-appcfg
 ## 1.0.0 (2025-03-06)
 
@@ -30,6 +28,4 @@ folder: release_notes
 * add initial files ([#2](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v1.0.0)) ([2400e4a](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/2400e4a30af10789bf21bf87c8ea912097d97137))
 
 ---
-
-**Published at:** 2025-03-06T08:40:55Z
 

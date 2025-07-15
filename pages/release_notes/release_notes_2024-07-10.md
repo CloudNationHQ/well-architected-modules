@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-07-10T13:04:28Z
-
 ## Module: azure-naming
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.7.0)
 
@@ -29,6 +27,4 @@ folder: release_notes
 * add automation job schedule support ([#16](https://github.com/CloudNationHQ/terraform-azure-naming/issues/16)) ([b01b363](https://github.com/CloudNationHQ/terraform-azure-naming/commit/b01b36381dcf90f1a58c51faad73debb02601a77))
 
 ---
-
-**Published at:** 2024-07-10T12:41:14Z
 

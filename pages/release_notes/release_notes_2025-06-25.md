@@ -30,5 +30,3 @@ For more details see the usage examples
 
 ---
 
-**Published at:** 2025-06-25T12:47:09Z
-

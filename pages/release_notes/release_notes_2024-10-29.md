@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-29T11:31:52Z
-
 ## Module: azure-aa
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.3.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-29T16:52:35Z
-
 ## Module: azure-aa
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.2.0)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * add webhook support for runbooks ([#25](https://github.com/CloudNationHQ/terraform-azure-aa/issues/25)) ([f09b7cf](https://github.com/CloudNationHQ/terraform-azure-aa/commit/f09b7cffe5138e60befe2d94e057d4592d42a2ef))
 
 ---
-
-**Published at:** 2024-10-29T14:43:38Z
 

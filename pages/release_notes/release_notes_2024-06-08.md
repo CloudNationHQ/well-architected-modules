@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-06-08T09:28:18Z
-
 ## Module: azure-vwan
 ## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.9.0)
 
@@ -34,8 +32,6 @@ folder: release_notes
 * **deps:** bump google.golang.org/protobuf in /tests ([#28](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/28)) ([f3332b0](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/f3332b090c9e0106b351f58fbd4328f762b151c2))
 
 ---
-
-**Published at:** 2024-06-08T09:46:38Z
 
 ## Module: azure-psql
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.4.0)
@@ -51,8 +47,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-06-08T09:54:43Z
-
 ## Module: azure-rbac
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.2.0)
 
@@ -64,6 +58,4 @@ folder: release_notes
 * **deps:** bump the go_modules group in /tests with 3 updates ([#9](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/9)) ([055de3e](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/055de3e58aca4fca09741c0e868a720659d260fc))
 
 ---
-
-**Published at:** 2024-06-08T09:49:51Z
 

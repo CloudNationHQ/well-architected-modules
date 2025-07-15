@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-28T11:36:08Z
-
 ## Module: azure-sa
 ## [3.5.2](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.5.2)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-28T11:03:15Z
-
 ## Module: azure-func
 ## [1.8.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.8.0)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * add support for identity blocks and updated all properties ([#46](https://github.com/CloudNationHQ/terraform-azure-func/issues/46)) ([b808573](https://github.com/CloudNationHQ/terraform-azure-func/commit/b808573d8bc1e4cb5c2351a93a9d124c5de3a8fc))
 
 ---
-
-**Published at:** 2025-03-28T15:06:06Z
 

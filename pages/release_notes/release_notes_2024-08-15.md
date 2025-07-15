@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-15T08:44:00Z
-
 ## Module: azure-kv
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v1.0.0)
 
@@ -45,8 +43,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-15T08:14:52Z
-
 ## Module: azure-plan
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v1.1.1)
 
@@ -57,8 +53,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-15T05:57:27Z
-
 ## Module: azure-plan
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v1.1.0)
 
@@ -67,6 +61,4 @@ folder: release_notes
 * fixed resource group and location conditions ([437f345](https://github.com/CloudNationHQ/terraform-azure-plan/commit/437f3451412d3073678d33e1108c751619ebf126))
 
 ---
-
-**Published at:** 2024-08-15T05:43:29Z
 

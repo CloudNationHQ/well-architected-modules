@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-06T15:17:11Z
-
 ## Module: azure-sql
 ## [0.4.1](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.4.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * fixed duplication in database creation with elastic pool assignment ([#20](https://github.com/CloudNationHQ/terraform-azure-sql/issues/20)) ([b919899](https://github.com/CloudNationHQ/terraform-azure-sql/commit/b9198992cc4f315a709cb4f8d572f7463b9bf521))
 
 ---
-
-**Published at:** 2024-03-06T13:28:04Z
 
 ## Module: azure-sql
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.4.0)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-06T10:37:19Z
-
 ## Module: azure-aks
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.6.0)
 
@@ -54,6 +48,4 @@ folder: release_notes
 * update documentation ([#40](https://github.com/CloudNationHQ/terraform-azure-aks/issues/40)) ([66ed3b5](https://github.com/CloudNationHQ/terraform-azure-aks/commit/66ed3b50bdf0574a9f5ddc032c9768ab902148d6))
 
 ---
-
-**Published at:** 2024-03-06T13:55:01Z
 

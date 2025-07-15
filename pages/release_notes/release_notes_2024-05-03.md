@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-05-03T10:28:19Z
-
 ## Module: azure-kv
 ## [0.9.1](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.9.1)
 
@@ -29,6 +27,4 @@ folder: release_notes
 * small fix to skip tls keys ([#39](https://github.com/CloudNationHQ/terraform-azure-kv/issues/39)) ([b4b0f7a](https://github.com/CloudNationHQ/terraform-azure-kv/commit/b4b0f7a77dfaf2f6ec06bddc45db9623eb64012e))
 
 ---
-
-**Published at:** 2024-05-03T19:30:48Z
 

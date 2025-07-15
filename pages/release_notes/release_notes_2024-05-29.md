@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-05-29T10:08:55Z
-
 ## Module: azure-acr
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.1.0)
 
@@ -30,6 +28,4 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#35](https://github.com/CloudNationHQ/terraform-azure-acr/issues/35)) ([f12c8f1](https://github.com/CloudNationHQ/terraform-azure-acr/commit/f12c8f1a533e8da4ff8a146568f4c2070d49830c))
 
 ---
-
-**Published at:** 2024-05-29T07:12:37Z
 

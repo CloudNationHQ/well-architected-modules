@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-12T06:58:42Z
-
 ## Module: azure-vnet
 ## [9.2.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.2.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * ensure correct go test functions are included in makefile and added more validations ([#157](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/157)) ([4e61b79](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/4e61b79357b09599b6070c9b196a70547d74a041))
 
 ---
-
-**Published at:** 2025-06-12T06:19:07Z
 
 ## Module: azure-vnet
 ## [9.2.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.2.0)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-12T05:00:07Z
-
 ## Module: azure-sub
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.2.0)
 
@@ -54,8 +48,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-12T14:47:06Z
-
 ## Module: azure-sub
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.1.0)
 
@@ -65,6 +57,4 @@ folder: release_notes
 * replace deployment test code with module consumption and fix tags property idempotence ([#15](https://github.com/CloudNationHQ/terraform-azure-sub/issues/15)) ([77529f5](https://github.com/CloudNationHQ/terraform-azure-sub/commit/77529f59405de6f5e5ca352a62d84f7a62cd5e04))
 
 ---
-
-**Published at:** 2025-06-12T12:17:05Z
 

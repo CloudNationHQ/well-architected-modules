@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-18T18:22:10Z
-
 ## Module: azure-agw
 ## [1.3.3](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.3.3)
 
@@ -35,8 +33,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-18T12:59:58Z
-
 ## Module: azure-agw
 ## [1.3.2](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.3.2)
 
@@ -46,6 +42,4 @@ folder: release_notes
 * fix several properties to be optional and corrected some usages ([#29](https://github.com/CloudNationHQ/terraform-azure-agw/issues/29)) ([ae6d161](https://github.com/CloudNationHQ/terraform-azure-agw/commit/ae6d161803419a9741fdf61b79d19b56f10e98aa))
 
 ---
-
-**Published at:** 2025-02-18T12:52:16Z
 

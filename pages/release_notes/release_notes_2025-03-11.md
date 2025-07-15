@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-11T16:01:10Z
-
 ## Module: azure-vwan
 ## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.0.0)
 
@@ -42,6 +40,4 @@ folder: release_notes
 - Update module reference to: `version = "~> 4.0"`
 
 ---
-
-**Published at:** 2025-03-11T14:28:09Z
 

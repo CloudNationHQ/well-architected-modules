@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-14T10:49:45Z
-
 ## Module: azure-rg
 ## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.5.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * fix submodule generation from makefile ([#52](https://github.com/CloudNationHQ/terraform-azure-rg/issues/52)) ([b7008a4](https://github.com/CloudNationHQ/terraform-azure-rg/commit/b7008a49adcf8efa18767cf0ef2e41588edfe42f))
 
 ---
-
-**Published at:** 2025-04-14T10:51:09Z
 
 ## Module: azure-vwan
 ## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.2.0)
@@ -43,8 +39,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-14T10:14:06Z
-
 ## Module: azure-func
 ## [1.8.1](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.8.1)
 
@@ -54,8 +48,6 @@ folder: release_notes
 * fix submodule generation from makefile ([#48](https://github.com/CloudNationHQ/terraform-azure-func/issues/48)) ([23999f9](https://github.com/CloudNationHQ/terraform-azure-func/commit/23999f972ae49e93093150e03eab9a5d9764e654))
 
 ---
-
-**Published at:** 2025-04-14T10:51:29Z
 
 ## Module: azure-app
 ## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v3.1.1)
@@ -67,8 +59,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-14T10:52:25Z
-
 ## Module: azure-fw
 ## [2.5.2](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.5.2)
 
@@ -78,8 +68,6 @@ folder: release_notes
 * fix submodule generation from makefile ([#35](https://github.com/CloudNationHQ/terraform-azure-fw/issues/35)) ([d017daa](https://github.com/CloudNationHQ/terraform-azure-fw/commit/d017daae48067a784345232ced614cdc8120266e))
 
 ---
-
-**Published at:** 2025-04-14T10:50:01Z
 
 ## Module: azure-lb
 ## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.4.1)
@@ -91,8 +79,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-14T10:50:46Z
-
 ## Module: azure-costs
 ## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.4.1)
 
@@ -102,8 +88,6 @@ folder: release_notes
 * fix submodule generation from makefile ([#18](https://github.com/CloudNationHQ/terraform-azure-costs/issues/18)) ([207c1ba](https://github.com/CloudNationHQ/terraform-azure-costs/commit/207c1bab2e4574d7b2ce69aaacf0ca89f2ddf718))
 
 ---
-
-**Published at:** 2025-04-14T10:51:46Z
 
 ## Module: azure-sub
 ## [2.0.1](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.0.1)
@@ -115,8 +99,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-14T10:51:58Z
-
 ## Module: azure-uai
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-uai/releases/tag/v1.1.1)
 
@@ -126,8 +108,6 @@ folder: release_notes
 * fix submodule generation from makefile ([#6](https://github.com/CloudNationHQ/terraform-azure-uai/issues/6)) ([6d58289](https://github.com/CloudNationHQ/terraform-azure-uai/commit/6d5828945106bff61cb7d84d0e0f4f1a2522cd18))
 
 ---
-
-**Published at:** 2025-04-14T10:53:14Z
 
 ## Module: azure-ng
 ## [1.1.2](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.1.2)
@@ -139,8 +119,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-14T10:50:21Z
-
 ## Module: azure-cog
 ## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.0.1)
 
@@ -151,8 +129,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-14T11:09:09Z
-
 ## Module: azure-cog
 ## 1.0.0 (2025-04-14)
 
@@ -162,6 +138,4 @@ folder: release_notes
 * add initial resources  ([#1](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.0.0)) ([9f5bf23](https://github.com/CloudNationHQ/terraform-azure-cognitive/commit/9f5bf2393e71ea68b146f450d77dc9503f482331))
 
 ---
-
-**Published at:** 2025-04-14T10:59:03Z
 

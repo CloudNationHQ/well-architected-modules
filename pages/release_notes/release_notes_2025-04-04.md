@@ -28,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-04T12:51:24Z
-
 ## Module: azure-pip
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v3.0.0)
 
@@ -50,8 +48,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-04T09:11:14Z
-
 ## Module: azure-ng
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.1.1)
 
@@ -61,8 +57,6 @@ folder: release_notes
 * fix prefixes module reference in usage ([#5](https://github.com/CloudNationHQ/terraform-azure-ng/issues/5)) ([c7d3804](https://github.com/CloudNationHQ/terraform-azure-ng/commit/c7d3804542adf98cb37977fe9b7bc392ad700fae))
 
 ---
-
-**Published at:** 2025-04-04T10:09:29Z
 
 ## Module: azure-ng
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.1.0)
@@ -74,8 +68,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-04T09:50:15Z
-
 ## Module: azure-ng
 ## 1.0.0 (2025-04-04)
 
@@ -85,6 +77,4 @@ folder: release_notes
 * add initial files ([#1](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v1.0.0)) ([9c4f06b](https://github.com/CloudNationHQ/terraform-azure-ng/commit/9c4f06b895fbd0e002d862cc6f27ed5f29c0641e))
 
 ---
-
-**Published at:** 2025-04-04T09:46:57Z
 

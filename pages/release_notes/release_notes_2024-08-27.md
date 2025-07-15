@@ -30,8 +30,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-27T14:21:34Z
-
 ## Module: azure-rg
 ## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.9.0)
 
@@ -41,6 +39,4 @@ folder: release_notes
 * update contribution docs ([#23](https://github.com/CloudNationHQ/terraform-azure-rg/issues/23)) ([7b61ef7](https://github.com/CloudNationHQ/terraform-azure-rg/commit/7b61ef758147f84e3778162b8644767c794e8b7b))
 
 ---
-
-**Published at:** 2024-08-27T07:31:04Z
 

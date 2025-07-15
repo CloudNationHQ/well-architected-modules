@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-22T08:15:59Z
-
 ## Module: azure-aks
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v1.0.0)
 
@@ -65,8 +63,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-22T14:43:17Z
-
 ## Module: azure-rbac
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.5.0)
 
@@ -76,8 +72,6 @@ folder: release_notes
 * added support for custom role definitions ([#23](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/23)) ([2ced7c2](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/2ced7c2d0f9fce483d93432ea65bad6ebeb5ba6e))
 
 ---
-
-**Published at:** 2024-08-22T15:12:32Z
 
 ## Module: azure-rbac
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.4.0)
@@ -89,6 +83,4 @@ folder: release_notes
 * update contribution docs ([#18](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/18)) ([afe9fe9](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/afe9fe9fbefbfd98119528d9fb6df2afab273cb4))
 
 ---
-
-**Published at:** 2024-08-22T15:04:14Z
 

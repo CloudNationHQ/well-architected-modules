@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-09T18:13:49Z
-
 ## Module: databricks-cl
 ## 1.0.0 (2024-09-09)
 
@@ -29,6 +27,4 @@ folder: release_notes
 * add initial terraform resources, templates, documentation and examples ([#1](https://github.com/CloudNationHQ/terraform-databricks-cl/releases/tag/v1.0.0)) ([c1fe50f](https://github.com/CloudNationHQ/terraform-databricks-cl/commit/c1fe50f9b95d139893894f2287e0eff1f42a3f3d))
 
 ---
-
-**Published at:** 2024-09-09T17:42:56Z
 

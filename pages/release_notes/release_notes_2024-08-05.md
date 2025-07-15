@@ -24,8 +24,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-05T12:52:21Z
-
 ## Module: azure-aa
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.2.0)
 
@@ -36,6 +34,4 @@ folder: release_notes
 * dynamic type inference for automation variables ([#8](https://github.com/CloudNationHQ/terraform-azure-aa/issues/8)) ([e23cbd8](https://github.com/CloudNationHQ/terraform-azure-aa/commit/e23cbd8cc24ff44e27b28ab22845eb6e740d8e34))
 
 ---
-
-**Published at:** 2024-08-05T12:05:28Z
 

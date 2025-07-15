@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-22T11:28:40Z
-
 ## Module: azure-rg
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.6.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-22T15:42:25Z
-
 ## Module: azure-rg
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.5.0)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * add support for existing groups ([#11](https://github.com/CloudNationHQ/terraform-azure-rg/issues/11)) ([1911630](https://github.com/CloudNationHQ/terraform-azure-rg/commit/1911630cd0c155dad29d53cf62493d4c0e33df7f))
 
 ---
-
-**Published at:** 2024-03-22T11:31:17Z
 

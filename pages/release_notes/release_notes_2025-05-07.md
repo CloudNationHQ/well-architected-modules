@@ -29,8 +29,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-07T12:09:58Z
-
 ## Module: azure-sql
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v2.0.0)
 
@@ -52,8 +50,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-07T07:19:30Z
-
 ## Module: azure-ca
 ## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v3.2.0)
 
@@ -67,8 +63,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-07T12:17:08Z
-
 ## Module: azure-mysql
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v3.1.0)
 
@@ -78,8 +72,6 @@ folder: release_notes
 * replace deployment test code with module consumption and fix tags property idempotence ([#33](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/33)) ([47549e9](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/47549e90d87a02112dd2e90f363365a7a4c4e8c1))
 
 ---
-
-**Published at:** 2025-05-07T12:32:31Z
 
 ## Module: azure-app
 ## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v4.0.0)
@@ -99,6 +91,4 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-07T14:28:17Z
 

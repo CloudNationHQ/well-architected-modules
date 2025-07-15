@@ -34,5 +34,3 @@ See the usage examples for details
 
 ---
 
-**Published at:** 2025-06-18T09:13:29Z
-

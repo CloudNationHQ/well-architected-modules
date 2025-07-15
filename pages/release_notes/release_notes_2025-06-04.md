@@ -33,5 +33,3 @@ For detailed reference look in the examples
 
 ---
 
-**Published at:** 2025-06-04T13:23:06Z
-

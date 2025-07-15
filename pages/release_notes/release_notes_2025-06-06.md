@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-06T14:28:59Z
-
 ## Module: azure-mag
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v3.1.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#25](https://github.com/CloudNationHQ/terraform-azure-mag/issues/25)) ([396bdf0](https://github.com/CloudNationHQ/terraform-azure-mag/commit/396bdf06658434737ebaee5597399a95f08be4b6))
 
 ---
-
-**Published at:** 2025-06-06T14:06:59Z
 
 ## Module: azure-mag
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v3.0.0)
@@ -52,8 +48,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-06T14:04:38Z
-
 ## Module: azure-fdfwp
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v2.0.0)
 
@@ -73,6 +67,4 @@ folder: release_notes
 - The data structure is changed for the properties sku_name, enabled, mode, redirect_url, custom_block_response_status_code, custom_block_response_body and request_body_check_enabled for the frontdoor firewall policy resource
 
 ---
-
-**Published at:** 2025-06-06T07:02:33Z
 

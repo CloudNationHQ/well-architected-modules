@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-13T08:16:10Z
-
 ## Module: azure-sub
 ## 1.0.0 (2025-03-13)
 
@@ -30,6 +28,4 @@ folder: release_notes
 * add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v1.0.0)) ([a0e4bc2](https://github.com/CloudNationHQ/terraform-azure-sub/commit/a0e4bc21cc39ad6adaa074f02cc6c35c473a9a5f))
 
 ---
-
-**Published at:** 2025-03-13T15:44:11Z
 

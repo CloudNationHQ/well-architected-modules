@@ -24,8 +24,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-30T11:59:36Z
-
 ## Module: azure-eg
 ## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v2.2.1)
 
@@ -35,6 +33,4 @@ folder: release_notes
 * add missing properties, including azure_function_endpoint ([#35](https://github.com/CloudNationHQ/terraform-azure-eg/issues/35)) ([d821a40](https://github.com/CloudNationHQ/terraform-azure-eg/commit/d821a4099637939840a017c4edb670e5c7df2c13))
 
 ---
-
-**Published at:** 2025-06-30T14:51:18Z
 

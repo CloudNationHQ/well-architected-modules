@@ -28,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-02T10:48:16Z
-
 ## Module: azure-mysql
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v3.0.0)
 
@@ -46,8 +44,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.33.0 to 0.38.0 in /tests ([#28](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/28)) ([f20a007](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/f20a007d2010327fa4bcdf1bc4a01c5ad0cb0862))
 
 ---
-
-**Published at:** 2025-05-02T09:45:23Z
 
 ## Module: azure-mysql
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v2.0.0)
@@ -69,6 +65,4 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-02T08:02:50Z
 

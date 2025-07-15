@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-28T08:26:29Z
-
 ## Module: azure-vnet
 ## [9.1.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.1.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * increment usage module versions ([#151](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/151)) ([88b8f5a](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/88b8f5a1233c549370e771ee84ee8a50053a913b))
 
 ---
-
-**Published at:** 2025-05-28T08:19:59Z
 
 ## Module: azure-plan
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v3.0.0)
@@ -54,6 +50,4 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-28T09:45:05Z
 

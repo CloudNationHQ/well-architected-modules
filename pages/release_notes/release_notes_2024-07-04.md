@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-07-04T10:33:53Z
-
 ## Module: azure-sql
 ## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.9.0)
 
@@ -38,6 +36,4 @@ folder: release_notes
 * adjust issue template ([#40](https://github.com/CloudNationHQ/terraform-azure-sql/issues/40)) ([a72519f](https://github.com/CloudNationHQ/terraform-azure-sql/commit/a72519f06b7a48693f1a504397ebeb30a64aea36))
 
 ---
-
-**Published at:** 2024-07-04T17:30:25Z
 

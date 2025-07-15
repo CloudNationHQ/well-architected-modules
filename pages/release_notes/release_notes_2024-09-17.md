@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-17T11:20:15Z
-
 ## Module: azure-fw
 ## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v1.0.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * set default threat intelligence mode to null instead of alert ([#4](https://github.com/CloudNationHQ/terraform-azure-fw/issues/4)) ([5d07f9a](https://github.com/CloudNationHQ/terraform-azure-fw/commit/5d07f9ae47b2477e4a0694b9dad69359903860f5))
 
 ---
-
-**Published at:** 2024-09-17T10:11:36Z
 
 ## Module: azure-fwp
 ## 1.0.0 (2024-09-17)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-17T08:34:22Z
-
 ## Module: azure-mag
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v1.1.0)
 
@@ -54,8 +48,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-17T16:59:38Z
-
 ## Module: azure-mag
 ## 1.0.0 (2024-09-16)
 
@@ -65,6 +57,4 @@ folder: release_notes
 * add initial resources, templates, docs and examples ([#1](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v1.0.0)) ([cb3a051](https://github.com/CloudNationHQ/terraform-azure-mag/commit/cb3a051d386b3c5878019e8d4eb7a12fea67c2d6))
 
 ---
-
-**Published at:** 2024-09-17T10:43:02Z
 

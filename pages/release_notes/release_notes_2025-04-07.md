@@ -20,8 +20,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-07T17:39:45Z
-
 ## Module: azure-app
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v3.1.0)
 
@@ -37,6 +35,4 @@ folder: release_notes
 * slot references and type definitions and added additional properties ([#34](https://github.com/CloudNationHQ/terraform-azure-app/issues/34)) ([ca83a90](https://github.com/CloudNationHQ/terraform-azure-app/commit/ca83a90a2022f027cd0f226a5d6036feb1f8de18))
 
 ---
-
-**Published at:** 2025-04-07T17:39:09Z
 

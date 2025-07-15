@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-26T07:11:24Z
-
 ## Module: azure-acr
 ## [3.0.1](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.0.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * fix defaults retention policy in days ([#65](https://github.com/CloudNationHQ/terraform-azure-acr/issues/65)) ([18a276b](https://github.com/CloudNationHQ/terraform-azure-acr/commit/18a276b09f05070743567b659a1878f44204e9da))
 
 ---
-
-**Published at:** 2024-09-26T07:04:30Z
 
 ## Module: azure-aks
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.0.0)
@@ -51,8 +47,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-26T14:25:57Z
-
 ## Module: azure-ca
 ## [2.0.2](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.0.2)
 
@@ -62,6 +56,4 @@ folder: release_notes
 * add dependson on container app jobs regarding acr pull role assignments ([#37](https://github.com/CloudNationHQ/terraform-azure-ca/issues/37)) ([aa38462](https://github.com/CloudNationHQ/terraform-azure-ca/commit/aa3846259b4e40d98c6e58be5331f77cc17f64ec))
 
 ---
-
-**Published at:** 2024-09-26T09:12:35Z
 

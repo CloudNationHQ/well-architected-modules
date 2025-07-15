@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-16T07:29:56Z
-
 ## Module: azure-sqlmi
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.1.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-16T07:30:06Z
-
 ## Module: azure-sqlmi
 ## 1.0.0 (2024-10-16)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.0.0)) ([330ae4c](https://github.com/CloudNationHQ/terraform-azure-sqlmi/commit/330ae4c0a1876287d07bee00d679ab87a08019d5))
 
 ---
-
-**Published at:** 2024-10-16T07:14:11Z
 

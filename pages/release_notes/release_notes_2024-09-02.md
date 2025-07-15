@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-02T05:38:47Z
-
 ## Module: azure-redis
 ## 1.0.0 (2024-09-02)
 
@@ -30,6 +28,4 @@ folder: release_notes
 * add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v1.0.0)) ([6fdacfc](https://github.com/CloudNationHQ/terraform-azure-redis/commit/6fdacfc507320e5bbc8d245ca55edd30128a1b10))
 
 ---
-
-**Published at:** 2024-09-02T07:12:19Z
 

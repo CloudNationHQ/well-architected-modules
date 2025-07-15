@@ -27,8 +27,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-20T10:36:28Z
-
 ## Module: azure-rsv
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v2.1.0)
 
@@ -38,6 +36,4 @@ folder: release_notes
 * implement flexible resource naming ([#53](https://github.com/CloudNationHQ/terraform-azure-rsv/issues/53)) ([57bd89f](https://github.com/CloudNationHQ/terraform-azure-rsv/commit/57bd89ffc49f9da3219dcf6ae12b94818f3bbe3e))
 
 ---
-
-**Published at:** 2025-05-20T10:34:48Z
 

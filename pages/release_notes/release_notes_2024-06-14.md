@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-06-14T11:08:15Z
-
 ## Module: azure-evh
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v0.3.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-06-14T08:26:00Z
-
 ## Module: azure-vgw
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v0.6.0)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * changed default value dpd timeout seconds on network gateway connections ([#20](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/20)) ([3509ce8](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/3509ce8ec0deb429bd0b2014728efcc247047515))
 
 ---
-
-**Published at:** 2024-06-14T13:32:48Z
 

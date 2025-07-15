@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-25T14:51:51Z
-
 ## Module: azure-cosmosdb
 ## [3.5.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.5.0)
 
@@ -34,6 +32,4 @@ folder: release_notes
 * fix spatial index issues on cosmosdb sql containers ([#87](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/87)) ([82bbf9f](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/82bbf9f0f4e788a6caedf2d3c0b9b6863eb45eb8))
 
 ---
-
-**Published at:** 2025-03-25T08:48:46Z
 

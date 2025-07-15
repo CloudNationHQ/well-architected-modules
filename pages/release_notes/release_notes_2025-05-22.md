@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-22T13:38:45Z
-
 ## Module: azure-vgw
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v2.0.0)
 
@@ -38,6 +36,4 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-22T13:26:21Z
 

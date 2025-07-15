@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-06T08:31:27Z
-
 ## Module: azure-fd
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-fd/releases/tag/v1.3.0)
 
@@ -37,8 +35,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-06T09:38:03Z
-
 ## Module: azure-eg
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.2.0)
 
@@ -49,6 +45,4 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#7](https://github.com/CloudNationHQ/terraform-azure-eg/issues/7)) ([e88d9a6](https://github.com/CloudNationHQ/terraform-azure-eg/commit/e88d9a6b94d1e4339c94f020c73e53f0781ecfb1))
 
 ---
-
-**Published at:** 2025-01-06T15:32:18Z
 

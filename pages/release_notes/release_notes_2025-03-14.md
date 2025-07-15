@@ -20,5 +20,3 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-14T09:59:32Z
-

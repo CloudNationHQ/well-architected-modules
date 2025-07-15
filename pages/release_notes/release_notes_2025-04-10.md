@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-10T13:58:04Z
-
 ## Module: azure-sql
 ## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v1.5.0)
 
@@ -36,8 +34,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-10T12:58:14Z
-
 ## Module: azure-appi
 ## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.5.0)
 
@@ -50,8 +46,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-10T13:05:57Z
-
 ## Module: azure-wafwp
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.3.0)
 
@@ -63,6 +57,4 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.33.0 to 0.36.0 in /tests ([#21](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/21)) ([02dbf48](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/02dbf489847f78c1e9b770d4ee5fd64e71777538))
 
 ---
-
-**Published at:** 2025-04-10T13:06:59Z
 

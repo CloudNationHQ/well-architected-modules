@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-24T12:51:03Z
-
 ## Module: azure-fw
 ## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.5.1)
 
@@ -30,8 +28,6 @@ folder: release_notes
 * remove faulty validation ([#33](https://github.com/CloudNationHQ/terraform-azure-fw/issues/33)) ([21f7f6d](https://github.com/CloudNationHQ/terraform-azure-fw/commit/21f7f6d52a7d81edd9f5ecdde3b0e13f40bb0e0f))
 
 ---
-
-**Published at:** 2025-03-24T15:54:18Z
 
 ## Module: azure-fw
 ## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.5.0)
@@ -43,6 +39,4 @@ folder: release_notes
 * format documentation to include type definitions ([#31](https://github.com/CloudNationHQ/terraform-azure-fw/issues/31)) ([751d735](https://github.com/CloudNationHQ/terraform-azure-fw/commit/751d7355a6b13279508af6423ba01a5d2f2039d9))
 
 ---
-
-**Published at:** 2025-03-24T15:15:03Z
 

@@ -40,8 +40,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-04T08:43:11Z
-
 ## Module: azure-evh
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v1.2.0)
 
@@ -52,8 +50,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-04T19:28:02Z
-
 ## Module: azure-evh
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v1.1.1)
 
@@ -63,6 +59,4 @@ folder: release_notes
 * added zone_redundant  property for event hub namespace ([#40](https://github.com/CloudNationHQ/terraform-azure-evh/issues/40)) ([7f57ca9](https://github.com/CloudNationHQ/terraform-azure-evh/commit/7f57ca956e6517cfe211f8af1cf4149d38a1858b))
 
 ---
-
-**Published at:** 2024-09-04T13:04:20Z
 

@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-24T15:14:00Z
-
 ## Module: azure-agw
 ## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.4.1)
 
@@ -34,6 +32,4 @@ folder: release_notes
 * fix hierarchy backend pools ([#36](https://github.com/CloudNationHQ/terraform-azure-agw/issues/36)) ([064c4d8](https://github.com/CloudNationHQ/terraform-azure-agw/commit/064c4d820e3b5f3c3486d330676c2b6994722bdf))
 
 ---
-
-**Published at:** 2025-02-24T13:42:47Z
 

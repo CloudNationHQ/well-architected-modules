@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-11-14T08:35:17Z
-
 ## Module: azure-vm
 ## [4.2.2](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.2.2)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * add network interfaces output and removed unnecessary ones ([#152](https://github.com/CloudNationHQ/terraform-azure-vm/issues/152)) ([cdcb585](https://github.com/CloudNationHQ/terraform-azure-vm/commit/cdcb58552d82cde32f2c4c6291bac33c4b61235d))
 
 ---
-
-**Published at:** 2024-11-14T09:03:41Z
 
 ## Module: azure-wafwp
 ## [1.0.3](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.3)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-11-14T13:16:31Z
-
 ## Module: azure-wafwp
 ## [1.0.2](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.2)
 
@@ -53,6 +47,4 @@ folder: release_notes
 * allow multiple managed rulsets ([#7](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/7)) ([2040193](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/20401935e8b65bf5c94c852ab4f8ea4747c8a06f))
 
 ---
-
-**Published at:** 2024-11-14T09:06:02Z
 

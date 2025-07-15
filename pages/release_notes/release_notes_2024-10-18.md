@@ -20,8 +20,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-18T19:42:05Z
-
 ## Module: azure-sb
 ## 1.0.0 (2024-10-18)
 
@@ -31,6 +29,4 @@ folder: release_notes
 * add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-sb/releases/tag/v1.0.0)) ([aac3a7c](https://github.com/CloudNationHQ/terraform-azure-sb/commit/aac3a7c1c40c7b8f2b2da9ed3419bf3e879c1724))
 
 ---
-
-**Published at:** 2024-10-18T10:25:20Z
 

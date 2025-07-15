@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-22T07:56:41Z
-
 ## Module: azure-naming
 ## [0.18.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.18.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * add several cdn frontdoor resources ([#58](https://github.com/CloudNationHQ/terraform-azure-naming/issues/58)) ([1e0e185](https://github.com/CloudNationHQ/terraform-azure-naming/commit/1e0e1851c73011509b494d8aec3c8c2ecd4d07a8))
 
 ---
-
-**Published at:** 2024-10-22T07:16:34Z
 
 ## Module: azure-rbac
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v2.0.0)
@@ -46,8 +42,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-22T08:51:37Z
-
 ## Module: azure-fdfwp
 ## 1.0.0 (2024-10-22)
 
@@ -57,6 +51,4 @@ folder: release_notes
 * add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.0.0)) ([547f27f](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/547f27f5b955ebc71cf3f4ab0851899478a623b5))
 
 ---
-
-**Published at:** 2024-10-22T14:05:55Z
 

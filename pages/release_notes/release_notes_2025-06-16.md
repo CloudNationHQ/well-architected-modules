@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-16T07:08:02Z
-
 ## Module: azure-alerts
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v2.0.0)
 
@@ -43,8 +41,6 @@ Details can be found in the example usages
 
 ---
 
-**Published at:** 2025-06-16T14:06:41Z
-
 ## Module: azure-costs
 ## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.5.0)
 
@@ -55,8 +51,6 @@ Details can be found in the example usages
 
 ---
 
-**Published at:** 2025-06-16T07:28:54Z
-
 ## Module: azure-sub
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.3.0)
 
@@ -66,6 +60,4 @@ Details can be found in the example usages
 * update documentation ([#22](https://github.com/CloudNationHQ/terraform-azure-sub/issues/22)) ([285b7ee](https://github.com/CloudNationHQ/terraform-azure-sub/commit/285b7ee3daa3bfc414805194c7a744ca52539777))
 
 ---
-
-**Published at:** 2025-06-16T14:53:49Z
 

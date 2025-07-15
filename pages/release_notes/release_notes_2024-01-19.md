@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-01-19T07:20:09Z
-
 ## Module: azure-acr
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v0.4.0)
 
@@ -34,8 +32,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-01-19T07:01:23Z
-
 ## Module: azure-rg
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.3.0)
 
@@ -45,8 +41,6 @@ folder: release_notes
 * small refactor workflows ([#5](https://github.com/CloudNationHQ/terraform-azure-rg/issues/5)) ([a39df4f](https://github.com/CloudNationHQ/terraform-azure-rg/commit/a39df4f5406dc0244b04cab72a6a655e65f1f22d))
 
 ---
-
-**Published at:** 2024-01-19T07:40:43Z
 
 ## Module: azure-kv
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.5.0)
@@ -58,8 +52,6 @@ folder: release_notes
 * small refactor workflows ([#16](https://github.com/CloudNationHQ/terraform-azure-kv/issues/16)) ([074e792](https://github.com/CloudNationHQ/terraform-azure-kv/commit/074e79266e62a05239a75455e11cc18991d99bfa))
 
 ---
-
-**Published at:** 2024-01-19T06:36:19Z
 
 ## Module: azure-vmss
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v0.2.0)
@@ -75,8 +67,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-01-19T07:33:29Z
-
 ## Module: azure-cosmosdb
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.4.0)
 
@@ -87,8 +77,6 @@ folder: release_notes
 * small refactor workflows ([#15](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/15)) ([ec20b88](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/ec20b88cd0d4526d1ce45c44fcdc258e8c130398))
 
 ---
-
-**Published at:** 2024-01-19T06:50:11Z
 
 ## Module: azure-bastion
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.2.0)
@@ -102,8 +90,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-01-19T07:48:47Z
-
 ## Module: azure-aks
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.3.0)
 
@@ -116,6 +102,4 @@ folder: release_notes
 * small refactor workflows ([#22](https://github.com/CloudNationHQ/terraform-azure-aks/issues/22)) ([d8d47b1](https://github.com/CloudNationHQ/terraform-azure-aks/commit/d8d47b19d5b8a0c3cdc7d7162a1d9442efb285cf))
 
 ---
-
-**Published at:** 2024-01-19T07:07:28Z
 

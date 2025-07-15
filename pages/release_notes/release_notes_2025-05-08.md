@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-08T09:27:56Z
-
 ## Module: azure-kv
 ## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v4.1.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * replace deployment test code with module consumption and generated documentation ([#107](https://github.com/CloudNationHQ/terraform-azure-kv/issues/107)) ([3f861fa](https://github.com/CloudNationHQ/terraform-azure-kv/commit/3f861fabae03430c10a4a061b3e94cec21eefca7))
 
 ---
-
-**Published at:** 2025-05-08T13:07:31Z
 
 ## Module: azure-evh
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v2.4.0)
@@ -45,8 +41,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-08T08:42:31Z
-
 ## Module: azure-aa
 ## [2.7.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.7.0)
 
@@ -58,8 +52,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-08T08:42:16Z
-
 ## Module: azure-app
 ## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v4.0.1)
 
@@ -69,8 +61,6 @@ folder: release_notes
 * remove sequential entry in makefile ([#41](https://github.com/CloudNationHQ/terraform-azure-app/issues/41)) ([1009359](https://github.com/CloudNationHQ/terraform-azure-app/commit/1009359990a05b716195fc43ee201cbcc03df638))
 
 ---
-
-**Published at:** 2025-05-08T09:27:46Z
 
 ## Module: azure-pip
 ## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v4.0.0)
@@ -91,8 +81,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-08T13:09:23Z
-
 ## Module: azure-fw
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v3.0.0)
 
@@ -111,8 +99,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-08T09:31:03Z
 
 ## Module: azure-lb
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v2.0.0)
@@ -133,8 +119,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-08T09:30:35Z
-
 ## Module: azure-lb
 ## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.5.0)
 
@@ -144,8 +128,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.36.0 to 0.38.0 in /tests ([#23](https://github.com/CloudNationHQ/terraform-azure-lb/issues/23)) ([a861042](https://github.com/CloudNationHQ/terraform-azure-lb/commit/a86104252935593e591997c3e3f548b68babfd30))
 
 ---
-
-**Published at:** 2025-05-08T09:24:03Z
 
 ## Module: azure-uai
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-uai/releases/tag/v2.0.0)
@@ -166,8 +148,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-08T10:04:59Z
-
 ## Module: azure-ng
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v2.0.0)
 
@@ -187,8 +167,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-08T09:28:08Z
-
 ## Module: azure-cog
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v2.0.0)
 
@@ -207,6 +185,4 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-08T09:27:23Z
 

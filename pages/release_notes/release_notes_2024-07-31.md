@@ -25,8 +25,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-07-31T12:30:55Z
-
 ## Module: azure-evh
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v0.5.0)
 
@@ -39,8 +37,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-07-31T10:22:56Z
-
 ## Module: azure-pdns
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v0.5.0)
 
@@ -51,6 +47,4 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#20](https://github.com/CloudNationHQ/terraform-azure-pdns/issues/20)) ([f82ed83](https://github.com/CloudNationHQ/terraform-azure-pdns/commit/f82ed839adebb30eabbc752a928fb3bc53b59318))
 
 ---
-
-**Published at:** 2024-07-31T10:23:11Z
 

@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-18T15:05:22Z
-
 ## Module: azure-sub
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v1.2.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 * update documentation ([#8](https://github.com/CloudNationHQ/terraform-azure-sub/issues/8)) ([8b8947e](https://github.com/CloudNationHQ/terraform-azure-sub/commit/8b8947e97c82ddf5695396d01eca6539ea8dcc7a))
 
 ---
-
-**Published at:** 2025-03-18T15:04:51Z
 
 ## Module: azure-sub
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v1.1.0)
@@ -44,6 +40,4 @@ folder: release_notes
 * switch to document style to include type definitions in the documentation ([#6](https://github.com/CloudNationHQ/terraform-azure-sub/issues/6)) ([676d5af](https://github.com/CloudNationHQ/terraform-azure-sub/commit/676d5afaa3e4e98dbdfb691e76ab31888d4c232a))
 
 ---
-
-**Published at:** 2025-03-18T13:54:52Z
 

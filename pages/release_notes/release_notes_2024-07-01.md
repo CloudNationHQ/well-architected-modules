@@ -27,8 +27,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-07-01T16:25:51Z
-
 ## Module: azure-ca
 ## [0.2.1](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v0.2.1)
 
@@ -38,6 +36,4 @@ folder: release_notes
 * make kv_scope optional for secret retrieval when identity is not required ([#17](https://github.com/CloudNationHQ/terraform-azure-ca/issues/17)) ([29b264f](https://github.com/CloudNationHQ/terraform-azure-ca/commit/29b264f12e6069f34e53757f030664789db18388))
 
 ---
-
-**Published at:** 2024-07-01T10:11:24Z
 
