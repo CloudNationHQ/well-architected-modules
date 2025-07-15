@@ -108,7 +108,6 @@ folder: release_notes
                 file.write(f"## Module: {provider_name}-{module_name}\n")
                 file.write(f"{release['body']}\n\n")
                 file.write("---\n\n")
-                file.write(f"**Published at:** {release['published_at']}\n\n")
 
         print(f"Combined release notes generated: {file_path}")
 
@@ -240,7 +239,6 @@ def main():
                     "provider_name": provider_name,
                     "name": release["name"],
                     "tag_name": release["tag_name"],
-                    "published_at": release["published_at"],
                     "body": body
                 })
 
