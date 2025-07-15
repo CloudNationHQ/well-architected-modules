@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-20
+title: Release Notes for 2025-03-20
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-20"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250320.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-20
-
-## azure-aa
-### v2.6.0 (v2.6.0)
-**Published at:** 2025-03-20T08:40:00Z
-
-## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.5.0...v2.6.0) (2025-03-20)
+## Module: azure-aa
+## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.6.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v2.6.0 (v2.6.0)
-**Published at:** 2025-03-20T14:27:18Z
+**Published at:** 2025-03-20T08:40:00Z
 
-## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v2.5.0...v2.6.0) (2025-03-20)
+## Module: azure-pip
+## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.6.0)
 
 
 ### Features
@@ -40,11 +33,10 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v1.4.0 (v1.4.0)
-**Published at:** 2025-03-20T12:21:00Z
+**Published at:** 2025-03-20T14:27:18Z
 
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-lb/compare/v1.3.0...v1.4.0) (2025-03-20)
+## Module: azure-lb
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.4.0)
 
 
 ### Features
@@ -55,11 +47,10 @@ folder: release_notes
 
 ---
 
-## azure-costs
-### v1.4.0 (v1.4.0)
-**Published at:** 2025-03-20T08:39:00Z
+**Published at:** 2025-03-20T12:21:00Z
 
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-costs/compare/v1.3.0...v1.4.0) (2025-03-20)
+## Module: azure-costs
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.4.0)
 
 
 ### Features
@@ -68,11 +59,10 @@ folder: release_notes
 
 ---
 
-## azure-sub
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-03-20T07:28:06Z
+**Published at:** 2025-03-20T08:39:00Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sub/compare/v1.2.0...v2.0.0) (2025-03-20)
+## Module: azure-sub
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -112,4 +102,6 @@ moved {
 * If you want to create multiple subscriptions, use a `for_each` on the module, see example "mca".
 
 ---
+
+**Published at:** 2025-03-20T07:28:06Z
 

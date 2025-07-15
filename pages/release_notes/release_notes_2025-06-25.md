@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-25
+title: Release Notes for 2025-06-25
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-25"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250625.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-25
-
-## azure-sqlmi
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-06-25T12:47:09Z
-
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/compare/v1.4.0...v2.0.0) (2025-06-25)
+## Module: azure-sqlmi
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -35,4 +29,6 @@ folder: release_notes
 For more details see the usage examples
 
 ---
+
+**Published at:** 2025-06-25T12:47:09Z
 

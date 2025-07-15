@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-07
+title: Release Notes for 2025-03-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-07"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250307.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-07
-
-## azure-eg
-### v1.4.2 (v1.4.2)
-**Published at:** 2025-03-07T08:19:55Z
-
-## [1.4.2](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v1.4.1...v1.4.2) (2025-03-07)
+## Module: azure-eg
+## [1.4.2](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.4.2)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-eg
-### v1.4.1 (v1.4.1)
-**Published at:** 2025-03-07T08:00:12Z
+**Published at:** 2025-03-07T08:19:55Z
 
-## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v1.4.0...v1.4.1) (2025-03-07)
+## Module: azure-eg
+## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.4.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-appcfg
-### v1.1.1 (v1.1.1)
-**Published at:** 2025-03-07T13:44:50Z
+**Published at:** 2025-03-07T08:00:12Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/compare/v1.1.0...v1.1.1) (2025-03-07)
+## Module: azure-appcfg
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-appcfg
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-03-07T10:32:03Z
+**Published at:** 2025-03-07T13:44:50Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/compare/v1.0.0...v1.1.0) (2025-03-07)
+## Module: azure-appcfg
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v1.1.0)
 
 
 ### Features
@@ -62,4 +53,6 @@ folder: release_notes
 * move keys to a submodule ([#6](https://github.com/CloudNationHQ/terraform-azure-appcfg/issues/6)) ([6bfbc14](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/6bfbc14bd5ffa1568cc5aa2d44df3bc7e114be51))
 
 ---
+
+**Published at:** 2025-03-07T10:32:03Z
 

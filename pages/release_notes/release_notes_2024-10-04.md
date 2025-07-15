@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-04
+title: Release Notes for 2024-10-04
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-04"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241004.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-04
-
-## azure-vmss
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-10-04T09:14:52Z
-
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-vmss/compare/v0.8.0...v1.0.0) (2024-10-03)
+## Module: azure-vmss
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -35,4 +29,6 @@ folder: release_notes
   - resourcegroup -> resource_group
 
 ---
+
+**Published at:** 2024-10-04T09:14:52Z
 

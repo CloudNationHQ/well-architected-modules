@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-04-08
+title: Release Notes for 2024-04-08
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-04-08"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240408.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-04-08
-
-## azure-naming
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-04-08T14:58:05Z
-
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.2.0...v0.3.0) (2024-04-08)
+## Module: azure-naming
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.3.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-pdns
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-04-08T12:37:55Z
+**Published at:** 2024-04-08T14:58:05Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v0.1.0...v0.2.0) (2024-04-08)
+## Module: azure-pdns
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v0.2.0)
 
 
 ### Features
@@ -37,4 +30,6 @@ folder: release_notes
 * include existing private dns zone in outputs ([#8](https://github.com/CloudNationHQ/terraform-azure-pdns/issues/8)) ([4b5038e](https://github.com/CloudNationHQ/terraform-azure-pdns/commit/4b5038e21b8abfdc0710dc10f07d3299c22b8d44))
 
 ---
+
+**Published at:** 2024-04-08T12:37:55Z
 

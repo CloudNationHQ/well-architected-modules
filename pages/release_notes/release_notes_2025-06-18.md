@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-18
+title: Release Notes for 2025-06-18
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-18"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250618.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-18
-
-## azure-pe
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-06-18T09:13:29Z
-
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.4.4...v2.0.0) (2025-06-18)
+## Module: azure-pe
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -39,4 +33,6 @@ folder: release_notes
 See the usage examples for details
 
 ---
+
+**Published at:** 2025-06-18T09:13:29Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-11-13
+title: Release Notes for 2024-11-13
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-11-13"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241113.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-11-13
-
-## azure-law
-### v2.2.1 (v2.2.1)
-**Published at:** 2024-11-13T16:41:07Z
-
-## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-law/compare/v2.2.0...v2.2.1) (2024-11-13)
+## Module: azure-law
+## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v2.2.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v8.0.2 (v8.0.2)
-**Published at:** 2024-11-13T17:04:34Z
+**Published at:** 2024-11-13T16:41:07Z
 
-## [8.0.2](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.0.1...v8.0.2) (2024-11-13)
+## Module: azure-vnet
+## [8.0.2](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.0.2)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v8.0.1 (v8.0.1)
-**Published at:** 2024-11-13T13:18:53Z
+**Published at:** 2024-11-13T17:04:34Z
 
-## [8.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.0.0...v8.0.1) (2024-11-13)
+## Module: azure-vnet
+## [8.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.0.1)
 
 
 ### Bug Fixes
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v8.0.0 (v8.0.0)
-**Published at:** 2024-11-13T11:00:41Z
+**Published at:** 2024-11-13T13:18:53Z
 
-## [8.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v7.1.0...v8.0.0) (2024-11-13)
+## Module: azure-vnet
+## [8.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -76,11 +67,10 @@ folder: release_notes
 
 ---
 
-## azure-acr
-### v3.2.1 (v3.2.1)
-**Published at:** 2024-11-13T16:38:29Z
+**Published at:** 2024-11-13T11:00:41Z
 
-## [3.2.1](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v3.2.0...v3.2.1) (2024-11-13)
+## Module: azure-acr
+## [3.2.1](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.2.1)
 
 
 ### Bug Fixes
@@ -89,11 +79,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v4.2.1 (v4.2.1)
-**Published at:** 2024-11-13T16:40:22Z
+**Published at:** 2024-11-13T16:38:29Z
 
-## [4.2.1](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.2.0...v4.2.1) (2024-11-13)
+## Module: azure-vm
+## [4.2.1](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.2.1)
 
 
 ### Bug Fixes
@@ -102,11 +91,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v3.4.1 (v3.4.1)
-**Published at:** 2024-11-13T16:37:02Z
+**Published at:** 2024-11-13T16:40:22Z
 
-## [3.4.1](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v3.4.0...v3.4.1) (2024-11-13)
+## Module: azure-vwan
+## [3.4.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.4.1)
 
 
 ### Bug Fixes
@@ -115,11 +103,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v3.4.0 (v3.4.0)
-**Published at:** 2024-11-13T10:42:59Z
+**Published at:** 2024-11-13T16:37:02Z
 
-## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v3.3.0...v3.4.0) (2024-11-13)
+## Module: azure-vwan
+## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.4.0)
 
 
 ### Features
@@ -128,11 +115,10 @@ folder: release_notes
 
 ---
 
-## azure-vgw
-### v1.2.1 (v1.2.1)
-**Published at:** 2024-11-13T16:37:42Z
+**Published at:** 2024-11-13T10:42:59Z
 
-## [1.2.1](https://github.com/CloudNationHQ/terraform-azure-vgw/compare/v1.2.0...v1.2.1) (2024-11-13)
+## Module: azure-vgw
+## [1.2.1](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v1.2.1)
 
 
 ### Bug Fixes
@@ -141,11 +127,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v2.4.1 (v2.4.1)
-**Published at:** 2024-11-13T16:39:35Z
+**Published at:** 2024-11-13T16:37:42Z
 
-## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.4.0...v2.4.1) (2024-11-13)
+## Module: azure-aa
+## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.4.1)
 
 
 ### Bug Fixes
@@ -154,11 +139,10 @@ folder: release_notes
 
 ---
 
-## azure-sqlmi
-### v1.3.0 (v1.3.0)
-**Published at:** 2024-11-13T11:07:43Z
+**Published at:** 2024-11-13T16:39:35Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/compare/v1.2.0...v1.3.0) (2024-11-13)
+## Module: azure-sqlmi
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.3.0)
 
 
 ### Features
@@ -167,11 +151,10 @@ folder: release_notes
 
 ---
 
-## azure-wafwp
-### v1.0.1 (v1.0.1)
-**Published at:** 2024-11-13T09:41:17Z
+**Published at:** 2024-11-13T11:07:43Z
 
-## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-wafwp/compare/v1.0.0...v1.0.1) (2024-11-13)
+## Module: azure-wafwp
+## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.1)
 
 
 ### Bug Fixes
@@ -180,16 +163,17 @@ folder: release_notes
 
 ---
 
-## azure-wafwp
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-11-13T09:33:14Z
+**Published at:** 2024-11-13T09:41:17Z
 
+## Module: azure-wafwp
 ## 1.0.0 (2024-11-13)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/2)) ([5e8827d](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/5e8827d9db2916ed20ca7aabce2bf50c2eb442e5))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.0)) ([5e8827d](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/5e8827d9db2916ed20ca7aabce2bf50c2eb442e5))
 
 ---
+
+**Published at:** 2024-11-13T09:33:14Z
 

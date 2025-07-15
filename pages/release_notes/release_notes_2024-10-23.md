@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-23
+title: Release Notes for 2024-10-23
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-23"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241023.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-23
-
-## azure-app
-### v2.2.0 (v2.2.0)
-**Published at:** 2024-10-23T14:25:07Z
-
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v2.1.0...v2.2.0) (2024-10-23)
+## Module: azure-app
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.2.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-fdfwp
-### v1.0.1 (v1.0.1)
-**Published at:** 2024-10-23T07:27:44Z
+**Published at:** 2024-10-23T14:25:07Z
 
-## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-fdfwp/compare/v1.0.0...v1.0.1) (2024-10-23)
+## Module: azure-fdfwp
+## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.0.1)
 
 
 ### Bug Fixes
@@ -37,29 +30,29 @@ folder: release_notes
 
 ---
 
-## azure-fd
-### v1.0.0 (v1.0.0)
+**Published at:** 2024-10-23T07:27:44Z
+
+## Module: azure-fd
+## 1.0.0 (2024-10-23)
+
+
+### Features
+
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-fd/releases/tag/v1.0.0)) ([018d5b8](https://github.com/CloudNationHQ/terraform-azure-fd/commit/018d5b8fd107dfc2f9f4385db21c2c7013ea75ad))
+
+---
+
 **Published at:** 2024-10-23T13:26:28Z
 
+## Module: azure-costs
 ## 1.0.0 (2024-10-23)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-fd/issues/2)) ([018d5b8](https://github.com/CloudNationHQ/terraform-azure-fd/commit/018d5b8fd107dfc2f9f4385db21c2c7013ea75ad))
+* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.0.0)) ([031ef32](https://github.com/CloudNationHQ/terraform-azure-costs/commit/031ef3238d42ccb57ed29ebad285af4557d66e6a))
 
 ---
 
-## azure-costs
-### v1.0.0 (v1.0.0)
 **Published at:** 2024-10-23T15:04:59Z
-
-## 1.0.0 (2024-10-23)
-
-
-### Features
-
-* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-costs/issues/1)) ([031ef32](https://github.com/CloudNationHQ/terraform-azure-costs/commit/031ef3238d42ccb57ed29ebad285af4557d66e6a))
-
----
 

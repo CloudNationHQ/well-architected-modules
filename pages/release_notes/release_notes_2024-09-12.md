@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-12
+title: Release Notes for 2024-09-12
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-12"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240912.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-12
-
-## azure-naming
-### v0.14.0 (v0.14.0)
-**Published at:** 2024-09-12T17:05:48Z
-
-## [0.14.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.13.0...v0.14.0) (2024-09-12)
+## Module: azure-naming
+## [0.14.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.14.0)
 
 
 ### Features
@@ -26,11 +20,10 @@ folder: release_notes
 
 ---
 
-## azure-redis
-### v1.0.2 (v1.0.2)
-**Published at:** 2024-09-12T14:08:08Z
+**Published at:** 2024-09-12T17:05:48Z
 
-## [1.0.2](https://github.com/CloudNationHQ/terraform-azure-redis/compare/v1.0.1...v1.0.2) (2024-09-12)
+## Module: azure-redis
+## [1.0.2](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v1.0.2)
 
 
 ### Bug Fixes
@@ -39,11 +32,10 @@ folder: release_notes
 
 ---
 
-## databricks-cl
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-09-12T18:27:51Z
+**Published at:** 2024-09-12T14:08:08Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-databricks-cl/compare/v1.0.1...v1.1.0) (2024-09-12)
+## Module: databricks-cl
+## [1.1.0](https://github.com/CloudNationHQ/terraform-databricks-cl/releases/tag/v1.1.0)
 
 
 ### Features
@@ -57,11 +49,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v1.1.1 (v1.1.1)
-**Published at:** 2024-09-12T06:58:32Z
+**Published at:** 2024-09-12T18:27:51Z
 
-## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v1.1.0...v1.1.1) (2024-09-12)
+## Module: azure-pip
+## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v1.1.1)
 
 
 ### Bug Fixes
@@ -70,43 +61,42 @@ folder: release_notes
 
 ---
 
-## azure-fw
-### v1.0.0 (v1.0.0)
+**Published at:** 2024-09-12T06:58:32Z
+
+## Module: azure-fw
+## 1.0.0 (2024-09-12)
+
+
+### Features
+
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v1.0.0)) ([50ff1f8](https://github.com/CloudNationHQ/terraform-azure-fw/commit/50ff1f8eb026fd82e5ce7f3aa54f7d574bb44a71))
+
+---
+
 **Published at:** 2024-09-12T07:09:38Z
 
+## Module: azure-appi
 ## 1.0.0 (2024-09-12)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-fw/issues/2)) ([50ff1f8](https://github.com/CloudNationHQ/terraform-azure-fw/commit/50ff1f8eb026fd82e5ce7f3aa54f7d574bb44a71))
+* Initial creation of application insights module ([eb4d4d1](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v1.0.0))
 
 ---
 
-## azure-appi
-### v1.0.0 (v1.0.0)
 **Published at:** 2024-09-12T18:29:33Z
 
+## Module: databricks-clp
 ## 1.0.0 (2024-09-12)
 
 
 ### Features
 
-* Initial creation of application insights module ([eb4d4d1](https://github.com/CloudNationHQ/terraform-azure-appi/commit/eb4d4d15540527b3b1e89869d030e5408b5a6d60))
-
----
-
-## databricks-clp
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-09-12T18:51:06Z
-
-## 1.0.0 (2024-09-12)
-
-
-### Features
-
-* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-databricks-clp/issues/1)) ([5633930](https://github.com/CloudNationHQ/terraform-databricks-clp/commit/56339303534870584e7208b66f4cb40cfc3346e8))
+* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-databricks-clp/releases/tag/v1.0.0)) ([5633930](https://github.com/CloudNationHQ/terraform-databricks-clp/commit/56339303534870584e7208b66f4cb40cfc3346e8))
 * update readme doc ([#2](https://github.com/CloudNationHQ/terraform-databricks-clp/issues/2)) ([5c48b69](https://github.com/CloudNationHQ/terraform-databricks-clp/commit/5c48b698bf65edfb4163f9c12e4475c3f106349c))
 
 ---
+
+**Published at:** 2024-09-12T18:51:06Z
 

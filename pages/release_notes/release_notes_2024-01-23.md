@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-01-23
+title: Release Notes for 2024-01-23
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-01-23"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240123.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-01-23
-
-## azure-sql
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-01-23T09:23:16Z
-
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.2.0...v0.3.0) (2024-01-23)
+## Module: azure-sql
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.3.0)
 
 
 ### Features
@@ -24,4 +18,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#15](https://github.com/CloudNationHQ/terraform-azure-sql/issues/15)) ([13982db](https://github.com/CloudNationHQ/terraform-azure-sql/commit/13982db8a757f4418b8c7db438142102d6ede026))
 
 ---
+
+**Published at:** 2024-01-23T09:23:16Z
 

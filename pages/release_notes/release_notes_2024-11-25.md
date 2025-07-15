@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-11-25
+title: Release Notes for 2024-11-25
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-11-25"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241125.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-11-25
-
-## azure-vnet
-### v8.1.0 (v8.1.0)
-**Published at:** 2024-11-25T08:09:43Z
-
-## [8.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.0.3...v8.1.0) (2024-11-25)
+## Module: azure-vnet
+## [8.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.1.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sa
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-11-25T08:34:55Z
+**Published at:** 2024-11-25T08:09:43Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v2.2.1...v3.0.0) (2024-11-25)
+## Module: azure-sa
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.0.0)
 
 ### ⚠ BREAKING CHANGES
 
@@ -72,11 +65,10 @@ By following these steps, you ensure that Terraform won’t destroy or recreate 
 
 ---
 
-## azure-cosmosdb
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-11-25T08:42:47Z
+**Published at:** 2024-11-25T08:34:55Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v2.2.1...v3.0.0) (2024-11-25)
+## Module: azure-cosmosdb
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -95,11 +87,10 @@ By following these steps, you ensure that Terraform won’t destroy or recreate 
 
 ---
 
-## azure-bastion
-### v2.4.0 (v2.4.0)
-**Published at:** 2024-11-25T08:17:53Z
+**Published at:** 2024-11-25T08:42:47Z
 
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v2.3.0...v2.4.0) (2024-11-25)
+## Module: azure-bastion
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.4.0)
 
 
 ### Features
@@ -107,4 +98,6 @@ By following these steps, you ensure that Terraform won’t destroy or recreate 
 * add zones support and fixed required ruleset ([#62](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/62)) ([412f057](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/412f0579e25fb22f926a4a516a56c7ececb0e267))
 
 ---
+
+**Published at:** 2024-11-25T08:17:53Z
 

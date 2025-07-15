@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-28
+title: Release Notes for 2025-04-28
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-28"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250428.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-28
-
-## azure-kv
-### v3.2.0 (v3.2.0)
-**Published at:** 2025-04-28T11:17:40Z
-
-## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v3.1.0...v3.2.0) (2025-04-28)
+## Module: azure-kv
+## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v3.2.0)
 
 
 ### Features
@@ -25,4 +19,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.33.0 to 0.38.0 in /tests ([#102](https://github.com/CloudNationHQ/terraform-azure-kv/issues/102)) ([3e5687d](https://github.com/CloudNationHQ/terraform-azure-kv/commit/3e5687d6d7d392273a37c7d0d1922adaa47fbe7a))
 
 ---
+
+**Published at:** 2025-04-28T11:17:40Z
 

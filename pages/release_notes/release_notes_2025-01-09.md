@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-09
+title: Release Notes for 2025-01-09
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-09"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250109.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-09
-
-## azure-vnet
-### v8.3.0 (v8.3.0)
-**Published at:** 2025-01-09T18:15:45Z
-
-## [8.3.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.2.0...v8.3.0) (2025-01-09)
+## Module: azure-vnet
+## [8.3.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.3.0)
 
 
 ### Features
@@ -25,4 +19,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#128](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/128)) ([a857df3](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/a857df3a8f88bfafd66c0e9888f996c1d58de14e))
 
 ---
+
+**Published at:** 2025-01-09T18:15:45Z
 

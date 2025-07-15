@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-09
+title: Release Notes for 2024-10-09
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-09"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241009.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-09
-
-## azure-aks
-### v3.2.1 (v3.2.1)
-**Published at:** 2024-10-09T12:39:50Z
-
-## [3.2.1](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v3.2.0...v3.2.1) (2024-10-09)
+## Module: azure-aks
+## [3.2.1](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.2.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v3.2.0 (v3.2.0)
-**Published at:** 2024-10-09T11:22:18Z
+**Published at:** 2024-10-09T12:39:50Z
 
-## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v3.1.1...v3.2.0) (2024-10-09)
+## Module: azure-aks
+## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.2.0)
 
 
 ### Features
@@ -37,16 +30,17 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-10-09T09:01:39Z
+**Published at:** 2024-10-09T11:22:18Z
 
+## Module: azure-lb
 ## 1.0.0 (2024-10-09)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-lb/issues/2)) ([7e28915](https://github.com/CloudNationHQ/terraform-azure-lb/commit/7e28915dba90a0af36b5873f1ca25d6e2e8e7cc6))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.0.0)) ([7e28915](https://github.com/CloudNationHQ/terraform-azure-lb/commit/7e28915dba90a0af36b5873f1ca25d6e2e8e7cc6))
 
 ---
+
+**Published at:** 2024-10-09T09:01:39Z
 

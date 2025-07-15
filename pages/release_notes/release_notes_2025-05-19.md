@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-19
+title: Release Notes for 2025-05-19
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-19"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250519.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-19
-
-## azure-rg
-### v2.7.0 (v2.7.0)
-**Published at:** 2025-05-19T13:24:50Z
-
-## [2.7.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v2.6.0...v2.7.0) (2025-05-19)
+## Module: azure-rg
+## [2.7.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.7.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-sb
-### v2.1.0 (v2.1.0)
-**Published at:** 2025-05-19T13:24:10Z
+**Published at:** 2025-05-19T13:24:50Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sb/compare/v2.0.0...v2.1.0) (2025-05-19)
+## Module: azure-sb
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sb/releases/tag/v2.1.0)
 
 
 ### Features
@@ -38,11 +31,10 @@ folder: release_notes
 
 ---
 
-## azure-eg
-### v2.2.0 (v2.2.0)
-**Published at:** 2025-05-19T13:25:06Z
+**Published at:** 2025-05-19T13:24:10Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v2.1.0...v2.2.0) (2025-05-19)
+## Module: azure-eg
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v2.2.0)
 
 
 ### Features
@@ -50,4 +42,6 @@ folder: release_notes
 * implement flexible resource naming ([#32](https://github.com/CloudNationHQ/terraform-azure-eg/issues/32)) ([72aead1](https://github.com/CloudNationHQ/terraform-azure-eg/commit/72aead1b9d3a10d5672a0758db0831745d4e7d5d))
 
 ---
+
+**Published at:** 2025-05-19T13:25:06Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-06-08
+title: Release Notes for 2024-06-08
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-06-08"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240608.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-06-08
-
-## azure-kv
-### v0.10.0 (v0.10.0)
-**Published at:** 2024-06-08T09:28:18Z
-
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.9.1...v0.10.0) (2024-06-07)
+## Module: azure-kv
+## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.10.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v0.9.0 (v0.9.0)
-**Published at:** 2024-06-08T09:46:38Z
+**Published at:** 2024-06-08T09:28:18Z
 
-## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v0.8.0...v0.9.0) (2024-06-08)
+## Module: azure-vwan
+## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.9.0)
 
 
 ### Features
@@ -42,11 +35,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-06-08T09:54:43Z
+**Published at:** 2024-06-08T09:46:38Z
 
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v0.3.0...v0.4.0) (2024-06-08)
+## Module: azure-psql
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.4.0)
 
 
 ### Features
@@ -59,11 +51,10 @@ folder: release_notes
 
 ---
 
-## azure-rbac
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-06-08T09:49:51Z
+**Published at:** 2024-06-08T09:54:43Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-rbac/compare/v0.1.0...v0.2.0) (2024-06-08)
+## Module: azure-rbac
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.2.0)
 
 
 ### Features
@@ -73,4 +64,6 @@ folder: release_notes
 * **deps:** bump the go_modules group in /tests with 3 updates ([#9](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/9)) ([055de3e](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/055de3e58aca4fca09741c0e868a720659d260fc))
 
 ---
+
+**Published at:** 2024-06-08T09:49:51Z
 

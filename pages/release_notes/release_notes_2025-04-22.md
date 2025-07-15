@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-22
+title: Release Notes for 2025-04-22
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-22"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250422.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-22
-
-## azure-eg
-### v1.5.0 (v1.5.0)
-**Published at:** 2025-04-22T08:44:17Z
-
-## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v1.4.2...v1.5.0) (2025-04-22)
+## Module: azure-eg
+## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.5.0)
 
 
 ### Features
@@ -25,4 +19,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.34.0 to 0.38.0 in /tests ([#24](https://github.com/CloudNationHQ/terraform-azure-eg/issues/24)) ([eeeffe8](https://github.com/CloudNationHQ/terraform-azure-eg/commit/eeeffe83fe80e5cc33b708a6759d3a090e2f6f90))
 
 ---
+
+**Published at:** 2025-04-22T08:44:17Z
 

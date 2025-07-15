@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-01
+title: Release Notes for 2024-08-01
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-01"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240801.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-01
-
-## azure-law
-### v0.11.0 (v0.11.0)
-**Published at:** 2024-08-01T13:36:41Z
-
-## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.10.0...v0.11.0) (2024-08-01)
+## Module: azure-law
+## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.11.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-law
-### v0.10.0 (v0.10.0)
-**Published at:** 2024-08-01T12:33:11Z
+**Published at:** 2024-08-01T13:36:41Z
 
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.9.0...v0.10.0) (2024-08-01)
+## Module: azure-law
+## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.10.0)
 
 
 ### Features
@@ -42,4 +35,6 @@ folder: release_notes
 * make linked services fully optional ([#58](https://github.com/CloudNationHQ/terraform-azure-law/issues/58)) ([31d1001](https://github.com/CloudNationHQ/terraform-azure-law/commit/31d1001e686e4236317cb746d23be9c5c7a7350a))
 
 ---
+
+**Published at:** 2024-08-01T12:33:11Z
 

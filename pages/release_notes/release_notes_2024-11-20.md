@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-11-20
+title: Release Notes for 2024-11-20
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-11-20"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241120.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-11-20
-
-## azure-vnet
-### v8.0.3 (v8.0.3)
-**Published at:** 2024-11-20T08:12:24Z
-
-## [8.0.3](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.0.2...v8.0.3) (2024-11-20)
+## Module: azure-vnet
+## [8.0.3](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.0.3)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v2.2.1 (v2.2.1)
-**Published at:** 2024-11-20T09:07:47Z
+**Published at:** 2024-11-20T08:12:24Z
 
-## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v2.2.0...v2.2.1) (2024-11-20)
+## Module: azure-cosmosdb
+## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.2.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-rsv
-### v1.3.0 (v1.3.0)
-**Published at:** 2024-11-20T13:56:47Z
+**Published at:** 2024-11-20T09:07:47Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-rsv/compare/v1.2.1...v1.3.0) (2024-11-20)
+## Module: azure-rsv
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.3.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-rsv
-### v1.2.1 (v1.2.1)
-**Published at:** 2024-11-20T12:34:21Z
+**Published at:** 2024-11-20T13:56:47Z
 
-## [1.2.1](https://github.com/CloudNationHQ/terraform-azure-rsv/compare/v1.2.0...v1.2.1) (2024-11-20)
+## Module: azure-rsv
+## [1.2.1](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.2.1)
 
 
 ### Bug Fixes
@@ -63,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v2.2.1 (v2.2.1)
-**Published at:** 2024-11-20T14:21:40Z
+**Published at:** 2024-11-20T12:34:21Z
 
-## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v2.2.0...v2.2.1) (2024-11-20)
+## Module: azure-pip
+## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.2.1)
 
 
 ### Bug Fixes
@@ -76,11 +66,10 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v1.2.1 (v1.2.1)
-**Published at:** 2024-11-20T09:07:34Z
+**Published at:** 2024-11-20T14:21:40Z
 
-## [1.2.1](https://github.com/CloudNationHQ/terraform-azure-lb/compare/v1.2.0...v1.2.1) (2024-11-20)
+## Module: azure-lb
+## [1.2.1](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.2.1)
 
 
 ### Bug Fixes
@@ -88,4 +77,6 @@ folder: release_notes
 * bounced all modules to latest verion in usages ([#8](https://github.com/CloudNationHQ/terraform-azure-lb/issues/8)) ([5cd2956](https://github.com/CloudNationHQ/terraform-azure-lb/commit/5cd2956f316ac2a2f6ca2fa662944b1bd495041c))
 
 ---
+
+**Published at:** 2024-11-20T09:07:34Z
 

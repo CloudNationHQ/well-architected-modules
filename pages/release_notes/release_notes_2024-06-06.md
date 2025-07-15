@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-06-06
+title: Release Notes for 2024-06-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-06-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240606.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-06-06
-
-## azure-vm
-### v2.0.0 (v2.0.0)
-**Published at:** 2024-06-06T17:24:26Z
-
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v1.13.0...v2.0.0) (2024-06-06)
+## Module: azure-vm
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -30,4 +24,6 @@ folder: release_notes
 * support multiple IP configurations per interface ([#111](https://github.com/CloudNationHQ/terraform-azure-vm/issues/111)) ([41373cd](https://github.com/CloudNationHQ/terraform-azure-vm/commit/41373cd8b64e1bfb79b333fc6f2ae34b8ee7aee8))
 
 ---
+
+**Published at:** 2024-06-06T17:24:26Z
 

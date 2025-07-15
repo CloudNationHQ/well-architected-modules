@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-02
+title: Release Notes for 2025-05-02
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-02"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250502.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-02
-
-## azure-kv
-### v4.0.0 (v4.0.0)
-**Published at:** 2025-05-02T10:48:16Z
-
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v3.2.0...v4.0.0) (2025-05-02)
+## Module: azure-kv
+## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v4.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -34,11 +28,10 @@ folder: release_notes
 
 ---
 
-## azure-mysql
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-05-02T09:45:23Z
+**Published at:** 2025-05-02T10:48:16Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v2.0.0...v3.0.0) (2025-05-02)
+## Module: azure-mysql
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -54,11 +47,10 @@ folder: release_notes
 
 ---
 
-## azure-mysql
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-02T08:02:50Z
+**Published at:** 2025-05-02T09:45:23Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v1.2.0...v2.0.0) (2025-05-02)
+## Module: azure-mysql
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -77,4 +69,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-02T08:02:50Z
 

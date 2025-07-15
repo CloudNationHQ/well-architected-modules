@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-03-26
+title: Release Notes for 2024-03-26
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-03-26"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240326.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-03-26
-
-## azure-vmss
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-03-26T08:17:50Z
-
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-vmss/compare/v0.2.0...v0.3.0) (2024-03-26)
+## Module: azure-vmss
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v0.3.0)
 
 
 ### Features
@@ -27,4 +21,6 @@ folder: release_notes
 * small refactor and improvements ([#12](https://github.com/CloudNationHQ/terraform-azure-vmss/issues/12)) ([14b392e](https://github.com/CloudNationHQ/terraform-azure-vmss/commit/14b392e47da23ed970e4bc1ac0cbdbebe8ff043e))
 
 ---
+
+**Published at:** 2024-03-26T08:17:50Z
 

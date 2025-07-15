@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-07-04
+title: Release Notes for 2024-07-04
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-07-04"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240704.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-07-04
-
-## azure-sa
-### v0.22.0 (v0.22.0)
-**Published at:** 2024-07-04T10:33:53Z
-
-## [0.22.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.21.0...v0.22.0) (2024-07-04)
+## Module: azure-sa
+## [0.22.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v0.22.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-sql
-### v0.9.0 (v0.9.0)
-**Published at:** 2024-07-04T17:30:25Z
+**Published at:** 2024-07-04T10:33:53Z
 
-## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.8.0...v0.9.0) (2024-07-04)
+## Module: azure-sql
+## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.9.0)
 
 
 ### Features
@@ -45,4 +38,6 @@ folder: release_notes
 * adjust issue template ([#40](https://github.com/CloudNationHQ/terraform-azure-sql/issues/40)) ([a72519f](https://github.com/CloudNationHQ/terraform-azure-sql/commit/a72519f06b7a48693f1a504397ebeb30a64aea36))
 
 ---
+
+**Published at:** 2024-07-04T17:30:25Z
 

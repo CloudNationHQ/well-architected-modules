@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-09
+title: Release Notes for 2024-09-09
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-09"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240909.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-09
-
-## databricks-cl
-### v1.0.1 (v1.0.1)
-**Published at:** 2024-09-09T18:13:49Z
-
-## [1.0.1](https://github.com/CloudNationHQ/terraform-databricks-cl/compare/v1.0.0...v1.0.1) (2024-09-09)
+## Module: databricks-cl
+## [1.0.1](https://github.com/CloudNationHQ/terraform-databricks-cl/releases/tag/v1.0.1)
 
 
 ### Bug Fixes
@@ -24,16 +18,17 @@ folder: release_notes
 
 ---
 
-## databricks-cl
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-09-09T17:42:56Z
+**Published at:** 2024-09-09T18:13:49Z
 
+## Module: databricks-cl
 ## 1.0.0 (2024-09-09)
 
 
 ### Features
 
-* add initial terraform resources, templates, documentation and examples ([#1](https://github.com/CloudNationHQ/terraform-databricks-cl/issues/1)) ([c1fe50f](https://github.com/CloudNationHQ/terraform-databricks-cl/commit/c1fe50f9b95d139893894f2287e0eff1f42a3f3d))
+* add initial terraform resources, templates, documentation and examples ([#1](https://github.com/CloudNationHQ/terraform-databricks-cl/releases/tag/v1.0.0)) ([c1fe50f](https://github.com/CloudNationHQ/terraform-databricks-cl/commit/c1fe50f9b95d139893894f2287e0eff1f42a3f3d))
 
 ---
+
+**Published at:** 2024-09-09T17:42:56Z
 

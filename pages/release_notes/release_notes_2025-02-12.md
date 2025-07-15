@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-02-12
+title: Release Notes for 2025-02-12
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-02-12"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250212.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-02-12
-
-## azure-vm
-### v5.0.1 (v5.0.1)
-**Published at:** 2025-02-12T14:39:09Z
-
-## [5.0.1](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v5.0.0...v5.0.1) (2025-02-12)
+## Module: azure-vm
+## [5.0.1](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v5.0.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v5.0.0 (v5.0.0)
-**Published at:** 2025-02-12T13:23:20Z
+**Published at:** 2025-02-12T14:39:09Z
 
-## [5.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.5.2...v5.0.0) (2025-02-12)
+## Module: azure-vm
+## [5.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v5.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -45,11 +38,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v4.5.2 (v4.5.2)
-**Published at:** 2025-02-12T12:26:17Z
+**Published at:** 2025-02-12T13:23:20Z
 
-## [4.5.2](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.5.1...v4.5.2) (2025-02-12)
+## Module: azure-vm
+## [4.5.2](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.5.2)
 
 
 ### Bug Fixes
@@ -58,11 +50,10 @@ folder: release_notes
 
 ---
 
-## azure-agw
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-02-12T15:01:31Z
+**Published at:** 2025-02-12T12:26:17Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-agw/compare/v1.2.0...v1.3.0) (2025-02-12)
+## Module: azure-agw
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.3.0)
 
 
 ### Features
@@ -76,4 +67,6 @@ folder: release_notes
 * make backend_settings,probe and backend_pools fully optional, add missing properties ([#22](https://github.com/CloudNationHQ/terraform-azure-agw/issues/22)) ([9889f84](https://github.com/CloudNationHQ/terraform-azure-agw/commit/9889f849ff02cfce66fbff2920744a31f987c4c0))
 
 ---
+
+**Published at:** 2025-02-12T15:01:31Z
 

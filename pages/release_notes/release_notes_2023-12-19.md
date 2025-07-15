@@ -1,21 +1,15 @@
 ---
-title: Releases for 2023-12-19
+title: Release Notes for 2023-12-19
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2023-12-19"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20231219.html
 folder: release_notes
 ---
 
-# Release Notes for 2023-12-19
-
-## azure-law
-### v0.4.0 (v0.4.0)
-**Published at:** 2023-12-19T07:55:54Z
-
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.3.0...v0.4.0) (2023-12-19)
+## Module: azure-law
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.4.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v0.3.0 (v0.3.0)
-**Published at:** 2023-12-19T07:45:01Z
+**Published at:** 2023-12-19T07:55:54Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.2.0...v0.3.0) (2023-12-19)
+## Module: azure-kv
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.3.0)
 
 
 ### Features
@@ -45,4 +38,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#11](https://github.com/CloudNationHQ/terraform-azure-kv/issues/11)) ([a928a38](https://github.com/CloudNationHQ/terraform-azure-kv/commit/a928a382482ae332392bc4f4fbfb185753f0b63f))
 
 ---
+
+**Published at:** 2023-12-19T07:45:01Z
 

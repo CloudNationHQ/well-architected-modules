@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-05
+title: Release Notes for 2025-03-05
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-05"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250305.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-05
-
-## azure-cosmosdb
-### v3.3.0 (v3.3.0)
-**Published at:** 2025-03-05T08:57:34Z
-
-## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v3.2.0...v3.3.0) (2025-03-05)
+## Module: azure-cosmosdb
+## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.3.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-eg
-### v1.4.0 (v1.4.0)
-**Published at:** 2025-03-05T13:11:32Z
+**Published at:** 2025-03-05T08:57:34Z
 
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v1.3.0...v1.4.0) (2025-03-05)
+## Module: azure-eg
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.4.0)
 
 
 ### Features
@@ -46,4 +39,6 @@ folder: release_notes
 * made some properties optional in eventgrid topics and corrected the custom topic usage example ([#16](https://github.com/CloudNationHQ/terraform-azure-eg/issues/16)) ([5abf66d](https://github.com/CloudNationHQ/terraform-azure-eg/commit/5abf66d41d4d89eea8f51ed3c9657733a762f6b4))
 
 ---
+
+**Published at:** 2025-03-05T13:11:32Z
 

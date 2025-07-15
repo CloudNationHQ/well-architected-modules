@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-06
+title: Release Notes for 2025-03-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250306.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-06
-
-## azure-cosmosdb
-### v3.3.1 (v3.3.1)
-**Published at:** 2025-03-06T16:30:51Z
-
-## [3.3.1](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v3.3.0...v3.3.1) (2025-03-06)
+## Module: azure-cosmosdb
+## [3.3.1](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.3.1)
 
 
 ### Bug Fixes
@@ -25,16 +19,17 @@ folder: release_notes
 
 ---
 
-## azure-appcfg
-### v1.0.0 (v1.0.0)
-**Published at:** 2025-03-06T08:40:55Z
+**Published at:** 2025-03-06T16:30:51Z
 
+## Module: azure-appcfg
 ## 1.0.0 (2025-03-06)
 
 
 ### Features
 
-* add initial files ([#2](https://github.com/CloudNationHQ/terraform-azure-appcfg/issues/2)) ([2400e4a](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/2400e4a30af10789bf21bf87c8ea912097d97137))
+* add initial files ([#2](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v1.0.0)) ([2400e4a](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/2400e4a30af10789bf21bf87c8ea912097d97137))
 
 ---
+
+**Published at:** 2025-03-06T08:40:55Z
 

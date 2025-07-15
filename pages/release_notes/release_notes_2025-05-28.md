@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-28
+title: Release Notes for 2025-05-28
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-28"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250528.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-28
-
-## azure-law
-### v3.1.0 (v3.1.0)
-**Published at:** 2025-05-28T08:26:29Z
-
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v3.0.0...v3.1.0) (2025-05-28)
+## Module: azure-law
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v3.1.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v9.1.1 (v9.1.1)
-**Published at:** 2025-05-28T08:19:59Z
+**Published at:** 2025-05-28T08:26:29Z
 
-## [9.1.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v9.1.0...v9.1.1) (2025-05-28)
+## Module: azure-vnet
+## [9.1.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.1.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-plan
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-05-28T09:45:05Z
+**Published at:** 2025-05-28T08:19:59Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-plan/compare/v2.2.0...v3.0.0) (2025-05-28)
+## Module: azure-plan
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -62,4 +54,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-28T09:45:05Z
 

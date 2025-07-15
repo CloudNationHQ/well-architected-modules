@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-01-19
+title: Release Notes for 2024-01-19
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-01-19"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240119.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-01-19
-
-## azure-law
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-01-19T07:20:09Z
-
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.4.0...v0.5.0) (2024-01-19)
+## Module: azure-law
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.5.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-acr
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-01-19T07:01:23Z
+**Published at:** 2024-01-19T07:20:09Z
 
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v0.3.0...v0.4.0) (2024-01-19)
+## Module: azure-acr
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v0.4.0)
 
 
 ### Features
@@ -41,11 +34,10 @@ folder: release_notes
 
 ---
 
-## azure-rg
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-01-19T07:40:43Z
+**Published at:** 2024-01-19T07:01:23Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v0.2.0...v0.3.0) (2024-01-19)
+## Module: azure-rg
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.3.0)
 
 
 ### Features
@@ -54,11 +46,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-01-19T06:36:19Z
+**Published at:** 2024-01-19T07:40:43Z
 
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.4.0...v0.5.0) (2024-01-19)
+## Module: azure-kv
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.5.0)
 
 
 ### Features
@@ -68,11 +59,10 @@ folder: release_notes
 
 ---
 
-## azure-vmss
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-01-19T07:33:29Z
+**Published at:** 2024-01-19T06:36:19Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-vmss/compare/v0.1.0...v0.2.0) (2024-01-19)
+## Module: azure-vmss
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v0.2.0)
 
 
 ### Features
@@ -85,11 +75,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-01-19T06:50:11Z
+**Published at:** 2024-01-19T07:33:29Z
 
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v0.3.0...v0.4.0) (2024-01-19)
+## Module: azure-cosmosdb
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.4.0)
 
 
 ### Features
@@ -99,11 +88,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-01-19T07:48:47Z
+**Published at:** 2024-01-19T06:50:11Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.1.0...v0.2.0) (2024-01-19)
+## Module: azure-bastion
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.2.0)
 
 
 ### Features
@@ -114,11 +102,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-01-19T07:07:28Z
+**Published at:** 2024-01-19T07:48:47Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.2.0...v0.3.0) (2024-01-19)
+## Module: azure-aks
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.3.0)
 
 
 ### Features
@@ -129,4 +116,6 @@ folder: release_notes
 * small refactor workflows ([#22](https://github.com/CloudNationHQ/terraform-azure-aks/issues/22)) ([d8d47b1](https://github.com/CloudNationHQ/terraform-azure-aks/commit/d8d47b19d5b8a0c3cdc7d7162a1d9442efb285cf))
 
 ---
+
+**Published at:** 2024-01-19T07:07:28Z
 

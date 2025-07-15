@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-11
+title: Release Notes for 2024-10-11
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-11"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241011.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-11
-
-## azure-law
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:29:08Z
-
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v2.0.1...v2.1.0) (2024-10-11)
+## Module: azure-law
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v2.1.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v6.1.0 (v6.1.0)
-**Published at:** 2024-10-11T10:12:26Z
+**Published at:** 2024-10-11T09:29:08Z
 
-## [6.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v6.0.0...v6.1.0) (2024-10-11)
+## Module: azure-vnet
+## [6.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v6.1.0)
 
 
 ### Features
@@ -39,11 +32,10 @@ folder: release_notes
 
 ---
 
-## azure-sa
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T12:22:09Z
+**Published at:** 2024-10-11T10:12:26Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-sa
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v2.1.0)
 
 
 ### Features
@@ -53,11 +45,10 @@ folder: release_notes
 
 ---
 
-## azure-acr
-### v3.1.0 (v3.1.0)
-**Published at:** 2024-10-11T09:03:10Z
+**Published at:** 2024-10-11T12:22:09Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v3.0.1...v3.1.0) (2024-10-11)
+## Module: azure-acr
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.1.0)
 
 
 ### Features
@@ -67,11 +58,10 @@ folder: release_notes
 
 ---
 
-## azure-rg
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:02:51Z
+**Published at:** 2024-10-11T09:03:10Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-rg
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.1.0)
 
 
 ### Features
@@ -81,11 +71,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:02:10Z
+**Published at:** 2024-10-11T09:02:51Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-kv
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.1.0)
 
 
 ### Features
@@ -95,11 +84,10 @@ folder: release_notes
 
 ---
 
-## azure-vmss
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T12:02:46Z
+**Published at:** 2024-10-11T09:02:10Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vmss/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-vmss
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v1.1.0)
 
 
 ### Features
@@ -108,11 +96,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v4.1.0 (v4.1.0)
-**Published at:** 2024-10-11T09:03:02Z
+**Published at:** 2024-10-11T12:02:46Z
 
-## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.0.0...v4.1.0) (2024-10-11)
+## Module: azure-vm
+## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.1.0)
 
 
 ### Features
@@ -122,11 +109,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T11:22:32Z
+**Published at:** 2024-10-11T09:03:02Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-cosmosdb
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.1.0)
 
 
 ### Features
@@ -136,11 +122,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v2.2.0 (v2.2.0)
-**Published at:** 2024-10-11T13:20:58Z
+**Published at:** 2024-10-11T11:22:32Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v2.1.0...v2.2.0) (2024-10-11)
+## Module: azure-bastion
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.2.0)
 
 
 ### Features
@@ -149,11 +134,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T10:25:24Z
+**Published at:** 2024-10-11T13:20:58Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-bastion
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.1.0)
 
 
 ### Features
@@ -163,11 +147,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v3.3.0 (v3.3.0)
-**Published at:** 2024-10-11T09:03:19Z
+**Published at:** 2024-10-11T10:25:24Z
 
-## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v3.2.1...v3.3.0) (2024-10-11)
+## Module: azure-aks
+## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.3.0)
 
 
 ### Features
@@ -177,11 +160,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T10:16:41Z
+**Published at:** 2024-10-11T09:03:19Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v2.0.1...v2.1.0) (2024-10-11)
+## Module: azure-vwan
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v2.1.0)
 
 
 ### Features
@@ -191,11 +173,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:59:02Z
+**Published at:** 2024-10-11T10:16:41Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-psql
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v2.1.0)
 
 
 ### Features
@@ -205,11 +186,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:03:58Z
+**Published at:** 2024-10-11T09:59:02Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-evh
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v2.1.0)
 
 
 ### Features
@@ -219,11 +199,10 @@ folder: release_notes
 
 ---
 
-## azure-pdns
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:48:27Z
+**Published at:** 2024-10-11T09:03:58Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-pdns
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v2.1.0)
 
 
 ### Features
@@ -233,11 +212,10 @@ folder: release_notes
 
 ---
 
-## azure-rbac
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T10:04:11Z
+**Published at:** 2024-10-11T09:48:27Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rbac/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-rbac
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v1.1.0)
 
 
 ### Features
@@ -247,11 +225,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T09:02:39Z
+**Published at:** 2024-10-11T10:04:11Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-pe
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.1.0)
 
 
 ### Features
@@ -261,11 +238,10 @@ folder: release_notes
 
 ---
 
-## azure-rsv
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T12:08:14Z
+**Published at:** 2024-10-11T09:02:39Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rsv/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-rsv
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.1.0)
 
 
 ### Features
@@ -275,11 +251,10 @@ folder: release_notes
 
 ---
 
-## azure-vgw
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T09:35:58Z
+**Published at:** 2024-10-11T12:08:14Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vgw/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-vgw
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v1.1.0)
 
 
 ### Features
@@ -289,11 +264,10 @@ folder: release_notes
 
 ---
 
-## azure-ca
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:01:56Z
+**Published at:** 2024-10-11T09:35:58Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v2.0.2...v2.1.0) (2024-10-11)
+## Module: azure-ca
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.1.0)
 
 
 ### Features
@@ -303,11 +277,10 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T09:47:23Z
+**Published at:** 2024-10-11T09:01:56Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-func
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.1.0)
 
 
 ### Features
@@ -317,11 +290,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:01:47Z
+**Published at:** 2024-10-11T09:47:23Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-aa
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.1.0)
 
 
 ### Features
@@ -331,11 +303,10 @@ folder: release_notes
 
 ---
 
-## azure-nw
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T09:02:25Z
+**Published at:** 2024-10-11T09:01:47Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-nw/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-nw
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v1.1.0)
 
 
 ### Features
@@ -345,11 +316,10 @@ folder: release_notes
 
 ---
 
-## azure-syn
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T12:21:50Z
+**Published at:** 2024-10-11T09:02:25Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-syn/compare/v1.0.1...v1.1.0) (2024-10-11)
+## Module: azure-syn
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v1.1.0)
 
 
 ### Features
@@ -359,11 +329,10 @@ folder: release_notes
 
 ---
 
-## azure-plan
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:58:15Z
+**Published at:** 2024-10-11T12:21:50Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-plan/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-plan
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v2.1.0)
 
 
 ### Features
@@ -373,11 +342,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:03:26Z
+**Published at:** 2024-10-11T09:58:15Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-app
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.1.0)
 
 
 ### Features
@@ -386,11 +354,10 @@ folder: release_notes
 
 ---
 
-## azure-dnspr
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:01:41Z
+**Published at:** 2024-10-11T09:03:26Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-dnspr
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.1.0)
 
 
 ### Features
@@ -400,11 +367,10 @@ folder: release_notes
 
 ---
 
-## azure-dcr
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:03:44Z
+**Published at:** 2024-10-11T09:01:41Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dcr/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-dcr
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dcr/releases/tag/v2.1.0)
 
 
 ### Features
@@ -414,11 +380,10 @@ folder: release_notes
 
 ---
 
-## azure-redis
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T10:19:55Z
+**Published at:** 2024-10-11T09:03:44Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-redis/compare/v2.0.1...v2.1.0) (2024-10-11)
+## Module: azure-redis
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v2.1.0)
 
 
 ### Features
@@ -428,11 +393,10 @@ folder: release_notes
 
 ---
 
-## azure-dbw
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:03:35Z
+**Published at:** 2024-10-11T10:19:55Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dbw/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-dbw
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-dbw/releases/tag/v2.1.0)
 
 
 ### Features
@@ -442,11 +406,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:32:37Z
+**Published at:** 2024-10-11T09:03:35Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v2.0.1...v2.1.0) (2024-10-11)
+## Module: azure-pip
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.1.0)
 
 
 ### Features
@@ -456,11 +419,10 @@ folder: release_notes
 
 ---
 
-## azure-fw
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:02:01Z
+**Published at:** 2024-10-11T09:32:37Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-fw/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-fw
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.1.0)
 
 
 ### Features
@@ -470,11 +432,10 @@ folder: release_notes
 
 ---
 
-## azure-appi
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:38:44Z
+**Published at:** 2024-10-11T09:02:01Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-appi/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-appi
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.1.0)
 
 
 ### Features
@@ -484,11 +445,10 @@ folder: release_notes
 
 ---
 
-## azure-fwp
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:01:32Z
+**Published at:** 2024-10-11T09:38:44Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-fwp/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-fwp
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v2.1.0)
 
 
 ### Features
@@ -498,11 +458,10 @@ folder: release_notes
 
 ---
 
-## azure-mag
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:29:57Z
+**Published at:** 2024-10-11T09:01:32Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-mag/compare/v2.0.0...v2.1.0) (2024-10-11)
+## Module: azure-mag
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.1.0)
 
 
 ### Features
@@ -512,11 +471,10 @@ folder: release_notes
 
 ---
 
-## azure-apim
-### v2.1.0 (v2.1.0)
-**Published at:** 2024-10-11T09:37:11Z
+**Published at:** 2024-10-11T09:29:57Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-apim/compare/v2.0.1...v2.1.0) (2024-10-11)
+## Module: azure-apim
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.1.0)
 
 
 ### Features
@@ -525,11 +483,10 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-11T09:02:18Z
+**Published at:** 2024-10-11T09:37:11Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-lb/compare/v1.0.0...v1.1.0) (2024-10-11)
+## Module: azure-lb
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.1.0)
 
 
 ### Features
@@ -537,4 +494,6 @@ folder: release_notes
 * auto generated docs and refine makefile ([#4](https://github.com/CloudNationHQ/terraform-azure-lb/issues/4)) ([39ccc79](https://github.com/CloudNationHQ/terraform-azure-lb/commit/39ccc793e6e24f8344ed08f91bef60c843e5c3c8))
 
 ---
+
+**Published at:** 2024-10-11T09:02:18Z
 

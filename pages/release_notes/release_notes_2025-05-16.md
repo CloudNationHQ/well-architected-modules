@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-16
+title: Release Notes for 2025-05-16
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-16"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250516.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-16
-
-## azure-sa
-### v4.1.0 (v4.1.0)
-**Published at:** 2025-05-16T13:26:08Z
-
-## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v4.0.0...v4.1.0) (2025-05-16)
+## Module: azure-sa
+## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v4.1.0)
 
 
 ### Features
@@ -28,4 +22,6 @@ folder: release_notes
 * use of naming property without naming module  ([#175](https://github.com/CloudNationHQ/terraform-azure-sa/issues/175)) ([cbaf9e9](https://github.com/CloudNationHQ/terraform-azure-sa/commit/cbaf9e986c4c4bed2d9ad5124a7067fc16061bbe))
 
 ---
+
+**Published at:** 2025-05-16T13:26:08Z
 

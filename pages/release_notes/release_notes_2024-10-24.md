@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-24
+title: Release Notes for 2024-10-24
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-24"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241024.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-24
-
-## azure-mysql
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-10-24T07:42:26Z
-
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v0.2.1...v1.0.0) (2024-10-24)
+## Module: azure-mysql
+## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v1.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -33,4 +27,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 1.0"`
 
 ---
+
+**Published at:** 2024-10-24T07:42:26Z
 

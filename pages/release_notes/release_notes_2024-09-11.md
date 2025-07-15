@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-11
+title: Release Notes for 2024-09-11
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-11"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240911.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-11
-
-## azure-redis
-### v1.0.1 (v1.0.1)
-**Published at:** 2024-09-11T09:57:58Z
-
-## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-redis/compare/v1.0.0...v1.0.1) (2024-09-11)
+## Module: azure-redis
+## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v1.0.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-09-11T14:21:27Z
+**Published at:** 2024-09-11T09:57:58Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v1.0.0...v1.1.0) (2024-09-11)
+## Module: azure-pip
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v1.1.0)
 
 
 ### Features
@@ -37,16 +30,17 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-09-11T09:55:31Z
+**Published at:** 2024-09-11T14:21:27Z
 
+## Module: azure-pip
 ## 1.0.0 (2024-09-11)
 
 
 ### Features
 
-* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-pip/issues/1)) ([1ac5480](https://github.com/CloudNationHQ/terraform-azure-pip/commit/1ac54803dca498627b3106cf4d518f15fb9ac03d))
+* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v1.0.0)) ([1ac5480](https://github.com/CloudNationHQ/terraform-azure-pip/commit/1ac54803dca498627b3106cf4d518f15fb9ac03d))
 
 ---
+
+**Published at:** 2024-09-11T09:55:31Z
 

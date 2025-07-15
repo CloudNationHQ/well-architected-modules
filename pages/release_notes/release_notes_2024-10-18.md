@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-18
+title: Release Notes for 2024-10-18
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-18"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241018.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-18
-
-## azure-sql
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-18T19:42:05Z
-
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v1.0.0...v1.1.0) (2024-10-18)
+## Module: azure-sql
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v1.1.0)
 
 
 ### Features
@@ -26,16 +20,17 @@ folder: release_notes
 
 ---
 
-## azure-sb
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-10-18T10:25:20Z
+**Published at:** 2024-10-18T19:42:05Z
 
+## Module: azure-sb
 ## 1.0.0 (2024-10-18)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-sb/issues/2)) ([aac3a7c](https://github.com/CloudNationHQ/terraform-azure-sb/commit/aac3a7c1c40c7b8f2b2da9ed3419bf3e879c1724))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-sb/releases/tag/v1.0.0)) ([aac3a7c](https://github.com/CloudNationHQ/terraform-azure-sb/commit/aac3a7c1c40c7b8f2b2da9ed3419bf3e879c1724))
 
 ---
+
+**Published at:** 2024-10-18T10:25:20Z
 

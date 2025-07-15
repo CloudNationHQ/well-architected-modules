@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-29
+title: Release Notes for 2025-01-29
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-29"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250129.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-29
-
-## azure-agw
-### v1.2.0 (v1.2.0)
-**Published at:** 2025-01-29T21:52:43Z
-
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-agw/compare/v1.1.0...v1.2.0) (2025-01-29)
+## Module: azure-agw
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.2.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-agw
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-01-29T21:30:33Z
+**Published at:** 2025-01-29T21:52:43Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-agw/compare/v1.0.0...v1.1.0) (2025-01-29)
+## Module: azure-agw
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.1.0)
 
 
 ### Features
@@ -38,4 +31,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#17](https://github.com/CloudNationHQ/terraform-azure-agw/issues/17)) ([669a15c](https://github.com/CloudNationHQ/terraform-azure-agw/commit/669a15c141a4e2dac768bf7cd0f9d0e4e76d3fb7))
 
 ---
+
+**Published at:** 2025-01-29T21:30:33Z
 

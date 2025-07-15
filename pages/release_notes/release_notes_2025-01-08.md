@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-08
+title: Release Notes for 2025-01-08
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-08"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250108.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-08
-
-## azure-func
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-01-08T15:00:54Z
-
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v1.2.0...v1.3.0) (2025-01-08)
+## Module: azure-func
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.3.0)
 
 
 ### Features
@@ -31,4 +25,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#32](https://github.com/CloudNationHQ/terraform-azure-func/issues/32)) ([ad37aee](https://github.com/CloudNationHQ/terraform-azure-func/commit/ad37aee0c5ce0e8172d67b372e9ad0f956e0543c))
 
 ---
+
+**Published at:** 2025-01-08T15:00:54Z
 

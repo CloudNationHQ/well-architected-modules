@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-10
+title: Release Notes for 2025-04-10
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-10"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250410.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-10
-
-## azure-sa
-### v3.7.0 (v3.7.0)
-**Published at:** 2025-04-10T13:58:04Z
-
-## [3.7.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.6.0...v3.7.0) (2025-04-10)
+## Module: azure-sa
+## [3.7.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.7.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sql
-### v1.5.0 (v1.5.0)
-**Published at:** 2025-04-10T12:58:14Z
+**Published at:** 2025-04-10T13:58:04Z
 
-## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v1.4.0...v1.5.0) (2025-04-10)
+## Module: azure-sql
+## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v1.5.0)
 
 
 ### Features
@@ -43,11 +36,10 @@ folder: release_notes
 
 ---
 
-## azure-appi
-### v2.5.0 (v2.5.0)
-**Published at:** 2025-04-10T13:05:57Z
+**Published at:** 2025-04-10T12:58:14Z
 
-## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-appi/compare/v2.4.0...v2.5.0) (2025-04-10)
+## Module: azure-appi
+## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.5.0)
 
 
 ### Features
@@ -58,11 +50,10 @@ folder: release_notes
 
 ---
 
-## azure-wafwp
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-04-10T13:06:59Z
+**Published at:** 2025-04-10T13:05:57Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/compare/v1.2.0...v1.3.0) (2025-04-10)
+## Module: azure-wafwp
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.3.0)
 
 
 ### Features
@@ -72,4 +63,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.33.0 to 0.36.0 in /tests ([#21](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/21)) ([02dbf48](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/02dbf489847f78c1e9b770d4ee5fd64e71777538))
 
 ---
+
+**Published at:** 2025-04-10T13:06:59Z
 

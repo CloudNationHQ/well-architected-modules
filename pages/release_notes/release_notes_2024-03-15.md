@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-03-15
+title: Release Notes for 2024-03-15
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-03-15"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240315.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-03-15
-
-## azure-acr
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-03-15T10:36:06Z
-
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v0.4.0...v0.5.0) (2024-03-15)
+## Module: azure-acr
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v0.5.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v0.8.0 (v0.8.0)
-**Published at:** 2024-03-15T08:28:34Z
+**Published at:** 2024-03-15T10:36:06Z
 
-## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v0.7.0...v0.8.0) (2024-03-15)
+## Module: azure-kv
+## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.8.0)
 
 
 ### Features
@@ -43,11 +36,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-03-15T15:55:25Z
+**Published at:** 2024-03-15T08:28:34Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v0.5.0...v0.6.0) (2024-03-15)
+## Module: azure-cosmosdb
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.6.0)
 
 
 ### Features
@@ -57,11 +49,10 @@ folder: release_notes
 
 ---
 
-## azure-sql
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-03-15T16:20:24Z
+**Published at:** 2024-03-15T15:55:25Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.5.0...v0.6.0) (2024-03-15)
+## Module: azure-sql
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.6.0)
 
 
 ### Features
@@ -71,11 +62,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-03-15T09:51:26Z
+**Published at:** 2024-03-15T16:20:24Z
 
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v0.2.1...v0.3.0) (2024-03-12)
+## Module: azure-psql
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.3.0)
 
 
 ### Features
@@ -84,11 +74,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-03-15T14:32:27Z
+**Published at:** 2024-03-15T09:51:26Z
 
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v0.1.0...v0.2.0) (2024-03-15)
+## Module: azure-pe
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v0.2.0)
 
 
 ### Features
@@ -96,4 +85,6 @@ folder: release_notes
 * update documentation ([#4](https://github.com/CloudNationHQ/terraform-azure-pe/issues/4)) ([d2ece61](https://github.com/CloudNationHQ/terraform-azure-pe/commit/d2ece61eefba1b328b51787d3e6e365db0945847))
 
 ---
+
+**Published at:** 2024-03-15T14:32:27Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-07-01
+title: Release Notes for 2024-07-01
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-07-01"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240701.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-07-01
-
-## azure-aks
-### v0.11.0 (v0.11.0)
-**Published at:** 2024-07-01T16:25:51Z
-
-## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.10.0...v0.11.0) (2024-07-01)
+## Module: azure-aks
+## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.11.0)
 
 
 ### Features
@@ -33,11 +27,10 @@ folder: release_notes
 
 ---
 
-## azure-ca
-### v0.2.1 (v0.2.1)
-**Published at:** 2024-07-01T10:11:24Z
+**Published at:** 2024-07-01T16:25:51Z
 
-## [0.2.1](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v0.2.0...v0.2.1) (2024-07-01)
+## Module: azure-ca
+## [0.2.1](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v0.2.1)
 
 
 ### Bug Fixes
@@ -45,4 +38,6 @@ folder: release_notes
 * make kv_scope optional for secret retrieval when identity is not required ([#17](https://github.com/CloudNationHQ/terraform-azure-ca/issues/17)) ([29b264f](https://github.com/CloudNationHQ/terraform-azure-ca/commit/29b264f12e6069f34e53757f030664789db18388))
 
 ---
+
+**Published at:** 2024-07-01T10:11:24Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-07-08
+title: Release Notes for 2025-07-08
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-07-08"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250708.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-07-08
-
-## azure-law
-### v3.2.0 (v3.2.0)
-**Published at:** 2025-07-08T07:53:43Z
-
-## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v3.1.0...v3.2.0) (2025-07-08)
+## Module: azure-law
+## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v3.2.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v4.2.0 (v4.2.0)
-**Published at:** 2025-07-08T11:54:26Z
+**Published at:** 2025-07-08T07:53:43Z
 
-## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v4.1.0...v4.2.0) (2025-07-08)
+## Module: azure-kv
+## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v4.2.0)
 
 
 ### Features
@@ -42,11 +35,10 @@ folder: release_notes
 
 ---
 
-## azure-apim
-### v2.4.1 (v2.4.1)
-**Published at:** 2025-07-08T14:25:13Z
+**Published at:** 2025-07-08T11:54:26Z
 
-## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-apim/compare/v2.4.0...v2.4.1) (2025-07-08)
+## Module: azure-apim
+## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.4.1)
 
 
 ### Bug Fixes
@@ -55,11 +47,10 @@ folder: release_notes
 
 ---
 
-## azure-appcfg
-### v2.1.1 (v2.1.1)
-**Published at:** 2025-07-08T13:02:07Z
+**Published at:** 2025-07-08T14:25:13Z
 
-## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/compare/v2.1.0...v2.1.1) (2025-07-08)
+## Module: azure-appcfg
+## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.1.1)
 
 
 ### Bug Fixes
@@ -68,11 +59,10 @@ folder: release_notes
 
 ---
 
-## azure-appcfg
-### v2.1.0 (v2.1.0)
-**Published at:** 2025-07-08T12:13:51Z
+**Published at:** 2025-07-08T13:02:07Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/compare/v2.0.0...v2.1.0) (2025-07-08)
+## Module: azure-appcfg
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.1.0)
 
 
 ### Features
@@ -80,4 +70,6 @@ folder: release_notes
 * Add identity block ([#18](https://github.com/CloudNationHQ/terraform-azure-appcfg/issues/18)) ([1069e8f](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/1069e8fcc62cf38e0a5a3983366cbf2d1f8bbd41))
 
 ---
+
+**Published at:** 2025-07-08T12:13:51Z
 

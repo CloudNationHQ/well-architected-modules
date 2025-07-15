@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-01-25
+title: Release Notes for 2024-01-25
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-01-25"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240125.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-01-25
-
-## azure-bastion
-### v0.3.0 (v0.3.0)
-**Published at:** 2024-01-25T12:00:35Z
-
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.2.0...v0.3.0) (2024-01-24)
+## Module: azure-bastion
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.3.0)
 
 
 ### Features
@@ -25,4 +19,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#9](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/9)) ([292287a](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/292287a7b53ec5e4e0726ef441ff49ec04e7cfb1))
 
 ---
+
+**Published at:** 2024-01-25T12:00:35Z
 

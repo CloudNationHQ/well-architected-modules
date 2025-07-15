@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-01
+title: Release Notes for 2025-05-01
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-01"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250501.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-01
-
-## azure-vwan
-### v4.3.0 (v4.3.0)
-**Published at:** 2025-05-01T11:48:52Z
-
-## [4.3.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v4.2.0...v4.3.0) (2025-05-01)
+## Module: azure-vwan
+## [4.3.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.3.0)
 
 
 ### Features
@@ -28,4 +22,6 @@ folder: release_notes
 * remove non existing gateway_ip vpn sites in type definition ([#99](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/99)) ([724cd7e](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/724cd7efa24cb311509a499bba8f57f9077404f0))
 
 ---
+
+**Published at:** 2025-05-01T11:48:52Z
 

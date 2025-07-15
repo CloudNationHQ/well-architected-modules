@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-26
+title: Release Notes for 2025-05-26
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-26"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250526.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-26
-
-## azure-law
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-05-26T11:00:05Z
-
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v2.3.0...v3.0.0) (2025-05-26)
+## Module: azure-law
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -34,4 +28,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-26T11:00:05Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-07-10
+title: Release Notes for 2024-07-10
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-07-10"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240710.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-07-10
-
-## azure-naming
-### v0.7.1 (v0.7.1)
-**Published at:** 2024-07-10T13:04:28Z
-
-## [0.7.1](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.7.0...v0.7.1) (2024-07-10)
+## Module: azure-naming
+## [0.7.1](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.7.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.7.0 (v0.7.0)
-**Published at:** 2024-07-10T12:41:14Z
+**Published at:** 2024-07-10T13:04:28Z
 
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.6.0...v0.7.0) (2024-07-10)
+## Module: azure-naming
+## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.7.0)
 
 
 ### Features
@@ -36,4 +29,6 @@ folder: release_notes
 * add automation job schedule support ([#16](https://github.com/CloudNationHQ/terraform-azure-naming/issues/16)) ([b01b363](https://github.com/CloudNationHQ/terraform-azure-naming/commit/b01b36381dcf90f1a58c51faad73debb02601a77))
 
 ---
+
+**Published at:** 2024-07-10T12:41:14Z
 

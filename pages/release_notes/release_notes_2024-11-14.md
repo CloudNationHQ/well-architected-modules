@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-11-14
+title: Release Notes for 2024-11-14
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-11-14"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241114.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-11-14
-
-## azure-naming
-### v0.21.0 (v0.21.0)
-**Published at:** 2024-11-14T08:35:17Z
-
-## [0.21.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.20.0...v0.21.0) (2024-11-14)
+## Module: azure-naming
+## [0.21.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.21.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v4.2.2 (v4.2.2)
-**Published at:** 2024-11-14T09:03:41Z
+**Published at:** 2024-11-14T08:35:17Z
 
-## [4.2.2](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.2.1...v4.2.2) (2024-11-14)
+## Module: azure-vm
+## [4.2.2](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.2.2)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-wafwp
-### v1.0.3 (v1.0.3)
-**Published at:** 2024-11-14T13:16:31Z
+**Published at:** 2024-11-14T09:03:41Z
 
-## [1.0.3](https://github.com/CloudNationHQ/terraform-azure-wafwp/compare/v1.0.2...v1.0.3) (2024-11-14)
+## Module: azure-wafwp
+## [1.0.3](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.3)
 
 
 ### Bug Fixes
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-wafwp
-### v1.0.2 (v1.0.2)
-**Published at:** 2024-11-14T09:06:02Z
+**Published at:** 2024-11-14T13:16:31Z
 
-## [1.0.2](https://github.com/CloudNationHQ/terraform-azure-wafwp/compare/v1.0.1...v1.0.2) (2024-11-14)
+## Module: azure-wafwp
+## [1.0.2](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.2)
 
 
 ### Bug Fixes
@@ -62,4 +53,6 @@ folder: release_notes
 * allow multiple managed rulsets ([#7](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/7)) ([2040193](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/20401935e8b65bf5c94c852ab4f8ea4747c8a06f))
 
 ---
+
+**Published at:** 2024-11-14T09:06:02Z
 

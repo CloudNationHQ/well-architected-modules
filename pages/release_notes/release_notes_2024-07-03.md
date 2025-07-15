@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-07-03
+title: Release Notes for 2024-07-03
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-07-03"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240703.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-07-03
-
-## azure-acr
-### v1.5.0 (v1.5.0)
-**Published at:** 2024-07-03T12:09:37Z
-
-## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v1.4.0...v1.5.0) (2024-07-03)
+## Module: azure-acr
+## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.5.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-07-03T12:06:00Z
+**Published at:** 2024-07-03T12:09:37Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.5.0...v0.6.0) (2024-07-03)
+## Module: azure-naming
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.6.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-psql
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-07-03T13:05:02Z
+**Published at:** 2024-07-03T12:06:00Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v0.5.0...v0.6.0) (2024-07-03)
+## Module: azure-psql
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.6.0)
 
 
 ### Features
@@ -49,4 +41,6 @@ folder: release_notes
 * add public_network_access_enabled property to enhance network configuration ([#23](https://github.com/CloudNationHQ/terraform-azure-psql/issues/23)) ([77bbad3](https://github.com/CloudNationHQ/terraform-azure-psql/commit/77bbad33a7555c72193de245d79821e07435eda4))
 
 ---
+
+**Published at:** 2024-07-03T13:05:02Z
 

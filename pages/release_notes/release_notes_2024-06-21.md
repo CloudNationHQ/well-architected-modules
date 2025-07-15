@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-06-21
+title: Release Notes for 2024-06-21
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-06-21"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240621.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-06-21
-
-## azure-aks
-### v0.10.0 (v0.10.0)
-**Published at:** 2024-06-21T14:20:46Z
-
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.9.0...v0.10.0) (2024-06-21)
+## Module: azure-aks
+## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.10.0)
 
 
 ### Features
@@ -26,11 +20,10 @@ folder: release_notes
 
 ---
 
-## azure-vgw
-### v0.6.1 (v0.6.1)
-**Published at:** 2024-06-21T06:43:57Z
+**Published at:** 2024-06-21T14:20:46Z
 
-## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-vgw/compare/v0.6.0...v0.6.1) (2024-06-21)
+## Module: azure-vgw
+## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v0.6.1)
 
 
 ### Bug Fixes
@@ -38,4 +31,6 @@ folder: release_notes
 * fixed conditionally include ip_configuration_id for dynamic nat rules only ([#24](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/24)) ([35add3b](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/35add3b05eac4b4bd16fbe8fb4e6b3aa6a4694c8))
 
 ---
+
+**Published at:** 2024-06-21T06:43:57Z
 

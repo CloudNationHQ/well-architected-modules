@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-03-22
+title: Release Notes for 2024-03-22
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-03-22"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240322.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-03-22
-
-## azure-acr
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-03-22T11:28:40Z
-
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-acr/compare/v0.5.0...v0.6.0) (2024-03-22)
+## Module: azure-acr
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v0.6.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-rg
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-03-22T15:42:25Z
+**Published at:** 2024-03-22T11:28:40Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v0.5.0...v0.6.0) (2024-03-22)
+## Module: azure-rg
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.6.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-rg
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-03-22T11:31:17Z
+**Published at:** 2024-03-22T15:42:25Z
 
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v0.4.1...v0.5.0) (2024-03-22)
+## Module: azure-rg
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.5.0)
 
 
 ### Features
@@ -49,4 +41,6 @@ folder: release_notes
 * add support for existing groups ([#11](https://github.com/CloudNationHQ/terraform-azure-rg/issues/11)) ([1911630](https://github.com/CloudNationHQ/terraform-azure-rg/commit/1911630cd0c155dad29d53cf62493d4c0e33df7f))
 
 ---
+
+**Published at:** 2024-03-22T11:31:17Z
 

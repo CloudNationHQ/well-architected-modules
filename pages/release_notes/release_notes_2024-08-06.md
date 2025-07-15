@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-08-06
+title: Release Notes for 2024-08-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-08-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240806.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-08-06
-
-## azure-sa
-### v0.23.1 (v0.23.1)
-**Published at:** 2024-08-06T14:42:24Z
-
-## [0.23.1](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v0.23.0...v0.23.1) (2024-08-06)
+## Module: azure-sa
+## [0.23.1](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v0.23.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.11.1 (v0.11.1)
-**Published at:** 2024-08-06T10:10:10Z
+**Published at:** 2024-08-06T14:42:24Z
 
-## [0.11.1](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.11.0...v0.11.1) (2024-08-06)
+## Module: azure-naming
+## [0.11.1](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.11.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.11.0 (v0.11.0)
-**Published at:** 2024-08-06T09:00:06Z
+**Published at:** 2024-08-06T10:10:10Z
 
-## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.10.0...v0.11.0) (2024-08-06)
+## Module: azure-naming
+## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.11.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.10.0 (v0.10.0)
-**Published at:** 2024-08-06T08:46:22Z
+**Published at:** 2024-08-06T09:00:06Z
 
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.9.0...v0.10.0) (2024-08-06)
+## Module: azure-naming
+## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.10.0)
 
 
 ### Features
@@ -63,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v2.4.0 (v2.4.0)
-**Published at:** 2024-08-06T14:52:46Z
+**Published at:** 2024-08-06T08:46:22Z
 
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v2.3.0...v2.4.0) (2024-08-06)
+## Module: azure-vm
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v2.4.0)
 
 
 ### Features
@@ -78,17 +68,18 @@ folder: release_notes
 
 ---
 
-## azure-nw
-### v0.1.0 (v0.1.0)
-**Published at:** 2024-08-06T13:53:36Z
+**Published at:** 2024-08-06T14:52:46Z
 
+## Module: azure-nw
 ## 0.1.0 (2024-08-06)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-nw/issues/2)) ([2d54ab1](https://github.com/CloudNationHQ/terraform-azure-nw/commit/2d54ab17060e9e198cf74970e9297b13996c3906))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v0.1.0)) ([2d54ab1](https://github.com/CloudNationHQ/terraform-azure-nw/commit/2d54ab17060e9e198cf74970e9297b13996c3906))
 * **deps:** Bump github.com/gruntwork-io/terratest in /tests ([#4](https://github.com/CloudNationHQ/terraform-azure-nw/issues/4)) ([a5542b5](https://github.com/CloudNationHQ/terraform-azure-nw/commit/a5542b58fe8cc8e4cf47c8d9e877a042f310b605))
 
 ---
+
+**Published at:** 2024-08-06T13:53:36Z
 

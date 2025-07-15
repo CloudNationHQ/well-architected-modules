@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-14
+title: Release Notes for 2025-05-14
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-14"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250514.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-14
-
-## azure-evh
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-05-14T13:54:32Z
-
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v2.4.0...v3.0.0) (2025-05-14)
+## Module: azure-evh
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -33,11 +27,10 @@ folder: release_notes
 
 ---
 
-## azure-rsv
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-14T13:51:51Z
+**Published at:** 2025-05-14T13:54:32Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rsv/compare/v1.6.0...v2.0.0) (2025-05-14)
+## Module: azure-rsv
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -54,4 +47,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-14T13:51:51Z
 

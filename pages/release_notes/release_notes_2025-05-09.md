@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-09
+title: Release Notes for 2025-05-09
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-09"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250509.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-09
-
-## azure-vm
-### v6.2.0 (v6.2.0)
-**Published at:** 2025-05-09T12:44:09Z
-
-## [6.2.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v6.1.0...v6.2.0) (2025-05-09)
+## Module: azure-vm
+## [6.2.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v6.2.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sb
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-09T10:12:57Z
+**Published at:** 2025-05-09T12:44:09Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sb/compare/v1.3.0...v2.0.0) (2025-05-09)
+## Module: azure-sb
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sb/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -46,11 +39,10 @@ folder: release_notes
 
 ---
 
-## azure-appcfg
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-09T10:35:08Z
+**Published at:** 2025-05-09T10:12:57Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/compare/v1.1.1...v2.0.0) (2025-05-09)
+## Module: azure-appcfg
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -71,11 +63,10 @@ folder: release_notes
 
 ---
 
-## azure-mcf
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-05-09T10:33:18Z
+**Published at:** 2025-05-09T10:35:08Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-mcf/compare/v1.0.0...v1.1.0) (2025-05-09)
+## Module: azure-mcf
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-mcf/releases/tag/v1.1.0)
 
 
 ### Features
@@ -84,4 +75,6 @@ folder: release_notes
 * replace deployment test code with module consumption and fix tags property idempotence ([#7](https://github.com/CloudNationHQ/terraform-azure-mcf/issues/7)) ([65fc7e4](https://github.com/CloudNationHQ/terraform-azure-mcf/commit/65fc7e45287bd4c9e689a1b97c133d9252b92f08))
 
 ---
+
+**Published at:** 2025-05-09T10:33:18Z
 

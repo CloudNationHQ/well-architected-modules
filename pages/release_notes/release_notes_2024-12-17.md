@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-12-17
+title: Release Notes for 2024-12-17
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-12-17"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241217.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-12-17
-
-## azure-vnet
-### v8.2.0 (v8.2.0)
-**Published at:** 2024-12-17T21:02:04Z
-
-## [8.2.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.1.2...v8.2.0) (2024-12-17)
+## Module: azure-vnet
+## [8.2.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.2.0)
 
 
 ### Features
@@ -29,4 +23,6 @@ folder: release_notes
 * unsupported attribute on location and resourcegroup ([#123](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/123)) ([45116dc](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/45116dc824a353e46e836b276b08e3ca1c052b2e))
 
 ---
+
+**Published at:** 2024-12-17T21:02:04Z
 

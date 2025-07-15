@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-11
+title: Release Notes for 2025-03-11
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-11"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250311.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-11
-
-## azure-vwan
-### v4.1.0 (v4.1.0)
-**Published at:** 2025-03-11T16:01:10Z
-
-## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v4.0.0...v4.1.0) (2025-03-11)
+## Module: azure-vwan
+## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.1.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v4.0.0 (v4.0.0)
-**Published at:** 2025-03-11T14:28:09Z
+**Published at:** 2025-03-11T16:01:10Z
 
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v3.5.0...v4.0.0) (2025-03-11)
+## Module: azure-vwan
+## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -49,4 +42,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 4.0"`
 
 ---
+
+**Published at:** 2025-03-11T14:28:09Z
 

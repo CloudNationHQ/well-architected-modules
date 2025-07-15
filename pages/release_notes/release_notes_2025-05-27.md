@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-27
+title: Release Notes for 2025-05-27
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-27"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250527.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-27
-
-## azure-vnet
-### v9.1.0 (v9.1.0)
-**Published at:** 2025-05-27T14:58:37Z
-
-## [9.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v9.0.0...v9.1.0) (2025-05-27)
+## Module: azure-vnet
+## [9.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.1.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v9.0.0 (v9.0.0)
-**Published at:** 2025-05-27T14:55:09Z
+**Published at:** 2025-05-27T14:58:37Z
 
-## [9.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.5.0...v9.0.0) (2025-05-27)
+## Module: azure-vnet
+## [9.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -50,11 +43,10 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v2.1.0 (v2.1.0)
-**Published at:** 2025-05-27T14:58:04Z
+**Published at:** 2025-05-27T14:55:09Z
 
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v2.0.0...v2.1.0) (2025-05-27)
+## Module: azure-func
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v2.1.0)
 
 
 ### Features
@@ -63,11 +55,10 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-27T11:17:38Z
+**Published at:** 2025-05-27T14:58:04Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v1.8.1...v2.0.0) (2025-05-27)
+## Module: azure-func
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -88,4 +79,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-27T11:17:38Z
 

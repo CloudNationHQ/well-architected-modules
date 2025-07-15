@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-16
+title: Release Notes for 2024-10-16
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-16"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241016.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-16
-
-## azure-aks
-### v3.4.0 (v3.4.0)
-**Published at:** 2024-10-16T07:29:56Z
-
-## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v3.3.0...v3.4.0) (2024-10-16)
+## Module: azure-aks
+## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.4.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sqlmi
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-10-16T07:30:06Z
+**Published at:** 2024-10-16T07:29:56Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/compare/v1.0.0...v1.1.0) (2024-10-16)
+## Module: azure-sqlmi
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.1.0)
 
 
 ### Features
@@ -37,16 +30,17 @@ folder: release_notes
 
 ---
 
-## azure-sqlmi
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-10-16T07:14:11Z
+**Published at:** 2024-10-16T07:30:06Z
 
+## Module: azure-sqlmi
 ## 1.0.0 (2024-10-16)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-sqlmi/issues/2)) ([330ae4c](https://github.com/CloudNationHQ/terraform-azure-sqlmi/commit/330ae4c0a1876287d07bee00d679ab87a08019d5))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.0.0)) ([330ae4c](https://github.com/CloudNationHQ/terraform-azure-sqlmi/commit/330ae4c0a1876287d07bee00d679ab87a08019d5))
 
 ---
+
+**Published at:** 2024-10-16T07:14:11Z
 

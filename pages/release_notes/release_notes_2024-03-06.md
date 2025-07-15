@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-03-06
+title: Release Notes for 2024-03-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-03-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240306.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-03-06
-
-## azure-sql
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-03-06T15:17:11Z
-
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.4.1...v0.5.0) (2024-03-06)
+## Module: azure-sql
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.5.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sql
-### v0.4.1 (v0.4.1)
-**Published at:** 2024-03-06T13:28:04Z
+**Published at:** 2024-03-06T15:17:11Z
 
-## [0.4.1](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.4.0...v0.4.1) (2024-03-06)
+## Module: azure-sql
+## [0.4.1](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.4.1)
 
 
 ### Bug Fixes
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-sql
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-03-06T10:37:19Z
+**Published at:** 2024-03-06T13:28:04Z
 
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.3.0...v0.4.0) (2024-03-06)
+## Module: azure-sql
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.4.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v0.6.0 (v0.6.0)
-**Published at:** 2024-03-06T13:55:01Z
+**Published at:** 2024-03-06T10:37:19Z
 
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.5.0...v0.6.0) (2024-03-06)
+## Module: azure-aks
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.6.0)
 
 
 ### Features
@@ -63,4 +54,6 @@ folder: release_notes
 * update documentation ([#40](https://github.com/CloudNationHQ/terraform-azure-aks/issues/40)) ([66ed3b5](https://github.com/CloudNationHQ/terraform-azure-aks/commit/66ed3b50bdf0574a9f5ddc032c9768ab902148d6))
 
 ---
+
+**Published at:** 2024-03-06T13:55:01Z
 

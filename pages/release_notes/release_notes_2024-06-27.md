@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-06-27
+title: Release Notes for 2024-06-27
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-06-27"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240627.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-06-27
-
-## azure-ca
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-06-27T08:04:38Z
-
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v0.1.0...v0.2.0) (2024-06-26)
+## Module: azure-ca
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v0.2.0)
 
 
 ### Features
@@ -30,4 +24,6 @@ folder: release_notes
 * fix interpolation syntax at the certificate_blob_base64 property  ([#10](https://github.com/CloudNationHQ/terraform-azure-ca/issues/10)) ([0359eab](https://github.com/CloudNationHQ/terraform-azure-ca/commit/0359eab40edbd5af99e4a965199414e17a4c03ed))
 
 ---
+
+**Published at:** 2024-06-27T08:04:38Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2023-12-18
+title: Release Notes for 2023-12-18
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2023-12-18"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20231218.html
 folder: release_notes
 ---
 
-# Release Notes for 2023-12-18
-
-## azure-aks
-### v0.2.0 (v0.2.0)
-**Published at:** 2023-12-18T10:43:06Z
-
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v0.1.0...v0.2.0) (2023-12-18)
+## Module: azure-aks
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.2.0)
 
 
 ### Features
@@ -24,4 +18,6 @@ folder: release_notes
 * update documentation ([c637bf5](https://github.com/CloudNationHQ/terraform-azure-aks/commit/c637bf5e297c05bbed230257d8b548861c430357))
 
 ---
+
+**Published at:** 2023-12-18T10:43:06Z
 

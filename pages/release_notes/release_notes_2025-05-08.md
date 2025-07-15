@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-08
+title: Release Notes for 2025-05-08
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-08"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250508.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-08
-
-## azure-rg
-### v2.6.0 (v2.6.0)
-**Published at:** 2025-05-08T09:27:56Z
-
-## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v2.5.1...v2.6.0) (2025-05-08)
+## Module: azure-rg
+## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.6.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-kv
-### v4.1.0 (v4.1.0)
-**Published at:** 2025-05-08T13:07:31Z
+**Published at:** 2025-05-08T09:27:56Z
 
-## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v4.0.0...v4.1.0) (2025-05-08)
+## Module: azure-kv
+## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v4.1.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v2.4.0 (v2.4.0)
-**Published at:** 2025-05-08T08:42:31Z
+**Published at:** 2025-05-08T13:07:31Z
 
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v2.3.0...v2.4.0) (2025-05-08)
+## Module: azure-evh
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v2.4.0)
 
 
 ### Features
@@ -53,11 +45,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v2.7.0 (v2.7.0)
-**Published at:** 2025-05-08T08:42:16Z
+**Published at:** 2025-05-08T08:42:31Z
 
-## [2.7.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v2.6.0...v2.7.0) (2025-05-08)
+## Module: azure-aa
+## [2.7.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.7.0)
 
 
 ### Features
@@ -67,11 +58,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v4.0.1 (v4.0.1)
-**Published at:** 2025-05-08T09:27:46Z
+**Published at:** 2025-05-08T08:42:16Z
 
-## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-app/compare/v4.0.0...v4.0.1) (2025-05-08)
+## Module: azure-app
+## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v4.0.1)
 
 
 ### Bug Fixes
@@ -80,11 +70,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v4.0.0 (v4.0.0)
-**Published at:** 2025-05-08T13:09:23Z
+**Published at:** 2025-05-08T09:27:46Z
 
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v3.0.0...v4.0.0) (2025-05-08)
+## Module: azure-pip
+## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v4.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -102,11 +91,10 @@ folder: release_notes
 
 ---
 
-## azure-fw
-### v3.0.0 (v3.0.0)
-**Published at:** 2025-05-08T09:31:03Z
+**Published at:** 2025-05-08T13:09:23Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fw/compare/v2.5.2...v3.0.0) (2025-05-08)
+## Module: azure-fw
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -124,11 +112,10 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-08T09:30:35Z
+**Published at:** 2025-05-08T09:31:03Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-lb/compare/v1.5.0...v2.0.0) (2025-05-08)
+## Module: azure-lb
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -146,11 +133,10 @@ folder: release_notes
 
 ---
 
-## azure-lb
-### v1.5.0 (v1.5.0)
-**Published at:** 2025-05-08T09:24:03Z
+**Published at:** 2025-05-08T09:30:35Z
 
-## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-lb/compare/v1.4.1...v1.5.0) (2025-05-08)
+## Module: azure-lb
+## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.5.0)
 
 
 ### Features
@@ -159,11 +145,10 @@ folder: release_notes
 
 ---
 
-## azure-uai
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-08T10:04:59Z
+**Published at:** 2025-05-08T09:24:03Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-uai/compare/v1.1.1...v2.0.0) (2025-05-08)
+## Module: azure-uai
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-uai/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -181,11 +166,10 @@ folder: release_notes
 
 ---
 
-## azure-ng
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-08T09:28:08Z
+**Published at:** 2025-05-08T10:04:59Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-ng/compare/v1.1.2...v2.0.0) (2025-05-08)
+## Module: azure-ng
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-ng/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -203,11 +187,10 @@ folder: release_notes
 
 ---
 
-## azure-cog
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-08T09:27:23Z
+**Published at:** 2025-05-08T09:28:08Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-cog/compare/v1.1.1...v2.0.0) (2025-05-08)
+## Module: azure-cog
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -224,4 +207,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-08T09:27:23Z
 

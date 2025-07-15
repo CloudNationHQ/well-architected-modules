@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-06
+title: Release Notes for 2025-01-06
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-06"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250106.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-06
-
-## azure-vgw
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-01-06T08:31:27Z
-
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-vgw/compare/v1.2.1...v1.3.0) (2025-01-06)
+## Module: azure-vgw
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v1.3.0)
 
 
 ### Features
@@ -29,11 +23,10 @@ folder: release_notes
 
 ---
 
-## azure-fd
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-01-06T09:38:03Z
+**Published at:** 2025-01-06T08:31:27Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-fd/compare/v1.2.0...v1.3.0) (2025-01-06)
+## Module: azure-fd
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-fd/releases/tag/v1.3.0)
 
 
 ### Features
@@ -44,11 +37,10 @@ folder: release_notes
 
 ---
 
-## azure-eg
-### v1.2.0 (v1.2.0)
-**Published at:** 2025-01-06T15:32:18Z
+**Published at:** 2025-01-06T09:38:03Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v1.1.0...v1.2.0) (2025-01-06)
+## Module: azure-eg
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.2.0)
 
 
 ### Features
@@ -57,4 +49,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#7](https://github.com/CloudNationHQ/terraform-azure-eg/issues/7)) ([e88d9a6](https://github.com/CloudNationHQ/terraform-azure-eg/commit/e88d9a6b94d1e4339c94f020c73e53f0781ecfb1))
 
 ---
+
+**Published at:** 2025-01-06T15:32:18Z
 

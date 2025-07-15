@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-22
+title: Release Notes for 2024-10-22
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-22"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241022.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-22
-
-## azure-naming
-### v0.18.1 (v0.18.1)
-**Published at:** 2024-10-22T07:56:41Z
-
-## [0.18.1](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.18.0...v0.18.1) (2024-10-22)
+## Module: azure-naming
+## [0.18.1](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.18.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-naming
-### v0.18.0 (v0.18.0)
-**Published at:** 2024-10-22T07:16:34Z
+**Published at:** 2024-10-22T07:56:41Z
 
-## [0.18.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.17.1...v0.18.0) (2024-10-22)
+## Module: azure-naming
+## [0.18.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.18.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-rbac
-### v2.0.0 (v2.0.0)
-**Published at:** 2024-10-22T08:51:37Z
+**Published at:** 2024-10-22T07:16:34Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rbac/compare/v1.1.0...v2.0.0) (2024-10-22)
+## Module: azure-rbac
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -54,16 +46,17 @@ folder: release_notes
 
 ---
 
-## azure-fdfwp
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-10-22T14:05:55Z
+**Published at:** 2024-10-22T08:51:37Z
 
+## Module: azure-fdfwp
 ## 1.0.0 (2024-10-22)
 
 
 ### Features
 
-* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/1)) ([547f27f](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/547f27f5b955ebc71cf3f4ab0851899478a623b5))
+* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.0.0)) ([547f27f](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/547f27f5b955ebc71cf3f4ab0851899478a623b5))
 
 ---
+
+**Published at:** 2024-10-22T14:05:55Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-02
+title: Release Notes for 2024-09-02
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-02"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240902.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-02
-
-## azure-evh
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-09-02T05:38:47Z
-
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v1.0.0...v1.1.0) (2024-09-02)
+## Module: azure-evh
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v1.1.0)
 
 
 ### Features
@@ -25,16 +19,17 @@ folder: release_notes
 
 ---
 
-## azure-redis
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-09-02T07:12:19Z
+**Published at:** 2024-09-02T05:38:47Z
 
+## Module: azure-redis
 ## 1.0.0 (2024-09-02)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-redis/issues/2)) ([6fdacfc](https://github.com/CloudNationHQ/terraform-azure-redis/commit/6fdacfc507320e5bbc8d245ca55edd30128a1b10))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v1.0.0)) ([6fdacfc](https://github.com/CloudNationHQ/terraform-azure-redis/commit/6fdacfc507320e5bbc8d245ca55edd30128a1b10))
 
 ---
+
+**Published at:** 2024-09-02T07:12:19Z
 

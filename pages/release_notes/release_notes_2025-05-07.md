@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-07
+title: Release Notes for 2025-05-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-07"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250507.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-07
-
-## azure-sa
-### v4.0.0 (v4.0.0)
-**Published at:** 2025-05-07T12:09:58Z
-
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.7.1...v4.0.0) (2025-05-07)
+## Module: azure-sa
+## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v4.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -35,11 +29,10 @@ folder: release_notes
 
 ---
 
-## azure-sql
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-07T07:19:30Z
+**Published at:** 2025-05-07T12:09:58Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v1.5.0...v2.0.0) (2025-05-07)
+## Module: azure-sql
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -59,11 +52,10 @@ folder: release_notes
 
 ---
 
-## azure-ca
-### v3.2.0 (v3.2.0)
-**Published at:** 2025-05-07T12:17:08Z
+**Published at:** 2025-05-07T07:19:30Z
 
-## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v3.1.0...v3.2.0) (2025-05-07)
+## Module: azure-ca
+## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v3.2.0)
 
 
 ### Features
@@ -75,11 +67,10 @@ folder: release_notes
 
 ---
 
-## azure-mysql
-### v3.1.0 (v3.1.0)
-**Published at:** 2025-05-07T12:32:31Z
+**Published at:** 2025-05-07T12:17:08Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v3.0.0...v3.1.0) (2025-05-07)
+## Module: azure-mysql
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v3.1.0)
 
 
 ### Features
@@ -88,11 +79,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v4.0.0 (v4.0.0)
-**Published at:** 2025-05-07T14:28:17Z
+**Published at:** 2025-05-07T12:32:31Z
 
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v3.1.1...v4.0.0) (2025-05-07)
+## Module: azure-app
+## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v4.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -109,4 +99,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-07T14:28:17Z
 

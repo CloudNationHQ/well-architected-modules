@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-19
+title: Release Notes for 2025-03-19
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-19"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250319.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-19
-
-## azure-naming
-### v0.24.1 (v0.24.1)
-**Published at:** 2025-03-19T09:12:32Z
-
-## [0.24.1](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.24.0...v0.24.1) (2025-03-19)
+## Module: azure-naming
+## [0.24.1](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.24.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v1.6.0 (v1.6.0)
-**Published at:** 2025-03-19T14:35:20Z
+**Published at:** 2025-03-19T09:12:32Z
 
-## [1.6.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v1.5.0...v1.6.0) (2025-03-19)
+## Module: azure-func
+## [1.6.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.6.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-alerts
-### v1.2.0 (v1.2.0)
-**Published at:** 2025-03-19T18:03:38Z
+**Published at:** 2025-03-19T14:35:20Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-alerts/compare/v1.1.0...v1.2.0) (2025-03-19)
+## Module: azure-alerts
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.2.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-costs
-### v1.3.0 (v1.3.0)
-**Published at:** 2025-03-19T14:46:55Z
+**Published at:** 2025-03-19T18:03:38Z
 
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-costs/compare/v1.2.1...v1.3.0) (2025-03-19)
+## Module: azure-costs
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.3.0)
 
 
 ### Features
@@ -62,4 +53,6 @@ folder: release_notes
 * format documentation to include type definitions ([#13](https://github.com/CloudNationHQ/terraform-azure-costs/issues/13)) ([52a571b](https://github.com/CloudNationHQ/terraform-azure-costs/commit/52a571b5cd0a3e48f3ca402b63ace2b69e4cd8cc))
 
 ---
+
+**Published at:** 2025-03-19T14:46:55Z
 

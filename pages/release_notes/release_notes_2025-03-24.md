@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-24
+title: Release Notes for 2025-03-24
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-24"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250324.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-24
-
-## azure-sa
-### v3.4.0 (v3.4.0)
-**Published at:** 2025-03-24T12:51:03Z
-
-## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.3.1...v3.4.0) (2025-03-24)
+## Module: azure-sa
+## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.4.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-fw
-### v2.5.1 (v2.5.1)
-**Published at:** 2025-03-24T15:54:18Z
+**Published at:** 2025-03-24T12:51:03Z
 
-## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-fw/compare/v2.5.0...v2.5.1) (2025-03-24)
+## Module: azure-fw
+## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.5.1)
 
 
 ### Bug Fixes
@@ -38,11 +31,10 @@ folder: release_notes
 
 ---
 
-## azure-fw
-### v2.5.0 (v2.5.0)
-**Published at:** 2025-03-24T15:15:03Z
+**Published at:** 2025-03-24T15:54:18Z
 
-## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-fw/compare/v2.4.0...v2.5.0) (2025-03-24)
+## Module: azure-fw
+## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.5.0)
 
 
 ### Features
@@ -51,4 +43,6 @@ folder: release_notes
 * format documentation to include type definitions ([#31](https://github.com/CloudNationHQ/terraform-azure-fw/issues/31)) ([751d735](https://github.com/CloudNationHQ/terraform-azure-fw/commit/751d7355a6b13279508af6423ba01a5d2f2039d9))
 
 ---
+
+**Published at:** 2025-03-24T15:15:03Z
 

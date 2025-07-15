@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-10
+title: Release Notes for 2024-10-10
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-10"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241010.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-10
-
-## azure-vnet
-### v6.0.0 (v6.0.0)
-**Published at:** 2024-10-10T10:44:12Z
-
-## [6.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v5.0.1...v6.0.0) (2024-10-10)
+## Module: azure-vnet
+## [6.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v6.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -35,11 +29,10 @@ folder: release_notes
 
 ---
 
-## azure-vnet
-### v5.0.1 (v5.0.1)
-**Published at:** 2024-10-10T08:27:43Z
+**Published at:** 2024-10-10T10:44:12Z
 
-## [5.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v5.0.0...v5.0.1) (2024-10-10)
+## Module: azure-vnet
+## [5.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v5.0.1)
 
 
 ### Bug Fixes
@@ -47,4 +40,6 @@ folder: release_notes
 * fix vnet dependency order for proper destruction ([#90](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/90)) ([e07d0df](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/e07d0df24e573ec6971bc5d1aeefa54c1973aab6))
 
 ---
+
+**Published at:** 2024-10-10T08:27:43Z
 

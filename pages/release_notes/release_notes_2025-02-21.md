@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-02-21
+title: Release Notes for 2025-02-21
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-02-21"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250221.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-02-21
-
-## azure-pdns
-### v3.4.0 (v3.4.0)
-**Published at:** 2025-02-21T16:17:53Z
-
-## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v3.3.0...v3.4.0) (2025-02-21)
+## Module: azure-pdns
+## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v3.4.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-vgw
-### v1.4.0 (v1.4.0)
-**Published at:** 2025-02-21T16:15:06Z
+**Published at:** 2025-02-21T16:17:53Z
 
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-vgw/compare/v1.3.0...v1.4.0) (2025-02-21)
+## Module: azure-vgw
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v1.4.0)
 
 
 ### Features
@@ -39,11 +32,10 @@ folder: release_notes
 
 ---
 
-## azure-mag
-### v2.4.0 (v2.4.0)
-**Published at:** 2025-02-21T16:11:28Z
+**Published at:** 2025-02-21T16:15:06Z
 
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-mag/compare/v2.3.0...v2.4.0) (2025-02-21)
+## Module: azure-mag
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.4.0)
 
 
 ### Features
@@ -52,4 +44,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#19](https://github.com/CloudNationHQ/terraform-azure-mag/issues/19)) ([44674c1](https://github.com/CloudNationHQ/terraform-azure-mag/commit/44674c18ef7e864da05f218a499d30e257bd1105))
 
 ---
+
+**Published at:** 2025-02-21T16:11:28Z
 

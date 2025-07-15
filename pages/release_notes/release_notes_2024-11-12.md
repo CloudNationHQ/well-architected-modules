@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-11-12
+title: Release Notes for 2024-11-12
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-11-12"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241112.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-11-12
-
-## azure-kv
-### v2.2.1 (v2.2.1)
-**Published at:** 2024-11-12T14:20:09Z
-
-## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v2.2.0...v2.2.1) (2024-11-12)
+## Module: azure-kv
+## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.2.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v2.2.0 (v2.2.0)
-**Published at:** 2024-11-12T08:23:09Z
+**Published at:** 2024-11-12T14:20:09Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v2.1.0...v2.2.0) (2024-11-12)
+## Module: azure-cosmosdb
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.2.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v2.3.0 (v2.3.0)
-**Published at:** 2024-11-12T08:22:48Z
+**Published at:** 2024-11-12T08:23:09Z
 
-## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v2.2.0...v2.3.0) (2024-11-12)
+## Module: azure-bastion
+## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.3.0)
 
 
 ### Features
@@ -50,11 +42,10 @@ folder: release_notes
 
 ---
 
-## azure-mysql
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-11-12T08:12:54Z
+**Published at:** 2024-11-12T08:22:48Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-mysql/compare/v1.0.0...v1.1.0) (2024-11-12)
+## Module: azure-mysql
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v1.1.0)
 
 
 ### Features
@@ -63,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-dnspr
-### v2.2.0 (v2.2.0)
-**Published at:** 2024-11-12T08:12:32Z
+**Published at:** 2024-11-12T08:12:54Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/compare/v2.1.0...v2.2.0) (2024-11-12)
+## Module: azure-dnspr
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.2.0)
 
 
 ### Features
@@ -76,11 +66,10 @@ folder: release_notes
 
 ---
 
-## azure-redis
-### v2.2.0 (v2.2.0)
-**Published at:** 2024-11-12T08:13:10Z
+**Published at:** 2024-11-12T08:12:32Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-redis/compare/v2.1.0...v2.2.0) (2024-11-12)
+## Module: azure-redis
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v2.2.0)
 
 
 ### Features
@@ -89,11 +78,10 @@ folder: release_notes
 
 ---
 
-## azure-sqlmi
-### v1.2.0 (v1.2.0)
-**Published at:** 2024-11-12T08:22:32Z
+**Published at:** 2024-11-12T08:13:10Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/compare/v1.1.1...v1.2.0) (2024-11-12)
+## Module: azure-sqlmi
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.2.0)
 
 
 ### Features
@@ -102,11 +90,10 @@ folder: release_notes
 
 ---
 
-## azure-fdfwp
-### v1.2.0 (v1.2.0)
-**Published at:** 2024-11-12T14:19:57Z
+**Published at:** 2024-11-12T08:22:32Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/compare/v1.1.0...v1.2.0) (2024-11-12)
+## Module: azure-fdfwp
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.2.0)
 
 
 ### Features
@@ -115,11 +102,10 @@ folder: release_notes
 
 ---
 
-## azure-fdfwp
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-11-12T08:12:42Z
+**Published at:** 2024-11-12T14:19:57Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/compare/v1.0.1...v1.1.0) (2024-11-12)
+## Module: azure-fdfwp
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.1.0)
 
 
 ### Features
@@ -128,11 +114,10 @@ folder: release_notes
 
 ---
 
-## azure-costs
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-11-12T08:12:19Z
+**Published at:** 2024-11-12T08:12:42Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-costs/compare/v1.0.0...v1.1.0) (2024-11-12)
+## Module: azure-costs
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.1.0)
 
 
 ### Features
@@ -140,4 +125,6 @@ folder: release_notes
 * enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#3](https://github.com/CloudNationHQ/terraform-azure-costs/issues/3)) ([6b51574](https://github.com/CloudNationHQ/terraform-azure-costs/commit/6b5157404b5177c7ba5ae5785e13271ed564bf22))
 
 ---
+
+**Published at:** 2024-11-12T08:12:19Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-07
+title: Release Notes for 2024-10-07
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-07"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241007.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-07
-
-## azure-aks
-### v3.1.1 (v3.1.1)
-**Published at:** 2024-10-07T08:54:02Z
-
-## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v3.1.0...v3.1.1) (2024-10-07)
+## Module: azure-aks
+## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.1.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-aks
-### v3.1.0 (v3.1.0)
-**Published at:** 2024-10-07T08:28:46Z
+**Published at:** 2024-10-07T08:54:02Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-aks/compare/v3.0.0...v3.1.0) (2024-10-07)
+## Module: azure-aks
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.1.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v2.0.0 (v2.0.0)
-**Published at:** 2024-10-07T13:00:03Z
+**Published at:** 2024-10-07T08:28:46Z
 
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v1.2.0...v2.0.0) (2024-10-07)
+## Module: azure-app
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -62,11 +54,10 @@ folder: release_notes
 
 ---
 
-## azure-app
-### v1.2.0 (v1.2.0)
-**Published at:** 2024-10-07T07:09:03Z
+**Published at:** 2024-10-07T13:00:03Z
 
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-app/compare/v1.1.1...v1.2.0) (2024-10-07)
+## Module: azure-app
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.2.0)
 
 
 ### Features
@@ -79,4 +70,6 @@ folder: release_notes
 * sanitize go testing ([#8](https://github.com/CloudNationHQ/terraform-azure-app/issues/8)) ([f508150](https://github.com/CloudNationHQ/terraform-azure-app/commit/f508150220264f323bffcb43d1f00c4a9a51741a))
 
 ---
+
+**Published at:** 2024-10-07T07:09:03Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-04-24
+title: Release Notes for 2025-04-24
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-04-24"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250424.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-04-24
-
-## azure-vm
-### v6.1.0 (v6.1.0)
-**Published at:** 2025-04-24T13:06:34Z
-
-## [6.1.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v6.0.0...v6.1.0) (2025-04-24)
+## Module: azure-vm
+## [6.1.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v6.1.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v6.0.0 (v6.0.0)
-**Published at:** 2025-04-24T12:55:15Z
+**Published at:** 2025-04-24T13:06:34Z
 
-## [6.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v5.2.0...v6.0.0) (2025-04-24)
+## Module: azure-vm
+## [6.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v6.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -50,4 +43,6 @@ folder: release_notes
 - The structure changed abit when ssh keys or passwords are generated within the module itself as shown in the examples.
 
 ---
+
+**Published at:** 2025-04-24T12:55:15Z
 

@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-03-25
+title: Release Notes for 2025-03-25
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-03-25"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250325.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-03-25
-
-## azure-cosmosdb
-### v3.6.0 (v3.6.0)
-**Published at:** 2025-03-25T14:51:51Z
-
-## [3.6.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v3.5.0...v3.6.0) (2025-03-25)
+## Module: azure-cosmosdb
+## [3.6.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.6.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-cosmosdb
-### v3.5.0 (v3.5.0)
-**Published at:** 2025-03-25T08:48:46Z
+**Published at:** 2025-03-25T14:51:51Z
 
-## [3.5.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/compare/v3.4.0...v3.5.0) (2025-03-25)
+## Module: azure-cosmosdb
+## [3.5.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.5.0)
 
 
 ### Features
@@ -41,4 +34,6 @@ folder: release_notes
 * fix spatial index issues on cosmosdb sql containers ([#87](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/87)) ([82bbf9f](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/82bbf9f0f4e788a6caedf2d3c0b9b6863eb45eb8))
 
 ---
+
+**Published at:** 2025-03-25T08:48:46Z
 

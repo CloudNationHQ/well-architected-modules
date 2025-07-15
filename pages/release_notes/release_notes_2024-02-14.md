@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-02-14
+title: Release Notes for 2024-02-14
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-02-14"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240214.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-02-14
-
-## azure-bastion
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-02-14T10:49:48Z
-
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v0.3.0...v0.4.0) (2024-02-14)
+## Module: azure-bastion
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.4.0)
 
 
 ### Features
@@ -25,11 +19,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v0.7.0 (v0.7.0)
-**Published at:** 2024-02-14T18:23:26Z
+**Published at:** 2024-02-14T10:49:48Z
 
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v0.6.1...v0.7.0) (2024-02-14)
+## Module: azure-vwan
+## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.7.0)
 
 
 ### Features
@@ -38,11 +31,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v0.6.1 (v0.6.1)
-**Published at:** 2024-02-14T09:34:53Z
+**Published at:** 2024-02-14T18:23:26Z
 
-## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v0.6.0...v0.6.1) (2024-02-14)
+## Module: azure-vwan
+## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.6.1)
 
 
 ### Bug Fixes
@@ -50,4 +42,6 @@ folder: release_notes
 * fix conditional expression rule collection names ([#22](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/22)) ([4adbd1a](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/4adbd1a249a5472c8997a01b88efc86780fa1442))
 
 ---
+
+**Published at:** 2024-02-14T09:34:53Z
 

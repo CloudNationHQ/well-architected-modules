@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-21
+title: Release Notes for 2025-01-21
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-21"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250121.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-21
-
-## azure-rg
-### v2.3.0 (v2.3.0)
-**Published at:** 2025-01-21T09:28:32Z
-
-## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-rg/compare/v2.2.0...v2.3.0) (2025-01-21)
+## Module: azure-rg
+## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.3.0)
 
 
 ### Features
@@ -27,11 +21,10 @@ folder: release_notes
 
 ---
 
-## azure-rbac
-### v2.2.0 (v2.2.0)
-**Published at:** 2025-01-21T09:40:47Z
+**Published at:** 2025-01-21T09:28:32Z
 
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-rbac/compare/v2.1.0...v2.2.0) (2025-01-21)
+## Module: azure-rbac
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v2.2.0)
 
 
 ### Features
@@ -42,11 +35,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v1.4.2 (v1.4.2)
-**Published at:** 2025-01-21T08:56:12Z
+**Published at:** 2025-01-21T09:40:47Z
 
-## [1.4.2](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.4.1...v1.4.2) (2025-01-21)
+## Module: azure-pe
+## [1.4.2](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.2)
 
 
 ### Bug Fixes
@@ -55,11 +47,10 @@ folder: release_notes
 
 ---
 
-## azure-func
-### v1.4.0 (v1.4.0)
-**Published at:** 2025-01-21T09:49:18Z
+**Published at:** 2025-01-21T08:56:12Z
 
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-func/compare/v1.3.0...v1.4.0) (2025-01-21)
+## Module: azure-func
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.4.0)
 
 
 ### Features
@@ -68,11 +59,10 @@ folder: release_notes
 
 ---
 
-## azure-alerts
-### v1.1.0 (v1.1.0)
-**Published at:** 2025-01-21T09:48:42Z
+**Published at:** 2025-01-21T09:49:18Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-alerts/compare/v1.0.1...v1.1.0) (2025-01-21)
+## Module: azure-alerts
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.1.0)
 
 
 ### Features
@@ -80,4 +70,6 @@ folder: release_notes
 * small refactor tests ([#7](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/7)) ([56b82c4](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/56b82c4adcd948012e0c808066f54f5af9e4fee0))
 
 ---
+
+**Published at:** 2025-01-21T09:48:42Z
 

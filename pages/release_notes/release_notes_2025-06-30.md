@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-06-30
+title: Release Notes for 2025-06-30
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-06-30"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250630.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-06-30
-
-## azure-psql
-### v4.0.0 (v4.0.0)
-**Published at:** 2025-06-30T11:59:36Z
-
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/compare/v3.2.0...v4.0.0) (2025-06-30)
+## Module: azure-psql
+## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v4.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -30,11 +24,10 @@ folder: release_notes
 
 ---
 
-## azure-eg
-### v2.2.1 (v2.2.1)
-**Published at:** 2025-06-30T14:51:18Z
+**Published at:** 2025-06-30T11:59:36Z
 
-## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v2.2.0...v2.2.1) (2025-06-30)
+## Module: azure-eg
+## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v2.2.1)
 
 
 ### Bug Fixes
@@ -42,4 +35,6 @@ folder: release_notes
 * add missing properties, including azure_function_endpoint ([#35](https://github.com/CloudNationHQ/terraform-azure-eg/issues/35)) ([d821a40](https://github.com/CloudNationHQ/terraform-azure-eg/commit/d821a4099637939840a017c4edb670e5c7df2c13))
 
 ---
+
+**Published at:** 2025-06-30T14:51:18Z
 

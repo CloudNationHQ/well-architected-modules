@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-12
+title: Release Notes for 2025-05-12
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-12"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250512.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-12
-
-## azure-eg
-### v2.0.0 (v2.0.0)
-**Published at:** 2025-05-12T13:38:40Z
-
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-eg/compare/v1.5.0...v2.0.0) (2025-05-12)
+## Module: azure-eg
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v2.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -32,4 +26,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
+
+**Published at:** 2025-05-12T13:38:40Z
 

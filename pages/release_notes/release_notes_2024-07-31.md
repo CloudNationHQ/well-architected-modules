@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-07-31
+title: Release Notes for 2024-07-31
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-07-31"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240731.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-07-31
-
-## azure-law
-### v0.9.0 (v0.9.0)
-**Published at:** 2024-07-31T12:30:55Z
-
-## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-law/compare/v0.8.0...v0.9.0) (2024-07-31)
+## Module: azure-law
+## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.9.0)
 
 
 ### Features
@@ -31,11 +25,10 @@ folder: release_notes
 
 ---
 
-## azure-evh
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-07-31T10:22:56Z
+**Published at:** 2024-07-31T12:30:55Z
 
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-evh/compare/v0.4.0...v0.5.0) (2024-07-31)
+## Module: azure-evh
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v0.5.0)
 
 
 ### Features
@@ -46,11 +39,10 @@ folder: release_notes
 
 ---
 
-## azure-pdns
-### v0.5.0 (v0.5.0)
-**Published at:** 2024-07-31T10:23:11Z
+**Published at:** 2024-07-31T10:22:56Z
 
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-pdns/compare/v0.4.0...v0.5.0) (2024-07-31)
+## Module: azure-pdns
+## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v0.5.0)
 
 
 ### Features
@@ -59,4 +51,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#20](https://github.com/CloudNationHQ/terraform-azure-pdns/issues/20)) ([f82ed83](https://github.com/CloudNationHQ/terraform-azure-pdns/commit/f82ed839adebb30eabbc752a928fb3bc53b59318))
 
 ---
+
+**Published at:** 2024-07-31T10:23:11Z
 

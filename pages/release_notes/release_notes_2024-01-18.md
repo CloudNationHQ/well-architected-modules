@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-01-18
+title: Release Notes for 2024-01-18
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-01-18"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240118.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-01-18
-
-## azure-sql
-### v0.2.0 (v0.2.0)
-**Published at:** 2024-01-18T15:25:02Z
-
-## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-sql/compare/v0.1.1...v0.2.0) (2024-01-18)
+## Module: azure-sql
+## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.2.0)
 
 
 ### Features
@@ -26,4 +20,6 @@ folder: release_notes
 * small refactor workflows ([a775cfe](https://github.com/CloudNationHQ/terraform-azure-sql/commit/a775cfec2749d2c4a7a049af452ba196049435a7))
 
 ---
+
+**Published at:** 2024-01-18T15:25:02Z
 

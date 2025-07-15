@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-01-30
+title: Release Notes for 2025-01-30
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-01-30"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250130.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-01-30
-
-## azure-vnet
-### v8.4.1 (v8.4.1)
-**Published at:** 2025-01-30T07:58:19Z
-
-## [8.4.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.4.0...v8.4.1) (2025-01-30)
+## Module: azure-vnet
+## [8.4.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.4.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-sa
-### v3.3.0 (v3.3.0)
-**Published at:** 2025-01-30T12:04:27Z
+**Published at:** 2025-01-30T07:58:19Z
 
-## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-sa/compare/v3.2.2...v3.3.0) (2025-01-30)
+## Module: azure-sa
+## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.3.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-pe
-### v1.4.4 (v1.4.4)
-**Published at:** 2025-01-30T07:58:04Z
+**Published at:** 2025-01-30T12:04:27Z
 
-## [1.4.4](https://github.com/CloudNationHQ/terraform-azure-pe/compare/v1.4.3...v1.4.4) (2025-01-30)
+## Module: azure-pe
+## [1.4.4](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.4)
 
 
 ### Bug Fixes
@@ -49,4 +41,6 @@ folder: release_notes
 * make subresource names property optional ([#40](https://github.com/CloudNationHQ/terraform-azure-pe/issues/40)) ([dd63dac](https://github.com/CloudNationHQ/terraform-azure-pe/commit/dd63dacb688a3fbebe3b209d1ed81bc50e9e3833))
 
 ---
+
+**Published at:** 2025-01-30T07:58:04Z
 

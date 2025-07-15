@@ -1,21 +1,15 @@
 ---
-title: Releases for 2025-05-23
+title: Release Notes for 2025-05-23
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2025-05-23"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20250523.html
 folder: release_notes
 ---
 
-# Release Notes for 2025-05-23
-
-## azure-vwan
-### v4.4.1 (v4.4.1)
-**Published at:** 2025-05-23T11:52:40Z
-
-## [4.4.1](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v4.4.0...v4.4.1) (2025-05-23)
+## Module: azure-vwan
+## [4.4.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.4.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-pip
-### v4.1.0 (v4.1.0)
-**Published at:** 2025-05-23T09:37:24Z
+**Published at:** 2025-05-23T11:52:40Z
 
-## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/compare/v4.0.0...v4.1.0) (2025-05-23)
+## Module: azure-pip
+## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v4.1.0)
 
 
 ### Features
@@ -37,4 +30,6 @@ folder: release_notes
 * implement flexible resource naming ([#43](https://github.com/CloudNationHQ/terraform-azure-pip/issues/43)) ([94c59b0](https://github.com/CloudNationHQ/terraform-azure-pip/commit/94c59b0e0fcc4f3acdd05c11e670d3b5e29617c8))
 
 ---
+
+**Published at:** 2025-05-23T09:37:24Z
 

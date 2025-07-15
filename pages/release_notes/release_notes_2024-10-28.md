@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-10-28
+title: Release Notes for 2024-10-28
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-10-28"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241028.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-10-28
-
-## azure-vnet
-### v7.0.1 (v7.0.1)
-**Published at:** 2024-10-28T08:01:47Z
-
-## [7.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v7.0.0...v7.0.1) (2024-10-28)
+## Module: azure-vnet
+## [7.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v7.0.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v3.1.0 (v3.1.0)
-**Published at:** 2024-10-28T14:24:00Z
+**Published at:** 2024-10-28T08:01:47Z
 
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v3.0.0...v3.1.0) (2024-10-28)
+## Module: azure-vwan
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.1.0)
 
 
 ### Features
@@ -38,11 +31,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-10-28T13:38:28Z
+**Published at:** 2024-10-28T14:24:00Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v2.1.0...v3.0.0) (2024-10-28)
+## Module: azure-vwan
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -61,11 +53,10 @@ folder: release_notes
 
 ---
 
-## azure-alerts
-### v1.0.1 (v1.0.1)
-**Published at:** 2024-10-28T13:07:01Z
+**Published at:** 2024-10-28T13:38:28Z
 
-## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-alerts/compare/v1.0.0...v1.0.1) (2024-10-28)
+## Module: azure-alerts
+## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.0.1)
 
 
 ### Bug Fixes
@@ -73,4 +64,6 @@ folder: release_notes
 * removed the provider in modules([#5](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/5)) ([2300953](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/2300953d7c895e61a6e0f3a91b5b786c87c9d715))
 
 ---
+
+**Published at:** 2024-10-28T13:07:01Z
 

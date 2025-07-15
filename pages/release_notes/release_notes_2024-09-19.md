@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-09-19
+title: Release Notes for 2024-09-19
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-09-19"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20240919.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-09-19
-
-## azure-naming
-### v0.15.0 (v0.15.0)
-**Published at:** 2024-09-19T08:14:31Z
-
-## [0.15.0](https://github.com/CloudNationHQ/terraform-azure-naming/compare/v0.14.0...v0.15.0) (2024-09-19)
+## Module: azure-naming
+## [0.15.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.15.0)
 
 
 ### Features
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-vwan
-### v1.1.0 (v1.1.0)
-**Published at:** 2024-09-19T10:45:01Z
+**Published at:** 2024-09-19T08:14:31Z
 
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/compare/v1.0.0...v1.1.0) (2024-09-19)
+## Module: azure-vwan
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v1.1.0)
 
 
 ### Features
@@ -37,11 +30,10 @@ folder: release_notes
 
 ---
 
-## azure-aa
-### v0.4.0 (v0.4.0)
-**Published at:** 2024-09-19T15:23:44Z
+**Published at:** 2024-09-19T10:45:01Z
 
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-aa/compare/v0.3.0...v0.4.0) (2024-09-19)
+## Module: azure-aa
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.4.0)
 
 
 ### Features
@@ -50,4 +42,6 @@ folder: release_notes
 * refactor automation variables to integrate type detection logic and simplified tests ([#13](https://github.com/CloudNationHQ/terraform-azure-aa/issues/13)) ([40b10cd](https://github.com/CloudNationHQ/terraform-azure-aa/commit/40b10cd6177be3238634cf4f1b615b2c449e8748))
 
 ---
+
+**Published at:** 2024-09-19T15:23:44Z
 

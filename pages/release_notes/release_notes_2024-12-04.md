@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-12-04
+title: Release Notes for 2024-12-04
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-12-04"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241204.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-12-04
-
-## azure-kv
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-12-04T12:41:40Z
-
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/compare/v2.2.1...v3.0.0) (2024-12-04)
+## Module: azure-kv
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -32,11 +26,10 @@ folder: release_notes
 
 ---
 
-## azure-vm
-### v4.3.1 (v4.3.1)
-**Published at:** 2024-12-04T11:42:11Z
+**Published at:** 2024-12-04T12:41:40Z
 
-## [4.3.1](https://github.com/CloudNationHQ/terraform-azure-vm/compare/v4.3.0...v4.3.1) (2024-12-04)
+## Module: azure-vm
+## [4.3.1](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.3.1)
 
 
 ### Bug Fixes
@@ -45,11 +38,10 @@ folder: release_notes
 
 ---
 
-## azure-ca
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-12-04T10:28:56Z
+**Published at:** 2024-12-04T11:42:11Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/compare/v2.1.1...v3.0.0) (2024-12-04)
+## Module: azure-ca
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -61,4 +53,6 @@ folder: release_notes
 * support multiple authentication blocks in jobs ([#47](https://github.com/CloudNationHQ/terraform-azure-ca/issues/47)) ([ac57e78](https://github.com/CloudNationHQ/terraform-azure-ca/commit/ac57e78538e9ae63f40e76a4f44123c39509b702))
 
 ---
+
+**Published at:** 2024-12-04T10:28:56Z
 

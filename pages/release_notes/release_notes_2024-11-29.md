@@ -1,21 +1,15 @@
 ---
-title: Releases for 2024-11-29
+title: Release Notes for 2024-11-29
 tags: [releases]
 keywords: release notes, announcements, what's new, new features
-last_updated: Jul 14, 2025
-summary: "Releases of the Terraform Well Architected Modules 2024-11-29"
+summary: "Releases of the Terraform Well Architected Modules"
 sidebar: mydoc_sidebar
 permalink: release_notes_20241129.html
 folder: release_notes
 ---
 
-# Release Notes for 2024-11-29
-
-## azure-vnet
-### v8.1.1 (v8.1.1)
-**Published at:** 2024-11-29T11:02:58Z
-
-## [8.1.1](https://github.com/CloudNationHQ/terraform-azure-vnet/compare/v8.1.0...v8.1.1) (2024-11-29)
+## Module: azure-vnet
+## [8.1.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v8.1.1)
 
 
 ### Bug Fixes
@@ -24,11 +18,10 @@ folder: release_notes
 
 ---
 
-## azure-bastion
-### v3.0.0 (v3.0.0)
-**Published at:** 2024-11-29T12:54:23Z
+**Published at:** 2024-11-29T11:02:58Z
 
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-bastion/compare/v2.4.0...v3.0.0) (2024-11-29)
+## Module: azure-bastion
+## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v3.0.0)
 
 
 ### ⚠ BREAKING CHANGES
@@ -46,16 +39,17 @@ folder: release_notes
 
 ---
 
-## azure-agw
-### v1.0.0 (v1.0.0)
-**Published at:** 2024-11-29T08:19:40Z
+**Published at:** 2024-11-29T12:54:23Z
 
+## Module: azure-agw
 ## 1.0.0 (2024-11-29)
 
 
 ### Features
 
-* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-agw/issues/2)) ([6feea34](https://github.com/CloudNationHQ/terraform-azure-agw/commit/6feea3497af35a044464df5424c7dd3ccdbcbc07))
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.0.0)) ([6feea34](https://github.com/CloudNationHQ/terraform-azure-agw/commit/6feea3497af35a044464df5424c7dd3ccdbcbc07))
 
 ---
+
+**Published at:** 2024-11-29T08:19:40Z
 
