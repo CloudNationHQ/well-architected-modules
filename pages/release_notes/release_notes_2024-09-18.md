@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-18T07:47:58Z
-
 ## Module: azure-vwan
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v1.0.0)
 
@@ -53,8 +51,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-18T08:01:31Z
-
 ## Module: azure-fw
 ## [1.0.3](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v1.0.3)
 
@@ -64,6 +60,4 @@ folder: release_notes
 * add public ip addresses output ([#10](https://github.com/CloudNationHQ/terraform-azure-fw/issues/10)) ([741fdc9](https://github.com/CloudNationHQ/terraform-azure-fw/commit/741fdc923c06c0ff2324eded82740e8a9dfc6f93))
 
 ---
-
-**Published at:** 2024-09-18T13:14:05Z
 

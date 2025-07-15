@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2023-12-19T07:55:54Z
-
 ## Module: azure-kv
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.3.0)
 
@@ -38,6 +36,4 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#11](https://github.com/CloudNationHQ/terraform-azure-kv/issues/11)) ([a928a38](https://github.com/CloudNationHQ/terraform-azure-kv/commit/a928a382482ae332392bc4f4fbfb185753f0b63f))
 
 ---
-
-**Published at:** 2023-12-19T07:45:01Z
 

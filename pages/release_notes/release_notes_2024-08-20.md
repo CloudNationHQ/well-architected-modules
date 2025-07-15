@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-20T06:27:18Z
-
 ## Module: azure-sa
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v1.1.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * make identity fully optional ([#106](https://github.com/CloudNationHQ/terraform-azure-sa/issues/106)) ([d77dfc4](https://github.com/CloudNationHQ/terraform-azure-sa/commit/d77dfc4f77c776213c7a6ed09622dba61e07745b))
 
 ---
-
-**Published at:** 2024-08-20T06:16:19Z
 
 ## Module: azure-aks
 ## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.12.0)
@@ -42,6 +38,4 @@ folder: release_notes
 * update contribution docs ([#80](https://github.com/CloudNationHQ/terraform-azure-aks/issues/80)) ([22734ee](https://github.com/CloudNationHQ/terraform-azure-aks/commit/22734ee710b1dcb7f985fb7fba031620c7b50247))
 
 ---
-
-**Published at:** 2024-08-20T12:58:55Z
 

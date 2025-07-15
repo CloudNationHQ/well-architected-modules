@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-02-23T10:40:28Z
-
 ## Module: azure-evh
 ## 0.1.0 (2024-02-23)
 
@@ -31,6 +29,4 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#3](https://github.com/CloudNationHQ/terraform-azure-evh/issues/3)) ([27d9631](https://github.com/CloudNationHQ/terraform-azure-evh/commit/27d963130d155144c96fede1609e1a87dcbe5ed4))
 
 ---
-
-**Published at:** 2024-02-23T09:13:00Z
 

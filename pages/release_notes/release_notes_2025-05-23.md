@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-23T11:52:40Z
-
 ## Module: azure-pip
 ## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v4.1.0)
 
@@ -30,6 +28,4 @@ folder: release_notes
 * implement flexible resource naming ([#43](https://github.com/CloudNationHQ/terraform-azure-pip/issues/43)) ([94c59b0](https://github.com/CloudNationHQ/terraform-azure-pip/commit/94c59b0e0fcc4f3acdd05c11e670d3b5e29617c8))
 
 ---
-
-**Published at:** 2025-05-23T09:37:24Z
 

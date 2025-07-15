@@ -25,8 +25,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-05-27T12:42:16Z
-
 ## Module: azure-vgw
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v0.3.0)
 
@@ -38,6 +36,4 @@ folder: release_notes
 * **deps:** bump github.com/hashicorp/go-getter in /tests ([#7](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/7)) ([025f424](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/025f424b687d82bb01076ff5f7bc68d4ecd534c4))
 
 ---
-
-**Published at:** 2024-05-27T13:28:31Z
 

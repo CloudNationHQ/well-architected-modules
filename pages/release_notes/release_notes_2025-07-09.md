@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-07-09T15:30:37Z
-
 ## Module: infoblox-allocation
 ## [1.2.1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.2.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * parent cidr reference ([#10](https://github.com/CloudNationHQ/terraform-infoblox-allocation/issues/10)) ([89c531b](https://github.com/CloudNationHQ/terraform-infoblox-allocation/commit/89c531b1417191b6964a52ebd219473acc2c7ff0))
 
 ---
-
-**Published at:** 2025-07-09T14:51:42Z
 
 ## Module: infoblox-allocation
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.2.0)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-07-09T14:45:08Z
-
 ## Module: infoblox-allocation
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.1.1)
 
@@ -53,8 +47,6 @@ folder: release_notes
 * remove unused outputs ([#5](https://github.com/CloudNationHQ/terraform-infoblox-allocation/issues/5)) ([9840095](https://github.com/CloudNationHQ/terraform-infoblox-allocation/commit/9840095a6e0486838b403cfcd17b970ecd76e2df))
 
 ---
-
-**Published at:** 2025-07-09T14:36:21Z
 
 ## Module: infoblox-allocation
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.1.0)
@@ -66,8 +58,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-07-09T14:21:07Z
-
 ## Module: infoblox-allocation
 ## 1.0.0 (2025-07-09)
 
@@ -77,6 +67,4 @@ folder: release_notes
 * add initial files ([#1](https://github.com/CloudNationHQ/terraform-infoblox-allocation/releases/tag/v1.0.0)) ([bd8e978](https://github.com/CloudNationHQ/terraform-infoblox-allocation/commit/bd8e978c401f79bfad13d4432e6722d2c9dda8a5))
 
 ---
-
-**Published at:** 2025-07-09T14:18:37Z
 

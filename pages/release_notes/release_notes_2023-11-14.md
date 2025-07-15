@@ -18,5 +18,3 @@ folder: release_notes
 
 ---
 
-**Published at:** 2023-11-14T10:51:45Z
-

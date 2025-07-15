@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-16T14:15:26Z
-
 ## Module: azure-sa
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.1.0)
 
@@ -32,6 +30,4 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#132](https://github.com/CloudNationHQ/terraform-azure-sa/issues/132)) ([0f728f4](https://github.com/CloudNationHQ/terraform-azure-sa/commit/0f728f48be308fedef10788e00003bb2a53e4ebe))
 
 ---
-
-**Published at:** 2025-01-16T12:03:23Z
 

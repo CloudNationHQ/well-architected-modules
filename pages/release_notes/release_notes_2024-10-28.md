@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-28T08:01:47Z
-
 ## Module: azure-vwan
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.1.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 * add vpn gateway nat rules support ([#68](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/68)) ([270b549](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/270b549f03103f3aef5647d9a7bcae93b6650cd1))
 
 ---
-
-**Published at:** 2024-10-28T14:24:00Z
 
 ## Module: azure-vwan
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.0.0)
@@ -53,8 +49,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-28T13:38:28Z
-
 ## Module: azure-alerts
 ## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.0.1)
 
@@ -64,6 +58,4 @@ folder: release_notes
 * removed the provider in modules([#5](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/5)) ([2300953](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/2300953d7c895e61a6e0f3a91b5b786c87c9d715))
 
 ---
-
-**Published at:** 2024-10-28T13:07:01Z
 

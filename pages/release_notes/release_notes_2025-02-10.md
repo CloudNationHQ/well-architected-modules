@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-10T14:35:24Z
-
 ## Module: azure-vm
 ## [4.5.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.5.0)
 
@@ -34,6 +32,4 @@ folder: release_notes
 * change defaults protected settings extensions ([#177](https://github.com/CloudNationHQ/terraform-azure-vm/issues/177)) ([dace1f2](https://github.com/CloudNationHQ/terraform-azure-vm/commit/dace1f29ab1203a241c813d5008ea1fa17abe092))
 
 ---
-
-**Published at:** 2025-02-10T11:09:19Z
 

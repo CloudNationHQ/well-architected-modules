@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-27T13:47:46Z
-
 ## Module: azure-naming
 ## [0.16.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.16.0)
 
@@ -29,6 +27,4 @@ folder: release_notes
 * complete refactor naming module ([#52](https://github.com/CloudNationHQ/terraform-azure-naming/issues/52)) ([53bf474](https://github.com/CloudNationHQ/terraform-azure-naming/commit/53bf47432016173ac46bbb75a10e03b65c47bb0d))
 
 ---
-
-**Published at:** 2024-09-27T12:47:29Z
 

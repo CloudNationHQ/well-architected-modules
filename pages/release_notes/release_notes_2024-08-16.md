@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-16T14:22:42Z
-
 ## Module: azure-naming
 ## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.12.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-16T13:09:37Z
-
 ## Module: azure-app
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.1.1)
 
@@ -41,8 +37,6 @@ folder: release_notes
 * fix module references ([#4](https://github.com/CloudNationHQ/terraform-azure-app/issues/4)) ([693e299](https://github.com/CloudNationHQ/terraform-azure-app/commit/693e299d519b3599f5170fcf9e25db5c7c0ba25f))
 
 ---
-
-**Published at:** 2024-08-16T07:14:55Z
 
 ## Module: azure-app
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.1.0)
@@ -56,8 +50,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-16T06:53:11Z
-
 ## Module: azure-app
 ## 1.0.0 (2024-08-16)
 
@@ -67,6 +59,4 @@ folder: release_notes
 * add initial resources ([235eed3](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.0.0))
 
 ---
-
-**Published at:** 2024-08-16T06:29:53Z
 

@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-27T14:58:37Z
-
 ## Module: azure-vnet
 ## [9.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.0.0)
 
@@ -43,8 +41,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-27T14:55:09Z
-
 ## Module: azure-func
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v2.1.0)
 
@@ -54,8 +50,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#51](https://github.com/CloudNationHQ/terraform-azure-func/issues/51)) ([6c0e1a9](https://github.com/CloudNationHQ/terraform-azure-func/commit/6c0e1a9b208e4497ac47aecae029bf15ef375beb))
 
 ---
-
-**Published at:** 2025-05-27T14:58:04Z
 
 ## Module: azure-func
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v2.0.0)
@@ -79,6 +73,4 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-27T11:17:38Z
 

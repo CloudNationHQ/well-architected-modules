@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-11-25T08:09:43Z
-
 ## Module: azure-sa
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v3.0.0)
 
@@ -65,8 +63,6 @@ By following these steps, you ensure that Terraform won’t destroy or recreate 
 
 ---
 
-**Published at:** 2024-11-25T08:34:55Z
-
 ## Module: azure-cosmosdb
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.0.0)
 
@@ -87,8 +83,6 @@ By following these steps, you ensure that Terraform won’t destroy or recreate 
 
 ---
 
-**Published at:** 2024-11-25T08:42:47Z
-
 ## Module: azure-bastion
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.4.0)
 
@@ -98,6 +92,4 @@ By following these steps, you ensure that Terraform won’t destroy or recreate 
 * add zones support and fixed required ruleset ([#62](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/62)) ([412f057](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/412f0579e25fb22f926a4a516a56c7ececb0e267))
 
 ---
-
-**Published at:** 2024-11-25T08:17:53Z
 

@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-25T11:52:26Z
-
 ## Module: azure-rbac
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v2.3.0)
 
@@ -35,6 +33,4 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#44](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/44)) ([ffbd6da](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/ffbd6daf9acd8d1ce931983940560455ec6a7690))
 
 ---
-
-**Published at:** 2025-02-25T15:39:24Z
 

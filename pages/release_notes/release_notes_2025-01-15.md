@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-15T08:44:06Z
-
 ## Module: azure-aa
 ## [2.5.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.5.0)
 
@@ -34,8 +32,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-15T13:05:25Z
-
 ## Module: azure-lb
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.3.0)
 
@@ -49,8 +45,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-15T14:38:50Z
-
 ## Module: azure-fd
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-fd/releases/tag/v1.4.0)
 
@@ -61,6 +55,4 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#16](https://github.com/CloudNationHQ/terraform-azure-fd/issues/16)) ([fb7d989](https://github.com/CloudNationHQ/terraform-azure-fd/commit/fb7d9897bc732ed5949fd67721065cc61b203db5))
 
 ---
-
-**Published at:** 2025-01-15T09:06:41Z
 

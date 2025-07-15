@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-19T09:12:32Z
-
 ## Module: azure-func
 ## [1.6.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.6.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * format documentation to include type definitions ([#42](https://github.com/CloudNationHQ/terraform-azure-func/issues/42)) ([b09582e](https://github.com/CloudNationHQ/terraform-azure-func/commit/b09582e2f8ba10b38b15e82c4c8ef5007355da47))
 
 ---
-
-**Published at:** 2025-03-19T14:35:20Z
 
 ## Module: azure-alerts
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.2.0)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-19T18:03:38Z
-
 ## Module: azure-costs
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.3.0)
 
@@ -53,6 +47,4 @@ folder: release_notes
 * format documentation to include type definitions ([#13](https://github.com/CloudNationHQ/terraform-azure-costs/issues/13)) ([52a571b](https://github.com/CloudNationHQ/terraform-azure-costs/commit/52a571b5cd0a3e48f3ca402b63ace2b69e4cd8cc))
 
 ---
-
-**Published at:** 2025-03-19T14:46:55Z
 

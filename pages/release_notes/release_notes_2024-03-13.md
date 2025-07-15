@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-13T12:10:47Z
-
 ## Module: azure-rbac
 ## 0.1.0 (2024-03-13)
 
@@ -32,6 +30,4 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#3](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/3)) ([5e8b1d3](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/5e8b1d3db56d2679dcbc51a8ab4285c09d6189dc))
 
 ---
-
-**Published at:** 2024-03-13T15:05:02Z
 

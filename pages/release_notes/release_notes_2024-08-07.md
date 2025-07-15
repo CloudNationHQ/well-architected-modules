@@ -33,8 +33,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-07T08:20:49Z
-
 ## Module: azure-vm
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v3.0.0)
 
@@ -65,8 +63,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-07T12:41:41Z
-
 ## Module: azure-psql
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v1.0.0)
 
@@ -89,8 +85,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-07T14:14:46Z
-
 ## Module: azure-psql
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.7.0)
 
@@ -100,8 +94,6 @@ folder: release_notes
 * update contribution docs ([#25](https://github.com/CloudNationHQ/terraform-azure-psql/issues/25)) ([3353451](https://github.com/CloudNationHQ/terraform-azure-psql/commit/3353451751741f2cda17ca106114c6ce69723c75))
 
 ---
-
-**Published at:** 2024-08-07T13:57:44Z
 
 ## Module: azure-syn
 ## 0.1.0 (2024-08-07)
@@ -114,6 +106,4 @@ folder: release_notes
 * **deps:** Bump github.com/gruntwork-io/terratest in /tests ([#7](https://github.com/CloudNationHQ/terraform-azure-syn/issues/7)) ([9a7da9d](https://github.com/CloudNationHQ/terraform-azure-syn/commit/9a7da9d00b1118daac4fee5f90761e8311b713ed))
 
 ---
-
-**Published at:** 2024-08-07T13:46:04Z
 

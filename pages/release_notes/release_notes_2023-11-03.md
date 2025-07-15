@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2023-11-03T15:58:41Z
-
 ## Module: azure-rg
 ## 0.1.0 (2023-11-03)
 
@@ -29,6 +27,4 @@ folder: release_notes
 * add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.1.0)) ([0add3e1](https://github.com/CloudNationHQ/terraform-azure-rg/commit/0add3e146911040d12ff2915c17d882e6ed506cc))
 
 ---
-
-**Published at:** 2023-11-03T13:43:37Z
 

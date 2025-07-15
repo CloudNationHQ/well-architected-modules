@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-19T08:14:31Z
-
 ## Module: azure-vwan
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v1.1.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * add support for vpn gateways, sites and connections ([#50](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/50)) ([0b6266e](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/0b6266e70fca1a7e274b2efc84b817b5cca561a8))
 
 ---
-
-**Published at:** 2024-09-19T10:45:01Z
 
 ## Module: azure-aa
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.4.0)
@@ -42,6 +38,4 @@ folder: release_notes
 * refactor automation variables to integrate type detection logic and simplified tests ([#13](https://github.com/CloudNationHQ/terraform-azure-aa/issues/13)) ([40b10cd](https://github.com/CloudNationHQ/terraform-azure-aa/commit/40b10cd6177be3238634cf4f1b615b2c449e8748))
 
 ---
-
-**Published at:** 2024-09-19T15:23:44Z
 

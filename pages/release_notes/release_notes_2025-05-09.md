@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-09T12:44:09Z
-
 ## Module: azure-sb
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sb/releases/tag/v2.0.0)
 
@@ -38,8 +36,6 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-09T10:12:57Z
 
 ## Module: azure-appcfg
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.0.0)
@@ -63,8 +59,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-09T10:35:08Z
-
 ## Module: azure-mcf
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-mcf/releases/tag/v1.1.0)
 
@@ -75,6 +69,4 @@ folder: release_notes
 * replace deployment test code with module consumption and fix tags property idempotence ([#7](https://github.com/CloudNationHQ/terraform-azure-mcf/issues/7)) ([65fc7e4](https://github.com/CloudNationHQ/terraform-azure-mcf/commit/65fc7e45287bd4c9e689a1b97c133d9252b92f08))
 
 ---
-
-**Published at:** 2025-05-09T10:33:18Z
 

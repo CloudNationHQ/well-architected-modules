@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-21T14:36:12Z
-
 ## Module: azure-rg
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.4.0)
 
@@ -29,6 +27,4 @@ folder: release_notes
 * introduced the capability to utilize some global properties ([#7](https://github.com/CloudNationHQ/terraform-azure-rg/issues/7)) ([1a79181](https://github.com/CloudNationHQ/terraform-azure-rg/commit/1a791814f20aff1733adf0504b135b87b2488fd1))
 
 ---
-
-**Published at:** 2024-03-21T12:01:36Z
 

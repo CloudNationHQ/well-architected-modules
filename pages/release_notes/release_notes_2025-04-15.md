@@ -21,8 +21,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-15T10:23:32Z
-
 ## Module: azure-cog
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.1.1)
 
@@ -32,8 +30,6 @@ folder: release_notes
 * module references in usages ([#7](https://github.com/CloudNationHQ/terraform-azure-cog/issues/7)) ([f0ab1e7](https://github.com/CloudNationHQ/terraform-azure-cog/commit/f0ab1e7f375b59d15356fef8ad3da6d51fcf6fed))
 
 ---
-
-**Published at:** 2025-04-15T10:26:20Z
 
 ## Module: azure-cog
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v1.1.0)
@@ -45,8 +41,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-04-15T09:55:37Z
-
 ## Module: azure-ais
 ## 1.0.0 (2025-04-15)
 
@@ -56,6 +50,4 @@ folder: release_notes
 * add initial resources  ([#1](https://github.com/CloudNationHQ/terraform-azure-ais/releases/tag/v1.0.0)) ([aa656fd](https://github.com/CloudNationHQ/terraform-azure-ais/commit/aa656fdb7fad883f5f629a6f410a458e46e73c82))
 
 ---
-
-**Published at:** 2025-04-15T16:33:26Z
 

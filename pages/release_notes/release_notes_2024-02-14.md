@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-02-14T10:49:48Z
-
 ## Module: azure-vwan
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.7.0)
 
@@ -31,8 +29,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-02-14T18:23:26Z
-
 ## Module: azure-vwan
 ## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.6.1)
 
@@ -42,6 +38,4 @@ folder: release_notes
 * fix conditional expression rule collection names ([#22](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/22)) ([4adbd1a](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/4adbd1a249a5472c8997a01b88efc86780fa1442))
 
 ---
-
-**Published at:** 2024-02-14T09:34:53Z
 

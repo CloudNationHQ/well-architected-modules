@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-21T16:17:53Z
-
 ## Module: azure-vgw
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-vgw/releases/tag/v1.4.0)
 
@@ -32,8 +30,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-21T16:15:06Z
-
 ## Module: azure-mag
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.4.0)
 
@@ -44,6 +40,4 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#19](https://github.com/CloudNationHQ/terraform-azure-mag/issues/19)) ([44674c1](https://github.com/CloudNationHQ/terraform-azure-mag/commit/44674c18ef7e864da05f218a499d30e257bd1105))
 
 ---
-
-**Published at:** 2025-02-21T16:11:28Z
 

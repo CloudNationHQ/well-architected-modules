@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-11-29T11:02:58Z
-
 ## Module: azure-bastion
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v3.0.0)
 
@@ -39,8 +37,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-11-29T12:54:23Z
-
 ## Module: azure-agw
 ## 1.0.0 (2024-11-29)
 
@@ -50,6 +46,4 @@ folder: release_notes
 * add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.0.0)) ([6feea34](https://github.com/CloudNationHQ/terraform-azure-agw/commit/6feea3497af35a044464df5424c7dd3ccdbcbc07))
 
 ---
-
-**Published at:** 2024-11-29T08:19:40Z
 

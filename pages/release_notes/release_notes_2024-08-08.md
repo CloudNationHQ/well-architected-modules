@@ -34,8 +34,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-08T12:21:03Z
-
 ## Module: azure-mysql
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v0.2.0)
 
@@ -46,8 +44,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-08T13:33:54Z
-
 ## Module: azure-mysql
 ## 0.1.0 (2024-08-08)
 
@@ -57,6 +53,4 @@ folder: release_notes
 * add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v0.1.0)) ([b0ffbb8](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/b0ffbb81f101d8e9a8c2dce0ba6cd16060a147e8))
 
 ---
-
-**Published at:** 2024-08-08T11:45:37Z
 

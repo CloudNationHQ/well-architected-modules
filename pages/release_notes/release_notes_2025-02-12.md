@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-12T14:39:09Z
-
 ## Module: azure-vm
 ## [5.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v5.0.0)
 
@@ -38,8 +36,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-02-12T13:23:20Z
-
 ## Module: azure-vm
 ## [4.5.2](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.5.2)
 
@@ -49,8 +45,6 @@ folder: release_notes
 * typo settings ([4aba24a](https://github.com/CloudNationHQ/terraform-azure-vm/commit/4aba24a2f8c841c1021a4d93aeaab058da2917e1))
 
 ---
-
-**Published at:** 2025-02-12T12:26:17Z
 
 ## Module: azure-agw
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.3.0)
@@ -67,6 +61,4 @@ folder: release_notes
 * make backend_settings,probe and backend_pools fully optional, add missing properties ([#22](https://github.com/CloudNationHQ/terraform-azure-agw/issues/22)) ([9889f84](https://github.com/CloudNationHQ/terraform-azure-agw/commit/9889f849ff02cfce66fbff2920744a31f987c4c0))
 
 ---
-
-**Published at:** 2025-02-12T15:01:31Z
 

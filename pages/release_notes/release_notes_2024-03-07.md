@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-07T15:09:33Z
-
 ## Module: azure-aks
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.7.0)
 
@@ -35,6 +33,4 @@ folder: release_notes
 * optimized dynamic identity blocks ([#44](https://github.com/CloudNationHQ/terraform-azure-aks/issues/44)) ([d4eeaaa](https://github.com/CloudNationHQ/terraform-azure-aks/commit/d4eeaaadcd857b70b42cb37338e1101133463108))
 
 ---
-
-**Published at:** 2024-03-07T14:07:24Z
 

@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-20T08:40:00Z
-
 ## Module: azure-pip
 ## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.6.0)
 
@@ -32,8 +30,6 @@ folder: release_notes
 * format documentation to include type definitions ([#33](https://github.com/CloudNationHQ/terraform-azure-pip/issues/33)) ([aac976e](https://github.com/CloudNationHQ/terraform-azure-pip/commit/aac976eb94c600be1c5c4f0b11015e961049237d))
 
 ---
-
-**Published at:** 2025-03-20T14:27:18Z
 
 ## Module: azure-lb
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-lb/releases/tag/v1.4.0)
@@ -47,8 +43,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-20T12:21:00Z
-
 ## Module: azure-costs
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.4.0)
 
@@ -58,8 +52,6 @@ folder: release_notes
 * add missing functionalty anomaly alerts and budgets ([#15](https://github.com/CloudNationHQ/terraform-azure-costs/issues/15)) ([6ffa8a4](https://github.com/CloudNationHQ/terraform-azure-costs/commit/6ffa8a47364927acddb0bbc937d87e143174dbed))
 
 ---
-
-**Published at:** 2025-03-20T08:39:00Z
 
 ## Module: azure-sub
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v2.0.0)
@@ -102,6 +94,4 @@ moved {
 * If you want to create multiple subscriptions, use a `for_each` on the module, see example "mca".
 
 ---
-
-**Published at:** 2025-03-20T07:28:06Z
 

@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-04-08T14:58:05Z
-
 ## Module: azure-pdns
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v0.2.0)
 
@@ -30,6 +28,4 @@ folder: release_notes
 * include existing private dns zone in outputs ([#8](https://github.com/CloudNationHQ/terraform-azure-pdns/issues/8)) ([4b5038e](https://github.com/CloudNationHQ/terraform-azure-pdns/commit/4b5038e21b8abfdc0710dc10f07d3299c22b8d44))
 
 ---
-
-**Published at:** 2024-04-08T12:37:55Z
 

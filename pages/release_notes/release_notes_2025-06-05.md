@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-05T15:07:50Z
-
 ## Module: azure-fwp
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v3.0.0)
 
@@ -42,8 +40,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-06-05T12:13:27Z
-
 ## Module: azure-wafwp
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v2.0.0)
 
@@ -63,6 +59,4 @@ folder: release_notes
 - The rule set version default is changed. It should be set in the config now, since we support different types
 
 ---
-
-**Published at:** 2025-06-05T12:20:47Z
 

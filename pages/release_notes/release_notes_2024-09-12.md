@@ -20,8 +20,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-12T17:05:48Z
-
 ## Module: azure-redis
 ## [1.0.2](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v1.0.2)
 
@@ -31,8 +29,6 @@ folder: release_notes
 * remove reference to synapse ([#7](https://github.com/CloudNationHQ/terraform-azure-redis/issues/7)) ([0261dab](https://github.com/CloudNationHQ/terraform-azure-redis/commit/0261dabbb28abef3dcbc58ef756316a604a9b53e))
 
 ---
-
-**Published at:** 2024-09-12T14:08:08Z
 
 ## Module: databricks-cl
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-databricks-cl/releases/tag/v1.1.0)
@@ -49,8 +45,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-12T18:27:51Z
-
 ## Module: azure-pip
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v1.1.1)
 
@@ -60,8 +54,6 @@ folder: release_notes
 * change output name to be plural ([#6](https://github.com/CloudNationHQ/terraform-azure-pip/issues/6)) ([c8d8397](https://github.com/CloudNationHQ/terraform-azure-pip/commit/c8d839764cfb9b49168733ef490b3462cecfa08b))
 
 ---
-
-**Published at:** 2024-09-12T06:58:32Z
 
 ## Module: azure-fw
 ## 1.0.0 (2024-09-12)
@@ -73,8 +65,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-12T07:09:38Z
-
 ## Module: azure-appi
 ## 1.0.0 (2024-09-12)
 
@@ -84,8 +74,6 @@ folder: release_notes
 * Initial creation of application insights module ([eb4d4d1](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v1.0.0))
 
 ---
-
-**Published at:** 2024-09-12T18:29:33Z
 
 ## Module: databricks-clp
 ## 1.0.0 (2024-09-12)
@@ -97,6 +85,4 @@ folder: release_notes
 * update readme doc ([#2](https://github.com/CloudNationHQ/terraform-databricks-clp/issues/2)) ([5c48b69](https://github.com/CloudNationHQ/terraform-databricks-clp/commit/5c48b698bf65edfb4163f9c12e4475c3f106349c))
 
 ---
-
-**Published at:** 2024-09-12T18:51:06Z
 

@@ -33,8 +33,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-14T06:35:42Z
-
 ## Module: azure-cosmosdb
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v1.0.0)
 
@@ -63,8 +61,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-14T12:38:52Z
-
 ## Module: azure-cosmosdb
 ## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.11.0)
 
@@ -74,8 +70,6 @@ folder: release_notes
 * added code of conduct and security documentation ([#49](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/49)) ([98cd2b6](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/98cd2b615e1acd8748333d907be760430ef18cdc))
 
 ---
-
-**Published at:** 2024-08-14T09:23:22Z
 
 ## Module: azure-cosmosdb
 ## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.10.0)
@@ -88,8 +82,6 @@ folder: release_notes
 * update contribution docs ([#45](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/45)) ([7c0670f](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/7c0670f850cad43a60d9616c3b5bea77dc5f9c9d))
 
 ---
-
-**Published at:** 2024-08-14T07:21:09Z
 
 ## Module: azure-bastion
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v1.0.0)
@@ -115,8 +107,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-14T08:27:46Z
-
 ## Module: azure-bastion
 ## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.11.0)
 
@@ -126,8 +116,6 @@ folder: release_notes
 * added code of conduct and security documentation ([#43](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/43)) ([8a03000](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/8a03000bb9d8acfca309125a6cf54f439be7f1d9))
 
 ---
-
-**Published at:** 2024-08-14T07:44:24Z
 
 ## Module: azure-mysql
 ## [0.2.1](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v0.2.1)
@@ -139,8 +127,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-14T14:43:55Z
-
 ## Module: azure-plan
 ## 1.0.0 (2024-08-14)
 
@@ -150,6 +136,4 @@ folder: release_notes
 * add initial resources ([8811c68](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v1.0.0))
 
 ---
-
-**Published at:** 2024-08-14T15:22:50Z
 

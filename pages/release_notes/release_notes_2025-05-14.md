@@ -27,8 +27,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-05-14T13:54:32Z
-
 ## Module: azure-rsv
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v2.0.0)
 
@@ -47,6 +45,4 @@ folder: release_notes
 - The property and variable resource_group is renamed to resource_group_name
 
 ---
-
-**Published at:** 2025-05-14T13:51:51Z
 

@@ -21,8 +21,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:17:46Z
-
 ## Module: azure-acr
 ## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v4.1.0)
 
@@ -35,8 +33,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T14:18:57Z
-
 ## Module: azure-naming
 ## [0.23.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.23.0)
 
@@ -46,8 +42,6 @@ folder: release_notes
 * add vpn gateway naming ([#72](https://github.com/CloudNationHQ/terraform-azure-naming/issues/72)) ([cd9fe3f](https://github.com/CloudNationHQ/terraform-azure-naming/commit/cd9fe3f4e74e61434f1445033e46333cb515c2c1))
 
 ---
-
-**Published at:** 2025-01-20T15:17:21Z
 
 ## Module: azure-kv
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v3.1.0)
@@ -60,8 +54,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#81](https://github.com/CloudNationHQ/terraform-azure-kv/issues/81)) ([4b72458](https://github.com/CloudNationHQ/terraform-azure-kv/commit/4b724587d389cbe8e4621c19cae2795974f627db))
 
 ---
-
-**Published at:** 2025-01-20T14:07:49Z
 
 ## Module: azure-vmss
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v1.3.0)
@@ -76,8 +68,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:51:57Z
-
 ## Module: azure-vm
 ## [4.4.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.4.0)
 
@@ -89,8 +79,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#163](https://github.com/CloudNationHQ/terraform-azure-vm/issues/163)) ([efbaa5e](https://github.com/CloudNationHQ/terraform-azure-vm/commit/efbaa5e5a32fef3c08f4bdfee9e3fded12361a2e))
 
 ---
-
-**Published at:** 2025-01-20T12:46:54Z
 
 ## Module: azure-cosmosdb
 ## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.2.0)
@@ -105,8 +93,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T14:13:46Z
-
 ## Module: azure-sql
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v1.3.0)
 
@@ -119,8 +105,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#60](https://github.com/CloudNationHQ/terraform-azure-sql/issues/60)) ([a2320bc](https://github.com/CloudNationHQ/terraform-azure-sql/commit/a2320bc7e1091e12a5a59eadbbecf3560017fdc2))
 
 ---
-
-**Published at:** 2025-01-20T13:54:56Z
 
 ## Module: azure-bastion
 ## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v3.2.0)
@@ -135,8 +119,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T14:20:59Z
-
 ## Module: azure-aks
 ## [3.6.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.6.0)
 
@@ -148,8 +130,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#119](https://github.com/CloudNationHQ/terraform-azure-aks/issues/119)) ([1dfa021](https://github.com/CloudNationHQ/terraform-azure-aks/commit/1dfa0214cc10dc407119175b9de21f9773aae276))
 
 ---
-
-**Published at:** 2025-01-20T13:57:08Z
 
 ## Module: azure-vwan
 ## [3.5.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.5.0)
@@ -163,8 +143,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:34:17Z
-
 ## Module: azure-psql
 ## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v3.2.0)
 
@@ -176,8 +154,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#46](https://github.com/CloudNationHQ/terraform-azure-psql/issues/46)) ([25751c9](https://github.com/CloudNationHQ/terraform-azure-psql/commit/25751c977a1ce65d674420c0884cdd63aa658001))
 
 ---
-
-**Published at:** 2025-01-20T13:52:57Z
 
 ## Module: azure-evh
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v2.3.0)
@@ -192,8 +168,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:56:36Z
-
 ## Module: azure-pdns
 ## [3.3.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v3.3.0)
 
@@ -205,8 +179,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T14:06:32Z
-
 ## Module: azure-pe
 ## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.1)
 
@@ -216,8 +188,6 @@ folder: release_notes
 * Make location optional on main level ([#33](https://github.com/CloudNationHQ/terraform-azure-pe/issues/33)) ([8e0e585](https://github.com/CloudNationHQ/terraform-azure-pe/commit/8e0e585ff79b887b75538c46b6dc7adb815e9ed5))
 
 ---
-
-**Published at:** 2025-01-20T16:19:37Z
 
 ## Module: azure-pe
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.0)
@@ -232,8 +202,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:25:13Z
-
 ## Module: azure-rsv
 ## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.5.0)
 
@@ -246,8 +214,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#40](https://github.com/CloudNationHQ/terraform-azure-rsv/issues/40)) ([ab88644](https://github.com/CloudNationHQ/terraform-azure-rsv/commit/ab88644c78a6e768cdf683431f32797288f23b98))
 
 ---
-
-**Published at:** 2025-01-20T13:32:37Z
 
 ## Module: azure-ca
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v3.1.0)
@@ -262,8 +228,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T14:05:56Z
-
 ## Module: azure-nw
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v1.3.0)
 
@@ -276,8 +240,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#21](https://github.com/CloudNationHQ/terraform-azure-nw/issues/21)) ([ff9447f](https://github.com/CloudNationHQ/terraform-azure-nw/commit/ff9447fd177929a5b8630cafb7a11ddb17cc1a64))
 
 ---
-
-**Published at:** 2025-01-20T13:24:19Z
 
 ## Module: azure-syn
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v1.3.0)
@@ -292,8 +254,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:54:19Z
-
 ## Module: azure-mysql
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v1.2.0)
 
@@ -306,8 +266,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#20](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/20)) ([9072f3f](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/9072f3f3bfc5143b6c3d60d91bde33251020d3c1))
 
 ---
-
-**Published at:** 2025-01-20T13:57:50Z
 
 ## Module: azure-app
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.4.0)
@@ -322,8 +280,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:43:48Z
-
 ## Module: azure-dnspr
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.3.0)
 
@@ -336,8 +292,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#20](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/20)) ([e09df92](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/e09df926727fb1850f052b7dc5e4ef18fd3f2816))
 
 ---
-
-**Published at:** 2025-01-20T14:17:50Z
 
 ## Module: azure-dcr
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-dcr/releases/tag/v2.3.0)
@@ -352,8 +306,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:44:38Z
-
 ## Module: azure-redis
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v2.3.0)
 
@@ -366,8 +318,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#20](https://github.com/CloudNationHQ/terraform-azure-redis/issues/20)) ([8d846dc](https://github.com/CloudNationHQ/terraform-azure-redis/commit/8d846dcfa6d4173c1dacc59b6d4a4c7f8ed29f65))
 
 ---
-
-**Published at:** 2025-01-20T14:03:09Z
 
 ## Module: azure-pip
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.4.0)
@@ -382,8 +332,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:31:53Z
-
 ## Module: azure-fw
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.3.0)
 
@@ -395,8 +343,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#21](https://github.com/CloudNationHQ/terraform-azure-fw/issues/21)) ([573f27f](https://github.com/CloudNationHQ/terraform-azure-fw/commit/573f27fdc2d4e46e93e0e7a5e2116e52316b4f0a))
 
 ---
-
-**Published at:** 2025-01-20T13:42:30Z
 
 ## Module: azure-fwp
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v2.3.0)
@@ -411,8 +357,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:55:54Z
-
 ## Module: azure-mag
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.3.0)
 
@@ -426,8 +370,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:55:22Z
-
 ## Module: azure-apim
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.3.0)
 
@@ -437,8 +379,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#12](https://github.com/CloudNationHQ/terraform-azure-apim/issues/12)) ([543c1d5](https://github.com/CloudNationHQ/terraform-azure-apim/commit/543c1d5af3d9a1542b4394d8e606768feee66c72))
 
 ---
-
-**Published at:** 2025-01-20T13:53:49Z
 
 ## Module: azure-sqlmi
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.4.0)
@@ -451,8 +391,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#16](https://github.com/CloudNationHQ/terraform-azure-sqlmi/issues/16)) ([51cd77f](https://github.com/CloudNationHQ/terraform-azure-sqlmi/commit/51cd77fcf120c2ec0d2be775c6c428b17b41fdc9))
 
 ---
-
-**Published at:** 2025-01-20T13:26:32Z
 
 ## Module: azure-sb
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-sb/releases/tag/v1.2.0)
@@ -468,8 +406,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T10:43:47Z
-
 ## Module: azure-fdfwp
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.3.0)
 
@@ -483,8 +419,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T13:13:02Z
-
 ## Module: azure-costs
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.2.0)
 
@@ -494,8 +428,6 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#5](https://github.com/CloudNationHQ/terraform-azure-costs/issues/5)) ([2dfef91](https://github.com/CloudNationHQ/terraform-azure-costs/commit/2dfef91af2cc7dd99bebe04dadaeac8eb80ba2aa))
 
 ---
-
-**Published at:** 2025-01-20T14:14:27Z
 
 ## Module: azure-eg
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.3.0)
@@ -509,8 +441,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-20T14:17:15Z
-
 ## Module: azure-wafwp
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.2.0)
 
@@ -523,6 +453,4 @@ folder: release_notes
 * remove temporary files when deployment tests fails ([#15](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/15)) ([7725111](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/77251112de6be55a9af8ce1039afb1b1523ee21a))
 
 ---
-
-**Published at:** 2025-01-20T12:44:39Z
 

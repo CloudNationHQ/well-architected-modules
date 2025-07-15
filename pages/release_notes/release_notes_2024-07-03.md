@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-07-03T12:09:37Z
-
 ## Module: azure-naming
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.6.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-07-03T12:06:00Z
-
 ## Module: azure-psql
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.6.0)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * add public_network_access_enabled property to enhance network configuration ([#23](https://github.com/CloudNationHQ/terraform-azure-psql/issues/23)) ([77bbad3](https://github.com/CloudNationHQ/terraform-azure-psql/commit/77bbad33a7555c72193de245d79821e07435eda4))
 
 ---
-
-**Published at:** 2024-07-03T13:05:02Z
 

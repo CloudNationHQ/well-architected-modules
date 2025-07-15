@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-04-10T12:25:09Z
-
 ## Module: azure-vm
 ## [1.13.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v1.13.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-04-10T07:58:58Z
-
 ## Module: azure-rsv
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v0.2.0)
 
@@ -41,6 +37,4 @@ folder: release_notes
 * change defaults classic vmware replication ([#3](https://github.com/CloudNationHQ/terraform-azure-rsv/issues/3)) ([cc5d9b1](https://github.com/CloudNationHQ/terraform-azure-rsv/commit/cc5d9b1e89173c559e259a13b8717464fcb8e814))
 
 ---
-
-**Published at:** 2024-04-10T11:16:39Z
 

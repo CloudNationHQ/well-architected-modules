@@ -23,8 +23,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-15T10:36:06Z
-
 ## Module: azure-kv
 ## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.8.0)
 
@@ -35,8 +33,6 @@ folder: release_notes
 * small refactor private endpoints ([#29](https://github.com/CloudNationHQ/terraform-azure-kv/issues/29)) ([6d1d4fd](https://github.com/CloudNationHQ/terraform-azure-kv/commit/6d1d4fdc96025ecf9e7b90dea9ae0467a3b01e1b))
 
 ---
-
-**Published at:** 2024-03-15T08:28:34Z
 
 ## Module: azure-cosmosdb
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.6.0)
@@ -49,8 +45,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-15T15:55:25Z
-
 ## Module: azure-sql
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.6.0)
 
@@ -62,8 +56,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-15T16:20:24Z
-
 ## Module: azure-psql
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.3.0)
 
@@ -74,8 +66,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-03-15T09:51:26Z
-
 ## Module: azure-pe
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v0.2.0)
 
@@ -85,6 +75,4 @@ folder: release_notes
 * update documentation ([#4](https://github.com/CloudNationHQ/terraform-azure-pe/issues/4)) ([d2ece61](https://github.com/CloudNationHQ/terraform-azure-pe/commit/d2ece61eefba1b328b51787d3e6e365db0945847))
 
 ---
-
-**Published at:** 2024-03-15T14:32:27Z
 

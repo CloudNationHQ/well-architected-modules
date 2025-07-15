@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-12-16T15:16:14Z
-
 ## Module: azure-appi
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.4.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * add usages and type definitions for workbooks, workbook templates, api keys, smart detection rules, web tests and analytic items ([#14](https://github.com/CloudNationHQ/terraform-azure-appi/issues/14)) ([8e77933](https://github.com/CloudNationHQ/terraform-azure-appi/commit/8e77933cce309bb8b20ca150cc468e8dbd834cf3))
 
 ---
-
-**Published at:** 2024-12-16T12:13:10Z
 
 ## Module: azure-appi
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.3.0)
@@ -43,6 +39,4 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([d906240]
 
 ---
-
-**Published at:** 2024-12-16T10:35:33Z
 

@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-07T08:19:55Z
-
 ## Module: azure-eg
 ## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-eg/releases/tag/v1.4.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * fix event grid system topic naming ([#18](https://github.com/CloudNationHQ/terraform-azure-eg/issues/18)) ([034e694](https://github.com/CloudNationHQ/terraform-azure-eg/commit/034e694f94cd64e7bf18cb1abb7a57be6a911a5f))
 
 ---
-
-**Published at:** 2025-03-07T08:00:12Z
 
 ## Module: azure-appcfg
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v1.1.1)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-03-07T13:44:50Z
-
 ## Module: azure-appcfg
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v1.1.0)
 
@@ -53,6 +47,4 @@ folder: release_notes
 * move keys to a submodule ([#6](https://github.com/CloudNationHQ/terraform-azure-appcfg/issues/6)) ([6bfbc14](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/6bfbc14bd5ffa1568cc5aa2d44df3bc7e114be51))
 
 ---
-
-**Published at:** 2025-03-07T10:32:03Z
 

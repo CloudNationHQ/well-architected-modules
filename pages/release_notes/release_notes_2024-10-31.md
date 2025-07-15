@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-31T14:02:36Z
-
 ## Module: azure-naming
 ## [0.20.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.20.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * make use of interfaces to improve idempotency and modularity ([#66](https://github.com/CloudNationHQ/terraform-azure-naming/issues/66)) ([640cfda](https://github.com/CloudNationHQ/terraform-azure-naming/commit/640cfda9e792d228ce5368c7e6b9371c27ea1a0d))
 
 ---
-
-**Published at:** 2024-10-31T13:43:35Z
 
 ## Module: azure-vwan
 ## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.2.0)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-31T11:37:27Z
-
 ## Module: azure-pdns
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v3.1.0)
 
@@ -54,8 +48,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-31T08:25:36Z
-
 ## Module: azure-ca
 ## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.1.1)
 
@@ -65,6 +57,4 @@ folder: release_notes
 * removed domain certificate unused uai ([#42](https://github.com/CloudNationHQ/terraform-azure-ca/issues/42)) ([4184dcf](https://github.com/CloudNationHQ/terraform-azure-ca/commit/4184dcfef4d651200926adaf9bbdc2b9028cbc67))
 
 ---
-
-**Published at:** 2024-10-31T11:08:22Z
 

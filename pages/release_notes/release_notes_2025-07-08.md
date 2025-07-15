@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-07-08T07:53:43Z
-
 ## Module: azure-kv
 ## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v4.2.0)
 
@@ -35,8 +33,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-07-08T11:54:26Z
-
 ## Module: azure-apim
 ## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.4.1)
 
@@ -46,8 +42,6 @@ folder: release_notes
 * sensitive keys lookup ([#25](https://github.com/CloudNationHQ/terraform-azure-apim/issues/25)) ([997a81d](https://github.com/CloudNationHQ/terraform-azure-apim/commit/997a81d56cf5eacf87ccaa084123a9e04b15075e))
 
 ---
-
-**Published at:** 2025-07-08T14:25:13Z
 
 ## Module: azure-appcfg
 ## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.1.1)
@@ -59,8 +53,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-07-08T13:02:07Z
-
 ## Module: azure-appcfg
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.1.0)
 
@@ -70,6 +62,4 @@ folder: release_notes
 * Add identity block ([#18](https://github.com/CloudNationHQ/terraform-azure-appcfg/issues/18)) ([1069e8f](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/1069e8fcc62cf38e0a5a3983366cbf2d1f8bbd41))
 
 ---
-
-**Published at:** 2025-07-08T12:13:51Z
 

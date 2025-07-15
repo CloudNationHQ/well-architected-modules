@@ -21,8 +21,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-05-16T09:36:47Z
-
 ## Module: azure-bastion
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.7.0)
 
@@ -36,6 +34,4 @@ folder: release_notes
 * **deps:** bump golang.org/x/net from 0.19.0 to 0.23.0 in /tests ([#26](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/26)) ([ef61beb](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/ef61beb60e57f6b75796c09b7eace2ada8e5842c))
 
 ---
-
-**Published at:** 2024-05-16T13:45:15Z
 

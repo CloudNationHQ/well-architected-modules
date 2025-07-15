@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-01T13:36:41Z
-
 ## Module: azure-law
 ## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-law/releases/tag/v0.10.0)
 
@@ -35,6 +33,4 @@ folder: release_notes
 * make linked services fully optional ([#58](https://github.com/CloudNationHQ/terraform-azure-law/issues/58)) ([31d1001](https://github.com/CloudNationHQ/terraform-azure-law/commit/31d1001e686e4236317cb746d23be9c5c7a7350a))
 
 ---
-
-**Published at:** 2024-08-01T12:33:11Z
 

@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-07T08:54:02Z
-
 ## Module: azure-aks
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.1.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * small refactor ([#99](https://github.com/CloudNationHQ/terraform-azure-aks/issues/99)) ([9a27b69](https://github.com/CloudNationHQ/terraform-azure-aks/commit/9a27b699a6cb7211c9cb4e4a78c760cdd94d7da0))
 
 ---
-
-**Published at:** 2024-10-07T08:28:46Z
 
 ## Module: azure-app
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.0.0)
@@ -54,8 +50,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-10-07T13:00:03Z
-
 ## Module: azure-app
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v1.2.0)
 
@@ -70,6 +64,4 @@ folder: release_notes
 * sanitize go testing ([#8](https://github.com/CloudNationHQ/terraform-azure-app/issues/8)) ([f508150](https://github.com/CloudNationHQ/terraform-azure-app/commit/f508150220264f323bffcb43d1f00c4a9a51741a))
 
 ---
-
-**Published at:** 2024-10-07T07:09:03Z
 

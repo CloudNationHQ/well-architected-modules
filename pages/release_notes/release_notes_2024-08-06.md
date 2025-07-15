@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-06T14:42:24Z
-
 ## Module: azure-naming
 ## [0.11.1](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.11.1)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * fix synapse sql pool slug ([#31](https://github.com/CloudNationHQ/terraform-azure-naming/issues/31)) ([ad26502](https://github.com/CloudNationHQ/terraform-azure-naming/commit/ad2650260b0af67b76ca2fc916570b99ca158e28))
 
 ---
-
-**Published at:** 2024-08-06T10:10:10Z
 
 ## Module: azure-naming
 ## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.11.0)
@@ -42,8 +38,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-06T09:00:06Z
-
 ## Module: azure-naming
 ## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.10.0)
 
@@ -53,8 +47,6 @@ folder: release_notes
 * add mysql flexible resources support ([#26](https://github.com/CloudNationHQ/terraform-azure-naming/issues/26)) ([3841c66](https://github.com/CloudNationHQ/terraform-azure-naming/commit/3841c660c098b21f7edce1500a16e047e404b6e1))
 
 ---
-
-**Published at:** 2024-08-06T08:46:22Z
 
 ## Module: azure-vm
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v2.4.0)
@@ -68,8 +60,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-06T14:52:46Z
-
 ## Module: azure-nw
 ## 0.1.0 (2024-08-06)
 
@@ -80,6 +70,4 @@ folder: release_notes
 * **deps:** Bump github.com/gruntwork-io/terratest in /tests ([#4](https://github.com/CloudNationHQ/terraform-azure-nw/issues/4)) ([a5542b5](https://github.com/CloudNationHQ/terraform-azure-nw/commit/a5542b58fe8cc8e4cf47c8d9e877a042f310b605))
 
 ---
-
-**Published at:** 2024-08-06T13:53:36Z
 

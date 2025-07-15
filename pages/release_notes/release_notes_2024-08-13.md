@@ -18,8 +18,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-13T14:00:08Z
-
 ## Module: azure-kv
 ## [0.14.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.14.0)
 
@@ -29,8 +27,6 @@ folder: release_notes
 * added code of conduct and security documentation ([#57](https://github.com/CloudNationHQ/terraform-azure-kv/issues/57)) ([1895413](https://github.com/CloudNationHQ/terraform-azure-kv/commit/1895413641bbaf9b13084797c5174ba47e895375))
 
 ---
-
-**Published at:** 2024-08-13T16:21:13Z
 
 ## Module: azure-kv
 ## [0.13.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.13.0)
@@ -43,8 +39,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-13T12:57:33Z
-
 ## Module: azure-bastion
 ## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.10.0)
 
@@ -56,8 +50,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-13T14:56:29Z
-
 ## Module: azure-syn
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.5.0)
 
@@ -68,8 +60,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-13T11:16:19Z
-
 ## Module: azure-syn
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.4.0)
 
@@ -79,8 +69,6 @@ folder: release_notes
 * change output names to be more descriptive ([#13](https://github.com/CloudNationHQ/terraform-azure-syn/issues/13)) ([42c312c](https://github.com/CloudNationHQ/terraform-azure-syn/commit/42c312c3c3ddbf4006fa4ba9d62a21439eaf8065))
 
 ---
-
-**Published at:** 2024-08-13T11:02:27Z
 
 ## Module: azure-syn
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.3.0)
@@ -93,8 +81,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-13T10:07:22Z
-
 ## Module: azure-syn
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.2.0)
 
@@ -104,6 +90,4 @@ folder: release_notes
 * update release config and documentation ([#8](https://github.com/CloudNationHQ/terraform-azure-syn/issues/8)) ([e637c90](https://github.com/CloudNationHQ/terraform-azure-syn/commit/e637c900046fa9a9b45937c50103f142680409be))
 
 ---
-
-**Published at:** 2024-08-13T07:15:42Z
 

@@ -21,8 +21,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-21T09:28:32Z
-
 ## Module: azure-rbac
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v2.2.0)
 
@@ -35,8 +33,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-21T09:40:47Z
-
 ## Module: azure-pe
 ## [1.4.2](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.2)
 
@@ -46,8 +42,6 @@ folder: release_notes
 * fix coalesce functions for resource group and location ([#35](https://github.com/CloudNationHQ/terraform-azure-pe/issues/35)) ([9055443](https://github.com/CloudNationHQ/terraform-azure-pe/commit/9055443cd0fb5d9aa02e271120f4ca91b6b8001d))
 
 ---
-
-**Published at:** 2025-01-21T08:56:12Z
 
 ## Module: azure-func
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.4.0)
@@ -59,8 +53,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2025-01-21T09:49:18Z
-
 ## Module: azure-alerts
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.1.0)
 
@@ -70,6 +62,4 @@ folder: release_notes
 * small refactor tests ([#7](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/7)) ([56b82c4](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/56b82c4adcd948012e0c808066f54f5af9e4fee0))
 
 ---
-
-**Published at:** 2025-01-21T09:48:42Z
 

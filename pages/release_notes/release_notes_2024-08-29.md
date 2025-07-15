@@ -19,8 +19,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-29T07:52:23Z
-
 ## Module: azure-vwan
 ## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.12.0)
 
@@ -30,8 +28,6 @@ folder: release_notes
 * update documentation ([#43](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/43)) ([16932cb](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/16932cb5899e723205ca5b05950f9b94976728d4))
 
 ---
-
-**Published at:** 2024-08-29T07:47:38Z
 
 ## Module: azure-vwan
 ## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.11.0)
@@ -44,8 +40,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-29T06:48:52Z
-
 ## Module: azure-psql
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v1.1.0)
 
@@ -56,8 +50,6 @@ folder: release_notes
 * update documentation ([#31](https://github.com/CloudNationHQ/terraform-azure-psql/issues/31)) ([d4de9e7](https://github.com/CloudNationHQ/terraform-azure-psql/commit/d4de9e78a4b8d5b3a70c62c521ee8e63e81bbef8))
 
 ---
-
-**Published at:** 2024-08-29T07:53:44Z
 
 ## Module: azure-evh
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v1.0.0)
@@ -80,8 +72,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-29T10:23:54Z
-
 ## Module: azure-evh
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-evh/releases/tag/v0.6.0)
 
@@ -91,8 +81,6 @@ folder: release_notes
 * update documentation ([#28](https://github.com/CloudNationHQ/terraform-azure-evh/issues/28)) ([6cb9551](https://github.com/CloudNationHQ/terraform-azure-evh/commit/6cb9551cb94df34d7fa74963cc8a88e13ec2966b))
 
 ---
-
-**Published at:** 2024-08-29T07:55:42Z
 
 ## Module: azure-pdns
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v0.6.0)
@@ -104,8 +92,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-29T07:55:16Z
-
 ## Module: azure-aa
 ## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.3.0)
 
@@ -116,8 +102,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-08-29T07:54:45Z
-
 ## Module: azure-nw
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v0.2.0)
 
@@ -127,8 +111,6 @@ folder: release_notes
 * update documentation ([#5](https://github.com/CloudNationHQ/terraform-azure-nw/issues/5)) ([1fc65f1](https://github.com/CloudNationHQ/terraform-azure-nw/commit/1fc65f1fe2e8c41143efe4926a5ae1a9dd95c539))
 
 ---
-
-**Published at:** 2024-08-29T07:54:13Z
 
 ## Module: azure-syn
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v0.6.0)
@@ -145,6 +127,4 @@ folder: release_notes
 * Sanitize go testing ([#20](https://github.com/CloudNationHQ/terraform-azure-syn/issues/20)) ([66016e1](https://github.com/CloudNationHQ/terraform-azure-syn/commit/66016e117a31ac38d8e798ca247ec693baf863eb))
 
 ---
-
-**Published at:** 2024-08-29T10:25:41Z
 

@@ -28,8 +28,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T08:23:44Z
-
 ## Module: azure-vnet
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v3.1.0)
 
@@ -39,8 +37,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#80](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/80)) ([fc58d91](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/fc58d9154ca249ef8ff04d94020f396763b956ec))
 
 ---
-
-**Published at:** 2024-09-24T07:58:49Z
 
 ## Module: azure-sa
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v2.0.0)
@@ -59,8 +55,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T10:28:52Z
 
 ## Module: azure-acr
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.0.0)
@@ -84,8 +78,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T11:43:28Z
-
 ## Module: azure-rg
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.0.0)
 
@@ -103,8 +95,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T07:54:23Z
 
 ## Module: azure-kv
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.0.0)
@@ -124,8 +114,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T09:29:38Z
-
 ## Module: azure-kv
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v1.1.0)
 
@@ -135,8 +123,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#62](https://github.com/CloudNationHQ/terraform-azure-kv/issues/62)) ([7be2e25](https://github.com/CloudNationHQ/terraform-azure-kv/commit/7be2e25af763d32051232c5a867d63a39804f996))
 
 ---
-
-**Published at:** 2024-09-24T09:14:32Z
 
 ## Module: azure-vm
 ## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.0.0)
@@ -157,8 +143,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T10:48:01Z
-
 ## Module: azure-cosmosdb
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.0.0)
 
@@ -176,8 +160,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T12:08:14Z
 
 ## Module: azure-bastion
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.0.0)
@@ -197,8 +179,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T12:17:55Z
-
 ## Module: azure-vwan
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v2.0.0)
 
@@ -216,8 +196,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T12:44:26Z
 
 ## Module: azure-psql
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v2.0.0)
@@ -237,8 +215,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T13:16:07Z
-
 ## Module: azure-pdns
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v2.0.0)
 
@@ -257,8 +233,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T12:58:14Z
-
 ## Module: azure-rbac
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v1.0.0)
 
@@ -276,8 +250,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T13:00:43Z
 
 ## Module: azure-pe
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.0.0)
@@ -301,8 +273,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T10:09:39Z
-
 ## Module: azure-ca
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.0.0)
 
@@ -320,8 +290,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T08:55:00Z
 
 ## Module: azure-func
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.0.0)
@@ -346,8 +314,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T14:17:04Z
-
 ## Module: azure-aa
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.0.0)
 
@@ -365,8 +331,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T08:37:50Z
 
 ## Module: azure-nw
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v1.0.0)
@@ -386,8 +350,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T09:52:58Z
-
 ## Module: azure-syn
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-syn/releases/tag/v1.0.0)
 
@@ -405,8 +367,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 1.0"`
 
 ---
-
-**Published at:** 2024-09-24T14:43:54Z
 
 ## Module: azure-plan
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-plan/releases/tag/v2.0.0)
@@ -426,8 +386,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T13:24:14Z
-
 ## Module: azure-dnspr
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.0.0)
 
@@ -445,8 +403,6 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T12:29:40Z
 
 ## Module: azure-redis
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v2.0.0)
@@ -466,8 +422,6 @@ folder: release_notes
 
 ---
 
-**Published at:** 2024-09-24T11:53:18Z
-
 ## Module: azure-fw
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.0.0)
 
@@ -485,6 +439,4 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 
 ---
-
-**Published at:** 2024-09-24T09:07:37Z
 
