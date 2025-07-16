@@ -19,23 +19,3 @@ folder: release_notes
 
 ---
 
-## Module: azure-vwan
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.7.0)
-
-
-### Features
-
-* naming variable is now optional and added tags property on several resources ([#24](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/24)) ([bab5a92](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/bab5a925c02494b6fe3a91b0a6363dbe2e59bfc6))
-
----
-
-## Module: azure-vwan
-## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.6.1)
-
-
-### Bug Fixes
-
-* fix conditional expression rule collection names ([#22](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/22)) ([4adbd1a](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/4adbd1a249a5472c8997a01b88efc86780fa1442))
-
----
-
