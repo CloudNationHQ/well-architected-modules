@@ -8,17 +8,6 @@ permalink: release_notes_20240918.html
 folder: release_notes
 ---
 
-## Module: azure-rg
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v1.1.0)
-
-
-### Features
-
-* add type definitions and simplified tests ([#31](https://github.com/CloudNationHQ/terraform-azure-rg/issues/31)) ([88dcdb0](https://github.com/CloudNationHQ/terraform-azure-rg/commit/88dcdb0fe19752ccdcdc9116ff956444209cb929))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#28](https://github.com/CloudNationHQ/terraform-azure-rg/issues/28)) ([679a1d9](https://github.com/CloudNationHQ/terraform-azure-rg/commit/679a1d9b6cf658e81e6efaa90c66c440c7befa53))
-
----
-
 ## Module: azure-vwan
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v1.0.0)
 

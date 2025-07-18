@@ -48,16 +48,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.2.0)
-
-
-### Features
-
-* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#37](https://github.com/CloudNationHQ/terraform-azure-rg/issues/37)) ([e0ca443](https://github.com/CloudNationHQ/terraform-azure-rg/commit/e0ca443aa18afb0bd0f4cbe705badf3c50de901d))
-
----
-
 ## Module: azure-kv
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.2.0)
 

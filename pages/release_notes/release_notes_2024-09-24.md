@@ -78,24 +78,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#32](https://github.com/CloudNationHQ/terraform-azure-rg/issues/32)) ([ae4bedc](https://github.com/CloudNationHQ/terraform-azure-rg/commit/ae4bedce18c0da8bb97f4345ce1a156280e33f48))
-
-### Upgrade from v1.1.0 to v2.0.0:
-
-- Update module reference to: `version = "~> 2.0"`
-
----
-
 ## Module: azure-kv
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.0.0)
 

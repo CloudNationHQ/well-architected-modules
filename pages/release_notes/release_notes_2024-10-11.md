@@ -52,17 +52,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.1.0)
-
-
-### Features
-
-* auto generated docs and refine makefile ([#35](https://github.com/CloudNationHQ/terraform-azure-rg/issues/35)) ([f13951b](https://github.com/CloudNationHQ/terraform-azure-rg/commit/f13951b5593b3f85e8856ff49114976a328457b7))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#34](https://github.com/CloudNationHQ/terraform-azure-rg/issues/34)) ([67a684b](https://github.com/CloudNationHQ/terraform-azure-rg/commit/67a684b4d4fe3048e83e62b4d1e0f6f1c491c2c6))
-
----
-
 ## Module: azure-kv
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.1.0)
 

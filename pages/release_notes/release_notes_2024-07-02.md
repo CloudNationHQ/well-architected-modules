@@ -70,17 +70,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.8.0)
-
-
-### Features
-
-* add issue template ([#22](https://github.com/CloudNationHQ/terraform-azure-rg/issues/22)) ([c370fe2](https://github.com/CloudNationHQ/terraform-azure-rg/commit/c370fe26d2cd0c50c20aab97c08fe89706189430))
-* create pull request template ([#19](https://github.com/CloudNationHQ/terraform-azure-rg/issues/19)) ([bb14c2e](https://github.com/CloudNationHQ/terraform-azure-rg/commit/bb14c2e3d77d38c627085ef6edf8b1f146b3c7a2))
-
----
-
 ## Module: azure-kv
 ## [0.12.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.12.0)
 

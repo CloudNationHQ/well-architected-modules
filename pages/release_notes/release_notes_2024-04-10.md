@@ -8,16 +8,6 @@ permalink: release_notes_20240410.html
 folder: release_notes
 ---
 
-## Module: azure-rg
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.7.0)
-
-
-### Features
-
-* resource group handling now conditionally includes a global parameter for existing groups ([#15](https://github.com/CloudNationHQ/terraform-azure-rg/issues/15)) ([c8d2901](https://github.com/CloudNationHQ/terraform-azure-rg/commit/c8d29013388ead5a8cbf77e75ac8cb740166ce5e))
-
----
-
 ## Module: azure-vm
 ## [1.13.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v1.13.0)
 

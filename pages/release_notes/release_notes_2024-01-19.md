@@ -32,16 +32,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.3.0)
-
-
-### Features
-
-* small refactor workflows ([#5](https://github.com/CloudNationHQ/terraform-azure-rg/issues/5)) ([a39df4f](https://github.com/CloudNationHQ/terraform-azure-rg/commit/a39df4f5406dc0244b04cab72a6a655e65f1f22d))
-
----
-
 ## Module: azure-kv
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v0.5.0)
 

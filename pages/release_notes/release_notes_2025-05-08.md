@@ -8,16 +8,6 @@ permalink: release_notes_20250508.html
 folder: release_notes
 ---
 
-## Module: azure-rg
-## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.6.0)
-
-
-### Features
-
-* replace deployment test code with module consumption and fix tags property idempotence ([#55](https://github.com/CloudNationHQ/terraform-azure-rg/issues/55)) ([d24e591](https://github.com/CloudNationHQ/terraform-azure-rg/commit/d24e59195d86992f5211cd9ee359bb6a1aa43f16))
-
----
-
 ## Module: azure-kv
 ## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v4.1.0)
 

@@ -18,16 +18,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.5.1)
-
-
-### Bug Fixes
-
-* fix submodule generation from makefile ([#52](https://github.com/CloudNationHQ/terraform-azure-rg/issues/52)) ([b7008a4](https://github.com/CloudNationHQ/terraform-azure-rg/commit/b7008a49adcf8efa18767cf0ef2e41588edfe42f))
-
----
-
 ## Module: azure-vwan
 ## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.2.0)
 
