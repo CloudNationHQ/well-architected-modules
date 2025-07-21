@@ -81,7 +81,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">allocation</td>
 <td markdown="span">infoblox</td>
 <td markdown="span">Terraform module which allocates infoblox networks used by workloads and accelerators..</td> 
-<td markdown="span">1.2.1</td>
+<td markdown="span">1.3.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-infoblox-allocation" target="_blank">Github repo allocation</a></td>
 </tr>
 
@@ -185,7 +185,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">dcr</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates data collection rule resources used by workloads and accelerators..</td> 
-<td markdown="span">2.3.0</td>
+<td markdown="span">2.3.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-dcr" target="_blank">Github repo dcr</a></td>
 </tr>
 
@@ -465,7 +465,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vm</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual machine resources used by workloads and accelerators..</td> 
-<td markdown="span">6.2.0</td>
+<td markdown="span">6.2.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vm" target="_blank">Github repo vm</a></td>
 </tr>
 
