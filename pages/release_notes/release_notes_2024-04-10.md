@@ -18,16 +18,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-vm
-## [1.13.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v1.13.0)
-
-
-### Features
-
-* add support for availability sets ([#100](https://github.com/CloudNationHQ/terraform-azure-vm/issues/100)) ([f03f280](https://github.com/CloudNationHQ/terraform-azure-vm/commit/f03f28075280e4e245c73ad0d8ac729b7c7da3bc))
-
----
-
 ## Module: azure-rsv
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v0.2.0)
 
