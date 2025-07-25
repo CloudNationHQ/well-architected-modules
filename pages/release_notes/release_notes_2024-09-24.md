@@ -28,16 +28,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-vnet
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v3.1.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#80](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/80)) ([fc58d91](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/fc58d9154ca249ef8ff04d94020f396763b956ec))
-
----
-
 ## Module: azure-sa
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v2.0.0)
 

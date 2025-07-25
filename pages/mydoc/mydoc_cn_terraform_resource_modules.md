@@ -361,7 +361,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">psql</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates postgresql resources used by workloads and accelerators..</td> 
-<td markdown="span">4.0.0</td>
+<td markdown="span">4.0.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-psql" target="_blank">Github repo psql</a></td>
 </tr>
 
@@ -369,7 +369,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">rbac</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which create rbac resources used by workloads and accelerators..</td> 
-<td markdown="span">2.3.0</td>
+<td markdown="span">2.3.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-rbac" target="_blank">Github repo rbac</a></td>
 </tr>
 
@@ -481,7 +481,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vnet</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual network resources used by workloads and accelerators..</td> 
-<td markdown="span">9.2.3</td>
+<td markdown="span">9.3.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnet" target="_blank">Github repo vnet</a></td>
 </tr>
 
@@ -489,7 +489,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vwan</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators..</td> 
-<td markdown="span">5.2.1</td>
+<td markdown="span">5.3.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vwan" target="_blank">Github repo vwan</a></td>
 </tr>
 
