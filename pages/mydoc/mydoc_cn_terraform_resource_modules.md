@@ -78,14 +78,6 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
-<td markdown="span">allocation</td>
-<td markdown="span">infoblox</td>
-<td markdown="span">Terraform module which allocates infoblox networks used by workloads and accelerators..</td> 
-<td markdown="span">1.3.0</td>
-<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-infoblox-allocation" target="_blank">Github repo allocation</a></td>
-</tr>
-
-<tr>
 <td markdown="span">apim</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates api manager resources used by workloads and accelerators..</td> 
@@ -321,7 +313,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">nw</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates network watcher resources used by workloads and accelerators..</td> 
-<td markdown="span">1.3.0</td>
+<td markdown="span">1.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-nw" target="_blank">Github repo nw</a></td>
 </tr>
 
@@ -505,5 +497,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 59
+<span class='total-modules'>**Total Modules:** 58
 </span>
