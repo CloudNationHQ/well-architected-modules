@@ -8,26 +8,6 @@ permalink: release_notes_20240924.html
 folder: release_notes
 ---
 
-## Module: azure-vnet
-## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v4.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#82](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/82)) ([88dfbce](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/88dfbcebedb6c0812ae66bda15e172c156b76c13))
-
-### Upgrade from v3.1.0 to v4.0.0:
-
-- Update module reference to: `version = "~> 4.0"`
-- Rename properties in vnet object:
-  - disable_bgp_route_propagation -> bgp_route_propagation_enabled
-
----
-
 ## Module: azure-sa
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v2.0.0)
 
