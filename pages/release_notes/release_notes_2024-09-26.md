@@ -8,16 +8,6 @@ permalink: release_notes_20240926.html
 folder: release_notes
 ---
 
-## Module: azure-vnet
-## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v4.0.1)
-
-
-### Bug Fixes
-
-* fix defaults private endpoint network policies ([#84](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/84)) ([f0258d5](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/f0258d57cd58c726b98829c4f5b5ddd61cd94536))
-
----
-
 ## Module: azure-acr
 ## [3.0.1](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.0.1)
 
