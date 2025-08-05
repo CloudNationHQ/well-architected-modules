@@ -334,6 +334,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">pim</td>
+<td markdown="span">azure</td>
+<td markdown="span">.</td> 
+<td markdown="span">1.0.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-pim" target="_blank">Github repo pim</a></td>
+</tr>
+
+<tr>
 <td markdown="span">pip</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates public ip resources used by workloads and accelerators..</td> 
@@ -473,7 +481,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vnet</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual network resources used by workloads and accelerators..</td> 
-<td markdown="span">9.3.2</td>
+<td markdown="span">9.3.3</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnet" target="_blank">Github repo vnet</a></td>
 </tr>
 
@@ -497,5 +505,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 58
+<span class='total-modules'>**Total Modules:** 59
 </span>
