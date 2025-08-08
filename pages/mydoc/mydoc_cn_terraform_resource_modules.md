@@ -49,7 +49,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">agw</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates application gateway resources used by workloads and accelerators..</td> 
-<td markdown="span">1.4.1</td>
+<td markdown="span">1.4.2</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-agw" target="_blank">Github repo agw</a></td>
 </tr>
 
