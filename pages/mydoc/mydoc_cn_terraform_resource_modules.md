@@ -246,6 +246,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">groups</td>
+<td markdown="span">azuread</td>
+<td markdown="span">Terraform module to manage Azure Active Directory (Entra ID) groups and group memberships using the AzureAD provider..</td> 
+<td markdown="span">1.0.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azuread-groups" target="_blank">Github repo groups</a></td>
+</tr>
+
+<tr>
 <td markdown="span">kv</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates keyvault resources used by workloads and accelerators..</td> 
@@ -393,7 +401,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">rsv</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which create recovery services vault resources used by workloads and accelerators..</td> 
-<td markdown="span">2.1.0</td>
+<td markdown="span">2.1.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-rsv" target="_blank">Github repo rsv</a></td>
 </tr>
 
@@ -505,5 +513,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 59
+<span class='total-modules'>**Total Modules:** 60
 </span>
