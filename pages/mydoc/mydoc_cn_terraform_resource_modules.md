@@ -481,7 +481,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vmss</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual machine scale set resources used by workloads and accelerators..</td> 
-<td markdown="span">1.3.0</td>
+<td markdown="span">2.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vmss" target="_blank">Github repo vmss</a></td>
 </tr>
 
