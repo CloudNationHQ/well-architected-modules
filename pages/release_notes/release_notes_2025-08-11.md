@@ -8,6 +8,21 @@ permalink: release_notes_20250811.html
 folder: release_notes
 ---
 
+## Module: azure-vmss
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* refactor module, add type definitions ([#62](https://github.com/CloudNationHQ/terraform-azure-vmss/issues/62))
+
+### Features
+
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#54](https://github.com/CloudNationHQ/terraform-azure-vmss/issues/54)) ([4194348](https://github.com/CloudNationHQ/terraform-azure-vmss/commit/41943484dd8ddf59870201198021eb649e719e46))
+* refactor module, add type definitions ([#62](https://github.com/CloudNationHQ/terraform-azure-vmss/issues/62)) ([3f89743](https://github.com/CloudNationHQ/terraform-azure-vmss/commit/3f8974366baed56d9605b0d33f3ed24963ebd55f))
+
+---
+
 ## Module: azure-aks
 ## [3.7.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.7.0)
 
