@@ -41,17 +41,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-aa
-## [2.7.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.7.0)
-
-
-### Features
-
-* add missing functionality ([#45](https://github.com/CloudNationHQ/terraform-azure-aa/issues/45)) ([53000f3](https://github.com/CloudNationHQ/terraform-azure-aa/commit/53000f33e0dce4bce76c8cb4e57e8e15e206c947))
-* **deps:** bump golang.org/x/net from 0.36.0 to 0.38.0 in /tests ([#46](https://github.com/CloudNationHQ/terraform-azure-aa/issues/46)) ([b29d674](https://github.com/CloudNationHQ/terraform-azure-aa/commit/b29d6746cea10115fe6459d4a92d3141c358a8b5))
-
----
-
 ## Module: azure-app
 ## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v4.0.1)
 

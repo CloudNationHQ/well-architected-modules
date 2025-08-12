@@ -28,23 +28,3 @@ folder: release_notes
 
 ---
 
-## Module: azure-wafwp
-## [1.0.3](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.3)
-
-
-### Bug Fixes
-
-* Add policy_settings object ([#9](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/9)) ([6719c42](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/6719c42b874a12b398c1caa706ca1c2f7b8bdec5))
-
----
-
-## Module: azure-wafwp
-## [1.0.2](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.2)
-
-
-### Bug Fixes
-
-* allow multiple managed rulsets ([#7](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/7)) ([2040193](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/20401935e8b65bf5c94c852ab4f8ea4747c8a06f))
-
----
-

@@ -48,16 +48,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-dnspr
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.2.0)
-
-
-### Features
-
-* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#14](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/14)) ([9c9c3e5](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/9c9c3e5de12cdb0b5233b6ef5720693e1db99e4b))
-
----
-
 ## Module: azure-redis
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v2.2.0)
 

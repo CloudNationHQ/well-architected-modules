@@ -19,15 +19,3 @@ folder: release_notes
 
 ---
 
-## Module: azure-rbac
-## 0.1.0 (2024-03-13)
-
-
-### Features
-
-* add initial resources ([999a8ce](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.1.0))
-* add initial workflows ([539db58](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/539db58706458191850eb781e20b90862d741d72))
-* **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#3](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/3)) ([5e8b1d3](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/5e8b1d3db56d2679dcbc51a8ab4285c09d6189dc))
-
----
-

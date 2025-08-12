@@ -36,29 +36,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-sql
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v1.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#50](https://github.com/CloudNationHQ/terraform-azure-sql/issues/50)) ([92fa56b](https://github.com/CloudNationHQ/terraform-azure-sql/commit/92fa56ba6aebb67f038f186190689c1f75ea861e))
-
-### Upgrade from v0.10.0 to v1.0.0:
-
-- Update module reference to: `version = "~> 1.0"`
-- Change properties in instance object:
-  - resourcegroup -> resource_group
-  - immutable_backups_enabled -> deprecated
-- Rename variable:
-  - resourcegroup -> resource_group
-
----
-
 ## Module: azure-aks
 ## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v2.1.0)
 
@@ -218,24 +195,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-dbw
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-dbw/releases/tag/v2.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#3](https://github.com/CloudNationHQ/terraform-azure-dbw/issues/3)) ([dcc98fb](https://github.com/CloudNationHQ/terraform-azure-dbw/commit/dcc98fbf90527b1c459f9cedb660c51c7fc6e9cb))
-
-### Upgrade from v1.0.0 to v2.0.0:
-
-- Update module reference to: `version = "~> 2.0"`
-
----
-
 ## Module: azure-pip
 ## [2.0.1](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.0.1)
 
@@ -315,34 +274,6 @@ folder: release_notes
 * upgrade azurerm provider to v4 ([#5](https://github.com/CloudNationHQ/terraform-azure-mag/issues/5)) ([aff5845](https://github.com/CloudNationHQ/terraform-azure-mag/commit/aff584593bb4a57477a26d6d8384250f04c7d508))
 
 ### Upgrade from v1.1.0 to v2.0.0:
-
-- Update module reference to: `version = "~> 2.0"`
-
----
-
-## Module: azure-apim
-## [2.0.1](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.0.1)
-
-
-### Bug Fixes
-
-* Global tags and cleanup naming suffixes ([#6](https://github.com/CloudNationHQ/terraform-azure-apim/issues/6)) ([d62dc62](https://github.com/CloudNationHQ/terraform-azure-apim/commit/d62dc62f3fd26739bde1de1a97040f8b6acef6c2))
-
----
-
-## Module: azure-apim
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#4](https://github.com/CloudNationHQ/terraform-azure-apim/issues/4)) ([33551be](https://github.com/CloudNationHQ/terraform-azure-apim/commit/33551be4216fbe055c29e8524c4bee2793580700))
-
-### Upgrade from v1.0.0 to v2.0.0:
 
 - Update module reference to: `version = "~> 2.0"`
 

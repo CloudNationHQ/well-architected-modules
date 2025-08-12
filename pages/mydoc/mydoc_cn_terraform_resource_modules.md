@@ -462,6 +462,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">users</td>
+<td markdown="span">azuread</td>
+<td markdown="span">Terraform module to manage Azure Active Directory (Entra ID) users and its attributes using the AzureAD provider..</td> 
+<td markdown="span">1.0.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azuread-users" target="_blank">Github repo users</a></td>
+</tr>
+
+<tr>
 <td markdown="span">vgw</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates vpn resources used by workloads and accelerators..</td> 
@@ -513,5 +521,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 60
+<span class='total-modules'>**Total Modules:** 61
 </span>

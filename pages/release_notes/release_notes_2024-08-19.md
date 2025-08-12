@@ -8,26 +8,6 @@ permalink: release_notes_20240819.html
 folder: release_notes
 ---
 
-## Module: azure-dnspr
-## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v1.0.1)
-
-
-### Bug Fixes
-
-* fix some usage module references ([#3](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/3)) ([68accba](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/68accba585ff9e2dba65bcc1be069e32318dc9f2))
-
----
-
-## Module: azure-dnspr
-## 1.0.0 (2024-08-19)
-
-
-### Features
-
-* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v1.0.0)) ([054061a](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/054061a57eb0b873f2b3d9c6957a804cc1a3aa44))
-
----
-
 ## Module: azure-dcr
 ## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-dcr/releases/tag/v1.0.1)
 

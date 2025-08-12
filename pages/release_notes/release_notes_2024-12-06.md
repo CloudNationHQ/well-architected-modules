@@ -38,16 +38,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-pe
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.3.0)
-
-
-### Features
-
-* small refactor, added type definitions and incremented module versions ([#25](https://github.com/CloudNationHQ/terraform-azure-pe/issues/25)) ([ee2414f](https://github.com/CloudNationHQ/terraform-azure-pe/commit/ee2414f7e6a6923e1321e4846fd3595895ae94f1))
-
----
-
 ## Module: azure-rsv
 ## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.4.1)
 
