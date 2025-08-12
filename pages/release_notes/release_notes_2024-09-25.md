@@ -59,6 +59,43 @@ folder: release_notes
 
 ---
 
+## Module: azure-aks
+## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v2.1.0)
+
+
+### Features
+
+* add node soak duration and drain timout in minutes support ([#92](https://github.com/CloudNationHQ/terraform-azure-aks/issues/92)) ([63f7fa5](https://github.com/CloudNationHQ/terraform-azure-aks/commit/63f7fa59486dbaa8601baddf6e5e98053aea958b))
+
+---
+
+## Module: azure-aks
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#89](https://github.com/CloudNationHQ/terraform-azure-aks/issues/89)) ([b003a3a](https://github.com/CloudNationHQ/terraform-azure-aks/commit/b003a3a29cf4b5c6a775fac8c438c23f7c646c12))
+
+### Upgrade from v1.0.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
+- Changed properties in cluster object:
+  - automatic_channel_upgrade -> automatic_upgrade_channel
+  - node_os_channel_upgrade -> node_os_upgrade_channel
+  - azure_active_directory_role_based_access_control.managed -> removed
+  - network_profile.outbound_ip_prefix_ids -> removed
+  - network_profile.outbound_ip_address_ids -> removed
+  - enable_auto_scaling -> auto_scaling_enabled
+  - enable_host_encryption -> host_encryption_enabled
+  - enable_node_public_ip -> node_public_ip_enabled
+
+---
+
 ## Module: azure-vwan
 ## [2.0.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v2.0.1)
 
@@ -130,6 +167,16 @@ folder: release_notes
   - resourcegroup -> resource_group
 - Rename variable:
   - resourcegroup -> resource_group
+
+---
+
+## Module: azure-ca
+## [2.0.1](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.0.1)
+
+
+### Bug Fixes
+
+* global tags and examples update ([#35](https://github.com/CloudNationHQ/terraform-azure-ca/issues/35)) ([eaacb43](https://github.com/CloudNationHQ/terraform-azure-ca/commit/eaacb435b30baae893dd51fb108f6fc1a0bb482b))
 
 ---
 
@@ -252,6 +299,24 @@ folder: release_notes
 - Update module reference to: `version = "~> 2.0"`
 - Rename variable in submodule ip-groups:
   - resourcegroup -> resource_group
+
+---
+
+## Module: azure-mag
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#5](https://github.com/CloudNationHQ/terraform-azure-mag/issues/5)) ([aff5845](https://github.com/CloudNationHQ/terraform-azure-mag/commit/aff584593bb4a57477a26d6d8384250f04c7d508))
+
+### Upgrade from v1.1.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
 
 ---
 

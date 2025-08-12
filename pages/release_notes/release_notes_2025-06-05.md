@@ -8,6 +8,16 @@ permalink: release_notes_20250605.html
 folder: release_notes
 ---
 
+## Module: azure-mysql
+## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v3.1.1)
+
+
+### Bug Fixes
+
+* Change default values for create_mode and version ([#37](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/37)) ([0748e96](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/0748e96c2570f7d936529e5eeaaef018ef272503))
+
+---
+
 ## Module: azure-fwp
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v3.0.0)
 
@@ -27,6 +37,26 @@ folder: release_notes
 - Update module reference to: `version = "~> 3.0"`
 - The property and variable resource_group is renamed to resource_group_name
 - The user assigned identity resource is removed, there is a dedicated module for this
+
+---
+
+## Module: azure-wafwp
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* The data structure changed, causing a recreate on existing resources.
+
+### Features
+
+* small refactor ([#26](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/26)) ([3fba466](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/3fba466d993e315f81121d4819e8c27bcd751e1c))
+
+### Upgrade from v1.3.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
+- The property and variable resource_group is renamed to resource_group_name
+- The rule set version default is changed. It should be set in the config now, since we support different types
 
 ---
 

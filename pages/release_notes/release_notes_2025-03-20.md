@@ -8,6 +8,17 @@ permalink: release_notes_20250320.html
 folder: release_notes
 ---
 
+## Module: azure-aa
+## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.6.0)
+
+
+### Features
+
+* add missing functionality runbooks ([#43](https://github.com/CloudNationHQ/terraform-azure-aa/issues/43)) ([73a2524](https://github.com/CloudNationHQ/terraform-azure-aa/commit/73a2524a02dc52bec0d0e4a5c5879095305a3cb3))
+* **deps:** bump golang.org/x/net from 0.33.0 to 0.36.0 in /tests ([#42](https://github.com/CloudNationHQ/terraform-azure-aa/issues/42)) ([24b738b](https://github.com/CloudNationHQ/terraform-azure-aa/commit/24b738bcdac14bca9cf1b607dae2165a31bd21ba))
+
+---
+
 ## Module: azure-pip
 ## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v2.6.0)
 

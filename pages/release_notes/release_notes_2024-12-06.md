@@ -28,6 +28,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-cosmosdb
+## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.1.0)
+
+
+### Features
+
+* add type definitions all usages ([#68](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/68)) ([3b0ea42](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/3b0ea420c53728e144135aef467960cf51353848))
+
+---
+
 ## Module: azure-pe
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.3.0)
 

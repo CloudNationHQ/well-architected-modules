@@ -48,6 +48,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-rg
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.2.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#37](https://github.com/CloudNationHQ/terraform-azure-rg/issues/37)) ([e0ca443](https://github.com/CloudNationHQ/terraform-azure-rg/commit/e0ca443aa18afb0bd0f4cbe705badf3c50de901d))
+
+---
+
 ## Module: azure-kv
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.2.0)
 
@@ -85,6 +95,16 @@ folder: release_notes
 ### Features
 
 * enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#56](https://github.com/CloudNationHQ/terraform-azure-sql/issues/56)) ([a60236b](https://github.com/CloudNationHQ/terraform-azure-sql/commit/a60236b4893443c7a53022766d1945f4fcb6f2dd))
+
+---
+
+## Module: azure-aks
+## [3.5.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.5.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#114](https://github.com/CloudNationHQ/terraform-azure-aks/issues/114)) ([f10f51a](https://github.com/CloudNationHQ/terraform-azure-aks/commit/f10f51aca126c6b9497304742799e337d21e99d1))
 
 ---
 
@@ -188,6 +208,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-aa
+## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.4.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#29](https://github.com/CloudNationHQ/terraform-azure-aa/issues/29)) ([505b067](https://github.com/CloudNationHQ/terraform-azure-aa/commit/505b067b602a11fc299098e165c4b1aff2e9b1a0))
+
+---
+
 ## Module: azure-nw
 ## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v1.2.0)
 
@@ -215,6 +245,16 @@ folder: release_notes
 ### Features
 
 * enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#14](https://github.com/CloudNationHQ/terraform-azure-plan/issues/14)) ([3489ae5](https://github.com/CloudNationHQ/terraform-azure-plan/commit/3489ae5a2e469c4bad684979bdf0520c0de1ad2b))
+
+---
+
+## Module: azure-app
+## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.3.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#20](https://github.com/CloudNationHQ/terraform-azure-app/issues/20)) ([c4c8ea5](https://github.com/CloudNationHQ/terraform-azure-app/commit/c4c8ea560d0341c0472bac7e98eb583ebaad2fdf))
 
 ---
 
@@ -248,6 +288,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-fw
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.2.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#17](https://github.com/CloudNationHQ/terraform-azure-fw/issues/17)) ([c4c0f83](https://github.com/CloudNationHQ/terraform-azure-fw/commit/c4c0f83fb6aacd84eb3b85cfd86d1dbfee55bd5d))
+
+---
+
 ## Module: azure-appi
 ## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.2.0)
 
@@ -265,6 +315,16 @@ folder: release_notes
 ### Features
 
 * enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#9](https://github.com/CloudNationHQ/terraform-azure-fwp/issues/9)) ([19142dc](https://github.com/CloudNationHQ/terraform-azure-fwp/commit/19142dc05bec0f0bcf2b50c2493896be7dce7110))
+
+---
+
+## Module: azure-mag
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.2.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#10](https://github.com/CloudNationHQ/terraform-azure-mag/issues/10)) ([18f9e07](https://github.com/CloudNationHQ/terraform-azure-mag/commit/18f9e07b7f989f9212800f30b972a617c2487cfa))
 
 ---
 
@@ -300,6 +360,17 @@ folder: release_notes
 ### Features
 
 * enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#6](https://github.com/CloudNationHQ/terraform-azure-lb/issues/6)) ([11b0c5e](https://github.com/CloudNationHQ/terraform-azure-lb/commit/11b0c5ea0efad1e952ae126e69cf82094443049c))
+
+---
+
+## Module: azure-fd
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-fd/releases/tag/v1.1.0)
+
+
+### Features
+
+* add some missing properties ([#4](https://github.com/CloudNationHQ/terraform-azure-fd/issues/4)) ([dd533c7](https://github.com/CloudNationHQ/terraform-azure-fd/commit/dd533c78c401752bd97f383a97cfc0551c9637f1))
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#6](https://github.com/CloudNationHQ/terraform-azure-fd/issues/6)) ([e5c233d](https://github.com/CloudNationHQ/terraform-azure-fd/commit/e5c233d1809b213afc533aea7783c1e553b85145))
 
 ---
 

@@ -111,6 +111,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-aa
+## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.4.1)
+
+
+### Bug Fixes
+
+* fix submodule documentation generation ([#31](https://github.com/CloudNationHQ/terraform-azure-aa/issues/31)) ([219bf70](https://github.com/CloudNationHQ/terraform-azure-aa/commit/219bf7012ff89c5ce05112da1631ca7522b40238))
+
+---
+
 ## Module: azure-sqlmi
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.3.0)
 
@@ -118,6 +128,26 @@ folder: release_notes
 ### Features
 
 * add ad admin support ([#12](https://github.com/CloudNationHQ/terraform-azure-sqlmi/issues/12)) ([9af4896](https://github.com/CloudNationHQ/terraform-azure-sqlmi/commit/9af4896ecd075f9e2d39105e9c5c9408df4fdd86))
+
+---
+
+## Module: azure-wafwp
+## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.1)
+
+
+### Bug Fixes
+
+* fix module references ([#4](https://github.com/CloudNationHQ/terraform-azure-wafwp/issues/4)) ([fca726c](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/fca726cbcae9afb3bed9bb08fb858a96a9bdcec0))
+
+---
+
+## Module: azure-wafwp
+## 1.0.0 (2024-11-13)
+
+
+### Features
+
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-wafwp/releases/tag/v1.0.0)) ([5e8827d](https://github.com/CloudNationHQ/terraform-azure-wafwp/commit/5e8827d9db2916ed20ca7aabce2bf50c2eb442e5))
 
 ---
 

@@ -48,6 +48,24 @@ folder: release_notes
 
 ---
 
+## Module: azure-rg
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#32](https://github.com/CloudNationHQ/terraform-azure-rg/issues/32)) ([ae4bedc](https://github.com/CloudNationHQ/terraform-azure-rg/commit/ae4bedce18c0da8bb97f4345ce1a156280e33f48))
+
+### Upgrade from v1.1.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
+
+---
+
 ## Module: azure-kv
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v2.0.0)
 
@@ -92,6 +110,24 @@ folder: release_notes
 ### Upgrade from v3.2.0 to v4.0.0:
 
 - Update module reference to: `version = "~> 4.0"`
+
+---
+
+## Module: azure-cosmosdb
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#57](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/57)) ([bc9a26e](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/bc9a26e6e23ac01047f8460ec3691f5c8ece6210))
+
+### Upgrade from v1.1.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
 
 ---
 
@@ -207,6 +243,24 @@ folder: release_notes
 
 ---
 
+## Module: azure-ca
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#33](https://github.com/CloudNationHQ/terraform-azure-ca/issues/33)) ([bfdbb44](https://github.com/CloudNationHQ/terraform-azure-ca/commit/bfdbb444dae770afee7669facde976a35b02d1bb))
+
+### Upgrade from v1.1.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
+
+---
+
 ## Module: azure-func
 ## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-func/releases/tag/v1.0.0)
 
@@ -227,6 +281,24 @@ folder: release_notes
   - resourcegroup -> resource_group
 - Rename variable (optional):
   - resourcegroup -> resource_group
+
+---
+
+## Module: azure-aa
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#18](https://github.com/CloudNationHQ/terraform-azure-aa/issues/18)) ([afb66e6](https://github.com/CloudNationHQ/terraform-azure-aa/commit/afb66e604b93644f80066c4dd99dd4abb0fc03fc))
+
+### Upgrade from v1.0.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
 
 ---
 
@@ -284,6 +356,24 @@ folder: release_notes
 
 ---
 
+## Module: azure-dnspr
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#9](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/9)) ([8d7f0c6](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/8d7f0c6f476767f4f88a3654d83c46a75f15e729))
+
+### Upgrade from v1.1.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
+
+---
+
 ## Module: azure-redis
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-redis/releases/tag/v2.0.0)
 
@@ -297,6 +387,24 @@ folder: release_notes
 * upgrade azurerm provider to v4 ([#9](https://github.com/CloudNationHQ/terraform-azure-redis/issues/9)) ([67da887](https://github.com/CloudNationHQ/terraform-azure-redis/commit/67da887dae373596e8a599be3336fe939e89c686))
 
 ### Upgrade from v1.0.2 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
+
+---
+
+## Module: azure-fw
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
+
+### Features
+
+* upgrade azurerm provider to v4 ([#12](https://github.com/CloudNationHQ/terraform-azure-fw/issues/12)) ([f7fbb98](https://github.com/CloudNationHQ/terraform-azure-fw/commit/f7fbb98c2798336402676f626a3180879aff972f))
+
+### Upgrade from v1.0.3 to v2.0.0:
 
 - Update module reference to: `version = "~> 2.0"`
 
