@@ -18,16 +18,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [2.5.1](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.5.1)
-
-
-### Bug Fixes
-
-* fix submodule generation from makefile ([#52](https://github.com/CloudNationHQ/terraform-azure-rg/issues/52)) ([b7008a4](https://github.com/CloudNationHQ/terraform-azure-rg/commit/b7008a49adcf8efa18767cf0ef2e41588edfe42f))
-
----
-
 ## Module: azure-vwan
 ## [4.2.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v4.2.0)
 
@@ -46,26 +36,6 @@ folder: release_notes
 ### Bug Fixes
 
 * fix submodule generation from makefile ([#48](https://github.com/CloudNationHQ/terraform-azure-func/issues/48)) ([23999f9](https://github.com/CloudNationHQ/terraform-azure-func/commit/23999f972ae49e93093150e03eab9a5d9764e654))
-
----
-
-## Module: azure-app
-## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v3.1.1)
-
-
-### Bug Fixes
-
-* fix submodule generation from makefile ([#36](https://github.com/CloudNationHQ/terraform-azure-app/issues/36)) ([1ca3728](https://github.com/CloudNationHQ/terraform-azure-app/commit/1ca3728c402885240699ef7580393430264bdea8))
-
----
-
-## Module: azure-fw
-## [2.5.2](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.5.2)
-
-
-### Bug Fixes
-
-* fix submodule generation from makefile ([#35](https://github.com/CloudNationHQ/terraform-azure-fw/issues/35)) ([d017daa](https://github.com/CloudNationHQ/terraform-azure-fw/commit/d017daae48067a784345232ced614cdc8120266e))
 
 ---
 

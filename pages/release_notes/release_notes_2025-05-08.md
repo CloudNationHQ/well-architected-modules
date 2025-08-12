@@ -8,16 +8,6 @@ permalink: release_notes_20250508.html
 folder: release_notes
 ---
 
-## Module: azure-rg
-## [2.6.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.6.0)
-
-
-### Features
-
-* replace deployment test code with module consumption and fix tags property idempotence ([#55](https://github.com/CloudNationHQ/terraform-azure-rg/issues/55)) ([d24e591](https://github.com/CloudNationHQ/terraform-azure-rg/commit/d24e59195d86992f5211cd9ee359bb6a1aa43f16))
-
----
-
 ## Module: azure-kv
 ## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-kv/releases/tag/v4.1.0)
 
@@ -41,16 +31,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-app
-## [4.0.1](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v4.0.1)
-
-
-### Bug Fixes
-
-* remove sequential entry in makefile ([#41](https://github.com/CloudNationHQ/terraform-azure-app/issues/41)) ([1009359](https://github.com/CloudNationHQ/terraform-azure-app/commit/1009359990a05b716195fc43ee201cbcc03df638))
-
----
-
 ## Module: azure-pip
 ## [4.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v4.0.0)
 
@@ -66,25 +46,6 @@ folder: release_notes
 ### Upgrade from v3.0.0 to v4.0.0:
 
 - Update module reference to: `version = "~> 4.0"`
-- The property and variable resource_group is renamed to resource_group_name
-
----
-
-## Module: azure-fw
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v3.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* The data structure changed, causing a recreate on existing resources.
-
-### Features
-
-* small refactor ([#38](https://github.com/CloudNationHQ/terraform-azure-fw/issues/38)) ([3b9d55b](https://github.com/CloudNationHQ/terraform-azure-fw/commit/3b9d55b4b864fc14c0226c81e51d1278b6370f3e))
-
-### Upgrade from v2.5.2 to v3.0.0:
-
-- Update module reference to: `version = "~> 3.0"`
 - The property and variable resource_group is renamed to resource_group_name
 
 ---

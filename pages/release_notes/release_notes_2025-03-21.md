@@ -8,16 +8,6 @@ permalink: release_notes_20250321.html
 folder: release_notes
 ---
 
-## Module: azure-cosmosdb
-## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.4.0)
-
-
-### Features
-
-* enhance cosmosdb configuration with autoscale and analytical storage options ([#85](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/85)) ([3084552](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/3084552e3f2e075c713b0fbb29432621279a9c43))
-
----
-
 ## Module: azure-rsv
 ## [1.6.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.6.0)
 

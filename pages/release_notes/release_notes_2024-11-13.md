@@ -61,6 +61,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-acr
+## [3.2.1](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.2.1)
+
+
+### Bug Fixes
+
+* fix submodule documentation generation ([#72](https://github.com/CloudNationHQ/terraform-azure-acr/issues/72)) ([37eddce](https://github.com/CloudNationHQ/terraform-azure-acr/commit/37eddced492540efa769ae6696f8e3e9f21dbec6))
+
+---
+
 ## Module: azure-vm
 ## [4.2.1](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v4.2.1)
 

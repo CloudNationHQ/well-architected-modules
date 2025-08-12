@@ -21,6 +21,18 @@ folder: release_notes
 
 ---
 
+## Module: azure-acr
+## [4.1.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v4.1.0)
+
+
+### Features
+
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#80](https://github.com/CloudNationHQ/terraform-azure-acr/issues/80)) ([2ccdee4](https://github.com/CloudNationHQ/terraform-azure-acr/commit/2ccdee4f5d9489e720d70aad92e38f2c2d1f5d3f))
+* **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#82](https://github.com/CloudNationHQ/terraform-azure-acr/issues/82)) ([4c77a19](https://github.com/CloudNationHQ/terraform-azure-acr/commit/4c77a19deab46e3f702a125e9289361b64c5aada))
+* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#83](https://github.com/CloudNationHQ/terraform-azure-acr/issues/83)) ([0b01ad9](https://github.com/CloudNationHQ/terraform-azure-acr/commit/0b01ad9419bc6f5c5fc21d17f8902088577bd5c3))
+
+---
+
 ## Module: azure-naming
 ## [0.23.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.23.0)
 
@@ -68,16 +80,16 @@ folder: release_notes
 
 ---
 
-## Module: azure-cosmosdb
-## [3.2.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v3.2.0)
+## Module: azure-sql
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v1.3.0)
 
 
 ### Features
 
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#71](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/71)) ([4ac2868](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/4ac28681ff34381ce0f57f6557422bc1e96cf608))
-* **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#74](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/74)) ([43e1b35](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/43e1b35c735af5e50544392dfa38d5df9ff3643f))
-* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#75](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/75)) ([9e361ef](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/9e361ef11741e419dc49d4745a8395bb7c22b639))
-* remove temporary files when deployment tests fails ([#72](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/72)) ([b34b21c](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/b34b21c7679e8a3f71f754b84077f069b2914147))
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#59](https://github.com/CloudNationHQ/terraform-azure-sql/issues/59)) ([d594a52](https://github.com/CloudNationHQ/terraform-azure-sql/commit/d594a52a4ae888a18cdf62074c44d628f93fef92))
+* **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#62](https://github.com/CloudNationHQ/terraform-azure-sql/issues/62)) ([4c72a54](https://github.com/CloudNationHQ/terraform-azure-sql/commit/4c72a548dff1971db48ed05199db7acb71658e7f))
+* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#63](https://github.com/CloudNationHQ/terraform-azure-sql/issues/63)) ([6b2442b](https://github.com/CloudNationHQ/terraform-azure-sql/commit/6b2442bc90102555063379ca5daefe70c5586da4))
+* remove temporary files when deployment tests fails ([#60](https://github.com/CloudNationHQ/terraform-azure-sql/issues/60)) ([a2320bc](https://github.com/CloudNationHQ/terraform-azure-sql/commit/a2320bc7e1091e12a5a59eadbbecf3560017fdc2))
 
 ---
 
@@ -91,18 +103,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.21.0 to 0.31.0 in /tests ([#72](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/72)) ([1e90b5f](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/1e90b5f6764ccf4a5d8da9fe9eb31d44241d1e6a))
 * **deps:** bump golang.org/x/net from 0.23.0 to 0.33.0 in /tests ([#73](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/73)) ([ae2a99b](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/ae2a99b67b605a91cc83fa475be82ffc573171e3))
 * remove temporary files when deployment tests fails ([#70](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/70)) ([b4c7466](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/b4c74662e549d3a4216567795c7e4fd8ff835006))
-
----
-
-## Module: azure-aks
-## [3.6.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.6.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#118](https://github.com/CloudNationHQ/terraform-azure-aks/issues/118)) ([cbb1532](https://github.com/CloudNationHQ/terraform-azure-aks/commit/cbb153296afa2eb25088ea413c91fd4533a5d4a0))
-* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#121](https://github.com/CloudNationHQ/terraform-azure-aks/issues/121)) ([2cef183](https://github.com/CloudNationHQ/terraform-azure-aks/commit/2cef18325b4ef2340c638e9ec14a69ac73f70edc))
-* remove temporary files when deployment tests fails ([#119](https://github.com/CloudNationHQ/terraform-azure-aks/issues/119)) ([1dfa021](https://github.com/CloudNationHQ/terraform-azure-aks/commit/1dfa0214cc10dc407119175b9de21f9773aae276))
 
 ---
 
@@ -154,6 +154,29 @@ folder: release_notes
 
 ---
 
+## Module: azure-pe
+## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.1)
+
+
+### Bug Fixes
+
+* Make location optional on main level ([#33](https://github.com/CloudNationHQ/terraform-azure-pe/issues/33)) ([8e0e585](https://github.com/CloudNationHQ/terraform-azure-pe/commit/8e0e585ff79b887b75538c46b6dc7adb815e9ed5))
+
+---
+
+## Module: azure-pe
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.4.0)
+
+
+### Features
+
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#29](https://github.com/CloudNationHQ/terraform-azure-pe/issues/29)) ([1ed3deb](https://github.com/CloudNationHQ/terraform-azure-pe/commit/1ed3deb5f84d28dcb8ca60a3fce16dd24ec7551b))
+* **deps:** bump golang.org/x/crypto from 0.21.0 to 0.31.0 in /tests ([#27](https://github.com/CloudNationHQ/terraform-azure-pe/issues/27)) ([77f2868](https://github.com/CloudNationHQ/terraform-azure-pe/commit/77f28689ef5adf768b6381bc2140afd58d54102d))
+* **deps:** bump golang.org/x/net from 0.23.0 to 0.33.0 in /tests ([#32](https://github.com/CloudNationHQ/terraform-azure-pe/issues/32)) ([0eb3977](https://github.com/CloudNationHQ/terraform-azure-pe/commit/0eb3977f5d3225b78384f1e14a11d1dc81104007))
+* remove temporary files when deployment tests fails ([#30](https://github.com/CloudNationHQ/terraform-azure-pe/issues/30)) ([d36e1af](https://github.com/CloudNationHQ/terraform-azure-pe/commit/d36e1afd739b1ef1d5ea40751dd4ea08ec5aba1e))
+
+---
+
 ## Module: azure-rsv
 ## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.5.0)
 
@@ -164,19 +187,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#42](https://github.com/CloudNationHQ/terraform-azure-rsv/issues/42)) ([9b68847](https://github.com/CloudNationHQ/terraform-azure-rsv/commit/9b688471fa490e0824d3104a109c4249af6ed4f7))
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#43](https://github.com/CloudNationHQ/terraform-azure-rsv/issues/43)) ([979f04c](https://github.com/CloudNationHQ/terraform-azure-rsv/commit/979f04ccb63a56d1f3c5185dd879ca483560bb3e))
 * remove temporary files when deployment tests fails ([#40](https://github.com/CloudNationHQ/terraform-azure-rsv/issues/40)) ([ab88644](https://github.com/CloudNationHQ/terraform-azure-rsv/commit/ab88644c78a6e768cdf683431f32797288f23b98))
-
----
-
-## Module: azure-ca
-## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v3.1.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#50](https://github.com/CloudNationHQ/terraform-azure-ca/issues/50)) ([886cebb](https://github.com/CloudNationHQ/terraform-azure-ca/commit/886cebb2d73de9ed9473d04ce10d80ca7a38964e))
-* **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#53](https://github.com/CloudNationHQ/terraform-azure-ca/issues/53)) ([3ba4a6d](https://github.com/CloudNationHQ/terraform-azure-ca/commit/3ba4a6d7dfacecfef7bf8b7f7c08979b4434dd97))
-* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#54](https://github.com/CloudNationHQ/terraform-azure-ca/issues/54)) ([b0004da](https://github.com/CloudNationHQ/terraform-azure-ca/commit/b0004dabf1c80ed0c6e457e5f7cf42c6dd5d5738))
-* small refactor testing ([#51](https://github.com/CloudNationHQ/terraform-azure-ca/issues/51)) ([4e335bc](https://github.com/CloudNationHQ/terraform-azure-ca/commit/4e335bc6a384916bdf160e32ca4b8f4b3b182327))
 
 ---
 
@@ -203,32 +213,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#35](https://github.com/CloudNationHQ/terraform-azure-syn/issues/35)) ([dc418ba](https://github.com/CloudNationHQ/terraform-azure-syn/commit/dc418bae543dca4dc16b6343dd12144b69f3b0f1))
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#36](https://github.com/CloudNationHQ/terraform-azure-syn/issues/36)) ([66386a8](https://github.com/CloudNationHQ/terraform-azure-syn/commit/66386a8b3c70e8f9c2909705603475f06c604603))
 * remove temporary files when deployment tests fails ([#33](https://github.com/CloudNationHQ/terraform-azure-syn/issues/33)) ([a20ada8](https://github.com/CloudNationHQ/terraform-azure-syn/commit/a20ada860989da449696c6475a8c9a38848c8917))
-
----
-
-## Module: azure-mysql
-## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v1.2.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#19](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/19)) ([1371d58](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/1371d5838390cd202964b296b84a15bc6994020f))
-* **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#22](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/22)) ([a70c1d7](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/a70c1d7873cd822af27f08b496e514a00dabaf45))
-* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#23](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/23)) ([29998d1](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/29998d1a5c9c3e1af66cb2dbee998750bd084f99))
-* remove temporary files when deployment tests fails ([#20](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/20)) ([9072f3f](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/9072f3f3bfc5143b6c3d60d91bde33251020d3c1))
-
----
-
-## Module: azure-app
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v2.4.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#24](https://github.com/CloudNationHQ/terraform-azure-app/issues/24)) ([39fb401](https://github.com/CloudNationHQ/terraform-azure-app/commit/39fb401b26d9ed3717ee62c9b005fb12ed2758b1))
-* **deps:** bump golang.org/x/crypto from 0.21.0 to 0.31.0 in /tests ([#22](https://github.com/CloudNationHQ/terraform-azure-app/issues/22)) ([86717f4](https://github.com/CloudNationHQ/terraform-azure-app/commit/86717f4917879e249a5cea909a95a455a79070f2))
-* **deps:** bump golang.org/x/net from 0.23.0 to 0.33.0 in /tests ([#27](https://github.com/CloudNationHQ/terraform-azure-app/issues/27)) ([1263108](https://github.com/CloudNationHQ/terraform-azure-app/commit/1263108170c32073f5e3c7a8378c71a1aa543097))
-* remove temporary files when deployment tests fails ([#25](https://github.com/CloudNationHQ/terraform-azure-app/issues/25)) ([f997d04](https://github.com/CloudNationHQ/terraform-azure-app/commit/f997d0446b42752c964033e10754ca73b93f3ee9))
 
 ---
 
@@ -271,18 +255,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-fw
-## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.3.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#20](https://github.com/CloudNationHQ/terraform-azure-fw/issues/20)) ([dcd91c8](https://github.com/CloudNationHQ/terraform-azure-fw/commit/dcd91c8c3e70836dfb9ab243c449a1de1ebc328a))
-* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#23](https://github.com/CloudNationHQ/terraform-azure-fw/issues/23)) ([da4c6d8](https://github.com/CloudNationHQ/terraform-azure-fw/commit/da4c6d8c5d6e372d448d8b01a8340b83aa3fc657))
-* remove temporary files when deployment tests fails ([#21](https://github.com/CloudNationHQ/terraform-azure-fw/issues/21)) ([573f27f](https://github.com/CloudNationHQ/terraform-azure-fw/commit/573f27fdc2d4e46e93e0e7a5e2116e52316b4f0a))
-
----
-
 ## Module: azure-fwp
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v2.3.0)
 
@@ -296,16 +268,13 @@ folder: release_notes
 
 ---
 
-## Module: azure-mag
-## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-mag/releases/tag/v2.3.0)
+## Module: azure-apim
+## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.3.0)
 
 
 ### Features
 
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#14](https://github.com/CloudNationHQ/terraform-azure-mag/issues/14)) ([bd819c7](https://github.com/CloudNationHQ/terraform-azure-mag/commit/bd819c72257ec339ad2f1f05a67de31cb81e8e56))
-* **deps:** bump golang.org/x/crypto from 0.21.0 to 0.31.0 in /tests ([#12](https://github.com/CloudNationHQ/terraform-azure-mag/issues/12)) ([083a9ab](https://github.com/CloudNationHQ/terraform-azure-mag/commit/083a9ab335ca3c1b307da047e4545196646b1220))
-* **deps:** bump golang.org/x/net from 0.23.0 to 0.33.0 in /tests ([#17](https://github.com/CloudNationHQ/terraform-azure-mag/issues/17)) ([7ef56a3](https://github.com/CloudNationHQ/terraform-azure-mag/commit/7ef56a326d62518791d45f28ed370da721ade540))
-* remove temporary files when deployment tests fails ([#15](https://github.com/CloudNationHQ/terraform-azure-mag/issues/15)) ([53a6f3e](https://github.com/CloudNationHQ/terraform-azure-mag/commit/53a6f3e496f6ff810a4b2ef9f5e151c6a935c4e2))
+* remove temporary files when deployment tests fails ([#12](https://github.com/CloudNationHQ/terraform-azure-apim/issues/12)) ([543c1d5](https://github.com/CloudNationHQ/terraform-azure-apim/commit/543c1d5af3d9a1542b4394d8e606768feee66c72))
 
 ---
 
@@ -332,19 +301,6 @@ folder: release_notes
 * **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#11](https://github.com/CloudNationHQ/terraform-azure-sb/issues/11)) ([c3ba87b](https://github.com/CloudNationHQ/terraform-azure-sb/commit/c3ba87b6943c70d1bf0f420f4033212e58a82ead))
 * **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#12](https://github.com/CloudNationHQ/terraform-azure-sb/issues/12)) ([9001ed8](https://github.com/CloudNationHQ/terraform-azure-sb/commit/9001ed8f97d65abe60ff6d2903a0b097dafe4952))
 * remove temporary files when deployment tests fails ([#13](https://github.com/CloudNationHQ/terraform-azure-sb/issues/13)) ([8138aa7](https://github.com/CloudNationHQ/terraform-azure-sb/commit/8138aa7d0899458adfb2f19d7056248d89937ad7))
-
----
-
-## Module: azure-fdfwp
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.3.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#10](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/10)) ([d6cd9cc](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/d6cd9cc7e1bd33a83fa1838cf80d0444b0eb901b))
-* **deps:** bump golang.org/x/crypto from 0.29.0 to 0.31.0 in /tests ([#13](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/13)) ([be47a5a](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/be47a5a0684ee4085203deefef0f87c5f00cf29c))
-* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#14](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/14)) ([1317cfb](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/1317cfb6db5f34fa8e4edf3fc71d30e916d95a19))
-* remove temporary files when deployment tests fails ([#11](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/11)) ([c4b6942](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/c4b69422efee9d7c39ddced170ac8e7f4172f015))
 
 ---
 

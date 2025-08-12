@@ -8,16 +8,6 @@ permalink: release_notes_20250605.html
 folder: release_notes
 ---
 
-## Module: azure-mysql
-## [3.1.1](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v3.1.1)
-
-
-### Bug Fixes
-
-* Change default values for create_mode and version ([#37](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/37)) ([0748e96](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/0748e96c2570f7d936529e5eeaaef018ef272503))
-
----
-
 ## Module: azure-fwp
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-fwp/releases/tag/v3.0.0)
 

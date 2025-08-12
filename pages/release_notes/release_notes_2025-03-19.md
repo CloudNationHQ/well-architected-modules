@@ -28,6 +28,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-alerts
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.2.0)
+
+
+### Features
+
+* add enabled option for monitor alert processing rule action groups ([#13](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/13)) ([adb83cd](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/adb83cdda9cdfa358bdb49a188813e8c39110949))
+
+---
+
 ## Module: azure-costs
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.3.0)
 

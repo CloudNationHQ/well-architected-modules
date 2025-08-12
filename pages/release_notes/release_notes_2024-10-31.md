@@ -48,13 +48,3 @@ folder: release_notes
 
 ---
 
-## Module: azure-ca
-## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.1.1)
-
-
-### Bug Fixes
-
-* removed domain certificate unused uai ([#42](https://github.com/CloudNationHQ/terraform-azure-ca/issues/42)) ([4184dcf](https://github.com/CloudNationHQ/terraform-azure-ca/commit/4184dcfef4d651200926adaf9bbdc2b9028cbc67))
-
----
-

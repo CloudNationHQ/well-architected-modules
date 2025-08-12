@@ -8,26 +8,6 @@ permalink: release_notes_20250404.html
 folder: release_notes
 ---
 
-## Module: azure-app
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-app/releases/tag/v3.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* removed system assigned identity default
-
-### Features
-
-* add type definitions and made identity fully optional ([#31](https://github.com/CloudNationHQ/terraform-azure-app/issues/31)) ([c13fdb6](https://github.com/CloudNationHQ/terraform-azure-app/commit/c13fdb6cba5d73146bcb899d535477552349f18e))
-
-### Upgrade from v2.4.0 to v3.0.0:
-
-- Update module reference to: `version = "~> 3.0"`
-- The user assigned identity is removed from the module and it is not set to system assigned default anymore as well.
-  - For identity we created a separate module as shown in the examples.
-
----
-
 ## Module: azure-pip
 ## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v3.0.0)
 

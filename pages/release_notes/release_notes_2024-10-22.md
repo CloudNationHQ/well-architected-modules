@@ -28,13 +28,17 @@ folder: release_notes
 
 ---
 
-## Module: azure-fdfwp
-## 1.0.0 (2024-10-22)
+## Module: azure-rbac
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v2.0.0)
 
+
+### ⚠ BREAKING CHANGES
+
+* upgrade azuread provider to v3 ([#35](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/35))
 
 ### Features
 
-* add initial resources ([#1](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.0.0)) ([547f27f](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/547f27f5b955ebc71cf3f4ab0851899478a623b5))
+* upgrade azuread provider to v3 ([#35](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/35)) ([3bfdabd](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/3bfdabdca2f2f5b2f1422a0cc6f87d16e4b1b733))
 
 ---
 

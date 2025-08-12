@@ -19,6 +19,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-acr
+## [1.7.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.7.0)
+
+
+### Features
+
+* update documentation ([#57](https://github.com/CloudNationHQ/terraform-azure-acr/issues/57)) ([99577dc](https://github.com/CloudNationHQ/terraform-azure-acr/commit/99577dca625029a78e73594bc031166a3be017e7))
+
+---
+
 ## Module: azure-vmss
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v0.7.0)
 
@@ -50,16 +60,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-cosmosdb
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v1.1.0)
-
-
-### Features
-
-* add question template ([#54](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/54)) ([10642a2](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/10642a231cdd77a0ccce4e64348b07c55ca868c4))
-
----
-
 ## Module: azure-bastion
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v1.1.0)
 
@@ -67,6 +67,36 @@ folder: release_notes
 ### Features
 
 * add question template ([#49](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/49)) ([00aace4](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/00aace441813c3d8ea465a3dc929fa4c8cd065b9))
+
+---
+
+## Module: azure-rbac
+## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.6.1)
+
+
+### Bug Fixes
+
+* fix capital markdown extensions ([#27](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/27)) ([98274c1](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/98274c18822661362dfa13b68c1b1ca6f578380d))
+
+---
+
+## Module: azure-rbac
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.6.0)
+
+
+### Features
+
+* update documentation ([#25](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/25)) ([44c5366](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/44c5366f2a906fd97c00b3dc40e5ae0ad58d8fae))
+
+---
+
+## Module: azure-pe
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v0.4.0)
+
+
+### Features
+
+* update documentation ([#9](https://github.com/CloudNationHQ/terraform-azure-pe/issues/9)) ([0368b16](https://github.com/CloudNationHQ/terraform-azure-pe/commit/0368b16e47f6b499109231374c0aac27bfdcf085))
 
 ---
 
@@ -108,16 +138,6 @@ folder: release_notes
 
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#31](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/31)) ([b915d7d](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/b915d7d9f5442fa6bcd06f4a185f52f79b2b1238))
 * update contribution docs ([#29](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/29)) ([8bb34aa](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/8bb34aaf24c55dc342dad088939f93d7fbe19339))
-
----
-
-## Module: azure-ca
-## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v1.1.0)
-
-
-### Features
-
-* update documentation ([#30](https://github.com/CloudNationHQ/terraform-azure-ca/issues/30)) ([15cffdb](https://github.com/CloudNationHQ/terraform-azure-ca/commit/15cffdb7229e31ac1911019ca323d85e4a5110e7))
 
 ---
 
