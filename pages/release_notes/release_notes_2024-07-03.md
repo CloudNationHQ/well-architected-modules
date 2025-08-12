@@ -8,16 +8,6 @@ permalink: release_notes_20240703.html
 folder: release_notes
 ---
 
-## Module: azure-acr
-## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.5.0)
-
-
-### Features
-
-* update random provider version ([#51](https://github.com/CloudNationHQ/terraform-azure-acr/issues/51)) ([8c5edfd](https://github.com/CloudNationHQ/terraform-azure-acr/commit/8c5edfdca04744d40c89c9e18c5d01195ac2ebe5))
-
----
-
 ## Module: azure-naming
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.6.0)
 

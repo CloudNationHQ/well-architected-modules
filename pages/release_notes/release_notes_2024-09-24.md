@@ -26,28 +26,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-acr
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v3.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#63](https://github.com/CloudNationHQ/terraform-azure-acr/issues/63)) ([c06c825](https://github.com/CloudNationHQ/terraform-azure-acr/commit/c06c825e7b11b8614c78d8d34b35956a0ffbac36))
-
-### Upgrade from v2.0.0 to v3.0.0:
-
-- Update module reference to: `version = "~> 3.0"`
-- Rename properties in registry object:
-  - trust_policy  -> trust_policy_enabled
-  - retention_policy -> retention_policy_in_days
-  - encryption.enabled -> removed
-
----
-
 ## Module: azure-rg
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v2.0.0)
 
@@ -203,46 +181,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-rbac
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v1.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#30](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/30)) ([d1b4ff1](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/d1b4ff12757ba6aa5c25ad27d234965286fc9407))
-
-### Upgrade from v0.6.1 to v2.0.0:
-
-- Update module reference to: `version = "~> 2.0"`
-
----
-
-## Module: azure-pe
-## [1.0.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v1.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#12](https://github.com/CloudNationHQ/terraform-azure-pe/issues/12)) ([a0b0dd8](https://github.com/CloudNationHQ/terraform-azure-pe/commit/a0b0dd85b50af9ca57d0c1de5864b70d29e1b1eb))
-
-### Upgrade from v0.4.0 to v1.0.0:
-
-- Update module reference to: `version = "~> 1.0"`
-- Rename properties in endpoints object:
-  - resourcegroup -> resource_group
-- Rename variable:
-  - resourcegroup -> resource_group
-
----
-
 ## Module: azure-ca
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v2.0.0)
 
@@ -281,24 +219,6 @@ folder: release_notes
   - resourcegroup -> resource_group
 - Rename variable (optional):
   - resourcegroup -> resource_group
-
----
-
-## Module: azure-aa
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v2.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#18](https://github.com/CloudNationHQ/terraform-azure-aa/issues/18)) ([afb66e6](https://github.com/CloudNationHQ/terraform-azure-aa/commit/afb66e604b93644f80066c4dd99dd4abb0fc03fc))
-
-### Upgrade from v1.0.0 to v2.0.0:
-
-- Update module reference to: `version = "~> 2.0"`
 
 ---
 
@@ -351,24 +271,6 @@ folder: release_notes
 * upgrade azurerm provider to v4 ([#9](https://github.com/CloudNationHQ/terraform-azure-plan/issues/9)) ([ca2f814](https://github.com/CloudNationHQ/terraform-azure-plan/commit/ca2f81482ab8cf631faf7c9cda2f8ad6fae8f32e))
 
 ### Upgrade from v1.1.1 to v2.0.0:
-
-- Update module reference to: `version = "~> 2.0"`
-
----
-
-## Module: azure-dnspr
-## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* Version 4 of the azurerm provider includes breaking changes. The full list of changes can be found [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/4.0-upgrade-guide)
-
-### Features
-
-* upgrade azurerm provider to v4 ([#9](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/9)) ([8d7f0c6](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/8d7f0c6f476767f4f88a3654d83c46a75f15e729))
-
-### Upgrade from v1.1.0 to v2.0.0:
 
 - Update module reference to: `version = "~> 2.0"`
 

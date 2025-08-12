@@ -19,16 +19,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-acr
-## [1.7.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.7.0)
-
-
-### Features
-
-* update documentation ([#57](https://github.com/CloudNationHQ/terraform-azure-acr/issues/57)) ([99577dc](https://github.com/CloudNationHQ/terraform-azure-acr/commit/99577dca625029a78e73594bc031166a3be017e7))
-
----
-
 ## Module: azure-vmss
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v0.7.0)
 
@@ -77,36 +67,6 @@ folder: release_notes
 ### Features
 
 * add question template ([#49](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/49)) ([00aace4](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/00aace441813c3d8ea465a3dc929fa4c8cd065b9))
-
----
-
-## Module: azure-rbac
-## [0.6.1](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.6.1)
-
-
-### Bug Fixes
-
-* fix capital markdown extensions ([#27](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/27)) ([98274c1](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/98274c18822661362dfa13b68c1b1ca6f578380d))
-
----
-
-## Module: azure-rbac
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.6.0)
-
-
-### Features
-
-* update documentation ([#25](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/25)) ([44c5366](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/44c5366f2a906fd97c00b3dc40e5ae0ad58d8fae))
-
----
-
-## Module: azure-pe
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v0.4.0)
-
-
-### Features
-
-* update documentation ([#9](https://github.com/CloudNationHQ/terraform-azure-pe/issues/9)) ([0368b16](https://github.com/CloudNationHQ/terraform-azure-pe/commit/0368b16e47f6b499109231374c0aac27bfdcf085))
 
 ---
 

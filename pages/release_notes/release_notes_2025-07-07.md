@@ -19,16 +19,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-apim
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.4.0)
-
-
-### Features
-
-* removed azurerm provider config. ([#22](https://github.com/CloudNationHQ/terraform-azure-apim/issues/22)) ([e9f865a](https://github.com/CloudNationHQ/terraform-azure-apim/commit/e9f865a4f6e7645ec52b14ff12c5d5dcc4542432))
-
----
-
 ## Module: azure-sub
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-sub/releases/tag/v3.1.0)
 

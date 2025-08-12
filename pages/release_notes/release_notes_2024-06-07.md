@@ -22,16 +22,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-acr
-## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.3.0)
-
-
-### Features
-
-* add pull request template ([703b00d](https://github.com/CloudNationHQ/terraform-azure-acr/commit/703b00d28c4b62d0deda2cdd4af88adbe0e86bbc))
-
----
-
 ## Module: azure-vmss
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v0.4.0)
 
@@ -61,16 +51,6 @@ folder: release_notes
 ### Features
 
 * add pull request template ([#37](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/37)) ([1d29b90](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/1d29b906cc251b2958ce835147fc4c0bb93bb08a))
-
----
-
-## Module: azure-sql
-## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.8.0)
-
-
-### Features
-
-* add pull request template ([#35](https://github.com/CloudNationHQ/terraform-azure-sql/issues/35)) ([230e644](https://github.com/CloudNationHQ/terraform-azure-sql/commit/230e644a741c3e5076035cccf067dedd1f0826bb))
 
 ---
 

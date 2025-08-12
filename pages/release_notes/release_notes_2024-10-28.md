@@ -49,13 +49,3 @@ folder: release_notes
 
 ---
 
-## Module: azure-alerts
-## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v1.0.1)
-
-
-### Bug Fixes
-
-* removed the provider in modules([#5](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/5)) ([2300953](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/2300953d7c895e61a6e0f3a91b5b786c87c9d715))
-
----
-

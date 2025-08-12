@@ -33,16 +33,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-apim
-## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.4.1)
-
-
-### Bug Fixes
-
-* sensitive keys lookup ([#25](https://github.com/CloudNationHQ/terraform-azure-apim/issues/25)) ([997a81d](https://github.com/CloudNationHQ/terraform-azure-apim/commit/997a81d56cf5eacf87ccaa084123a9e04b15075e))
-
----
-
 ## Module: azure-appcfg
 ## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.1.1)
 
