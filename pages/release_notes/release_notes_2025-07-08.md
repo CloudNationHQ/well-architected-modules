@@ -33,23 +33,13 @@ folder: release_notes
 
 ---
 
-## Module: azure-appcfg
-## [2.1.1](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.1.1)
+## Module: azure-apim
+## [2.4.1](https://github.com/CloudNationHQ/terraform-azure-apim/releases/tag/v2.4.1)
 
 
 ### Bug Fixes
 
-* identity block ([#20](https://github.com/CloudNationHQ/terraform-azure-appcfg/issues/20)) ([5d6eeee](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/5d6eeeedddf44d83328e27c5c64f2dce05a0658e))
-
----
-
-## Module: azure-appcfg
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-appcfg/releases/tag/v2.1.0)
-
-
-### Features
-
-* Add identity block ([#18](https://github.com/CloudNationHQ/terraform-azure-appcfg/issues/18)) ([1069e8f](https://github.com/CloudNationHQ/terraform-azure-appcfg/commit/1069e8fcc62cf38e0a5a3983366cbf2d1f8bbd41))
+* sensitive keys lookup ([#25](https://github.com/CloudNationHQ/terraform-azure-apim/issues/25)) ([997a81d](https://github.com/CloudNationHQ/terraform-azure-apim/commit/997a81d56cf5eacf87ccaa084123a9e04b15075e))
 
 ---
 

@@ -36,17 +36,3 @@ folder: release_notes
 
 ---
 
-## Module: azure-ca
-## [3.0.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v3.0.0)
-
-
-### ⚠ BREAKING CHANGES
-
-* support multiple authentication blocks in jobs ([#47](https://github.com/CloudNationHQ/terraform-azure-ca/issues/47))
-
-### Features
-
-* support multiple authentication blocks in jobs ([#47](https://github.com/CloudNationHQ/terraform-azure-ca/issues/47)) ([ac57e78](https://github.com/CloudNationHQ/terraform-azure-ca/commit/ac57e78538e9ae63f40e76a4f44123c39509b702))
-
----
-

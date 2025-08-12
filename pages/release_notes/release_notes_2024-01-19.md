@@ -19,13 +19,16 @@ folder: release_notes
 
 ---
 
-## Module: azure-rg
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.3.0)
+## Module: azure-acr
+## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v0.4.0)
 
 
 ### Features
 
-* small refactor workflows ([#5](https://github.com/CloudNationHQ/terraform-azure-rg/issues/5)) ([a39df4f](https://github.com/CloudNationHQ/terraform-azure-rg/commit/a39df4f5406dc0244b04cab72a6a655e65f1f22d))
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#10](https://github.com/CloudNationHQ/terraform-azure-acr/issues/10)) ([b2a4e84](https://github.com/CloudNationHQ/terraform-azure-acr/commit/b2a4e840526a9618ce3d53a042667960dc6a4a48))
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#13](https://github.com/CloudNationHQ/terraform-azure-acr/issues/13)) ([00b1cd9](https://github.com/CloudNationHQ/terraform-azure-acr/commit/00b1cd9a240b71ec393105b3880440fcb56eb01d))
+* **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#12](https://github.com/CloudNationHQ/terraform-azure-acr/issues/12)) ([eccc9b5](https://github.com/CloudNationHQ/terraform-azure-acr/commit/eccc9b513db916e1ce8794aea899a8fd05c2acb6))
+* small refactor workflows ([#14](https://github.com/CloudNationHQ/terraform-azure-acr/issues/14)) ([ad183ab](https://github.com/CloudNationHQ/terraform-azure-acr/commit/ad183ab7c218f939d54cd8872de31c4643aefbfb))
 
 ---
 
@@ -54,17 +57,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-cosmosdb
-## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.4.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#14](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/14)) ([51eab00](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/51eab008982318d745faf1c342f671552631dfed))
-* small refactor workflows ([#15](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/15)) ([ec20b88](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/ec20b88cd0d4526d1ce45c44fcdc258e8c130398))
-
----
-
 ## Module: azure-bastion
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.2.0)
 
@@ -74,19 +66,6 @@ folder: release_notes
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#6](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/6)) ([751fd2f](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/751fd2fd05c7fca3b0a98073b5931a514c90f96b))
 * **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#4](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/4)) ([0bb9277](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/0bb92772765fc777252cd15f3bdc548b5ba69bac))
 * small refactor workflows ([#7](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/7)) ([015130e](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/015130ed2ef665abc42bc0bcfeeb70d98990f0f9))
-
----
-
-## Module: azure-aks
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.3.0)
-
-
-### Features
-
-* add missing properties node pools ([#13](https://github.com/CloudNationHQ/terraform-azure-aks/issues/13)) ([29a155f](https://github.com/CloudNationHQ/terraform-azure-aks/commit/29a155f480240bf731231a6dd3764770070e4808))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#15](https://github.com/CloudNationHQ/terraform-azure-aks/issues/15)) ([c89038b](https://github.com/CloudNationHQ/terraform-azure-aks/commit/c89038b68bf7e9cd8728d3c88092c74e9ffe0ff3))
-* **deps:** bump golang.org/x/crypto from 0.14.0 to 0.17.0 in /tests ([#6](https://github.com/CloudNationHQ/terraform-azure-aks/issues/6)) ([f035e1b](https://github.com/CloudNationHQ/terraform-azure-aks/commit/f035e1b7fbb30d174d6ebdab0dfce946ebdfb9db))
-* small refactor workflows ([#22](https://github.com/CloudNationHQ/terraform-azure-aks/issues/22)) ([d8d47b1](https://github.com/CloudNationHQ/terraform-azure-aks/commit/d8d47b19d5b8a0c3cdc7d7162a1d9442efb285cf))
 
 ---
 

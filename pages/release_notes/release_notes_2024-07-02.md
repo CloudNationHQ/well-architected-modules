@@ -46,6 +46,20 @@ folder: release_notes
 
 ---
 
+## Module: azure-acr
+## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.4.0)
+
+
+### Features
+
+* add issue template ([#48](https://github.com/CloudNationHQ/terraform-azure-acr/issues/48)) ([dc844a0](https://github.com/CloudNationHQ/terraform-azure-acr/commit/dc844a0e4b4fb115c7daa6fe3133a049fb750b2b))
+* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#45](https://github.com/CloudNationHQ/terraform-azure-acr/issues/45)) ([e691991](https://github.com/CloudNationHQ/terraform-azure-acr/commit/e691991f26661c2a488e4ecb2d80e8dd35b7fadf))
+* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#46](https://github.com/CloudNationHQ/terraform-azure-acr/issues/46)) ([0d5b9ea](https://github.com/CloudNationHQ/terraform-azure-acr/commit/0d5b9eabca0b665745a39832cdb74afbcdef3b80))
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#49](https://github.com/CloudNationHQ/terraform-azure-acr/issues/49)) ([d5c4c99](https://github.com/CloudNationHQ/terraform-azure-acr/commit/d5c4c999fa2cbb601e7f0ed1c605db6da205226f))
+* **deps:** bump github.com/hashicorp/go-getter in /tests ([#47](https://github.com/CloudNationHQ/terraform-azure-acr/issues/47)) ([bcde716](https://github.com/CloudNationHQ/terraform-azure-acr/commit/bcde716f480840be8aa3704910c7e53c568cac89))
+
+---
+
 ## Module: azure-naming
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.5.0)
 
@@ -53,17 +67,6 @@ folder: release_notes
 ### Features
 
 * add issue template ([#12](https://github.com/CloudNationHQ/terraform-azure-naming/issues/12)) ([005d1d5](https://github.com/CloudNationHQ/terraform-azure-naming/commit/005d1d5dddc653f57e678c0db94b92dc25aa20de))
-
----
-
-## Module: azure-rg
-## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-rg/releases/tag/v0.8.0)
-
-
-### Features
-
-* add issue template ([#22](https://github.com/CloudNationHQ/terraform-azure-rg/issues/22)) ([c370fe2](https://github.com/CloudNationHQ/terraform-azure-rg/commit/c370fe26d2cd0c50c20aab97c08fe89706189430))
-* create pull request template ([#19](https://github.com/CloudNationHQ/terraform-azure-rg/issues/19)) ([bb14c2e](https://github.com/CloudNationHQ/terraform-azure-rg/commit/bb14c2e3d77d38c627085ef6edf8b1f146b3c7a2))
 
 ---
 
@@ -130,19 +133,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-cosmosdb
-## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.9.0)
-
-
-### Features
-
-* add issue template ([#41](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/41)) ([06088e0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/06088e087ce4a708a06a2a339b4d3649f85591ca))
-* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#39](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/39)) ([8cc2c72](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/8cc2c72d0dbaa32e486e541cf75daa1b8542fb5f))
-* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#40](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/40)) ([92ea749](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/92ea7496d60bd1ee0c75d1c381125833e2dfc015))
-* **deps:** bump github.com/hashicorp/go-getter in /tests ([#43](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/43)) ([ac0f731](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/ac0f731598ead8463cfbd8ff2585f8b277ef6a78))
-
----
-
 ## Module: azure-bastion
 ## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.9.0)
 
@@ -205,6 +195,29 @@ folder: release_notes
 
 ---
 
+## Module: azure-rbac
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-rbac/releases/tag/v0.3.0)
+
+
+### Features
+
+* add issue template ([#16](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/16)) ([2d0b7c5](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/2d0b7c5f106cc9f9d2215d1459d64724dceed77d))
+* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#15](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/15)) ([0306011](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/0306011be155f509263689052a0af0b5995b2ce0))
+* **deps:** bump github.com/hashicorp/go-getter ([#14](https://github.com/CloudNationHQ/terraform-azure-rbac/issues/14)) ([1d350e3](https://github.com/CloudNationHQ/terraform-azure-rbac/commit/1d350e3ed6cb3476bf9ccf409a6d68fc986b4c8c))
+
+---
+
+## Module: azure-pe
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-pe/releases/tag/v0.3.0)
+
+
+### Features
+
+* add issue template ([#8](https://github.com/CloudNationHQ/terraform-azure-pe/issues/8)) ([31566c9](https://github.com/CloudNationHQ/terraform-azure-pe/commit/31566c9083662fe9f056ce7f36926cbc403dcd99))
+* create pull request template ([#6](https://github.com/CloudNationHQ/terraform-azure-pe/issues/6)) ([acb6fe2](https://github.com/CloudNationHQ/terraform-azure-pe/commit/acb6fe220242bfb07d5e96069096a60431a445f2))
+
+---
+
 ## Module: azure-rsv
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v0.4.0)
 
@@ -225,18 +238,6 @@ folder: release_notes
 
 * add issue template ([#26](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/26)) ([68d280b](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/68d280b46385ab9d8412120611b749837991c79d))
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#27](https://github.com/CloudNationHQ/terraform-azure-vgw/issues/27)) ([f76b2d8](https://github.com/CloudNationHQ/terraform-azure-vgw/commit/f76b2d80b63b6dbcb4511528a94a755a6b10094f))
-
----
-
-## Module: azure-ca
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-ca/releases/tag/v0.3.0)
-
-
-### Features
-
-* add issue template ([#20](https://github.com/CloudNationHQ/terraform-azure-ca/issues/20)) ([6c436b5](https://github.com/CloudNationHQ/terraform-azure-ca/commit/6c436b5af7432fd76b2c57d10517f20412eec83f))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#18](https://github.com/CloudNationHQ/terraform-azure-ca/issues/18)) ([dd2f9bc](https://github.com/CloudNationHQ/terraform-azure-ca/commit/dd2f9bcaf34dbb10562bb3f9c37c3b9e89677ef2))
-* **deps:** bump github.com/hashicorp/go-getter in /tests ([#15](https://github.com/CloudNationHQ/terraform-azure-ca/issues/15)) ([51623b3](https://github.com/CloudNationHQ/terraform-azure-ca/commit/51623b31412a86f48ef05bdab7d9ee65b89bcd08))
 
 ---
 

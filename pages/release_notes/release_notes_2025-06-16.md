@@ -19,6 +19,28 @@ folder: release_notes
 
 ---
 
+## Module: azure-alerts
+## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-alerts/releases/tag/v2.0.0)
+
+
+### ⚠ BREAKING CHANGES
+
+* The data structure changed, causing a recreate on existing resources.
+
+### Features
+
+* small refactor ([#16](https://github.com/CloudNationHQ/terraform-azure-alerts/issues/16)) ([5082194](https://github.com/CloudNationHQ/terraform-azure-alerts/commit/50821940f6a33a5c7185bb895602fbf321bd7e3f))
+
+### Upgrade from v1.2.0 to v2.0.0:
+
+- Update module reference to: `version = "~> 2.0"`
+- The property and variable resource_group is renamed to resource_group_name
+- The submodule is renamed to monitor-workspace
+
+Details can be found in the example usages
+
+---
+
 ## Module: azure-costs
 ## [1.5.0](https://github.com/CloudNationHQ/terraform-azure-costs/releases/tag/v1.5.0)
 

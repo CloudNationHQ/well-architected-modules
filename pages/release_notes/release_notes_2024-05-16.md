@@ -8,19 +8,6 @@ permalink: release_notes_20240516.html
 folder: release_notes
 ---
 
-## Module: azure-cosmosdb
-## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.7.0)
-
-
-### Features
-
-* add backup support ([#36](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/36)) ([0be1da9](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/0be1da9be1b173c89b1fc575bedfd289d3c88637))
-* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#28](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/28)) ([282a4b4](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/282a4b46485a3f761b538419f319d2c913929413))
-* **deps:** bump golang.org/x/net from 0.19.0 to 0.23.0 in /tests ([#29](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/29)) ([6341e62](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/6341e6230f072451b7e511e1d1620faf6416e755))
-* replace deprecated properties ([#33](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/33)) ([ce76014](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/ce76014eb3a60476762cc208ffe9506daea4fa79))
-
----
-
 ## Module: azure-bastion
 ## [0.7.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v0.7.0)
 

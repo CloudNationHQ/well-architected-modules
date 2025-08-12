@@ -18,16 +18,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-cosmosdb
-## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.2.1)
-
-
-### Bug Fixes
-
-* bounced all modules to latest version in usages and removed unneeded outputs ([#64](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/64)) ([69dc760](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/69dc76093c2fbb3a564a4403fef41893621efa27))
-
----
-
 ## Module: azure-rsv
 ## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-rsv/releases/tag/v1.3.0)
 

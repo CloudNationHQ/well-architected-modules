@@ -8,21 +8,6 @@ permalink: release_notes_20250224.html
 folder: release_notes
 ---
 
-## Module: azure-fw
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v2.4.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#25](https://github.com/CloudNationHQ/terraform-azure-fw/issues/25)) ([cf68fcc](https://github.com/CloudNationHQ/terraform-azure-fw/commit/cf68fccb97117a4f07406bdba5f18057d670b8c5))
-
-
-### Bug Fixes
-
-* fix output to use public_ip_address_id for AZFW_VNet sku and revise complete example ([#27](https://github.com/CloudNationHQ/terraform-azure-fw/issues/27)) ([9d2b2ea](https://github.com/CloudNationHQ/terraform-azure-fw/commit/9d2b2ea894d98266c7a87812bde15df015917fee))
-
----
-
 ## Module: azure-agw
 ## [1.4.1](https://github.com/CloudNationHQ/terraform-azure-agw/releases/tag/v1.4.1)
 

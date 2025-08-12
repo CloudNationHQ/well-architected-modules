@@ -22,6 +22,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-acr
+## [1.3.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.3.0)
+
+
+### Features
+
+* add pull request template ([703b00d](https://github.com/CloudNationHQ/terraform-azure-acr/commit/703b00d28c4b62d0deda2cdd4af88adbe0e86bbc))
+
+---
+
 ## Module: azure-vmss
 ## [0.4.0](https://github.com/CloudNationHQ/terraform-azure-vmss/releases/tag/v0.4.0)
 
@@ -44,13 +54,13 @@ folder: release_notes
 
 ---
 
-## Module: azure-cosmosdb
-## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.8.0)
+## Module: azure-sql
+## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.8.0)
 
 
 ### Features
 
-* add pull request template ([#37](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/37)) ([1d29b90](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/1d29b906cc251b2958ce835147fc4c0bb93bb08a))
+* add pull request template ([#35](https://github.com/CloudNationHQ/terraform-azure-sql/issues/35)) ([230e644](https://github.com/CloudNationHQ/terraform-azure-sql/commit/230e644a741c3e5076035cccf067dedd1f0826bb))
 
 ---
 
@@ -62,19 +72,6 @@ folder: release_notes
 
 * add pull request template ([#32](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/32)) ([0ac7067](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/0ac70673c2533e04a75d1e2b0f509c7427f4db69))
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#31](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/31)) ([dcee679](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/dcee679040d9e071986f85c643f86822b2b7dcbe))
-
----
-
-## Module: azure-aks
-## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v0.9.0)
-
-
-### Features
-
-* add pull request template ([#62](https://github.com/CloudNationHQ/terraform-azure-aks/issues/62)) ([c2a7b0b](https://github.com/CloudNationHQ/terraform-azure-aks/commit/c2a7b0b5a69d3b2b17d1d6169ef2a59957babe40))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#61](https://github.com/CloudNationHQ/terraform-azure-aks/issues/61)) ([bde67eb](https://github.com/CloudNationHQ/terraform-azure-aks/commit/bde67eb9bbfac826073f389cd19b94ba12e78d49))
-* **deps:** bump github.com/hashicorp/go-getter in /tests ([#59](https://github.com/CloudNationHQ/terraform-azure-aks/issues/59)) ([350cce4](https://github.com/CloudNationHQ/terraform-azure-aks/commit/350cce4624153b586d66efde75783e89b5eae08f))
-* **deps:** bump golang.org/x/net from 0.22.0 to 0.23.0 in /tests ([#56](https://github.com/CloudNationHQ/terraform-azure-aks/issues/56)) ([cde241b](https://github.com/CloudNationHQ/terraform-azure-aks/commit/cde241b2be90509ed4d277916e9895f1b7ce7f6b))
 
 ---
 

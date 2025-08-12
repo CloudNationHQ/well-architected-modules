@@ -31,14 +31,3 @@ folder: release_notes
 
 ---
 
-## Module: azure-fd
-## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-fd/releases/tag/v1.4.0)
-
-
-### Features
-
-* add support for more rule conditions and response timeout seconds on the profile ([#14](https://github.com/CloudNationHQ/terraform-azure-fd/issues/14)) ([db99ff1](https://github.com/CloudNationHQ/terraform-azure-fd/commit/db99ff1faf1a3e09d31c72103d1b65b8b35b0168))
-* **deps:** bump golang.org/x/net from 0.31.0 to 0.33.0 in /tests ([#16](https://github.com/CloudNationHQ/terraform-azure-fd/issues/16)) ([fb7d989](https://github.com/CloudNationHQ/terraform-azure-fd/commit/fb7d9897bc732ed5949fd67721065cc61b203db5))
-
----
-
