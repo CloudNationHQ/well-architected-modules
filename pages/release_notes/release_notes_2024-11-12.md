@@ -18,6 +18,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-cosmosdb
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v2.2.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#62](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/62)) ([be76ed9](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/be76ed9fe793cab3142e548cef60040be17bad33))
+
+---
+
 ## Module: azure-bastion
 ## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-bastion/releases/tag/v2.3.0)
 
@@ -25,6 +35,26 @@ folder: release_notes
 ### Features
 
 * enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#60](https://github.com/CloudNationHQ/terraform-azure-bastion/issues/60)) ([fd372ea](https://github.com/CloudNationHQ/terraform-azure-bastion/commit/fd372ea0bbd50cffb73f4aa34199947695fe9047))
+
+---
+
+## Module: azure-mysql
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-mysql/releases/tag/v1.1.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#16](https://github.com/CloudNationHQ/terraform-azure-mysql/issues/16)) ([fb779ce](https://github.com/CloudNationHQ/terraform-azure-mysql/commit/fb779ce3298fca13306c7c0faaeda057b030badd))
+
+---
+
+## Module: azure-dnspr
+## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.2.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#14](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/14)) ([9c9c3e5](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/9c9c3e5de12cdb0b5233b6ef5720693e1db99e4b))
 
 ---
 
@@ -45,6 +75,26 @@ folder: release_notes
 ### Features
 
 * enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#10](https://github.com/CloudNationHQ/terraform-azure-sqlmi/issues/10)) ([18377b5](https://github.com/CloudNationHQ/terraform-azure-sqlmi/commit/18377b5ad7e7ad9a70346afe145f4d4900fe7774))
+
+---
+
+## Module: azure-fdfwp
+## [1.2.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.2.0)
+
+
+### Features
+
+* add type definitions ([#8](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/8)) ([031728f](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/031728f7a9012e2cf029ef173cbfdccf18a549a0))
+
+---
+
+## Module: azure-fdfwp
+## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-fdfwp/releases/tag/v1.1.0)
+
+
+### Features
+
+* enhance testing with sequential, parallel modes and flags for exceptions and skip-destroy ([#6](https://github.com/CloudNationHQ/terraform-azure-fdfwp/issues/6)) ([e0b9575](https://github.com/CloudNationHQ/terraform-azure-fdfwp/commit/e0b9575b9b59527e59c42f12ef97a1b2a891164a))
 
 ---
 

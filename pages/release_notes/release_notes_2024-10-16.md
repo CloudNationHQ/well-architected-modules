@@ -8,6 +8,16 @@ permalink: release_notes_20241016.html
 folder: release_notes
 ---
 
+## Module: azure-aks
+## [3.4.0](https://github.com/CloudNationHQ/terraform-azure-aks/releases/tag/v3.4.0)
+
+
+### Features
+
+* add identity output ([#112](https://github.com/CloudNationHQ/terraform-azure-aks/issues/112)) ([94501c2](https://github.com/CloudNationHQ/terraform-azure-aks/commit/94501c2067c96e1d468b11f12c83b54dc242fe46))
+
+---
+
 ## Module: azure-sqlmi
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-sqlmi/releases/tag/v1.1.0)
 

@@ -92,6 +92,16 @@ folder: release_notes
 
 ---
 
+## Module: azure-aa
+## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-aa/releases/tag/v0.3.0)
+
+
+### Features
+
+* update documentation ([#10](https://github.com/CloudNationHQ/terraform-azure-aa/issues/10)) ([5a9323f](https://github.com/CloudNationHQ/terraform-azure-aa/commit/5a9323f88b2e29d5c7b1164e6c0bd5c49815126f))
+
+---
+
 ## Module: azure-nw
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-nw/releases/tag/v0.2.0)
 

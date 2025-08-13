@@ -8,6 +8,16 @@ permalink: release_notes_20241216.html
 folder: release_notes
 ---
 
+## Module: azure-dnspr
+## [2.2.1](https://github.com/CloudNationHQ/terraform-azure-dnspr/releases/tag/v2.2.1)
+
+
+### Bug Fixes
+
+* refactor rules and vnet links within fw rulesets, updated docs ([#16](https://github.com/CloudNationHQ/terraform-azure-dnspr/issues/16)) ([fc8fe15](https://github.com/CloudNationHQ/terraform-azure-dnspr/commit/fc8fe15afee515ce2e7ada0d39764c3737f3423e))
+
+---
+
 ## Module: azure-appi
 ## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-appi/releases/tag/v2.4.0)
 

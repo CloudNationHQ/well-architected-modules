@@ -34,6 +34,17 @@ folder: release_notes
 
 ---
 
+## Module: azure-cosmosdb
+## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.6.0)
+
+
+### Features
+
+* add private endpoint usage ([#25](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/25)) ([6a9c9c1](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/6a9c9c1b2997529a88c8f933c64f539e887e8f62))
+* **deps:** bump google.golang.org/protobuf in /tests ([#24](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/issues/24)) ([c8089c5](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/commit/c8089c54ef45094118129d65f68cb899eb676cc3))
+
+---
+
 ## Module: azure-sql
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-sql/releases/tag/v0.6.0)
 

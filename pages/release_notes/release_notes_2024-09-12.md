@@ -30,6 +30,21 @@ folder: release_notes
 
 ---
 
+## Module: databricks-cl
+## [1.1.0](https://github.com/CloudNationHQ/terraform-databricks-cl/releases/tag/v1.1.0)
+
+
+### Features
+
+* update doc ([2263abc](https://github.com/CloudNationHQ/terraform-databricks-cl/commit/2263abc370aef1ef9ea8ac9cb93578e24c84022b))
+
+
+### Bug Fixes
+
+* changed some default values to null and added logic for node type id ([cdd0822](https://github.com/CloudNationHQ/terraform-databricks-cl/commit/cdd08227e94d923f329f87cb0e6888a59663e9f7))
+
+---
+
 ## Module: azure-pip
 ## [1.1.1](https://github.com/CloudNationHQ/terraform-azure-pip/releases/tag/v1.1.1)
 
@@ -37,6 +52,16 @@ folder: release_notes
 ### Bug Fixes
 
 * change output name to be plural ([#6](https://github.com/CloudNationHQ/terraform-azure-pip/issues/6)) ([c8d8397](https://github.com/CloudNationHQ/terraform-azure-pip/commit/c8d839764cfb9b49168733ef490b3462cecfa08b))
+
+---
+
+## Module: azure-fw
+## 1.0.0 (2024-09-12)
+
+
+### Features
+
+* add initial resources ([#2](https://github.com/CloudNationHQ/terraform-azure-fw/releases/tag/v1.0.0)) ([50ff1f8](https://github.com/CloudNationHQ/terraform-azure-fw/commit/50ff1f8eb026fd82e5ce7f3aa54f7d574bb44a71))
 
 ---
 
