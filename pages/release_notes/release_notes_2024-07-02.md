@@ -171,18 +171,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-vwan
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.10.0)
-
-
-### Features
-
-* add issue template ([#38](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/38)) ([63737f3](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/63737f3ebb2b3f33ba73b15b89728f2ba0c609e1))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#37](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/37)) ([50e2126](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/50e21269814b5415777750e86df4b536bc9b0f9b))
-* **deps:** bump github.com/hashicorp/go-getter in /tests ([#36](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/36)) ([c4659b4](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/c4659b46fba730b13440e7d07f73aade145e193f))
-
----
-
 ## Module: azure-psql
 ## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.5.0)
 

@@ -249,7 +249,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">groups</td>
 <td markdown="span">azuread</td>
 <td markdown="span">Terraform module to manage Azure Active Directory (Entra ID) groups and group memberships using the AzureAD provider..</td> 
-<td markdown="span">1.0.0</td>
+<td markdown="span">1.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azuread-groups" target="_blank">Github repo groups</a></td>
 </tr>
 
@@ -273,7 +273,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">lb</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates load balancer resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.0</td>
+<td markdown="span">2.0.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-lb" target="_blank">Github repo lb</a></td>
 </tr>
 
@@ -337,7 +337,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">pe</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates private endpoint resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.0</td>
+<td markdown="span">2.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-pe" target="_blank">Github repo pe</a></td>
 </tr>
 
@@ -401,7 +401,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">rsv</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which create recovery services vault resources used by workloads and accelerators..</td> 
-<td markdown="span">2.1.1</td>
+<td markdown="span">2.2.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-rsv" target="_blank">Github repo rsv</a></td>
 </tr>
 
@@ -425,7 +425,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">sql</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates mssql related resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.0</td>
+<td markdown="span">2.0.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-sql" target="_blank">Github repo sql</a></td>
 </tr>
 
@@ -457,7 +457,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">uai</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates user assigned identity resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.0</td>
+<td markdown="span">2.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-uai" target="_blank">Github repo uai</a></td>
 </tr>
 
@@ -489,7 +489,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vmss</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual machine scale set resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.0</td>
+<td markdown="span">2.0.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vmss" target="_blank">Github repo vmss</a></td>
 </tr>
 
@@ -505,7 +505,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vwan</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators..</td> 
-<td markdown="span">5.3.0</td>
+<td markdown="span">5.3.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vwan" target="_blank">Github repo vwan</a></td>
 </tr>
 
