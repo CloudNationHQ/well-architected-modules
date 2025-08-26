@@ -33,7 +33,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">aa</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates automation related resources used by workloads and accelerators..</td> 
-<td markdown="span">2.7.0</td>
+<td markdown="span">3.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-aa" target="_blank">Github repo aa</a></td>
 </tr>
 
@@ -193,7 +193,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">eg</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates eventgrid resources used by workloads and accelerators..</td> 
-<td markdown="span">2.2.2</td>
+<td markdown="span">2.3.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-eg" target="_blank">Github repo eg</a></td>
 </tr>
 
@@ -497,7 +497,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vnet</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual network resources used by workloads and accelerators..</td> 
-<td markdown="span">9.3.3</td>
+<td markdown="span">9.3.5</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnet" target="_blank">Github repo vnet</a></td>
 </tr>
 
