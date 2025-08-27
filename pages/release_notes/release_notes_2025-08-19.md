@@ -8,6 +8,26 @@ permalink: release_notes_20250819.html
 folder: release_notes
 ---
 
+## Module: azure-vnet
+## [9.3.5](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.3.5)
+
+
+### Bug Fixes
+
+* update missed var type definitions ([#184](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/184)) ([fa7a979](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/fa7a9796374d689da5eb10c5baa2090abc2ec6d9))
+
+---
+
+## Module: azure-vnet
+## [9.3.4](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v9.3.4)
+
+
+### Bug Fixes
+
+* nsg and route table tags ([#181](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/181)) ([4faa91e](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/4faa91e77a740530f5f100eeeba555fd1e383e16))
+
+---
+
 ## Module: azuread-groups
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azuread-groups/releases/tag/v1.1.0)
 
