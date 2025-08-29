@@ -41,7 +41,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">acr</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates container registry resources used by workloads and accelerators..</td> 
-<td markdown="span">4.2.0</td>
+<td markdown="span">5.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-acr" target="_blank">Github repo acr</a></td>
 </tr>
 
@@ -65,7 +65,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">aks</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure kubernetes resources used by workloads and accelerators..</td> 
-<td markdown="span">3.7.0</td>
+<td markdown="span">4.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-aks" target="_blank">Github repo aks</a></td>
 </tr>
 
