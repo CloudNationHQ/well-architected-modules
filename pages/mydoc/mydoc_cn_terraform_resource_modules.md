@@ -89,7 +89,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">app</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates app service resources used by workloads and accelerators..</td> 
-<td markdown="span">4.0.1</td>
+<td markdown="span">4.0.3</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-app" target="_blank">Github repo app</a></td>
 </tr>
 
@@ -105,7 +105,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">appi</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates application insights resources used by workloads and accelerators..</td> 
-<td markdown="span">2.5.0</td>
+<td markdown="span">3.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-appi" target="_blank">Github repo appi</a></td>
 </tr>
 
@@ -257,7 +257,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">kv</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates keyvault resources used by workloads and accelerators..</td> 
-<td markdown="span">4.2.0</td>
+<td markdown="span">4.2.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-kv" target="_blank">Github repo kv</a></td>
 </tr>
 
@@ -497,7 +497,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vnet</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual network resources used by workloads and accelerators..</td> 
-<td markdown="span">9.3.5</td>
+<td markdown="span">9.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnet" target="_blank">Github repo vnet</a></td>
 </tr>
 
