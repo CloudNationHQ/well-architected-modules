@@ -105,7 +105,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">appi</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates application insights resources used by workloads and accelerators..</td> 
-<td markdown="span">3.0.0</td>
+<td markdown="span">3.0.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-appi" target="_blank">Github repo appi</a></td>
 </tr>
 
@@ -505,7 +505,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vwan</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators..</td> 
-<td markdown="span">5.3.1</td>
+<td markdown="span">5.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vwan" target="_blank">Github repo vwan</a></td>
 </tr>
 

@@ -29,17 +29,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-vwan
-## [0.11.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v0.11.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#42](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/42)) ([5c45050](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/5c450502d04698c33117208de17f87821cc4d231))
-* update contribution docs ([#40](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/40)) ([4e96312](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/4e96312c73dac1b354be0eaaa2ddf0057e3c0e94))
-
----
-
 ## Module: azure-psql
 ## [1.1.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v1.1.0)
 
