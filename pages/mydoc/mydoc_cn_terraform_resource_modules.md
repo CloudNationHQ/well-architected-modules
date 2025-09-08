@@ -278,6 +278,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">locations</td>
+<td markdown="span">azure</td>
+<td markdown="span">Terraform module to supply location details.</td> 
+<td markdown="span">1.0.1</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-locations" target="_blank">Github repo locations</a></td>
+</tr>
+
+<tr>
 <td markdown="span">mag</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates monitor action groups used by workloads and accelerators..</td> 
@@ -521,5 +529,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 61
+<span class='total-modules'>**Total Modules:** 62
 </span>
