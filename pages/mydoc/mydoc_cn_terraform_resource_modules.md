@@ -153,7 +153,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">cosmosdb</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates cosmos related resources used by workloads and accelerators..</td> 
-<td markdown="span">3.6.0</td>
+<td markdown="span">4.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-cosmosdb" target="_blank">Github repo cosmosdb</a></td>
 </tr>
 
@@ -497,7 +497,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vmss</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual machine scale set resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.1</td>
+<td markdown="span">2.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vmss" target="_blank">Github repo vmss</a></td>
 </tr>
 
@@ -505,7 +505,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vnet</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual network resources used by workloads and accelerators..</td> 
-<td markdown="span">9.4.0</td>
+<td markdown="span">9.5.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnet" target="_blank">Github repo vnet</a></td>
 </tr>
 
@@ -513,7 +513,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vwan</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators..</td> 
-<td markdown="span">5.4.0</td>
+<td markdown="span">5.4.1</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vwan" target="_blank">Github repo vwan</a></td>
 </tr>
 
