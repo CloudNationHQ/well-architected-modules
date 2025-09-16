@@ -8,6 +8,16 @@ permalink: release_notes_20250908.html
 folder: release_notes
 ---
 
+## Module: azure-vwan
+## [5.4.1](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v5.4.1)
+
+
+### Bug Fixes
+
+* fix case sensitive issue in routing intent validation ([#136](https://github.com/CloudNationHQ/terraform-azure-vwan/issues/136)) ([980489c](https://github.com/CloudNationHQ/terraform-azure-vwan/commit/980489cea132d79a4920eb2d901f16498723b3fe))
+
+---
+
 ## Module: azure-locations
 ## [1.0.1](https://github.com/CloudNationHQ/terraform-azure-locations/releases/tag/v1.0.1)
 
