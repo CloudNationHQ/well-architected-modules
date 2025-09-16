@@ -18,3 +18,13 @@ folder: release_notes
 
 ---
 
+## Module: azure-vm
+## [6.3.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v6.3.0)
+
+
+### Features
+
+* small refactor type definitions ([#212](https://github.com/CloudNationHQ/terraform-azure-vm/issues/212)) ([f3e8490](https://github.com/CloudNationHQ/terraform-azure-vm/commit/f3e84907be470ef35982a8f1bce0356f826b50b0))
+
+---
+
