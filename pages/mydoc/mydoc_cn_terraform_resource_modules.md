@@ -489,7 +489,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vm</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual machine resources used by workloads and accelerators..</td> 
-<td markdown="span">6.2.1</td>
+<td markdown="span">6.3.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vm" target="_blank">Github repo vm</a></td>
 </tr>
 
