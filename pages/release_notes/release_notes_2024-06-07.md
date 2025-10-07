@@ -44,16 +44,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-vm
-## [2.1.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v2.1.0)
-
-
-### Features
-
-* add pull request template ([#113](https://github.com/CloudNationHQ/terraform-azure-vm/issues/113)) ([12089c4](https://github.com/CloudNationHQ/terraform-azure-vm/commit/12089c4b76fd90c2ad62a29e68cc018a6b5f00b8))
-
----
-
 ## Module: azure-cosmosdb
 ## [0.8.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.8.0)
 
