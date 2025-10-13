@@ -193,7 +193,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">eg</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates eventgrid resources used by workloads and accelerators..</td> 
-<td markdown="span">2.3.0</td>
+<td markdown="span">2.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-eg" target="_blank">Github repo eg</a></td>
 </tr>
 
@@ -425,7 +425,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">sb</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates servicebus resources used by workloads and accelerators..</td> 
-<td markdown="span">2.1.0</td>
+<td markdown="span">2.2.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-sb" target="_blank">Github repo sb</a></td>
 </tr>
 
