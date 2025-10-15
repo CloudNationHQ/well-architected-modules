@@ -28,3 +28,13 @@ For detailed reference look in the examples
 
 ---
 
+## Module: azure-cog
+## [2.1.2](https://github.com/CloudNationHQ/terraform-azure-cog/releases/tag/v2.1.2)
+
+
+### Bug Fixes
+
+* content filters block ([#24](https://github.com/CloudNationHQ/terraform-azure-cog/issues/24)) ([f6912af](https://github.com/CloudNationHQ/terraform-azure-cog/commit/f6912afa343c2f7507927b57984359a9572713ae))
+
+---
+

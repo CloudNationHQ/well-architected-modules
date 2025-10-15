@@ -145,7 +145,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">cog</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates cognitive resources used by workloads and accelerators..</td> 
-<td markdown="span">2.1.1</td>
+<td markdown="span">2.1.2</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-cog" target="_blank">Github repo cog</a></td>
 </tr>
 
