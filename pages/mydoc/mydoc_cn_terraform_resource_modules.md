@@ -89,7 +89,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">app</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates app service resources used by workloads and accelerators..</td> 
-<td markdown="span">4.0.3</td>
+<td markdown="span">5.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-app" target="_blank">Github repo app</a></td>
 </tr>
 
@@ -313,7 +313,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">naming</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module that streamlines the naming process for azure resources.</td> 
-<td markdown="span">0.24.1</td>
+<td markdown="span">0.25.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-naming" target="_blank">Github repo naming</a></td>
 </tr>
 
