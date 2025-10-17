@@ -126,6 +126,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">ci</td>
+<td markdown="span">azure</td>
+<td markdown="span">Terraform module which creates container instances used by workloads and accelerators..</td> 
+<td markdown="span">1.0.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-ci" target="_blank">Github repo ci</a></td>
+</tr>
+
+<tr>
 <td markdown="span">cl</td>
 <td markdown="span">databricks</td>
 <td markdown="span">Terraform module which creates Databricks clusters used by workloads and accelerators..</td> 
@@ -529,5 +537,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 62
+<span class='total-modules'>**Total Modules:** 63
 </span>
