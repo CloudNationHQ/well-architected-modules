@@ -65,7 +65,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">aks</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure kubernetes resources used by workloads and accelerators..</td> 
-<td markdown="span">4.0.1</td>
+<td markdown="span">4.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-aks" target="_blank">Github repo aks</a></td>
 </tr>
 
@@ -121,8 +121,16 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">ca</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates container app resources used by workloads and accelerators..</td> 
-<td markdown="span">3.2.0</td>
+<td markdown="span">4.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-ca" target="_blank">Github repo ca</a></td>
+</tr>
+
+<tr>
+<td markdown="span">ci</td>
+<td markdown="span">azure</td>
+<td markdown="span">Terraform module which creates container instances used by workloads and accelerators..</td> 
+<td markdown="span">1.0.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-ci" target="_blank">Github repo ci</a></td>
 </tr>
 
 <tr>
@@ -225,7 +233,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">func</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates function app resources used by workloads and accelerators..</td> 
-<td markdown="span">2.2.0</td>
+<td markdown="span">2.3.2</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-func" target="_blank">Github repo func</a></td>
 </tr>
 
@@ -233,7 +241,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">fw</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates firewall resources used by workloads and accelerators..</td> 
-<td markdown="span">3.0.0</td>
+<td markdown="span">3.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-fw" target="_blank">Github repo fw</a></td>
 </tr>
 
@@ -241,7 +249,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">fwp</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates firewall policy resources used by workloads and accelerators..</td> 
-<td markdown="span">3.1.0</td>
+<td markdown="span">3.2.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-fwp" target="_blank">Github repo fwp</a></td>
 </tr>
 
@@ -313,7 +321,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">naming</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module that streamlines the naming process for azure resources.</td> 
-<td markdown="span">0.25.0</td>
+<td markdown="span">0.25.2</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-naming" target="_blank">Github repo naming</a></td>
 </tr>
 
@@ -385,7 +393,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">rbac</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which create rbac resources used by workloads and accelerators..</td> 
-<td markdown="span">2.3.1</td>
+<td markdown="span">2.4.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-rbac" target="_blank">Github repo rbac</a></td>
 </tr>
 
@@ -510,6 +518,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">vnm</td>
+<td markdown="span">azure</td>
+<td markdown="span">Terraform module which creates virtual network manager resources used by workloads and accelerators..</td> 
+<td markdown="span">1.0.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnm" target="_blank">Github repo vnm</a></td>
+</tr>
+
+<tr>
 <td markdown="span">vwan</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates azure virtual wan resources used by workloads and accelerators..</td> 
@@ -529,5 +545,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 62
+<span class='total-modules'>**Total Modules:** 64
 </span>
