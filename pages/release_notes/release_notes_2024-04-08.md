@@ -8,16 +8,6 @@ permalink: release_notes_20240408.html
 folder: release_notes
 ---
 
-## Module: azure-naming
-## [0.3.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.3.0)
-
-
-### Features
-
-* add recovery services vault backup policy naming support ([#7](https://github.com/CloudNationHQ/terraform-azure-naming/issues/7)) ([40c11ad](https://github.com/CloudNationHQ/terraform-azure-naming/commit/40c11ad05c4ffa2d4aad4250649be7b757a120b7))
-
----
-
 ## Module: azure-pdns
 ## [0.2.0](https://github.com/CloudNationHQ/terraform-azure-pdns/releases/tag/v0.2.0)
 
