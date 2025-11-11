@@ -452,6 +452,15 @@ entries:
               - title: Q4 2025
                 output: web, pdf
                 subfolderitems:
+                  - title: Release 2025-11-10
+                    url: /release_notes_20251110.html
+                    output: web, pdf
+                  - title: Release 2025-11-05
+                    url: /release_notes_20251105.html
+                    output: web, pdf
+                  - title: Release 2025-11-04
+                    url: /release_notes_20251104.html
+                    output: web, pdf
                   - title: Release 2025-11-03
                     url: /release_notes_20251103.html
                     output: web, pdf
