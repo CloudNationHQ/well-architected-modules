@@ -34,18 +34,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-sa
-## [0.20.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v0.20.0)
-
-
-### Features
-
-* add issue template ([#81](https://github.com/CloudNationHQ/terraform-azure-sa/issues/81)) ([248abb8](https://github.com/CloudNationHQ/terraform-azure-sa/commit/248abb83b668f3cfc206ef3f3431b4b6ad2bb1b2))
-* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage ([#80](https://github.com/CloudNationHQ/terraform-azure-sa/issues/80)) ([bc7d5d9](https://github.com/CloudNationHQ/terraform-azure-sa/commit/bc7d5d92cd0529a8011fecdf1f0166720e4bf553))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#79](https://github.com/CloudNationHQ/terraform-azure-sa/issues/79)) ([4750e4a](https://github.com/CloudNationHQ/terraform-azure-sa/commit/4750e4a41fa82746d9174819210ac9e131291ff4))
-
----
-
 ## Module: azure-acr
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.4.0)
 
