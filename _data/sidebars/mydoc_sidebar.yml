@@ -452,6 +452,45 @@ entries:
               - title: Q4 2025
                 output: web, pdf
                 subfolderitems:
+                  - title: Release 2025-12-19
+                    url: /release_notes_20251219.html
+                    output: web, pdf
+                  - title: Release 2025-12-15
+                    url: /release_notes_20251215.html
+                    output: web, pdf
+                  - title: Release 2025-12-12
+                    url: /release_notes_20251212.html
+                    output: web, pdf
+                  - title: Release 2025-12-10
+                    url: /release_notes_20251210.html
+                    output: web, pdf
+                  - title: Release 2025-12-02
+                    url: /release_notes_20251202.html
+                    output: web, pdf
+                  - title: Release 2025-11-28
+                    url: /release_notes_20251128.html
+                    output: web, pdf
+                  - title: Release 2025-11-27
+                    url: /release_notes_20251127.html
+                    output: web, pdf
+                  - title: Release 2025-11-26
+                    url: /release_notes_20251126.html
+                    output: web, pdf
+                  - title: Release 2025-11-25
+                    url: /release_notes_20251125.html
+                    output: web, pdf
+                  - title: Release 2025-11-24
+                    url: /release_notes_20251124.html
+                    output: web, pdf
+                  - title: Release 2025-11-21
+                    url: /release_notes_20251121.html
+                    output: web, pdf
+                  - title: Release 2025-11-13
+                    url: /release_notes_20251113.html
+                    output: web, pdf
+                  - title: Release 2025-11-12
+                    url: /release_notes_20251112.html
+                    output: web, pdf
                   - title: Release 2025-11-10
                     url: /release_notes_20251110.html
                     output: web, pdf

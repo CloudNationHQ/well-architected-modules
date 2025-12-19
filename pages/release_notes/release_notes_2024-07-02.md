@@ -24,16 +24,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-sa
-## [0.21.0](https://github.com/CloudNationHQ/terraform-azure-sa/releases/tag/v0.21.0)
-
-
-### Features
-
-* modularize azure client initialization in extended test ([#84](https://github.com/CloudNationHQ/terraform-azure-sa/issues/84)) ([6a0f717](https://github.com/CloudNationHQ/terraform-azure-sa/commit/6a0f717dc8509f4f98f573225b337c34bc58fa78))
-
----
-
 ## Module: azure-acr
 ## [1.4.0](https://github.com/CloudNationHQ/terraform-azure-acr/releases/tag/v1.4.0)
 
@@ -45,16 +35,6 @@ folder: release_notes
 * **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#46](https://github.com/CloudNationHQ/terraform-azure-acr/issues/46)) ([0d5b9ea](https://github.com/CloudNationHQ/terraform-azure-acr/commit/0d5b9eabca0b665745a39832cdb74afbcdef3b80))
 * **deps:** bump github.com/gruntwork-io/terratest in /tests ([#49](https://github.com/CloudNationHQ/terraform-azure-acr/issues/49)) ([d5c4c99](https://github.com/CloudNationHQ/terraform-azure-acr/commit/d5c4c999fa2cbb601e7f0ed1c605db6da205226f))
 * **deps:** bump github.com/hashicorp/go-getter in /tests ([#47](https://github.com/CloudNationHQ/terraform-azure-acr/issues/47)) ([bcde716](https://github.com/CloudNationHQ/terraform-azure-acr/commit/bcde716f480840be8aa3704910c7e53c568cac89))
-
----
-
-## Module: azure-naming
-## [0.5.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.5.0)
-
-
-### Features
-
-* add issue template ([#12](https://github.com/CloudNationHQ/terraform-azure-naming/issues/12)) ([005d1d5](https://github.com/CloudNationHQ/terraform-azure-naming/commit/005d1d5dddc653f57e678c0db94b92dc25aa20de))
 
 ---
 
