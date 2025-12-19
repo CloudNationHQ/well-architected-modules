@@ -8,16 +8,6 @@ permalink: release_notes_20241028.html
 folder: release_notes
 ---
 
-## Module: azure-vnet
-## [7.0.1](https://github.com/CloudNationHQ/terraform-azure-vnet/releases/tag/v7.0.1)
-
-
-### Bug Fixes
-
-* remove parallelism limitation from tests ([#98](https://github.com/CloudNationHQ/terraform-azure-vnet/issues/98)) ([c969d29](https://github.com/CloudNationHQ/terraform-azure-vnet/commit/c969d29baeab7c90c7a294c7fbc5870a1d4bc072))
-
----
-
 ## Module: azure-vwan
 ## [3.1.0](https://github.com/CloudNationHQ/terraform-azure-vwan/releases/tag/v3.1.0)
 
