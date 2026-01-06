@@ -92,6 +92,12 @@ entries:
             url: /tag_releases.html
             output: web
             subfolders:
+              - title: Q1 2026
+                output: web, pdf
+                subfolderitems:
+                  - title: Release 2026-01-05
+                    url: /release_notes_20260105.html
+                    output: web, pdf
               - title: Q1 2025
                 output: web, pdf
                 subfolderitems:
@@ -452,6 +458,12 @@ entries:
               - title: Q4 2025
                 output: web, pdf
                 subfolderitems:
+                  - title: Release 2025-12-23
+                    url: /release_notes_20251223.html
+                    output: web, pdf
+                  - title: Release 2025-12-22
+                    url: /release_notes_20251222.html
+                    output: web, pdf
                   - title: Release 2025-12-19
                     url: /release_notes_20251219.html
                     output: web, pdf

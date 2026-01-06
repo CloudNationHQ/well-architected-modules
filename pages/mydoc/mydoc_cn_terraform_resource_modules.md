@@ -41,7 +41,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">acr</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates container registry resources used by workloads and accelerators..</td> 
-<td markdown="span">5.0.0</td>
+<td markdown="span">5.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-acr" target="_blank">Github repo acr</a></td>
 </tr>
 
@@ -49,7 +49,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">agw</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates application gateway resources used by workloads and accelerators..</td> 
-<td markdown="span">1.4.3</td>
+<td markdown="span">1.5.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-agw" target="_blank">Github repo agw</a></td>
 </tr>
 
@@ -185,7 +185,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">dcr</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates data collection rule resources used by workloads and accelerators..</td> 
-<td markdown="span">3.0.0</td>
+<td markdown="span">3.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-dcr" target="_blank">Github repo dcr</a></td>
 </tr>
 
@@ -321,7 +321,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">mysql</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates mysql resources used by workloads and accelerators..</td> 
-<td markdown="span">3.1.1</td>
+<td markdown="span">3.2.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-mysql" target="_blank">Github repo mysql</a></td>
 </tr>
 
@@ -481,7 +481,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">syn</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates synapse related resources used by workloads and accelerators..</td> 
-<td markdown="span">1.3.0</td>
+<td markdown="span">2.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-syn" target="_blank">Github repo syn</a></td>
 </tr>
 
