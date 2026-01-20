@@ -81,7 +81,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">apim</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates api manager resources used by workloads and accelerators..</td> 
-<td markdown="span">2.5.0</td>
+<td markdown="span">3.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-apim" target="_blank">Github repo apim</a></td>
 </tr>
 
@@ -89,7 +89,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">app</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates app service resources used by workloads and accelerators..</td> 
-<td markdown="span">5.0.0</td>
+<td markdown="span">5.2.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-app" target="_blank">Github repo app</a></td>
 </tr>
 
@@ -345,7 +345,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">nw</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates network watcher resources used by workloads and accelerators..</td> 
-<td markdown="span">1.4.1</td>
+<td markdown="span">2.0.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-nw" target="_blank">Github repo nw</a></td>
 </tr>
 
@@ -409,7 +409,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">redis</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates redis cache resources used by workloads and accelerators..</td> 
-<td markdown="span">3.1.0</td>
+<td markdown="span">3.2.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-redis" target="_blank">Github repo redis</a></td>
 </tr>
 
@@ -481,7 +481,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">syn</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates synapse related resources used by workloads and accelerators..</td> 
-<td markdown="span">2.0.0</td>
+<td markdown="span">2.1.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-syn" target="_blank">Github repo syn</a></td>
 </tr>
 
@@ -529,7 +529,7 @@ The following table shows the number of all available Terraform Resource Modules
 <td markdown="span">vnet</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates virtual network resources used by workloads and accelerators..</td> 
-<td markdown="span">9.5.1</td>
+<td markdown="span">9.6.0</td>
 <td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azure-vnet" target="_blank">Github repo vnet</a></td>
 </tr>
 
