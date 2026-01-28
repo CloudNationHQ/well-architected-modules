@@ -88,30 +88,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-vm
-## [2.3.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v2.3.0)
-
-
-### Features
-
-* update tls & random provider versions ([#122](https://github.com/CloudNationHQ/terraform-azure-vm/issues/122)) ([6b8ee90](https://github.com/CloudNationHQ/terraform-azure-vm/commit/6b8ee9040e922c072b474af4d181548be52e5768))
-
----
-
-## Module: azure-vm
-## [2.2.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v2.2.0)
-
-
-### Features
-
-* add issue template ([#119](https://github.com/CloudNationHQ/terraform-azure-vm/issues/119)) ([75e1343](https://github.com/CloudNationHQ/terraform-azure-vm/commit/75e1343e043fb7a0d6ad74e0f1199716d74215f5))
-* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#115](https://github.com/CloudNationHQ/terraform-azure-vm/issues/115)) ([d8d5bf0](https://github.com/CloudNationHQ/terraform-azure-vm/commit/d8d5bf04caf6ab332b276be639f4b4d4b6a33528))
-* **deps:** bump github.com/Azure/azure-sdk-for-go/sdk/azidentity ([#116](https://github.com/CloudNationHQ/terraform-azure-vm/issues/116)) ([9d3aa6d](https://github.com/CloudNationHQ/terraform-azure-vm/commit/9d3aa6da0c53512563771bf5411cd85712a5d424))
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#118](https://github.com/CloudNationHQ/terraform-azure-vm/issues/118)) ([f1e5f7a](https://github.com/CloudNationHQ/terraform-azure-vm/commit/f1e5f7af50eb85f8999a3152ed5e1b37bb9d2576))
-* **deps:** bump github.com/hashicorp/go-getter in /tests ([#117](https://github.com/CloudNationHQ/terraform-azure-vm/issues/117)) ([6c48c7b](https://github.com/CloudNationHQ/terraform-azure-vm/commit/6c48c7bdb0e48ca9595f22c5d8354455883654bb))
-
----
-
 ## Module: azure-cosmosdb
 ## [0.9.0](https://github.com/CloudNationHQ/terraform-azure-cosmosdb/releases/tag/v0.9.0)
 

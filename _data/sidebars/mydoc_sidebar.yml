@@ -95,6 +95,21 @@ entries:
               - title: Q1 2026
                 output: web, pdf
                 subfolderitems:
+                  - title: Release 2026-01-28
+                    url: /release_notes_20260128.html
+                    output: web, pdf
+                  - title: Release 2026-01-26
+                    url: /release_notes_20260126.html
+                    output: web, pdf
+                  - title: Release 2026-01-25
+                    url: /release_notes_20260125.html
+                    output: web, pdf
+                  - title: Release 2026-01-23
+                    url: /release_notes_20260123.html
+                    output: web, pdf
+                  - title: Release 2026-01-21
+                    url: /release_notes_20260121.html
+                    output: web, pdf
                   - title: Release 2026-01-16
                     url: /release_notes_20260116.html
                     output: web, pdf
