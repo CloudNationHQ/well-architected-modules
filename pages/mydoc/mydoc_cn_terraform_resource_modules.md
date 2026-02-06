@@ -198,6 +198,14 @@ The following table shows the number of all available Terraform Resource Modules
 </tr>
 
 <tr>
+<td markdown="span">ds</td>
+<td markdown="span">azuread</td>
+<td markdown="span">Terraform module which creates Entra Domain Services resources used by workloads and accelerators..</td> 
+<td markdown="span">1.1.0</td>
+<td markdown="span"><a href="https://github.com/CloudNationHQ/terraform-azuread-ds" target="_blank">Github repo ds</a></td>
+</tr>
+
+<tr>
 <td markdown="span">eg</td>
 <td markdown="span">azure</td>
 <td markdown="span">Terraform module which creates eventgrid resources used by workloads and accelerators..</td> 
@@ -569,5 +577,5 @@ The following table shows the number of all available Terraform Resource Modules
 </table>
 
 
-<span class='total-modules'>**Total Modules:** 67
+<span class='total-modules'>**Total Modules:** 68
 </span>
