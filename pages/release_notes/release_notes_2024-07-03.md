@@ -18,16 +18,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-naming
-## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.6.0)
-
-
-### Features
-
-* update_provider_random_version ([#14](https://github.com/CloudNationHQ/terraform-azure-naming/issues/14)) ([4af2fbd](https://github.com/CloudNationHQ/terraform-azure-naming/commit/4af2fbd51c5a23d2528b1fbdb3c410be59b067d7))
-
----
-
 ## Module: azure-psql
 ## [0.6.0](https://github.com/CloudNationHQ/terraform-azure-psql/releases/tag/v0.6.0)
 
