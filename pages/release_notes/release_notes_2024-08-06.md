@@ -38,28 +38,6 @@ folder: release_notes
 
 ---
 
-## Module: azure-naming
-## [0.10.0](https://github.com/CloudNationHQ/terraform-azure-naming/releases/tag/v0.10.0)
-
-
-### Features
-
-* add mysql flexible resources support ([#26](https://github.com/CloudNationHQ/terraform-azure-naming/issues/26)) ([3841c66](https://github.com/CloudNationHQ/terraform-azure-naming/commit/3841c660c098b21f7edce1500a16e047e404b6e1))
-
----
-
-## Module: azure-vm
-## [2.4.0](https://github.com/CloudNationHQ/terraform-azure-vm/releases/tag/v2.4.0)
-
-
-### Features
-
-* **deps:** bump github.com/gruntwork-io/terratest in /tests ([#126](https://github.com/CloudNationHQ/terraform-azure-vm/issues/126)) ([8dbb977](https://github.com/CloudNationHQ/terraform-azure-vm/commit/8dbb977679e58fc66c53cef851d2d41a3812af79))
-* make source image reference fully optional ([#128](https://github.com/CloudNationHQ/terraform-azure-vm/issues/128)) ([8193204](https://github.com/CloudNationHQ/terraform-azure-vm/commit/81932044c9acf2c04f61a41d108c7e494c25cbed))
-* update contribution docs ([#124](https://github.com/CloudNationHQ/terraform-azure-vm/issues/124)) ([2f31e0c](https://github.com/CloudNationHQ/terraform-azure-vm/commit/2f31e0c38e07d4878b20a0a3dfad4e38cd6586c1))
-
----
-
 ## Module: azure-nw
 ## 0.1.0 (2024-08-06)
 
