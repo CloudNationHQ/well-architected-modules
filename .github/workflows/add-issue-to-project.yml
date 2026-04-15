@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (print issues without adding to board)'
+        type: boolean
+        default: false
 
 jobs:
   add-to-project:
@@ -26,12 +31,19 @@ jobs:
           mapfile -t ALL_ISSUE_IDS < <(gh api "search/issues?q=org:CloudNationHQ+is:issue+is:open+created:>$SINCE&per_page=100" \
             --jq '.items[] | select(.repository_url | test("terraform-azure-|terraform-azuread-|terraform-databricks-")) | select(.repository_url | test("terraform-azure-wam") | not) | .node_id')
 
-          for issue_id in "${ALL_ISSUE_IDS[@]}"; do
-            gh api graphql -f query='
-              mutation($project: ID!, $content: ID!) {
-                addProjectV2ItemById(input: {projectId: $project, contentId: $content}) {
-                  item { id }
-                }
-              }' -f project="PVT_kwDOB0xSjc4AZLQa" -f content="$issue_id" &
-          done
-          wait
+          if [ "${{ inputs.dry_run }}" == "true" ]; then
+            echo "Dry run — would add ${#ALL_ISSUE_IDS[@]} issue(s):"
+            for issue_id in "${ALL_ISSUE_IDS[@]}"; do
+              echo "  $issue_id"
+            done
+          else
+            for issue_id in "${ALL_ISSUE_IDS[@]}"; do
+              gh api graphql -f query='
+                mutation($project: ID!, $content: ID!) {
+                  addProjectV2ItemById(input: {projectId: $project, contentId: $content}) {
+                    item { id }
+                  }
+                }' -f project="PVT_kwDOB0xSjc4AZLQa" -f content="$issue_id" &
+            done
+            wait
+          fi
