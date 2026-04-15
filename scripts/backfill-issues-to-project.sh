@@ -46,8 +46,7 @@ for issue_id in "${ALL_ISSUE_IDS[@]}"; do
       addProjectV2ItemById(input: {projectId: $project, contentId: $content}) {
         item { id }
       }
-    }' -f project="$PROJECT_ID" -f content="$issue_id" &
+    }' -f project="$PROJECT_ID" -f content="$issue_id"
 done
-wait
 
 echo "Done."
